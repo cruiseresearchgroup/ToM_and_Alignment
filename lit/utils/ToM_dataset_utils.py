@@ -346,8 +346,10 @@ def get_NegotiationToM_dataset_for_steer(train_config, tokenizer, train=True):
                 temp.append({"role": "user", "content": uttrance.split(': ')[1]})
         read_prompts.append(temp)
         
-        question = "What does the assistant believe about the priorities of different items for the user?"
-        answer = f'The assistant thinks user asigns High priority to {item["agent2_belief_high"]}, Low priority to {item["agent2_belief_low"]} and Medium pririty to {item["agent2_belief_medium"]}.'
+        question = "What is the intention of the assistant in the last utterance?"
+        agent2_intent = item['utterance1_intent'] if item['utterance1_agent']=='agent_2' else item['utterance2_intent']
+        
+        answer = f"The intent of the assistant is [{agent2_intent}]"
         QAs.append([
                 {"role": "user", "content": question},
                 {"role": "assistant", "content": answer}

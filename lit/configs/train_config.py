@@ -49,7 +49,7 @@ class train_config:
     gradient_accumulation_steps: int = 1
     gradient_clipping: bool = False
     gradient_clipping_threshold: float = 1.0
-    num_epochs: int = 6
+    num_epochs: int = 5
     num_workers_dataloader: int = 1
     lr: float = 1e-4
     ema_decay: float = 1

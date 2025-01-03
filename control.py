@@ -185,18 +185,24 @@ def get_results(args, model, tokenizer):
     #      "agent_2: I would also like a little extra food for my kids. Maybe we can split it somehow?", 
     #       "agent_1: Ok, I am willing to give you one food, in exchange for two firewoods, that would mean you get 3 waters, 1 food and 1 firewood. you get 5 items, while i get 4."]
     # ]
+    # chat = [
+    #         {'role': 'user',
+    #         'content': "Me and you are going to go for a picnic. We need to reach a compromise over dividing different items, including Firewood, Water, and Food. What do you believe would be my priority for picking up each of these items?"}, 
+    #         {'role': 'assistant',
+    #         'content': "High => Water, Low => Food, Medium => Firewood."}, 
+    #         {'role': 'user',
+    #         'content': "Me and you are going to go for a picnic. We need to reach a compromise over dividing different items, including Firewood, Water, and Food. What do you believe would be my priority for picking up each of these items?"}, 
+    #         {'role': 'assistant',
+    #         'content': "High => Food, Low => Firework, Medium => Water."}, 
+    #         {'role': 'user',
+    #         'content': "Me and you are going to go for a picnic. We need to reach a compromise over dividing different items, including Firewood, Water, and Food. What do you believe would be my priority for picking up each of these items?"}, 
+    #         ]
     chat = [
-            {'role': 'user',
-            'content': "Me and you are going to go for a picnic. We need to reach a compromise over dividing different items, including Firewood, Water, and Food. What do you believe would be my priority for picking up each of these items?"}, 
-            {'role': 'assistant',
-            'content': "High => Water, Low => Food, Medium => Firewood."}, 
-            {'role': 'user',
-            'content': "Me and you are going to go for a picnic. We need to reach a compromise over dividing different items, including Firewood, Water, and Food. What do you believe would be my priority for picking up each of these items?"}, 
-            {'role': 'assistant',
-            'content': "High => Food, Low => Firework, Medium => Water."}, 
-            {'role': 'user',
-            'content': "Me and you are going to go for a picnic. We need to reach a compromise over dividing different items, including Firewood, Water, and Food. What do you believe would be my priority for picking up each of these items?"}, 
-            ]
+        {'role': 'assistant', 'content': 'hello!'},
+        {'role': 'user', 'content':'Hello.'}, 
+        {'role': 'assistant', 'content': 'Can i kindly know your preferences please?'}, 
+        {'role': 'user', 'content': "Well, I'm kind of low on water, so I'd like to get as much of that as I can. I'd like to go hiking and I don't really have enough water for a long trip. What about you?"}, 
+    ]
     # if args.eval_prompts != "":
     #     with open(f"prompts/{args.eval_prompts}.json", "r") as f:
     #         prompts = json.load(f)

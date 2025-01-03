@@ -97,8 +97,9 @@ def get_NegotiationToM_dataset_for_steer(train_config, tokenizer, train=True):
                 temp.append({"role": "user", "content": uttrance.split(': ')[1]})
         read_prompts.append(temp)
         
-        question = "What does the assistant believe about the priorities of different items for the user?"
-        answer = f'The assistant thinks user asigns High priority to Water, Low priority to Food and Medium pririty to Firewood.'
+        question = "What is the intention of the assistant in the last utterance?"
+        
+        answer = f"The intent of the assistant is [Promote-Coordination]"
         QAs.append([
                 {"role": "user", "content": question},
                 {"role": "assistant", "content": answer}
