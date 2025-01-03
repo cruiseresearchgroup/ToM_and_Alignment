@@ -31,7 +31,7 @@ class train_config:
     save_model: bool = True
     save_after_epoch: bool = True
     use_wandb: bool = True
-    run_name: str = "NegotiationToM Llama-3 8B"
+    run_name: str = "NegotiationToM Llama-3 3B"
 
     # Patching args
     shift_position_ids: bool = True
@@ -49,7 +49,7 @@ class train_config:
     gradient_accumulation_steps: int = 1
     gradient_clipping: bool = False
     gradient_clipping_threshold: float = 1.0
-    num_epochs: int = 10
+    num_epochs: int = 6
     num_workers_dataloader: int = 1
     lr: float = 1e-4
     ema_decay: float = 1

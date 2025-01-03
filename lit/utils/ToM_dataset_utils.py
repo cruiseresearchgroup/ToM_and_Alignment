@@ -251,9 +251,9 @@ def get_CaSiNo_dataset(train_config, tokenizer, train=True):
             if uttrance['text'] in ['Submit-Deal', 'Accept-Deal']:
                 continue
             elif uttrance['id'] == 'mturk_agent_2':
-                temp.append({"role": "Agent 2", "content": uttrance['text']})
+                temp.append({"role": "assistant", "content": uttrance['text']})
             elif uttrance['id'] == 'mturk_agent_1':
-                temp.append({"role": "Agent 1", "content": uttrance['text']})
+                temp.append({"role": "user", "content": uttrance['text']})
         read_prompts.append(temp)
         
         priorities_1, things_1 = list(item['participant_info']['mturk_agent_1']['value2issue'].keys()), list(item['participant_info']['mturk_agent_1']['value2issue'].values())
@@ -332,6 +332,35 @@ def get_NegotiationToM_dataset(train_config, tokenizer, train=True):
         is_dialog=False
     )
 
+def get_NegotiationToM_dataset_for_steer(train_config, tokenizer, train=True):
+    data_path = train_config.train_qa if train else train_config.eval_qa
+    with open(data_path, 'rb') as fin:
+        data = json.load(fin)
+    read_prompts, QAs = [], []
+    for item in data:
+        temp = []
+        for uttrance in item['dialogue']:
+            if uttrance.split(': ')[0] == 'agent_2':
+                temp.append({"role": "assistant", "content": uttrance.split(': ')[1]})
+            elif uttrance.split(': ')[0] == 'agent_1':
+                temp.append({"role": "user", "content": uttrance.split(': ')[1]})
+        read_prompts.append(temp)
+        
+        question = "What does the assistant believe about the priorities of different items for the user?"
+        answer = f'The assistant thinks user asigns High priority to {item["agent2_belief_high"]}, Low priority to {item["agent2_belief_low"]} and Medium pririty to {item["agent2_belief_medium"]}.'
+        QAs.append([
+                {"role": "user", "content": question},
+                {"role": "assistant", "content": answer}
+                ])
+
+    assert len(QAs)==len(read_prompts)
+    return ToMLatentQADataset(
+        tokenizer,
+        read_prompts,
+        QAs,
+        is_dialog=False
+    )
+
 def get_ToM_dataset(train_config, tokenizer, train=True):
     if train_config.train_qa.find('CaSiNo')!=-1:
         return get_CaSiNo_dataset(train_config, tokenizer, train)
@@ -340,7 +369,8 @@ def get_ToM_dataset(train_config, tokenizer, train=True):
     elif train_config.train_qa.find('FANTOM')!=-1:
         return get_FanToM_dataset(train_config, tokenizer, train)
     elif train_config.train_qa.find('NegotiationToM')!=-1:
-        return get_NegotiationToM_dataset(train_config, tokenizer, train)
+        # return get_NegotiationToM_dataset(train_config, tokenizer, train)
+        return get_NegotiationToM_dataset_for_steer(train_config, tokenizer, train)
     else:
         return Exception('There is NO such dataset!')
     

@@ -19,7 +19,7 @@ export HF_HOME=/srv/scratch/CRUISE/Mehdi/HF
 
 
 /srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/bin/python train.py \
---target_model_name meta-llama/Meta-Llama-3-8B-Instruct \
+--target_model_name meta-llama/Llama-3.2-3B-Instruct \
 --train_qa data/NegotiationToM/train.json \
 --gradient_accumulation_steps 8 \ 
 --use_wandb \

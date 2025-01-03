@@ -27,7 +27,7 @@ class PeftConfig:
 @dataclass
 class steer_config:
     decoder_model_name: str = ""
-    target_model_name: str = "meta-llama/Meta-Llama-3-8B-Instruct"
+    target_model_name: str = "meta-llama/Llama-3.2-3B-Instruct"
     control: str = ""
     dataset: str = ""
     peft_config: PeftConfig = field(default_factory=PeftConfig)
@@ -45,7 +45,7 @@ class steer_config:
 
     lr: float = 1e-4
     seed: int = 42
-    batch_size: int = 1
+    batch_size_training: int = 1
     samples: int = 50
     layers_to_optimize: tuple = (0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15)
     per_layer_loss: bool = False

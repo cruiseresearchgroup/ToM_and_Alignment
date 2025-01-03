@@ -5,7 +5,7 @@
 #$ -cwd
 #$ -N latentqa
 #$ -pe smp 64
-#$ -l mem=100G,jobfs=180G,ngpus=1,gpu_model=H100_NVL
+#$ -l mem=100G,jobfs=180G,ngpus=2,gpu_model=L40S
 #$ -V
 #$ -P CRUISE
 
@@ -18,8 +18,9 @@ export RAYON_NUM_THREADS=48
 export HF_HOME=/srv/scratch/CRUISE/Mehdi/HF
 
 
-/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/bin/python reading.py \
-    --decoder_model_name /srv/scratch/CRUISE/Mehdi/out/runs/003/checkpoints/epoch4-steps4500-2025-01-01_12-11-00 \
-    --target_model_name meta-llama/Llama-3.2-3B-Instruct \
-    --prompt "For Agent 1: The priority for Food, Water and Firewood are respectively Low, Medium and High. For Agent 2: The priority for Food, Water and Firewood are respectively Low, Medium and High." \
-    --save_name similar_priorities
+/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/bin/python control.py \
+    --decoder_model_name /srv/scratch/CRUISE/Mehdi/out/runs/023/checkpoints/epoch2-steps4005-2025-01-03_13-18-30 \
+    --control similar_priorities \
+    --dataset dolly \
+    --eval_prompts default \
+    --samples 30 

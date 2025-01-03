@@ -1,0 +1,8 @@
+{
+  "For Agent 1: The priority for Food, Water and Firewood are respectively Low, Medium and High. For Agent 2: The priority for Food, Water and Firewood are respectively Low, Medium and High.": [
+    [
+      "How much priority did each agent assign to different items?",
+      "For Agent 1: The priority for Food, Water and Firewood are respectively Low, Medium and High. For Agent 2: The priority for Food, Water and Firewood are respectively Low, Medium and High.<|start_header_id|>"
+    ]
+  ]
+}
