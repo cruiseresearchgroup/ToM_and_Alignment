@@ -5,7 +5,7 @@
 #$ -cwd
 #$ -N latentqa
 #$ -pe smp 64
-#$ -l mem=100G,jobfs=180G,ngpus=1,gpu_model=L40S
+#$ -l mem=100G,jobfs=180G,ngpus=1,gpu_model=H100_NVL
 #$ -V
 #$ -P CRUISE
 
@@ -19,8 +19,10 @@ export HF_HOME=/srv/scratch/CRUISE/Mehdi/HF
 
 
 /srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/bin/python control.py \
-    --decoder_model_name /srv/scratch/CRUISE/Mehdi/out/runs/024/checkpoints/epoch3-steps5340-2025-01-03_22-23-33 \
+    --decoder_model_name /srv/scratch/CRUISE/Mehdi/out/runs/028/checkpoints/epoch2-steps4005-2025-01-07_12-50-38 \
     --control similar_priorities \
     --dataset dolly \
     --eval_prompts default \
     --samples 30 
+
+# --decoder_model_name /srv/scratch/CRUISE/Mehdi/out/runs/024/checkpoints/epoch3-steps5340-2025-01-03_22-23-33 \

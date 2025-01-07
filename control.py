@@ -3,6 +3,7 @@ import json
 from tqdm import tqdm
 import fire
 from dataclasses import fields
+import gc
 
 import numpy as np
 import torch
@@ -25,132 +26,10 @@ from lit.utils.activation_utils import (
     get_pos_ids,
 )
 from lit.configs.steer_config import steer_config
-from lit.utils.ToM_steering_utils import get_steering_dataloaders
+from lit.utils.ToM_steering_utils import get_steering_dataloaders, get_evaluation_chats_NegotiationToM, get_evaluation_chats_NegotiationToM_belief
+
+
 import sys
-
-def get_dataset(args, tokenizer, qa_per_layer=False):
-    if qa_per_layer:
-        QA_DATA = {i: None for i in args.layers_to_optimize}
-        for i in args.layers_to_optimize:
-            with open(f"controls/{args.control}_layer{i}.json", "r") as f:
-                QA_DATA[i] = list(json.load(f).values())[0]
-        num_qa = min([len(qa) for qa in QA_DATA.values()])
-        assert num_qa == max([len(qa) for qa in QA_DATA.values()])
-    else:
-        with open(f"controls/{args.control}.json", "r") as f:
-            QA_DATA = list(json.load(f).values())[0]
-        num_qa = len(QA_DATA)
-    data = []
-    if args.dataset == "alpaca":
-        alpaca_data = load_dataset("tatsu-lab/alpaca")["train"]
-        for item in alpaca_data:
-            if (
-                item["input"] == ""
-                and len(item["instruction"].split()) + len(item["output"].split()) < 300
-            ):
-                data.append((item["instruction"], item["output"]))
-    elif args.dataset == "dolly":
-        raw_data = load_dataset("databricks/databricks-dolly-15k")["train"]
-        for item in raw_data:
-            if len(item["instruction"].split()) > 100:
-                continue
-            if item["context"] == "":
-                data.append((item["instruction"], item["response"]))
-            elif len(item["context"].split()) < 200:
-                data.append(
-                    (item["instruction"] + "\n\n" + item["context"], item["response"])
-                )
-    else:
-        raise ValueError("Invalid dataset")
-
-    formatted_data = []
-
-    for item in data:
-        for idx in range(num_qa):
-            read_prompt_0 = tokenizer.apply_chat_template(
-                [{"role": "user", "content": item[0]}],
-                tokenize=False,
-                add_generation_prompt=True,
-            )
-            read_prompt_1 = tokenizer.apply_chat_template(
-                [
-                    {"role": "user", "content": item[0]},
-                    {"role": "assistant", "content": item[1]},
-                ],
-                tokenize=False,
-                add_generation_prompt=False,
-            )
-            for read_prompt in [read_prompt_0, read_prompt_1]:
-                formatted_data.append({"read_prompt": read_prompt, "dialog_idx": idx})
-    np.random.shuffle(formatted_data)
-    formatted_data = formatted_data[: args.samples]
-    if qa_per_layer:
-        for i, item in enumerate(formatted_data):
-            new_item = {j: None for j in args.layers_to_optimize}
-            for j in args.layers_to_optimize:
-                q, a = QA_DATA[j][item["dialog_idx"]]
-                new_item[j] = {
-                    "read_prompt": item["read_prompt"],
-                    "dialog": BASE_DIALOG
-                    + [
-                        {"role": "user", "content": q},
-                        {"role": "assistant", "content": a},
-                    ],
-                }
-            formatted_data[i] = new_item
-    else:
-        for i, item in enumerate(formatted_data):
-            q, a = QA_DATA[item["dialog_idx"]]
-            formatted_data[i] = {
-                0: {
-                    "read_prompt": item["read_prompt"],
-                    "dialog": BASE_DIALOG
-                    + [
-                        {"role": "user", "content": q},
-                        {"role": "assistant", "content": a},
-                    ],
-                }
-            }
-    return formatted_data
-
-def get_CaSiNo_text(args, tokenizer, qa_per_layer=False):
-    data_path = 'data/CaSiNo/test.json'
-    with open(data_path, 'rb') as fin:
-        data = json.load(fin)
-    read_prompts, QAs = [], []
-    for item in data:
-        temp = []
-        for uttrance in item['chat_logs']:
-            if uttrance['text'] in ['Submit-Deal', 'Accept-Deal']:
-                continue
-            elif uttrance['id'] == 'mturk_agent_2':
-                temp.append({"role": "Agent 2", "content": uttrance['text']})
-            elif uttrance['id'] == 'mturk_agent_1':
-                temp.append({"role": "Agent 1", "content": uttrance['text']})
-        read_prompts.append(temp)
-        
-        question = "How much priority did each agent assign to different items?"
-        answer = "For Agent 1: The priority for Food, Water and Firewood are respectively Low, Medium and High. For Agent 2: The priority for Food, Water and Firewood are respectively Low, Medium and High."
-        QAs.append([
-                {"role": "user", "content": question},
-                {"role": "assistant", "content": answer}
-                ])
-
-    assert len(QAs)==len(read_prompts)
-    tokenized_read_prompts, tokenized_QAs = [], []
-    for rp, qa in zip(read_prompts, QAs):
-        tokenized_read_prompts.append(tokenizer.apply_chat_template(
-                rp,
-                tokenize=False,
-                add_generation_prompt=True,
-            ))
-        tokenized_QAs.append(tokenizer.apply_chat_template(
-                qa,
-                tokenize=False,
-                add_generation_prompt=False,
-            ))
-    controlling_dataset = {i:{'read_prompt':tokenized_read_prompts[i], 'dialog':tokenized_QAs[i]} for i in range(len(tokenized_QAs))}
-    return controlling_dataset
 
 def get_target_model(args, device):
     lora_params = {
@@ -177,68 +56,30 @@ def get_results(args, model, tokenizer):
         with open(f"{FOLDER}/args.json", "w") as f:
             json.dump(vars(args), f, indent=2)
         print(f"Model is saved in {FOLDER}")
-    # chat = [
-    #     ["agent_2: Hello. How are you?", 
-    #      "agent_1: I am good. I am pretty excited for the trip this weekend. what about you?", 
-    #      "agent_2: Very excited. It will be fun.", 
-    #      "agent_1: Yes, Hopefully the weather holds up. So I was thinking, i am bringning my two kids along with me, and they will need food, so I was thinking i could take the three foods, and either one of the firewood or water, up to you.",
-    #      "agent_2: I would also like a little extra food for my kids. Maybe we can split it somehow?", 
-    #       "agent_1: Ok, I am willing to give you one food, in exchange for two firewoods, that would mean you get 3 waters, 1 food and 1 firewood. you get 5 items, while i get 4."]
-    # ]
-    # chat = [
-    #         {'role': 'user',
-    #         'content': "Me and you are going to go for a picnic. We need to reach a compromise over dividing different items, including Firewood, Water, and Food. What do you believe would be my priority for picking up each of these items?"}, 
-    #         {'role': 'assistant',
-    #         'content': "High => Water, Low => Food, Medium => Firewood."}, 
-    #         {'role': 'user',
-    #         'content': "Me and you are going to go for a picnic. We need to reach a compromise over dividing different items, including Firewood, Water, and Food. What do you believe would be my priority for picking up each of these items?"}, 
-    #         {'role': 'assistant',
-    #         'content': "High => Food, Low => Firework, Medium => Water."}, 
-    #         {'role': 'user',
-    #         'content': "Me and you are going to go for a picnic. We need to reach a compromise over dividing different items, including Firewood, Water, and Food. What do you believe would be my priority for picking up each of these items?"}, 
-    #         ]
-    chat = [
-        {'role': 'assistant', 'content': 'hello!'},
-        {'role': 'user', 'content':'Hello.'}, 
-        {'role': 'assistant', 'content': 'Can i kindly know your preferences please?'}, 
-        {'role': 'user', 'content': "Well, I'm kind of low on water, so I'd like to get as much of that as I can. I'd like to go hiking and I don't really have enough water for a long trip. What about you?"}, 
-    ]
-    # if args.eval_prompts != "":
-    #     with open(f"prompts/{args.eval_prompts}.json", "r") as f:
-    #         prompts = json.load(f)
-    #     chats = [
-    #         tokenizer.apply_chat_template(
-    #             [{"role": "user", "content": p}],
-    #             tokenize=False,
-    #             add_generation_prompt=True,
-    #         )
-    #         for p in prompts
-    #     ]
-    tokenized = tokenizer.apply_chat_template(chat, return_tensors="pt", padding=True).to(model.device)
-    print(tokenized)
-    out = model.generate(
-        tokenized,
-        max_new_tokens=100,
-        do_sample=False,
-        temperature=None,
-        top_p=None,
-    )
-    print(type(out), out.size())
-    print(tokenizer.decode(out[0]))
-    # for i in range(len(out)):
-    #     prompt, completion = clean_text(tokenizer.decode(out[i]))
-    #     print(f"[PROMPT]: {prompt}")
-    #     print(f"[COMPLETION]: {completion}")
-    #     print("#" * 80)
-    #         completions.append(completion)
-    #     FOLDER = (
-    #         f"out/completions/{args.control}_{args.dataset}_samples{args.samples}"
-    #     )
-    #     if not os.path.exists(FOLDER):
-    #         os.makedirs(FOLDER)
-    #     with open(f"{FOLDER}/{args.eval_prompts}.json", "w") as f:
-    #         json.dump(completions, f, indent=2)
-    # return completions
+    # chats, golden_responses = get_evaluation_chats_NegotiationToM('Show-Empathy')
+    chats, golden_responses = get_evaluation_chats_NegotiationToM_belief()
+    alingned_results = []
+    for idx, chat in enumerate(chats):
+        print('*'*100)
+        # print(idx, chat)
+        tokenized = tokenizer.apply_chat_template(chat, return_tensors="pt", padding=True).to(model.device)
+        # print(tokenized)
+        out = model.generate(
+            tokenized,
+            max_new_tokens=100,
+            do_sample=False,
+            temperature=None,
+            top_p=None,
+        )
+        temp_response = tokenizer.decode(out[0])
+        temp_response = temp_response.split('\n\n')[-1].strip('<|eot_id|>')
+        print('&'*100)
+        print(temp_response)
+        alingned_results.append(temp_response)
+        # print(type(out), out.size())
+        # print(tokenizer.decode(out[0]))
+    return alingned_results, golden_responses
+    
 
 
 def steer(args, decoder_model, tokenizer, **kwargs):
@@ -247,32 +88,10 @@ def steer(args, decoder_model, tokenizer, **kwargs):
     np.random.seed(args.seed)
     assert args.qa_per_layer is False
     
-    # dataset = get_dataset(args, tokenizer)
-    # dataset = get_CaSiNo_text(args, tokenizer)
-    # print('fuck you')
-    # print(len(dataset), dataset[0])
-    # for k, v in dataset[0].items():
-    #     print(k)
-    #     print(v)
-    # for k, v in dataset[0][0].items():
-    #     print(k)
-    #     print(v)
-    # sys.exit()
-    # dataset = get_dataset(args, tokenizer)
-    # print(type(dataset), len(dataset), type(dataset[0]), dataset[0])
-    # dataset = get_CaSiNo_text(args, tokenizer)
-    # print(type(dataset), len(dataset), type(dataset[0]), dataset[0])
     train_dataloader = get_steering_dataloaders(args, tokenizer)
-    # print(train_dataloader)
-    # for step, batch in tqdm(enumerate(train_dataloader)):
-    #     for key in batch.keys():
-    #         print(key)
-    #     print('------')
     target_model = get_target_model(args, device=kwargs["device"])
     module_read, module_write = get_modules(target_model, decoder_model, **vars(args))
     optimizer = torch.optim.Adam(target_model.parameters(), lr=args.lr)
-    # dataset = get_dataset(args, tokenizer)
-    # dataset = get_CaSiNo_text(args, tokenizer)
     losses = []
     for step, batch in tqdm(enumerate(train_dataloader), colour='blue', desc='Steering Process', total=len(train_dataloader)):
         for key in batch.keys():
@@ -299,39 +118,16 @@ def steer(args, decoder_model, tokenizer, **kwargs):
         optimizer.zero_grad()
     plt.plot(losses)
     plt.savefig(f"losses.png")
-    return get_results(args, target_model.eval(), tokenizer)
+    aligned_responses, _ = get_results(args, target_model.eval(), tokenizer)
+    del target_model
+    del decoder_model
+    torch.cuda.empty_cache() and gc.collect() 
+    target_model = get_target_model(args, device=kwargs["device"])
+    nonaligned_responses, golden_responses = get_results(args, target_model.eval(), tokenizer)
+    final_data = [{'aligned_respons':ar, 'nonaligned_resopnse':nar, 'golden_response':gr} for ar, nar, gr in zip(aligned_responses, nonaligned_responses, golden_responses)]
+    with open('./out/Belief_High_Water.jsonl', 'w') as fout:
+        json.dump(final_data, fout)
 
-    # sys.eixt()
-    # for i in tqdm(range(len(dataset) // args.batch_size)):
-    #     batch = dataset[i * args.batch_size : (i + 1) * args.batch_size]
-    #     tokenized_batch = tokenize(
-    #         [item[0] for item in batch],
-    #         tokenizer,
-    #         name=args.target_model_name,
-    #         generate=False,
-    #         mask_all_but_last=True,
-    #         modify_chat_template=args.modify_chat_template,
-    #     )
-    #     idx = np.random.choice(len(module_read))
-    #     out = latent_qa(
-    #         tokenized_batch,
-    #         target_model,
-    #         decoder_model,
-    #         module_read[idx],
-    #         module_write[idx],
-    #         tokenizer,
-    #         shift_position_ids=True,
-    #         generate=False,
-    #         cache_target_model_grad=True,
-    #     )
-    #     loss = out["loss"]
-    #     losses.append(loss.item())
-    #     loss.backward()
-    #     optimizer.step()
-    #     optimizer.zero_grad()
-    # plt.plot(losses)
-    # plt.savefig(f"losses.png")
-    # return get_results(args, target_model.eval(), tokenizer)
 
 
 def per_layer_loss(args, decoder_model, tokenizer, **kwargs):

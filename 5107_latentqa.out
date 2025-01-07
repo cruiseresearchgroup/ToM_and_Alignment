@@ -1,0 +1,40 @@
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:02<00:06,  2.02s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:04<00:04,  2.15s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:06<00:02,  2.28s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:06<00:00,  1.45s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:06<00:00,  1.72s/it]
+Traceback (most recent call last):
+  File "/import/ravel/1/z5517269/latentqa/control.py", line 315, in <module>
+    fire.Fire(main)
+  File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/fire/core.py", line 135, in Fire
+    component_trace = _Fire(component, args, parsed_flag_args, context, name)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/fire/core.py", line 468, in _Fire
+    component, remaining_args = _CallAndUpdateTrace(
+                                ^^^^^^^^^^^^^^^^^^^^
+  File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/fire/core.py", line 684, in _CallAndUpdateTrace
+    component = fn(*varargs, **kwargs)
+                ^^^^^^^^^^^^^^^^^^^^^^
+  File "/import/ravel/1/z5517269/latentqa/control.py", line 303, in main
+    decoder_model = get_model(
+                    ^^^^^^^^^^
+  File "/import/ravel/1/z5517269/latentqa/lit/utils/infra_utils.py", line 314, in get_model
+    model = model.to(device)
+            ^^^^^^^^^^^^^^^^
+  File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1340, in to
+    return self._apply(convert)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/torch/nn/modules/module.py", line 900, in _apply
+    module._apply(fn)
+  File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/torch/nn/modules/module.py", line 900, in _apply
+    module._apply(fn)
+  File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/torch/nn/modules/module.py", line 900, in _apply
+    module._apply(fn)
+  [Previous line repeated 1 more time]
+  File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/torch/nn/modules/module.py", line 927, in _apply
+    param_applied = fn(param)
+                    ^^^^^^^^^
+  File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1326, in convert
+    return t.to(
+           ^^^^^
+RuntimeError: CUDA error: invalid device ordinal
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+

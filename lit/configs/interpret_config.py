@@ -19,8 +19,8 @@ class interpret_config:
     batch_size: int = 50
     modify_chat_template: bool = True
     truncate: str = "none"
-    save_name: str = "CaSiNo"
+    save_name: str = "CaSiNo-8B"
     prompt: str = ""
 
     # Evaluation Dataset # data/CaSiNo/test.json
-    eval_qa: str = ""
+    eval_qa: str = "data/CaSiNo/test.json"

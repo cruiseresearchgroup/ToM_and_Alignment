@@ -23,7 +23,7 @@ class train_config:
     eval_stimulus_completion: str = ""
     eval_stimulus: str = ""
     eval_control: str = ""
-    eval_qa: str = "data/NegotiationToM/valid.json"
+    eval_qa: str = "data/FANTOM/valid.json"
     eval_every_n_steps: int = 300
     # Please change to a directory with ample space as model checkpoints are saved here
     # output_dir: str = "out/runs"
@@ -31,7 +31,7 @@ class train_config:
     save_model: bool = True
     save_after_epoch: bool = True
     use_wandb: bool = True
-    run_name: str = "NegotiationToM Llama-3 3B"
+    run_name: str = "FANTOM Llama-3 8B"
 
     # Patching args
     shift_position_ids: bool = True

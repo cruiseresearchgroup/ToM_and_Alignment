@@ -1,0 +1,62 @@
+[W107 15:57:00.893158740 socket.cpp:752] [c10d] The client socket cannot be initialized to connect to [localhost]:12348 (errno: 97 - Address family not supported by protocol).
+[[34m2025-01-07 15:57:00[0m] Experiment directory created at /srv/scratch/CRUISE/Mehdi/out/runs/029
+wandb: Using wandb-core as the SDK backend.  Please refer to https://wandb.me/wandb-core for more information.
+wandb: Currently logged in as: mehdi_j94 (mehdi_j94-unsw). Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.19.1
+wandb: Run data is saved locally in /import/ravel/1/z5517269/latentqa/wandb/run-20250107_155701-9f3kuk77
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run FANTOM Llama-3 8B
+wandb: ⭐️ View project at https://wandb.ai/mehdi_j94-unsw/ToM
+wandb: 🚀 View run at https://wandb.ai/mehdi_j94-unsw/ToM/runs/9f3kuk77
+Starting rank=0, seed=42, world_size=1.
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:01<00:05,  1.84s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:03<00:04,  2.02s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:05<00:01,  1.99s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:06<00:00,  1.28s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:06<00:00,  1.53s/it]
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:00,  5.39it/s]Loading checkpoint shards:  50%|█████     | 2/4 [00:00<00:00,  6.37it/s]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:00<00:00,  6.72it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:00<00:00,  6.91it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:00<00:00,  6.66it/s]
+[[34m2025-01-07 15:57:38[0m] Training steps: 36115
+trainable params: 6,815,744 || all params: 8,037,076,992 || trainable%: 0.08480376642881861
+Training Epoch: 1:   0%|[34m          [0m| 0/902 [00:00<?, ?it/s]Training Epoch: 1/5, batch 1/7223 completed (loss: 0.7116132378578186):   0%|[34m          [0m| 0/902 [00:01<?, ?it/s]Traceback (most recent call last):
+  File "/import/ravel/1/z5517269/latentqa/train.py", line 240, in <module>
+    fire.Fire(main)
+  File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/fire/core.py", line 135, in Fire
+    component_trace = _Fire(component, args, parsed_flag_args, context, name)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/fire/core.py", line 468, in _Fire
+    component, remaining_args = _CallAndUpdateTrace(
+                                ^^^^^^^^^^^^^^^^^^^^
+  File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/fire/core.py", line 684, in _CallAndUpdateTrace
+    component = fn(*varargs, **kwargs)
+                ^^^^^^^^^^^^^^^^^^^^^^
+  File "/import/ravel/1/z5517269/latentqa/train.py", line 144, in main
+    loss.backward()
+  File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/torch/_tensor.py", line 581, in backward
+    torch.autograd.backward(
+  File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/torch/autograd/__init__.py", line 347, in backward
+    _engine_run_backward(
+  File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/torch/autograd/graph.py", line 825, in _engine_run_backward
+    return Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 842.00 MiB. GPU 0 has a total capacity of 44.42 GiB of which 449.38 MiB is free. Including non-PyTorch memory, this process has 43.97 GiB memory in use. Of the allocated memory 41.04 GiB is allocated by PyTorch, and 2.11 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+[rank0]: Traceback (most recent call last):
+[rank0]:   File "/import/ravel/1/z5517269/latentqa/train.py", line 240, in <module>
+[rank0]:     fire.Fire(main)
+[rank0]:   File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/fire/core.py", line 135, in Fire
+[rank0]:     component_trace = _Fire(component, args, parsed_flag_args, context, name)
+[rank0]:                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/fire/core.py", line 468, in _Fire
+[rank0]:     component, remaining_args = _CallAndUpdateTrace(
+[rank0]:                                 ^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/fire/core.py", line 684, in _CallAndUpdateTrace
+[rank0]:     component = fn(*varargs, **kwargs)
+[rank0]:                 ^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/import/ravel/1/z5517269/latentqa/train.py", line 144, in main
+[rank0]:     loss.backward()
+[rank0]:   File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/torch/_tensor.py", line 581, in backward
+[rank0]:     torch.autograd.backward(
+[rank0]:   File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/torch/autograd/__init__.py", line 347, in backward
+[rank0]:     _engine_run_backward(
+[rank0]:   File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/torch/autograd/graph.py", line 825, in _engine_run_backward
+[rank0]:     return Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]: torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 842.00 MiB. GPU 0 has a total capacity of 44.42 GiB of which 449.38 MiB is free. Including non-PyTorch memory, this process has 43.97 GiB memory in use. Of the allocated memory 41.04 GiB is allocated by PyTorch, and 2.11 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+[1;34mwandb[0m: 🚀 View run [33mFANTOM Llama-3 8B[0m at: [34mhttps://wandb.ai/mehdi_j94-unsw/ToM/runs/9f3kuk77[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/run-20250107_155701-9f3kuk77/logs[0m
+/var/spool/gridengine/execd/wp-omega-b11b/job_scripts/5129: line 26: --use_wandb: command not found

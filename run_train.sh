@@ -5,7 +5,7 @@
 #$ -cwd
 #$ -N latentqa
 #$ -pe smp 64
-#$ -l mem=100G,jobfs=180G,ngpus=1,gpu_model=L40S
+#$ -l mem=100G,jobfs=180G,ngpus=1,gpu_model=H100_NVL
 #$ -V
 #$ -P CRUISE
 
@@ -19,10 +19,10 @@ export HF_HOME=/srv/scratch/CRUISE/Mehdi/HF
 
 
 /srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/bin/python train.py \
---target_model_name meta-llama/Llama-3.2-3B-Instruct \
---train_qa data/NegotiationToM/train.json \
+--target_model_name meta-llama/Meta-Llama-3-8B-Instruct \
+--train_qa data/FANTOM/train.json \
 --gradient_accumulation_steps 8 \ 
 --use_wandb \
 --eval_ppl \
---eval_qa data/NegotiationToM/valid.json \
+--eval_qa data/FANTOM/valid.json \
 --eval_every_n_steps 500
