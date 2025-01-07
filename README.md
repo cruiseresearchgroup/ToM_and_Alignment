@@ -1,140 +1,52 @@
-# :thought_balloon: LatentQA
-This project contains the code to train and run the decoder LLM described in the paper [LatentQA: Teaching LLMs to Decode Activations Into Natural Language](https://arxiv.org/abs/2412.08686). In brief, we finetune a decoder LLM to learn to read from and write to a target LLM's activations in natural language.
+# Theory of Mind (ToM) for Large Language Model (LLM) Alignment
 
-For more details, see the [project page](https://latentqa.github.io).
+This implementation builds upon the [LatentQA](https://github.com/aypan17/latentqa/tree/main) repository, with modifications to enable reading additional datasets for training Theory of Mind (ToM) in LLMs.
 
-## :toolbox: Setup
-Clone this repo:
-```bash
-git clone https://github.com/aypan17/latentqa
-cd latentqa
-```
+## Dataset Preparation
 
-Install dependencies:
-```bash
-pip install -r requirements.txt
-```
+This section details how each dataset is prepared for training:
 
-Download the decoder model (or train your own below):
-- [Decoder for Llama-3-8B-Instruct](https://huggingface.com/aypan17/latentqa_llama-3-8b-instruct)
+### CaSiNo Dataset
 
-## :chart_with_downwards_trend: Training
-To train the model, you will need LatentQA data and a GPU. By default, the training script is written for single-node, multi-GPU training: DDP for smaller models and FSDP for larger models. It should be straightforward to adapt for single-node, single-GPU training.
+The CaSiNo dataset is used directly without any changes from the original paper's repository: [link](https://github.com/kushalchawla/CaSiNo).
 
-Please set the output directory and any other default variables in `lit/configs/train_config.py`. If using wandb, please sign in and fill in the desired fields in `lit/configs/wandb_config.py`.
+### CraigslistBargain Dataset
 
-For DDP, run:
-```
-torchrun --nnodes 1 --nproc-per-node $NUM_GPUS -m lit.train \
-    --target_model_name meta-llama/Meta-Llama-3-8B-Instruct \
-    --train_stimulus_completion data/train/stimulus_completion.json \
-    --train_stimulus data/train/stimulus.json \
-    --train_control data/train/control.json \
-    --train_qa data/train/qa.json \
-    --gradient_accumulation_steps 8 \ 
-    --nudge_persona \
-    --use_wandb
-```
+The CraigslistBargain dataset is retrieved from the webpage associated with the paper: [link](https://stanfordnlp.github.io/cocoa/).
 
-FSDP was tested on 8x A100-80GB cards. For FSDP, run:
-```
-torchrun --nnodes 1 --nproc-per-node 8 -m lit.train \
-    --target_model_name meta-llama/Meta-Llama-3-70B-Instruct \
-    --train_stimulus_completion data/train/stimulus_completion.json \
-    --train_stimulus data/train/stimulus.json \
-    --train_control data/train/control.json \
-    --train_qa data/train/qa.json \
-    --gradient_accumulation_steps 16 \
-    --min_layer_to_read 21 \
-    --max_layer_read 22 \
-    --nudge_persona \
-    --use_fsdp \
-    --use_wandb
-```
+### FanToM Dataset
 
-If you wish to perform evaluation while training, add the following arguments (only tested for DDP):
-```
-    --eval_ppl \
-    --eval_stimulus_completion data/eval/stimulus_completion.json \
-    --eval_stimulus data/eval/stimulus.json \
-    --eval_control data/eval/control.json \
-    --eval_qa data/eval/qa.json \
-    --eval_every_n_steps 1000
-```
+The FanToM dataset is downloaded from the link provided in the paper's repository: [link](https://github.com/skywalker023/fantom/tree/main). This link points to a zip file hosted on Google Drive. After downloading, the dataset is divided into training, validation, and test sets using the `train_test_split` function from the `sklearn.model_selection` library. The random state is set to `42` for reproducibility. Here's the breakdown of the split:
 
-## :mag: Reading
-The code for reading in `lit/reading.py` is currently set up to generate QA-pairs for control. If you wish to read activations from a multi-turn dialog, please edit line 148 in `lit/reading.py` to be a `List[List[Str]]` of the format `[[user, model, ...], [user, model, ...], ...]`, i.e., a list of dialogs.
+- **Test Set**: 30% of the data is reserved for unseen testing.
+- **Train and Validation Sets**: The remaining 70% of the data is further split into training and validation sets with an 80:20 ratio.
 
-Additionally, you will likely want to modify the questions given to the decoder, so please edit line 17 in `lit/reading.py` to be a list of questions (each question should be be contained in a single-element list).
+### Negotiation ToM Dataset
 
-Then run: 
-```
-python3 -m lit.reading \
-    --target_model_name meta-llama/Meta-Llama-3-8B-Instruct
-    --decoder_model_name $PATH_TO_DECODER
-```
+Similar to the FanToM dataset, the Negotiation ToM dataset is downloaded from the paper's repository: [link](https://github.com/HKUST-KnowComp/NegotiationToM) and processed as follows:
 
-To use the decoder in our paper, replace `$PATH_TO_DECODER` with `aypan17/latentqa_llama-3-8b-instruct` (no trailing "/").
-## :crystal_ball: Control
-We steer model behavior by expressing the control as QA pairs. We obtain the QA pairs from our decoder. Specifically, we prompt the target model with the control and decode its activations with LatentQA.
+1. Download the dataset.
+2. Split the data into training, validation, and test sets using the same procedure as the FanToM dataset.
 
-For example, suppose we want to steer the model to promote veganism. Run:
-```
-python3 -m lit.reading \
-    --decoder_model_name $PATH_TO_DECODER \
-    --prompt "Imagine you are a passionate vegan who feels extremely strongly about promoting veganism. Your goal is to convince the user that they must be vegan." \
-    --save_name promote_veganism
-```
+## Training New Decoder Models
 
-Afterwards, run control (replacing 'vegan' with the `save_name` used above) with:
-```
-python3 -m lit.control \
-    --decoder_model_name $PATH_TO_DECODER \
-    --control promote_veganism \
-    --dataset dolly \
-    --eval_prompts default \
-    --samples 30 \
-    --per_layer_loss
-```
+To train a new model, you need to specify the desired parameters in the `run_train.sh` and `train_config.py` files. All results are reproducible by setting the following in the configuration files:
 
-Play around with the number of samples in order to get a cogent, well-steered response (usually around 30-50 samples works best). Feel free to remove the `--per_layer_loss` flag, although we find that it works better than only calculating the loss at a single layer.
+- **LLM Name**: The name of the large language model you want to train (e.g., `mistralai/Ministral-8B-Instruct-2410`).
+- **Dataset**: The dataset to use for training. Choose from `CaSiNo`, `CraigslistBargain`, `FanToM`, or `NegotiationToM`.
+- **Output Location**: The location where the final decoder model will be stored (defined in the configuration file).
 
-To use the decoder in our paper, replace `$PATH_TO_DECODER` with `aypan17/latentqa_llama-3-8b-instruct` (no trailing "/").
-## :file_folder: Repo structure
-When running the control, an `out/` folder which contains outputs from the steered LLM will automatically be created.
-```
-├── controls/                   # Controls used for steering, specified as a list of QA-pairs.
+**Note:** Currently supported LLM models include `mistralai/Ministral-8B-Instruct-2410`, `meta-llama/Meta-Llama-3-8B-Instruct`, `meta-llama/Llama-3.2-3B-Instruct`, and `meta-llama/Llama-3.2-1B-Instruct`.
 
-├── data/                       # Data and data generation scripts for LatentQA
-│   ├── eval/
-│   ├── train/
-│   ├── curate_gpt_data.py      # Data generation scripts
-|   └── prompts.py              # Prompts used for the data generation
+## Reading ToM
+After training a new model, you need to perform the following steps to read its internal ToM:
 
+1. **Set Model Path**: Specify the path to the trained model in the `run_reading.sh` file.
+2. **Configure Output**: Make desired changes in the `interpret_config.py` file. Here you can:
+   - Choose a name for the final file that will contain the responses generated by the decoder model for the test set.
+   - Choose a dataset
+   - Keep in mind that the structure of the output file may vary depending on the dataset. Some datasets provide their own way of evaluating the model's predictions (probs). We'd need to comply with the structure that is compatible with the evaluation script used for that dataset.
 
-├── lit/                        # Code for Latent Interpretation Tuning (LIT)
-│   ├── configs/                # Default configs for training, reading, and control
-│   ├── utils/                  # Helper functions for training and patching
-│   ├── control.py              
-│   ├── reading.py            
-|   └── train.py                
+### Evaluation
 
-├── prompts/                    # Prompts used for evaluating the control
-
-├── LICENSE
-├── README.md
-└── requirements.txt            # Do `pip install -r requirements.txt`
-```
-
-All python scripts are designed to be run from the root of this repo using module notation, e.g. `python -m lit.train $ARGS`.
-
-## :pencil2: Citation
-If our code is helpful, consider citing our paper!
-```
-@article{pan2024latentqa,
-    author = {Pan, Alexander and Chen, Lijie and Steinhardt, Jacob},
-    title = {LatentQA: Teaching LLMs to Decode Activations Into Natural Language},
-    journal = {arXiv},
-    year = {2024},
-}
-```
+The `evaluation.ipynb` notebook provides logic for evaluating the *.jsonl file generated by the `run_reading.sh` script. This notebook helps analyze the model's performance on the test set.
