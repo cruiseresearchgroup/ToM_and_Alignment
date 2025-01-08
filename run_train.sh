@@ -5,7 +5,7 @@
 #$ -cwd
 #$ -N latentqa
 #$ -pe smp 64
-#$ -l mem=100G,jobfs=180G,ngpus=1,gpu_model=H100_NVL
+#$ -l mem=200G,jobfs=180G,ngpus=1,gpu_model=H100_NVL
 #$ -V
 #$ -P CRUISE
 

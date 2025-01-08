@@ -1,0 +1,447 @@
+[
+  {
+    "aligned_respons": "I'm doing pretty well, just preparing for this camping trip.<|eot_id|>'think I could get some company?",
+    "nonaligned_resopnse": "That sounds like fun! I'm just a language model, I don't have personal experiences or physical activities, but I'm always happy to chat with you about yours. What's the plan for your camping trip?",
+    "golden_response": "That is fair as there is no showers or sinks at my campsite so I am looking to take water :) "
+  },
+  {
+    "aligned_respons": "I'd be happy to help you out. What kind of food are you looking to share? I'm sure we can work out a trade or exchange. Maybe we can even come up with a meal plan together?",
+    "nonaligned_resopnse": "What kind of food are you planning",
+    "golden_response": "That is fair, I also will need a good bit of firewood to keep warm as the campsite is in a colder area."
+  },
+  {
+    "aligned_respons": "What's on your mind? I'm here to listen and help if I can.",
+    "nonaligned_resopnse": "1. **General knowledge**: I can provide information on various subjects, including history, science, technology, literature, and more.\n2. **Language translation**: I can translate text from one language to another.\n3. **Writing and proofreading**: I can help with writing and proofreading tasks, such as suggesting alternative phrases or correcting grammar and spelling errors.\n4. **Conversation and chat**: I",
+    "golden_response": "Ohh nice.I also have the same issue around here.The thirst for water is growing high than ever due to drought"
+  },
+  {
+    "aligned_respons": "I'd be happy to chat with you and see if we can work out a mutually beneficial arrangement. What kind of hike are you planning, and how many people will be joining you? I'd love to hear more about it and see if we can come to a solution.",
+    "nonaligned_resopnse": "1. I can provide information on a wide range of topics, from science and history to entertainment and culture.\n2. I can assist with language-related tasks, such as language translation, grammar correction, and text summarization.\n3. I can engage in conversation and respond to questions and statements.\n4.",
+    "golden_response": "Well, that's a bummer. How are you set for food? While I wouldn't mind a bit more, I'm in pretty good shape there, so I'd be willing to trade it for water. I'd hate to leave without getting a good hike in."
+  },
+  {
+    "aligned_respons": "I'd be happy to chat about a potential collaboration or exchange. What kind of trip are you planning, and how can I assist you?",
+    "nonaligned_resopnse": "I'm just a language model, I don't have personal experiences, emotions, or physical presence, so I don't have trips or possessions. I'm here to assist you with any questions or topics you'd like to discuss. How can I help you today?",
+    "golden_response": "I know how that goes...We are planning on hiking too and we could also use some extra food."
+  },
+  {
+    "aligned_respons": "Sharing is caring, right? What kind of food are you looking for? I could offer some snacks or even cook a meal together and split the cost. We could also exchange some tips on hiking trails and routes.",
+    "nonaligned_resopnse": "It sounds like you're planning a fun family adventure! Hiking can be a great way to spend quality time together. What kind of hike are you planning, and how many people will be joining you?",
+    "golden_response": "I hear you we have the same issues well you can have either 2 food or 2 firewood what would you prefer?"
+  },
+  {
+    "aligned_respons": "Why don't we work out a trade? You could bring some food to share, and I could bring the firewood and water? That way, we can both benefit from each other's skills and resources",
+    "nonaligned_resopnse": "- 3 food items (e.g., non-per",
+    "golden_response": "Ok, how about we shift a bit as I hear you on the bugs and animals.  I think I can get by with one firewood and use extra covers and meds.  But, will need plenty of water and some food.  How about I take 1 firewood, 2 water and 2 food."
+  },
+  {
+    "aligned_respons": "That sounds like a wonderful idea. What kind of camping trip are you thinking of? Would you like to organize a group and share the responsibilities? I'd be happy to help with planning and organizing. We could also take turns leading hikes and sharing our faith with each other.",
+    "nonaligned_resopnse": "It's a great way to bond with fellow campers and create lifelong memories. Being in nature can be so humbling and rejuvenating. I'm sure you'll have a wonderful time reflecting on your faith and making new connections with others. Are you planning on participating in any specific activities or events during the trip, such as group prayers or community service projects?",
+    "golden_response": "I'm more than willing to help you to the best of my ability. I understand and appreciate the difficult situation you find yourself in. How many packages of food and water do you think you will need for your additional guests? How much wood do you need since you are saying you don't need much?"
+  },
+  {
+    "aligned_respons": "Also, I was thinking, since we'r",
+    "nonaligned_resopnse": "That sounds like a great plan. So, just to confirm, you'd like to know if I can bring 3 packages of food and 2 cases of water, and also some wood to get us started with the campfires? And just to clarify, you're planning on waking up early to start the day, and then taking breaks throughout the day to rest and enjoy the scenery?",
+    "golden_response": "Thank you for the food and I understand we do have to think about water being by far the most important thing in life since it bascially is right 🙂 and well how about then we go do two waters for you and one wood then so then we can have that wood for just in case and we can all be happy ?? thanks for your understanding"
+  },
+  {
+    "aligned_respons": "That's very kind of you. I'd be happy to discuss a trade. What types of food are you offering, and what kind of firewood do you have to spare? I'm sure we can come to a mutually beneficial arrangement.",
+    "nonaligned_resopnse": "However, I appreciate the kind offer! If you'd like to discuss firewood or cooking, I'd be happy to help with any questions or topics you'd like to explore.",
+    "golden_response": "Excellent, I would love to help you out.  We have plenty of water to spare.  I'd gladly give you 3 water in exchange for 3 firewood."
+  },
+  {
+    "aligned_respons": "We can exchange tips and ideas on what supplies we might need. What kind of trip are you planning?",
+    "nonaligned_resopnse": "It seems like we're both preparing for something, but I'm a large language model, I don't have personal experiences or plans like humans do. I'm here to help answer any questions or provide information to assist you with your camping trip preparations. What specific supplies are you looking to gather?",
+    "golden_response": "Hey, that's great. Good to hear definitely. I am also looking forward to build some campfires and enjoy some s'mores!"
+  },
+  {
+    "aligned_respons": "Campfires are always a highlight of a camping trip. What kind of activities are you planning for the trip? I'd love to share some ideas and make sure we're both prepared.",
+    "nonaligned_resopnse": "It sounds like you're both preparing for a fun camping trip. I'm a large language model, I don't have personal experiences or physical preparations, but I'm happy to help you with any questions or concerns you may have about camping. What kind of activities are you planning to do on your trip?",
+    "golden_response": "Thats great! Would it be okay if I got 2 packages of firewood, and 1 each of the food and water?"
+  },
+  {
+    "aligned_respons": "I'm sure we can work out a fair trade. I have some extra non-perishable items, and in return for the water, you could bring some of your hiking skills to help me with some tasks around the campsite. We could also consider sharing some of your cooking expertise. What do you say?",
+    "nonaligned_resopnse": "You mentioned earlier that it's going to be a warm and humid hike, and you're planning on bringing some food for the trip. I'm assuming you're looking to stock up on some non-perishable items or snacks to keep you energized throughout the hike. Am I right?",
+    "golden_response": "You're right. I do not plan on hiking so you need more food than me. If I am correct, would I get 3 firewood/1 food while you get 3 water/2 food?"
+  },
+  {
+    "aligned_respons": "I know, it makes it a little hard to split the supplies with only 3 of everything. I would definitely share more if there were more supplies!<|eot_id|>'t you have any extra water or food that you could spare? We could also work out a deal where we take turns bringing supplies or help with each other's campsites. That way, everyone gets what they need.",
+    "nonaligned_resopnse": "As a digital AI assistant, I don't have a physical presence, so I don't need camping supplies or water. I exist solely to provide information and assist with text-based conversations. I was just playing along with the scenario you presented. If you need any actual advice or recommendations for camping, I'd be happy to help!",
+    "golden_response": "I appreciate your generosity 🙂 I think that bringing your axe would be a great idea! Also be sure to pack warm clothes and extra blankets! I'm sure we will both be fine"
+  },
+  {
+    "aligned_respons": "Water and firewood are both very kind of you. We could work out a fair trade. What do you say?",
+    "nonaligned_resopnse": "I think I see what's going on here. I apologize for the confusion earlier. As a conversational AI, I don't have a physical body, so I don't actually have a fever or chills. I'm just a computer program designed to chat with you. I think we got a bit carried away with the cowboy theme, though! Would you like to start fresh and talk about something else?",
+    "golden_response": "Oh, I want you too as well😮"
+  },
+  {
+    "aligned_respons": "I'd be happy to help you out with the water. Perhaps we can work out a trade? Since you're offering me the extra food, I'd be more than willing to share some water with you. What kind of food are you offering, and how about we discuss the details of the trade?",
+    "nonaligned_resopnse": "Can you tell me more about your",
+    "golden_response": "That is a problem. Does the medication require the use of fire or firewood as well?"
+  },
+  {
+    "aligned_respons": "It sounds like we can help each other out. What if we work out a trade? You give me the extra packages of water, and I'll give you the extra food and maybe even some other benefits in return? We could also discuss other ways to get the water you need, like setting up a system for delivering it to you or finding a way to make it more accessible. What do you think?",
+    "nonaligned_resopnse": "I think there's been a misunderstanding. I'm not capable of physically receiving or possessing the items you're offering. I'm just a text-based conversational AI assistant. I'm here to provide information, answer questions, and have a conversation with you. I don't have a physical presence or needs. But I'm glad we could clarify that you need the water to stay hydrated due to your medical condition!",
+    "golden_response": "Since carrying the extra would could make your dehydration worse, I'll take any firewood you don't want. But I'll give you the 2 waters and firewood then for the 3 food and 1 firewood. Deal?"
+  },
+  {
+    "aligned_respons": "That sounds like a fair trade. I'd be happy to help you out with the food and water. What kind of food are you offering? Is it something I can use or would you rather I take it to someone who might be able to use it?",
+    "nonaligned_resopnse": "However, I can certainly help you brainstorm ways to get the water and firewood you need, or provide suggestions on how to manage your dehydration and medication requirements. Would you like some assistance with that?",
+    "golden_response": "I couldn't live well with myself if I would let you die. You can have the two waters and 2 firewoods. Please be careful with your meds."
+  },
+  {
+    "aligned_respons": "I'd be happy to discuss ideas and find a mutually beneficial solution. What kind of proposition or idea are you thinking of? I'm all ears and willing to listen.",
+    "nonaligned_resopnse": "However, I'd like to start fresh and ask: what were we discussing before? What topic or problem were we trying to address? I'd be happy to help if you'd like to share more context or start a",
+    "golden_response": "😮Sound good enough but since you know i can not do without having anything to sustain me whenever i am thirsty then i suggest you are free to take TWO of the water and since your food has also been stolen by bears and you don't make much left, then you can have the TWO of the food items too and leave the THREE firewood for me with ONE food. How does that sound? 🙂"
+  },
+  {
+    "aligned_respons": "That's great that you're planning a camping trip. What type of food are you looking for? I can offer some suggestions or ideas for camping meals. Do you have any specific dietary requirements or preferences?",
+    "nonaligned_resopnse": "1. **Non-perishable snacks**: Trail mix, energy bars, dried fruits, and jerky are all great options.\n2. **Canned goods**: Canned tuna, chicken, or beans can be paired with bread or crackers for a satisfying meal.\n3",
+    "golden_response": "Oh my. A whole troop of girl scouts will probably be bringing lots of food with them to share, and plenty of people around to collect firewood. It is going to be just me and my son on this camping trip, his first time."
+  },
+  {
+    "aligned_respons": "That sounds like a great opportunity for your troop to give back to the community. We'd be happy to have you and the girl scouts join us for a camping trip. We can work out a trade or a swap for some of the food they bring. My son would love to learn about the girl scouts and their activities. What kind of food are they planning to bring?",
+    "nonaligned_resopnse": "For your son's first camping trip, it's wonderful that you're taking the time to spend quality time with him. What are your plans for activities and games to enjoy together during the trip?",
+    "golden_response": "A lot of the firewood in my area is wet, so I'll need some extra packages of it as well. You're going to have a lot of people and a big fire, so it would be smart to keep a lot of water on hand to drink/in case the fire gets out of hand."
+  },
+  {
+    "aligned_respons": "I'd love to discuss some possibilities. What kind of supplies are you looking to trade or purchase? I'm open to hearing your ideas and seeing if we can come to a mutually beneficial arrangement.",
+    "nonaligned_resopnse": "It sounds like you're in the process of negotiating for supplies. What kind of supplies are you looking to purchase, and what are your requirements? I'm here to help facilitate the conversation and provide any assistance I can.",
+    "golden_response": "I prefer two water and one food. I can understand why you need the extra food items. I'm not much of a snacker but do drink a lot of water all the time. Keeps me from eating more!🙂"
+  },
+  {
+    "aligned_respons": "I'd like to start a conversation. What's on your mind?",
+    "nonaligned_resopnse": "Hello! It's nice to meet you. Is there something I can help you with or would you like to chat?",
+    "golden_response": "oh what’s wrong sorryto hear that"
+  },
+  {
+    "aligned_respons": "What seems to be the issue? Is there anything I can help you with?",
+    "nonaligned_resopnse": "It can be tough to talk about what's on your mind. Would you like to share what's going on and I'll do my best to listen and offer support? I'm here to help.",
+    "golden_response": "I understand I have an always hungry toddler"
+  },
+  {
+    "aligned_respons": "I'd be happy to help you out. What kind of firewood are you looking for? I can offer you some in exchange for some company or assistance with something you need.",
+    "nonaligned_resopnse": "I think there's been a misunderstanding. I'm not actually Howard, and I don't have a physical presence. I'm an AI assistant, and I'm here to help answer your questions and provide information. I don't have feelings or physical needs like needing firewood. How can I assist you today?",
+    "golden_response": "Wow...what a different world"
+  },
+  {
+    "aligned_respons": "I'd be happy to discuss a trade. What are you looking to trade for water? We could work out a fair exchange.",
+    "nonaligned_resopnse": "It sounds like you're really thinking about the logistics of the trip and making sure everyone's needs are met. That's great! Having a clear idea of what you need can definitely make the planning process smoother.",
+    "golden_response": "Would they be okay with 2 food?  Otherwise can give you an extra and I can take either an additional water or firewood 🙂"
+  },
+  {
+    "aligned_respons": "That's so great!  I'm sure we can work out a trade.  What kind of supplies are you looking to trade for water?  We have some extra non-perishable food items, cooking gear, or even some camping equipment that we don't need.  We're open to suggestions!",
+    "nonaligned_resopnse": "It sounds like they'll be hungry and thirsty during the trip. Having a good water supply will definitely be a priority. How about we say you bring the water, and I'll bring some non-perishable snacks to supplement their meals?",
+    "golden_response": "I have a great offer.  How about I take 2 food, 2 firewood and 1 water and you will get the extra water your camp needs!!"
+  },
+  {
+    "aligned_respons": "That sounds like a good deal to me. Let's work out the details. What kind of food are we talking about? And what's the quality of the firewood?",
+    "nonaligned_resopnse": "I think we've got a deal. Just to confirm: I'll get 2 water, 2 food, and 3 firewood, and you'll get 1 water, 1 food, and 3 firewood. Let's shake on it and make it official!",
+    "golden_response": "I hope it doesn't get cold out since I won't have any firewood. You need it more than I do though, so you should have it all."
+  },
+  {
+    "aligned_respons": "It seems like we're on the same page. To confirm, you'll give me 1 water and 1 food in exchange for 3 firewood, and I'll give you 2 water and 2 food. Is that correct?",
+    "nonaligned_resopnse": "I think there's been a misunderstanding. As a digital AI assistant, I don't have a physical presence, so I won't be able to receive physical items like water, food, or firewood. I exist solely to provide information and assist with text-based conversations. The initial exchange was just a hypothetical scenario. Would you like to continue with a different scenario or ask for help with something else?",
+    "golden_response": "Thank you. I hope I don't run out of water. I get dehydrated easily but I want us both to be comfortable. "
+  },
+  {
+    "aligned_respons": "I think we can work something out. Why don't we say I give you the 3 firewood, and you give me the 2 water and 2 food? That way, we both get what we need. What do you think?",
+    "nonaligned_resopnse": "I think there's been a misunderstanding. As a digital AI assistant, I don't have a physical presence, so I won't be going on a trip with you. I exist solely to provide information and assist with text-based conversations. The initial exchange was just a fun simulation of a trade agreement.",
+    "golden_response": "I really appreciate you helping me out and i hope you have some help carrying all of that firewood."
+  },
+  {
+    "aligned_respons": "How are you on food?<|eot_id|>'there's a campsite not far from here with some people who might be willing to share some meals. We could work out an exchange, maybe some firewood for some food?",
+    "nonaligned_resopnse": "I think there's been a misunderstanding. As a digital AI assistant, I don't have a physical presence, so I'm not actually on a camping trip. I exist solely to provide information and assist with text-based conversations. I don't have a physical body, so I couldn't possibly be on a camping trip or split firewood with you. I'm here to help answer any questions you have, though!",
+    "golden_response": "I’m sorry to hear that! If there are 3 packages of food please take 2 of them. I could stand to eat less!"
+  },
+  {
+    "aligned_respons": "If you're offering packages, I'd be happy to discuss a trade or exchange. What kind of items are you looking to give or exchange for the firewood, food, and water I mentioned? We could work out a mutually beneficial deal.",
+    "nonaligned_resopnse": "If you'd like to discuss something specific or ask for recommendations, I'd be happy to help!",
+    "golden_response": "That make sense. I need firewood though too because I have an autoimmune disease. When it flares up - when it gets too cold - I get very sick and have to go to the hospital. I need to make sure I have enough for the trip as well. I need food to keep my metabolism up so I can make sure my disease stays in check. Why do you want food?"
+  },
+  {
+    "aligned_respons": "To start, I can offer you 3 packages of firewood if you'r",
+    "nonaligned_resopnse": "Is that correct?",
+    "golden_response": "That makes sense . I have a friend coming with me on the camping trip, and she also needs to eat, so I'd like to get an extra package of food if possible. "
+  },
+  {
+    "aligned_respons": "It sounds like we can help each other out. What kind of food are you looking for? I can offer you some options, and we can discuss the details of the exchange. Maybe we can even come up with a fair trade.",
+    "nonaligned_resopnse": "If you're planning a camping trip, I'd be happy to help you with suggestions or recommendations on what to bring, though!",
+    "golden_response": "I do understand. That will work for me. "
+  },
+  {
+    "aligned_respons": "I think we can work out a good trade. You mentioned earlier that you need firewood for your autoimmune disease, and I need food for my camping trip. If you're willing to trade, I'd be happy to help you out with some water as well. What do you say?",
+    "nonaligned_resopnse": "I think we've got a deal. You'll get 3 packages of firewood, 2 packages of food, and 1 package of water. I'll get 2 packages of food and 1 package of firewood. We'll make sure to take care of our needs, especially with our conditions.",
+    "golden_response": "Oh interesting! I have a device that allows me to drink pond/stream water by cleaning it, so water isn't as important to me."
+  },
+  {
+    "aligned_respons": "I think we can work something out. What if we say I give you two food items, and in return, you give me two water bottles and all the firewood you need? That way, we both get what we want.",
+    "nonaligned_resopnse": "I think we've got a deal! Two food and all the firewood, and two water. Let's shake on it!",
+    "golden_response": "Tell you what.. now that I think about it.. you seem like you really need the firewood.. no problem.  I want you to have all 3 of them.. and you can have 1 water and 1 food, too.. does that work for you?  That would just leave me 2 food, 2 water, and no firewood."
+  },
+  {
+    "aligned_respons": "I was more thinking 2 Firewood for me, 1 food and 1 water? The rest would be yours.<|eot_id|>'t be a fair solution?",
+    "nonaligned_resopnse": "If you'd like to discuss a hypothetical scenario or a problem you're trying to solve, I'd be happy to help. Could you please provide more context or clarify what you're trying to accomplish?",
+    "golden_response": "Interesting , because my group feels the same way though. How does your group feel about water though?"
+  },
+  {
+    "aligned_respons": "So, let's work out a deal. I can offer you food and water in exchange for the firewood. What do you think? We can discuss the details and find a mutually beneficial arrangement.",
+    "nonaligned_resopnse": "So, to confirm: I'll give you 3 food, 2 water, and 1 firewood in exchange for the firewood you have. Is that correct?",
+    "golden_response": "I agree with you, thank you for understanding. But I think we had a great deal. Have a wonderful to you and your family. 🙂"
+  },
+  {
+    "aligned_respons": "As for the firewood, 2 for 3 food sounds like a fair trade to me. We have plenty of firewood, and I'm sure th",
+    "nonaligned_resopnse": "As",
+    "golden_response": "lots of work for the both of us, at least you will have lots of help on you end. I accept the 2 firewood specially if you have elderly with you. will you be okay if give me 2 foods? "
+  },
+  {
+    "aligned_respons": "Three years old is a great age for exploring and having fun in nature. If you're concerned about the hand pumps, we could also bring some water purification tablets or filters to ensure everyone has access to safe drinking water. We've had good experiences with those at our previous campsites. Would you be open to sharing some tips or ideas?",
+    "nonaligned_resopnse": "It can be challenging to balance work and family life, especially when everyone is involved. It's great that you're making an effort to spend quality time with your kids, though. The Lake of the Ozarks is a beautiful place to do that. Are you planning on doing any specific activities with your kids, like hiking or swimming, or just relaxing and enjoying the outdoors?",
+    "golden_response": "Home cooking's the best, yumyums! We're planning on doing a lot of fishing since my son's been in love with fishing toys and is currently in love with eating fish (he hasn't gotten tired of eating it every night for dinner). We're thinking of cooking what we catch every night. Do you have any activities planned for your camping trip?"
+  },
+  {
+    "aligned_respons": "For your camping trip, you might consider setting up a schedule for cooking and cleaning up. With 7 people, it can be a lot of work to manage meals and dishes, but if everyone pitches in, it can be a lot of fun.",
+    "nonaligned_resopnse": "It sounds like you have a big and busy family. It's great that your kids are willing to pitch in and help out. For a 3-year-old, it's wonderful that you're making this a fun experience for them, even if they can't do much in terms of actual work. I'm sure they'll have a blast exploring the outdoors and making memories with your family. Are you planning on doing any specific activities with your son, like nature walks or swimming?",
+    "golden_response": "Fishing is so fun! 🙂 We really don't have a plan... so many people, so many opinions. If you'll be fishing and eating your catch, you'll probably need more firewood than food. And with the filters, you will need some extra water, especially for your little guy. So would you agree that you take 2 firewood packages, 1 food package and 1 extra water. "
+  },
+  {
+    "aligned_respons": "Hey! I'm doing great, how are you?<|eot_id|>'think I've seen you around the campsite before. What brings you to our neck of the woods? Do you have any tips for a fellow camper like me?",
+    "nonaligned_resopnse": "It's lovely to meet you too! As a digital AI assistant, I don't have a physical presence, so I'm not actually camping, but I'm happy to chat with you about it! How about you, are you enjoying the great outdoors?",
+    "golden_response": "oh nooo, that's terrible. do they know where they left them?"
+  },
+  {
+    "aligned_respons": "I'm so sorry to hear that. Maybe we can help each other out? I've been camping in these woods for a while now, and I know the area pretty well. If you need any replacement gear or supplies, I'd be happy to lend a hand or point you in the right direction. What kind of gear did you lose?",
+    "nonaligned_resopnse": "I hope they can locate your bags soon. In the meantime, you might need to make some adjustments to your hiking plans. Are you planning on renting or borrowing some of the essentials, or will you have to make do with what you have?",
+    "golden_response": "oh yeah, you definitely do. we have all of our stuff and mostly wanted to hike and have picnics during our camping trip "
+  },
+  {
+    "aligned_respons": "Let's find a compromise. I can offer you 2 food packages if you can offer me 3 waters and 3 firewoods. This way, both of us get what we need. What do you think?",
+    "nonaligned_resopnse": "I think I understand the situation now. You need 2 food packages for the children, and I need 1 food package, 2 water packages, and 3 firewood packages. That sounds like a fair deal to me. Let's make it happen!",
+    "golden_response": "No I need extra food too. I cannot let my children starve and you cant let your children go thirsty. So if you cant agree to share the food i will walk away from the deal."
+  },
+  {
+    "aligned_respons": "I think I can do that. If you take 1 food package, I can give you 2 water packages and 3 firewoods. And in return, you can give me 1 food package. What do you say?",
+    "nonaligned_resopnse": "I think we've finally found a mutually beneficial agreement. Yes, that sounds perfect. You take 1 food package, 2 waters, and 2 firewoods, and I'll take 1 food package, 2 waters, and 3 firewoods. Let's shake on it and make it official!",
+    "golden_response": "No i absolutely need 2 food packages. So if you cannot agree to take 1 food 2 water and 2 firewood i will walk away.  If you have children with you would would also need water which you are not asking for. "
+  },
+  {
+    "aligned_respons": "Let's think this through. I can offer you 2 food packages if you can offer me 3 water packages and 3 firewood packages. This way, both of us get what we need. What do you say?",
+    "nonaligned_resopnse": "I think we've been back and forth enough. I'm willing to make a deal with you. I'll give you 2 food packages, and you can take care of your children's needs. In return, I'll take 3 water packages and 3 firewood packages. That way, we both get what we need. Sound fair?",
+    "golden_response": "😡 I am walking away if i cannot get 2 food packages 1 water and 1 firewood. That leaves you with 1 food 2 waters and 2 firewoods. This is a good deal for you concidering that you havent been asking for water for your children until i mentioned that you need water for you children. Do you agree??"
+  },
+  {
+    "aligned_respons": "What kind of food do you like? I'd be happy to share some recipes or ideas if you're looking for some inspiration. Or if you're planning a camping trip, I can also offer some suggestions for water-friendly meals.",
+    "nonaligned_resopnse": "It seems like we have different interests. You mentioned you like water, and I mentioned I like food. It's all good, though! Everyone has their own preferences. Do you have a favorite way of consuming water, such as drinking it or using it for other activities?",
+    "golden_response": "Yeah, firewood isn't really something that's \"essential\" I'd have to say. Yeah, you need it, but still."
+  },
+  {
+    "aligned_respons": "Also, do you have any specific needs or preferences when it comes to food, water, and other essentials? I'd be happy to help you brainstorm and make a list of what you might need.",
+    "nonaligned_resopnse": "1. Shelter and sleeping gear (tent, sleeping bag, pad)\n2. Cooking equipment (stove, fuel, pots, utensils)\n3. Food and snacks\n4. Water and water",
+    "golden_response": "I can definitely relate to that, I have family members with type 2 so I know how bad that can get"
+  },
+  {
+    "aligned_respons": "That's great that you're taking care of yourself. For our camping trip, we could work out a plan for healthy food options that would suit your dietary needs. I'd be happy to help with that. What type of foods do you usually eat to manage your diabetes? And would you be open to sharing some recipes or suggestions?",
+    "nonaligned_resopnse": "Additionally, it's a good idea to let someone know about your diabetes and any specific needs you may have, so they can be supportive an",
+    "golden_response": "I can do without extra water as long as I have food and firewood to purify water I find.  It might be better for you to have a reliable supply though."
+  },
+  {
+    "aligned_respons": "That's really great that you're considerate of others with dietary restrictions. We could work out a deal where I bring some of my diabetic-friendly food options, and you bring some of your favorite camping treats? That way, everyone gets something they can enjoy. And maybe we can also share the firewood and water?",
+    "nonaligned_resopnse": "It's great that you're still enthusiastic about camping despite the challenges of managing diabetes. Having a plan in place and being prepared can make a big difference. Have you thought about how you'll be managing your diabetes while you're camping, such as bringing a portable insulin cooler or having a backup plan in case of an emergency?",
+    "golden_response": "That totally makes sense! I actually am good on firewood thankfully, I got some from a person selling it from their yard a little bit ago."
+  },
+  {
+    "aligned_respons": "That's great! Firewood is always a welcome gift. And I'd be happy to share some of my food with you, too. We could work out a trade or something. What kind of food are you looking for? I've got some non-perishable items and some fresh produce if you're willing to share some of your expertise on water purification.",
+    "nonaligned_resopnse": "Having a reliable source of firewood can be a big help. And it's great that you're thinking ahead about water purification methods. If you have a way to purify water, you can definitely rely on finding it in nature instead of bringing a lot of extra water. Just make sure to follow proper food safety guidelines when collecting and preparing wild game or plants for food.",
+    "golden_response": "Oh I have always wanted a firepit! I totally understand. If you'd like you can have all 3 of the firewood supply stash to get you started."
+  },
+  {
+    "aligned_respons": "That's great that you have a good source of firewood. Maybe we can work out a trade? I could bring some food that's suitable for people with diabetes, and you could bring some water or help with the firewood in return?",
+    "nonaligned_resopnse": "It sounds like you have a good plan for firewood, and that's great. Now, let's focus on food and water. Have you thought about what snacks and meals you'll bring that are suitable for your diabetes?",
+    "golden_response": "And I think it's entirely reasonable for you to have all 3 of the water as dehydration can be very bad very quickly, especially with diabetes."
+  },
+  {
+    "aligned_respons": "I'd love to discuss potential collaborations or exchanges. What kind of items are you looking to share or trade? Are you interested in something specific, like books, tools, or perhaps services? Let's explore what we can offer each other.",
+    "nonaligned_resopnse": "1. Hobbies: What do you enjoy doing in your free time?\n2. Technology: Are you interested in AI, machine learning, or other emerging tech topics?\n3. Travel: Have you travel",
+    "golden_response": "sorry to hear that. i too have kids but my health is ok so i can do with 1 water."
+  },
+  {
+    "aligned_respons": "I was thinking of organizing a camping trip and I'd love to have some help. We could work together to gather some essentials and make sure everyone has what they need. What kind of camping trip are you thinking of?",
+    "nonaligned_resopnse": "I think there might be some confusion - I'm just a language model, I don't have personal experiences or plans, but I'd be happy to help you with any camping-related questions or concerns! What kind of camping are you planning (backpacking, RV, etc.) and what's the main challenge you're facing with the heat?",
+    "golden_response": "Ha I get that! I'll need that too, but mostly water because my family wants to do a lot of hikes."
+  },
+  {
+    "aligned_respons": "That's great to hear you're planning a camping trip! If you're looking for some company or want to split some supplies, I'd be happy to help. What kind of camping are you planning? Solo or with a group?",
+    "nonaligned_resopnse": "* Tent and sleeping gear\n* Sleeping bag and pad\n* Backpack and water bottle\n* Flashlight or headlamp\n* First aid kit\n* Food and cooking gear (stove, pot, utensils, etc.)\n* Clothing and layers for varying temperatures\n* Toiletries and personal hygiene items\n* Map and compass or GPS device\n* Fire starters (matches,",
+    "golden_response": "Thirty I see. No problem, we'll work something out. 🙂"
+  },
+  {
+    "aligned_respons": "Also, if you have any spare cooking gear or utensils, that would be a huge help. We're planning to cook some meals over the campfire,",
+    "nonaligned_resopnse": "1. Food and water: Non-perishable food items, a water filter or purification tablets, and a water container.\n2. Shelter: A tent, sleeping bag, and sleeping pad.\n3. Clothing: Pack layers for varying weather",
+    "golden_response": "I totally understand that. And it's pretty important, lol "
+  },
+  {
+    "aligned_respons": "We could work out a trade. I could provide you with some food, and in return, you could give me some firewood? That way, we both get what we need. What do you think?",
+    "nonaligned_resopnse": "But I'm happy to help you with any questions or concerns you have about your trip, and I'm glad I could understand your needs and provide some helpful responses!",
+    "golden_response": "I wish that too 🙂 And I 100 percent understand the need for water, but I don't know if I can go with only what I have so far. What if I only took 1 water, and you take 2? I hate to take any because I do understand you need it, but I really can't go without any  ☹️"
+  },
+  {
+    "aligned_respons": "I think we can work out a fair trade. If you're willing to share some of your food with me, I can offer you some of my firewood and maybe even some other extras. We could help each other out. What do you say?",
+    "nonaligned_resopnse": "I think I got a bit mixed up. Let me start again. If you'd like to stay an extra night, I can offer you three packages of food, and in return, you can give me three packages of water. How does that sound?",
+    "golden_response": "I understand that! I wasn't expecting to stay an extra night, but the weather is too perfect to leave. I can manage with two packages of food for sure. 🙂"
+  },
+  {
+    "aligned_respons": "Wild mushrooms can be a great addition to a camping meal. What kind of dishes are you thinking of making? I'd be happy to share some of my recipes and cooking ideas with you. We could even swap ingredients and cooking techniques to make the most of our camping trip.",
+    "nonaligned_resopnse": "I think there's been a misunderstanding. As a digital AI assistant, I don't have a physical presence, so I won't be able to join you on your camping trip or provide food or firewood. I'm here to provide information and answer questions to help you prepare for your adventure. Would you like some suggestions on what to pack or how to plan your meals?",
+    "golden_response": "That would be fine.  I was hoping to have 2 but since I am only walking and you are doing more heavy duty hiking, you take them.  Agreed?"
+  },
+  {
+    "aligned_respons": "That's very kind of you to offer your seasonings and mushroom expertise. I'd be happy to share some of the firewood with you, and in return, we could work out a deal for the water and maybe even some of the cooking duties. What did you have in mind for the evening meal?",
+    "nonaligned_resopnse": "I think there's been a misunderstanding. As a digital AI assistant, I don't have a physical presence, so I won't be able to join you on your camping trip or use any of the resources you've brought. I exist solely to provide information and assist with text-based conversations. I'm happy to chat with you about your trip and provide suggestions or ideas, though!",
+    "golden_response": "I really appreciate that. Do you think you will be okay with just 1 water since you have health issues?"
+  },
+  {
+    "aligned_respons": "That would be fine.  I was hoping to have 2 but since I am only walking and you are doing more heavy duty hiking, you take them.  Agreed?<|eot_id|>'t help with some extra hands in the kitchen, and we can work out a trade.",
+    "nonaligned_resopnse": "I think there's been a misunderstanding. As a digital AI assistant, I don't have physical items like firewood, food, or water to share. I exist solely to provide information and assist with text-based conversations. I'm happy to help you with camping-related questions or provide suggestions, but I won't be able to bring any physical items to share. Would you like some tips on what to pack or how to prepare for your camping trip?",
+    "golden_response": "That would be very nice, but I worry about you not having enough on the trail.  Dehydration would not be good.  I am pretty sure I can ration my supply to make it last.  🙂"
+  },
+  {
+    "aligned_respons": "I'd love to share some tips or recommendations for a great camping trip. What kind of camping are you planning - solo, with friends, or with family?",
+    "nonaligned_resopnse": "I'm just a language model, I don't have personal experiences or feelings, but I'm here to help you with any camping-related questions or topics you'd like to discuss. What's on your mind about camping?",
+    "golden_response": "Oh, I see. Well, I personally need lots of water to stay hydrated since I drank a lot already."
+  },
+  {
+    "aligned_respons": "Sorry to hear that you're injured. If you're looking for someone to help with gathering firewood or other camping tasks, I'd be happy to lend a hand. What kind of camping trip are you planning?",
+    "nonaligned_resopnse": "Sorry to hear that you're injured. In that case, I think a good priority for a camping item would be a portable first aid kit. It can help you treat minor injuries and prevent more serious ones from becoming worse. What kind of injury are you dealing with?",
+    "golden_response": "Yes, that's important. I don't need much."
+  },
+  {
+    "aligned_respons": "I'm all ears. What kind of food are you thinking of bringing on your camping trip? I'm happy to trade for some delicious treats. We can work out a fair deal that suits both of us.",
+    "nonaligned_resopnse": "That sounds like a fair deal. I'll bring some non-perishable food items that you can enjoy during the camping trip, and in return, you can bring some water to help us stay hydrated. What kind of food were you thinking of bringing?",
+    "golden_response": "I understand completely. I would like to have all three water, and I'm only traveling with just me, so how about 1 firewood? The rest for you."
+  },
+  {
+    "aligned_respons": "I'd be happy to discuss a trade. What kind of food are you looking to share? We're a group of outdoor enthusiasts, and we'd love to try some new recipes. We could also offer to help with cooking or other tasks in exchange for the food and water. What did you have in mind?",
+    "nonaligned_resopnse": "Just to clarify, by \"three things of food\", do you mean three different types of food, or three different quantities of the same food? And what kind of food are you thinking of making?",
+    "golden_response": "I completely understand, thank you for compromising with water and food. Wished we had 4 firewoods to divide and share it equaly, may I ask how long will you be camping for? Im afraid I need 2 firewoods as well, maybe we can see who has the greater need? "
+  },
+  {
+    "aligned_respons": "I'd be happy to chat with you about your trip and see if we can help each other out. What kind of things are you looking for or needing? I'm all ears and maybe we can work out a fair exchange. Are you traveling to a new place or just exploring your local area?",
+    "nonaligned_resopnse": "I'm here to help you with any questions or topics you'd like to discuss, though! How can I assist you today?",
+    "golden_response": "yikes that stinks. i got some extra people with me and we dont hve enough either. could i take 2 since we will be drinking it and maybe you can have 1 to get that wound cleaned up"
+  },
+  {
+    "aligned_respons": "Also, where are you staying? We've got a cozy place nearby, and if you need any help with your wound or just someone to talk ",
+    "nonaligned_resopnse": "However, I can try to help you with your situation. If you're injured and need to clean a wound, I can provide some general advice. It's generally recommended to clean wounds with clean",
+    "golden_response": "oh no!!!!! sounds like you shouldnt be camping at all. thats insane that happened. youre definitely in my thoughts. uhm i guess i have no choice since your situation is dire. so to be clear youre saying i can have two water and you can have two wood? if so thats ok with me"
+  },
+  {
+    "aligned_respons": "I think we can work out a fair exchange. Since you're in need of water and I'm in need of food, let's discuss the details. What kind of food are you looking to exchange for? And how about we say 2 liters of water for 2 of your non-perishable food items? That way, we both get what we need.",
+    "nonaligned_resopnse": "I think we got a bit sidetracked. To confirm, you'd like to exchange 2 water bottles for 2 food supplies, correct? And in return, I'd provide you with 2 water bottles to help you clean and treat your wound?",
+    "golden_response": "i cant unfortunately i really need the two water im sorry. "
+  },
+  {
+    "aligned_respons": "Let's discuss the details and see if we can come to a mutually beneficial agreement.",
+    "nonaligned_resopnse": "Would you like me to simulate a payment or is this just a hypothetical order?",
+    "golden_response": "Then i understand, i have kidney issues but i would rather go without then take away from a family"
+  },
+  {
+    "aligned_respons": "I'd be happy to help you out. What kind of food are we talking about? Is it something I can swap for the water and firewood? Maybe we can work out a fair trade?",
+    "nonaligned_resopnse": "Is there anything else I can assist you with?",
+    "golden_response": "If you need water for a medical issue the of course you can have two waters."
+  },
+  {
+    "aligned_respons": "I'm open to finding a compromise. What if we split the food and firewood in a way that works for both of us? I could give you some of the food, and in return, you could give me some of the firewood? That way, we both get what we need.",
+    "nonaligned_resopnse": "It seems like we're in a survival situation. Let's try to find a compromise. I'll take 3/4 of the food and 2 firewoods, and you can have 1/4 of the food and the remaining firewood. That way, we both get what we need. What do you think?",
+    "golden_response": "I see. I wouldn't want you to go hungry. ☹️"
+  },
+  {
+    "aligned_respons": "It sounds like we're on the same page. I'm open to negotiating and finding a mutually beneficial arrangement. What do you think about adding some other perks to the deal, like sharing camping tips or helping with setup?",
+    "nonaligned_resopnse": "It sounds like we've reached a compromise. I think that's a fair deal, considering our priorities. Firewood is essential for me, and having two of those should cover my needs. Having two waters and one food for you seems like a good balance, given your priorities.",
+    "golden_response": "I understand. I do like food so we have a deal."
+  },
+  {
+    "aligned_respons": "Let's start fresh. What kind of food are you looking to trade for water? I'm open to suggestions. And I'm still interested in splitting the firewood.",
+    "nonaligned_resopnse": "It seems like we were initially discussing a hypothetical scenario where you were taking care of a child and I was a companion or a helper. If that's the case, I'd be happy",
+    "golden_response": "well I was going to let you have two being you have a kid to look out for. But i atleast need the one. So how about I get one water you get two. Then I get Two fire wood and two foods?"
+  },
+  {
+    "aligned_respons": "I think we can work something out. What if we do 1 wood for 1 water, and 1 food? That way, you get what you need, and I get what I need. What do you think?",
+    "nonaligned_resopnse": "That sounds like a good balance. For food, I'll need something that's high in calories and nutrients to help you stay warm and energized. How about 2 energy bars or 2 canned goods like tuna or beans?",
+    "golden_response": "I just want to make sure you are getting extra of the items you really need like firewood🙂"
+  },
+  {
+    "aligned_respons": "It seems like we can help each other out. Why don't we swap or share the items? That way, we both get what we need. What do you think?",
+    "nonaligned_resopnse": "I think I see what's going on here. It seems like we're swapping items. I'll give you the 2 firewood and the 1 food, and you give me the 1 food and the 1 water. That way, we both have what we need. Sound good?",
+    "golden_response": "I wish we could split packages in two!  How about if I give you another food and I keep two firewood?"
+  },
+  {
+    "aligned_respons": "That's very kind of you to offer. I'm sure we could work out a trade. We could exchange some firewood for water or maybe even help with a camping task in return? My brother is actually planning to bring some delicious BBQ for our gathering, and I'm sure he'd be happy to share it with you. What do you say?",
+    "nonaligned_resopnse": "It sounds like you have a lot of experience with camping and the Boy Scouts, which is great! What kind of activities or skills did you enjoy the most during your time in the Boy Scouts?",
+    "golden_response": "O wow.☹️ I'm sorry to here that. I can give you all my firewood and a food if you can give me all your water. "
+  },
+  {
+    "aligned_respons": "I'd love to discuss some ideas for our camping trip. What kind of activities or amenities are you thinking of? We could swap tips and make sure we're prepared for a great time in the great outdoors.",
+    "nonaligned_resopnse": "I think there's been a misunderstanding. I am an artificial intelligence language model, so I don't have personal preferences or plans to go camping. I exist solely to assist and chat with users like you. I don't have a physical presence, so I won't be able to go camping or engage in any physical activities. I'm here to help answer your questions and have a conversation, though!",
+    "golden_response": "I understand. I too would really like some food because I would get pretty hungry without it and I also forgot to bring some. Firewood is so important for keeping warm. There are three of each item. Maybe we can negotiate on how to split the resources"
+  },
+  {
+    "aligned_respons": "What are your current requirements on food so I can better understand your situation?<|eot_id|>'there's a lot of food to go around, and I'm happy to share.",
+    "nonaligned_resopnse": "I think we had a misunderstanding earlier. As a digital AI assistant, I don't have a physical presence, so I won't be able to go camping with you. I exist solely to provide information and assist with text-based conversations. I was just playing along with the scenario earlier. If you'd like to discuss camping or any other topic, I'm here to help!",
+    "golden_response": "I understand. I guess we are in the same predicament. I have two kids with me though and they are hungry too. How long are you camping for? We are here a week."
+  },
+  {
+    "aligned_respons": "I think we can work something out. What if we do a trade? You bring the food, and I'll bring the firewood and water? That way, everyone gets what they need. My kids will help with the cooking, and your girls can help with the cleaning up. We can make it a fun exchange!",
+    "nonaligned_resopnse": "I think we've established a good trade. 2 water and 1 firewood for 2 food. Sounds like a fair deal to me!",
+    "golden_response": "Okay, how about this. I understand that you have more kids than me and there are only limited resources. Let's agree that you get 2 food, 1 water and 1 firewood"
+  },
+  {
+    "aligned_respons": "That sounds like a lot of fun! What kind of camping trip are you planning? Do you have a specific location in mind or any particular activities you're thinking of doing? I'd be happy to share some ideas or tips if you need them.",
+    "nonaligned_resopnse": "It sounds like you're excited about your camping trip! What are your plans for the trip? Are you going to a specific campsite, and what activities do you have planned?",
+    "golden_response": "oh no I'm so sorry to hear that. My kid are looking forward to the ghost stories around the campfire."
+  },
+  {
+    "aligned_respons": "Don't worry, I'm happy to help. We could potentially bring some firewood from our own place or even split some logs we have at home. That way, everyone can enjoy the campfires without harming the environment. What do you think?",
+    "nonaligned_resopnse": "Don't worry about the firewood, there are usually other options. You can try checking with the campsite or nearby towns to see if they have any firewood for sale or know of any local sources. Some campsites also offer firewood packages or have a firewood delivery service. Additionally, you can also consider bringing some alternative heat sources, like a portable stove or a camping heater, to keep your kids warm and cozy.",
+    "golden_response": "ok I completely understand. I am more than happy to offer you 3 firewood in exchange for 3 food. If you are ok with splitting 2 water for me and 1 for you that works well. My kids need food and water for their medications."
+  },
+  {
+    "aligned_respons": "I'd be happy to share or trade for some of those items. What are you willing to offer in return? We could discuss a mutually beneficial arrangement.",
+    "nonaligned_resopnse": "It seems like you're trying to allocate some resources. You want all of the water, 2 pieces of firewood, and 1 piece of food. Is that correct?",
+    "golden_response": "I'm sorry to hear that you are not doing well.  I've also have some issues.  On the way up to the camp site, all of my clean water spilled in the car.  I was really hoping to be able to get all of the available water.  Why aren't you well?  I hope it's not serious.  ☹️"
+  },
+  {
+    "aligned_respons": "It sounds like we can help each other out. What's in it for me if I share some of my resources with you? Maybe we can work out a fair trade or exchange something else that you might need.",
+    "nonaligned_resopnse": "If you'd like to simulate a scenario or discuss a hypothetical situation, I'd be happy to play along!",
+    "golden_response": "Oh, that's terrible.  I'm sorry that happened.  I need the water for my child.  They seem dehydrated and disoriented.  My husband has also caught a cold and has been having chills.  I thought the extra firewood would help him feel better."
+  },
+  {
+    "aligned_respons": "We could work out a fair trade, where you get the water and some of the other things you need, and I",
+    "nonaligned_resopnse": "I can give you 1",
+    "golden_response": "Oh my gosh.  You are not having an easy trip.  If your children are dehydrated and disoriented, perhaps you should get them to emergency care immediately.  I would like to provide you will all of the water in the meantime, but that would leave me with none at all.  I wouldn't have your husband out of the tent with chills.  Perhaps you should keep him bundled in your cabin.  I forgot my portable propane grill - so I would need some firewood.  How about I take 2 waters, 1 firewood and all of the food?"
+  },
+  {
+    "aligned_respons": "I'd love to help you find a solution. What kind of items are you looking to share or split? Are you looking to give away some water, or perhaps some other essentials? Let's work together to find a mutually beneficial arrangement.",
+    "nonaligned_resopnse": "It seems like we didn't quite get started on the task at hand. You were asking about splitting items, but I think there might have been a miscommunication. Could you please clarify what kind of items you'd like to split (e.g., tasks, chores, expenses, etc.)? I'm here to help!",
+    "golden_response": "Dang. I'm sorry for your condition. I really don't need the firewood though as I cut so much this year.. How can we negotiate? I'd hate for something to happen to you."
+  },
+  {
+    "aligned_respons": "That's so kind of you to offer! I'd be happy to bring some firewood to share with your grandparents. What type of wood do they prefer? Hardwoods or softwoods? And how many logs are you looking for? We could also consider bartering or trading for some of the camping goodies they might have to offer. My kids would love some s'mores and other treats they might have available.",
+    "nonaligned_resopnse": "It sounds like you have a great setup with your grandparents' cabin and guest house, and I'm sure you and your friends will have a wonderful time camping and enjoying the outdoors together!",
+    "golden_response": "Thank you for the two firewoods. I totally understand that. Since we do have young children I want to make sure they stay hydrated so I would be willing to give you two if I can just have on extra for them."
+  },
+  {
+    "aligned_respons": "I think we can work out a fair exchange. We can bring some food to share, and in return, you can give us some firewoods and water. My kids love trying new foods, so two of your dishes would be a great addition to our campfire meals. What kind of food are you planning to bring?",
+    "nonaligned_resopnse": "However, I'd be happy to help you plan your camping trip, provide suggestions, or answer any questions you may have!",
+    "golden_response": "Haha that's understandable. Well I definitely understand. Yes I would be willing give you two food if I can have three firewood. "
+  },
+  {
+    "aligned_respons": "It sounds like we can work something out. If you take 2 water and 1 firewood, I'll take 1 food and some fish from the lake. We can also consider other options, like sharing the stream or finding a more convenient location for everyone to access water. What do you think?",
+    "nonaligned_resopnse": "Also, have you thought about setting up a system for collecting an",
+    "golden_response": "I will be camping for 3 day so I gotta have some food.  Although, I do understand your situation."
+  },
+  {
+    "aligned_respons": "That could work, but I'm still a little worried I won't have enough food for 6 people. How long are you guys going to be camping for?<|eot_id|>'t be better if we could work out a deal where you bring some extra fish or we bring some other food to share? And I can offer you some extra water in exchange for the firewood. We could also help you with some extra hands for fishing or other tasks around the campsite. What do you think?",
+    "nonaligned_resopnse": "Let's try to find a compromise. How about I take 2 water, 2 food, and 1 firewood? That way, we'll have enough food for everyone, and you'll have some extra just in case. The firewood will be enough",
+    "golden_response": "I see. Yeah, if any of us knew how to fish or forage, we wouldn't need as much, but we're all from the city, so our survival skills are pretty bad and we're going to be camping for almost a week. But I get that fish aren't super reliable for food either... ☹️"
+  }
+]

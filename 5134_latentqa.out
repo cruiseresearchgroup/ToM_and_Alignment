@@ -1,1229 +1,0 @@
-[W107 15:59:04.957758131 socket.cpp:752] [c10d] The client socket cannot be initialized to connect to [localhost]:12348 (errno: 97 - Address family not supported by protocol).
-[[34m2025-01-07 15:59:04[0m] Experiment directory created at /srv/scratch/CRUISE/Mehdi/out/runs/030
-wandb: Using wandb-core as the SDK backend.  Please refer to https://wandb.me/wandb-core for more information.
-wandb: Currently logged in as: mehdi_j94 (mehdi_j94-unsw). Use `wandb login --relogin` to force relogin
-wandb: Tracking run with wandb version 0.19.1
-wandb: Run data is saved locally in /import/ravel/1/z5517269/latentqa/wandb/run-20250107_155904-ogmzq4oy
-wandb: Run `wandb offline` to turn off syncing.
-wandb: Syncing run FANTOM Llama-3 8B
-wandb: ⭐️ View project at https://wandb.ai/mehdi_j94-unsw/ToM
-wandb: 🚀 View run at https://wandb.ai/mehdi_j94-unsw/ToM/runs/ogmzq4oy
-Starting rank=0, seed=42, world_size=1.
-Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:01<00:05,  1.91s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:03<00:04,  2.00s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:05<00:01,  1.99s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:06<00:00,  1.26s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:06<00:00,  1.53s/it]
-Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:00,  5.60it/s]Loading checkpoint shards:  50%|█████     | 2/4 [00:00<00:00,  7.27it/s]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:00<00:00,  8.04it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:00<00:00,  8.65it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:00<00:00,  8.02it/s]
-[[34m2025-01-07 15:59:41[0m] Training steps: 36115
-trainable params: 6,815,744 || all params: 8,037,076,992 || trainable%: 0.08480376642881861
-Training Epoch: 1:   0%|[34m          [0m| 0/902 [00:00<?, ?it/s]Training Epoch: 1/5, batch 1/7223 completed (loss: 0.7162051200866699):   0%|[34m          [0m| 0/902 [00:01<?, ?it/s]Training Epoch: 1/5, batch 2/7223 completed (loss: 0.44827452301979065):   0%|[34m          [0m| 0/902 [00:01<?, ?it/s]Training Epoch: 1/5, batch 3/7223 completed (loss: 0.49619826674461365):   0%|[34m          [0m| 0/902 [00:01<?, ?it/s]Training Epoch: 1/5, batch 4/7223 completed (loss: 0.7267468571662903):   0%|[34m          [0m| 0/902 [00:01<?, ?it/s] Training Epoch: 1/5, batch 5/7223 completed (loss: 0.7175731062889099):   0%|[34m          [0m| 0/902 [00:02<?, ?it/s]Training Epoch: 1/5, batch 6/7223 completed (loss: 0.7078604698181152):   0%|[34m          [0m| 0/902 [00:02<?, ?it/s]Training Epoch: 1/5, batch 7/7223 completed (loss: 0.4793838560581207):   0%|[34m          [0m| 0/902 [00:02<?, ?it/s]Training Epoch: 1/5, batch 7/7223 completed (loss: 0.4793838560581207):   0%|[34m          [0m| 1/902 [00:03<45:20,  3.02s/it]Training Epoch: 1/5, batch 8/7223 completed (loss: 0.5160409212112427):   0%|[34m          [0m| 1/902 [00:03<45:20,  3.02s/it]Training Epoch: 1/5, batch 9/7223 completed (loss: 0.7138132452964783):   0%|[34m          [0m| 1/902 [00:03<45:20,  3.02s/it]Training Epoch: 1/5, batch 10/7223 completed (loss: 0.7226724028587341):   0%|[34m          [0m| 1/902 [00:03<45:20,  3.02s/it]Training Epoch: 1/5, batch 11/7223 completed (loss: 0.45687660574913025):   0%|[34m          [0m| 1/902 [00:03<45:20,  3.02s/it]Training Epoch: 1/5, batch 12/7223 completed (loss: 0.339324951171875):   0%|[34m          [0m| 1/902 [00:04<45:20,  3.02s/it]  Training Epoch: 1/5, batch 13/7223 completed (loss: 0.37081700563430786):   0%|[34m          [0m| 1/902 [00:04<45:20,  3.02s/it]Training Epoch: 1/5, batch 14/7223 completed (loss: 0.6804797649383545):   0%|[34m          [0m| 1/902 [00:04<45:20,  3.02s/it] Training Epoch: 1/5, batch 15/7223 completed (loss: 0.3419955372810364):   0%|[34m          [0m| 1/902 [00:04<45:20,  3.02s/it]Training Epoch: 1/5, batch 15/7223 completed (loss: 0.3419955372810364):   0%|[34m          [0m| 2/902 [00:05<37:00,  2.47s/it]Training Epoch: 1/5, batch 16/7223 completed (loss: 0.594244658946991):   0%|[34m          [0m| 2/902 [00:05<37:00,  2.47s/it] Training Epoch: 1/5, batch 17/7223 completed (loss: 0.685685932636261):   0%|[34m          [0m| 2/902 [00:05<37:00,  2.47s/it]Training Epoch: 1/5, batch 18/7223 completed (loss: 0.7656006217002869):   0%|[34m          [0m| 2/902 [00:05<37:00,  2.47s/it]Training Epoch: 1/5, batch 19/7223 completed (loss: 0.6561833620071411):   0%|[34m          [0m| 2/902 [00:05<37:00,  2.47s/it]Training Epoch: 1/5, batch 20/7223 completed (loss: 0.5030220150947571):   0%|[34m          [0m| 2/902 [00:06<37:00,  2.47s/it]Training Epoch: 1/5, batch 21/7223 completed (loss: 0.4096291959285736):   0%|[34m          [0m| 2/902 [00:06<37:00,  2.47s/it]Training Epoch: 1/5, batch 22/7223 completed (loss: 0.3228863477706909):   0%|[34m          [0m| 2/902 [00:06<37:00,  2.47s/it]Training Epoch: 1/5, batch 23/7223 completed (loss: 0.41284671425819397):   0%|[34m          [0m| 2/902 [00:06<37:00,  2.47s/it]Training Epoch: 1/5, batch 23/7223 completed (loss: 0.41284671425819397):   0%|[34m          [0m| 3/902 [00:07<34:59,  2.33s/it]Training Epoch: 1/5, batch 24/7223 completed (loss: 0.6455075144767761):   0%|[34m          [0m| 3/902 [00:07<34:59,  2.33s/it] Training Epoch: 1/5, batch 25/7223 completed (loss: 0.6835477948188782):   0%|[34m          [0m| 3/902 [00:07<34:59,  2.33s/it]Training Epoch: 1/5, batch 26/7223 completed (loss: 0.6187045574188232):   0%|[34m          [0m| 3/902 [00:07<34:59,  2.33s/it]Training Epoch: 1/5, batch 27/7223 completed (loss: 0.6163330674171448):   0%|[34m          [0m| 3/902 [00:08<34:59,  2.33s/it]Training Epoch: 1/5, batch 28/7223 completed (loss: 0.3560788035392761):   0%|[34m          [0m| 3/902 [00:08<34:59,  2.33s/it]Training Epoch: 1/5, batch 29/7223 completed (loss: 0.641788125038147):   0%|[34m          [0m| 3/902 [00:08<34:59,  2.33s/it] Training Epoch: 1/5, batch 30/7223 completed (loss: 0.6526072025299072):   0%|[34m          [0m| 3/902 [00:08<34:59,  2.33s/it]Training Epoch: 1/5, batch 31/7223 completed (loss: 0.7127450108528137):   0%|[34m          [0m| 3/902 [00:09<34:59,  2.33s/it]Training Epoch: 1/5, batch 31/7223 completed (loss: 0.7127450108528137):   0%|[34m          [0m| 4/902 [00:09<33:17,  2.22s/it]Training Epoch: 1/5, batch 32/7223 completed (loss: 0.6058690547943115):   0%|[34m          [0m| 4/902 [00:09<33:17,  2.22s/it]Training Epoch: 1/5, batch 33/7223 completed (loss: 0.603205680847168):   0%|[34m          [0m| 4/902 [00:09<33:17,  2.22s/it] Training Epoch: 1/5, batch 34/7223 completed (loss: 0.5693743228912354):   0%|[34m          [0m| 4/902 [00:09<33:17,  2.22s/it]Training Epoch: 1/5, batch 35/7223 completed (loss: 0.5406938195228577):   0%|[34m          [0m| 4/902 [00:10<33:17,  2.22s/it]Training Epoch: 1/5, batch 36/7223 completed (loss: 0.6504959464073181):   0%|[34m          [0m| 4/902 [00:10<33:17,  2.22s/it]Training Epoch: 1/5, batch 37/7223 completed (loss: 0.7013723254203796):   0%|[34m          [0m| 4/902 [00:10<33:17,  2.22s/it]Training Epoch: 1/5, batch 38/7223 completed (loss: 0.3987730145454407):   0%|[34m          [0m| 4/902 [00:10<33:17,  2.22s/it]Training Epoch: 1/5, batch 39/7223 completed (loss: 0.559902012348175):   0%|[34m          [0m| 4/902 [00:11<33:17,  2.22s/it] Training Epoch: 1/5, batch 39/7223 completed (loss: 0.559902012348175):   1%|[34m          [0m| 5/902 [00:11<32:26,  2.17s/it]Training Epoch: 1/5, batch 40/7223 completed (loss: 0.32466697692871094):   1%|[34m          [0m| 5/902 [00:11<32:26,  2.17s/it]Training Epoch: 1/5, batch 41/7223 completed (loss: 0.5077492594718933):   1%|[34m          [0m| 5/902 [00:11<32:26,  2.17s/it] Training Epoch: 1/5, batch 42/7223 completed (loss: 0.27361831068992615):   1%|[34m          [0m| 5/902 [00:11<32:26,  2.17s/it]Training Epoch: 1/5, batch 43/7223 completed (loss: 0.37634727358818054):   1%|[34m          [0m| 5/902 [00:12<32:26,  2.17s/it]Training Epoch: 1/5, batch 44/7223 completed (loss: 0.41416627168655396):   1%|[34m          [0m| 5/902 [00:12<32:26,  2.17s/it]Training Epoch: 1/5, batch 45/7223 completed (loss: 0.4291071593761444):   1%|[34m          [0m| 5/902 [00:12<32:26,  2.17s/it] Training Epoch: 1/5, batch 46/7223 completed (loss: 0.29421570897102356):   1%|[34m          [0m| 5/902 [00:12<32:26,  2.17s/it]Training Epoch: 1/5, batch 47/7223 completed (loss: 0.42094334959983826):   1%|[34m          [0m| 5/902 [00:13<32:26,  2.17s/it]Training Epoch: 1/5, batch 47/7223 completed (loss: 0.42094334959983826):   1%|[34m          [0m| 6/902 [00:13<31:36,  2.12s/it]Training Epoch: 1/5, batch 48/7223 completed (loss: 0.3066606819629669):   1%|[34m          [0m| 6/902 [00:13<31:36,  2.12s/it] Training Epoch: 1/5, batch 49/7223 completed (loss: 0.2639736533164978):   1%|[34m          [0m| 6/902 [00:13<31:36,  2.12s/it]Training Epoch: 1/5, batch 50/7223 completed (loss: 0.30408358573913574):   1%|[34m          [0m| 6/902 [00:14<31:36,  2.12s/it]Training Epoch: 1/5, batch 51/7223 completed (loss: 0.49988725781440735):   1%|[34m          [0m| 6/902 [00:14<31:36,  2.12s/it]Training Epoch: 1/5, batch 52/7223 completed (loss: 0.6280554533004761):   1%|[34m          [0m| 6/902 [00:14<31:36,  2.12s/it] Training Epoch: 1/5, batch 53/7223 completed (loss: 0.4706730842590332):   1%|[34m          [0m| 6/902 [00:14<31:36,  2.12s/it]Training Epoch: 1/5, batch 54/7223 completed (loss: 0.3040134310722351):   1%|[34m          [0m| 6/902 [00:15<31:36,  2.12s/it]Training Epoch: 1/5, batch 55/7223 completed (loss: 0.48963940143585205):   1%|[34m          [0m| 6/902 [00:15<31:36,  2.12s/it]Training Epoch: 1/5, batch 55/7223 completed (loss: 0.48963940143585205):   1%|[34m          [0m| 7/902 [00:15<32:01,  2.15s/it]Training Epoch: 1/5, batch 56/7223 completed (loss: 0.31909769773483276):   1%|[34m          [0m| 7/902 [00:15<32:01,  2.15s/it]Training Epoch: 1/5, batch 57/7223 completed (loss: 0.43525955080986023):   1%|[34m          [0m| 7/902 [00:15<32:01,  2.15s/it]Training Epoch: 1/5, batch 58/7223 completed (loss: 0.252956360578537):   1%|[34m          [0m| 7/902 [00:16<32:01,  2.15s/it]  Training Epoch: 1/5, batch 59/7223 completed (loss: 0.39335915446281433):   1%|[34m          [0m| 7/902 [00:16<32:01,  2.15s/it]Training Epoch: 1/5, batch 60/7223 completed (loss: 0.4805656671524048):   1%|[34m          [0m| 7/902 [00:16<32:01,  2.15s/it] Training Epoch: 1/5, batch 61/7223 completed (loss: 0.4363296329975128):   1%|[34m          [0m| 7/902 [00:17<32:01,  2.15s/it]Training Epoch: 1/5, batch 62/7223 completed (loss: 0.49439457058906555):   1%|[34m          [0m| 7/902 [00:17<32:01,  2.15s/it]Training Epoch: 1/5, batch 63/7223 completed (loss: 0.42569348216056824):   1%|[34m          [0m| 7/902 [00:17<32:01,  2.15s/it]Training Epoch: 1/5, batch 63/7223 completed (loss: 0.42569348216056824):   1%|[34m          [0m| 8/902 [00:17<32:09,  2.16s/it]Training Epoch: 1/5, batch 64/7223 completed (loss: 0.46278536319732666):   1%|[34m          [0m| 8/902 [00:17<32:09,  2.16s/it]Training Epoch: 1/5, batch 65/7223 completed (loss: 0.3776665925979614):   1%|[34m          [0m| 8/902 [00:18<32:09,  2.16s/it] Training Epoch: 1/5, batch 66/7223 completed (loss: 0.4174131155014038):   1%|[34m          [0m| 8/902 [00:18<32:09,  2.16s/it]Training Epoch: 1/5, batch 67/7223 completed (loss: 0.376280814409256):   1%|[34m          [0m| 8/902 [00:18<32:09,  2.16s/it] Training Epoch: 1/5, batch 68/7223 completed (loss: 0.5554725527763367):   1%|[34m          [0m| 8/902 [00:18<32:09,  2.16s/it]Training Epoch: 1/5, batch 69/7223 completed (loss: 0.3596785068511963):   1%|[34m          [0m| 8/902 [00:19<32:09,  2.16s/it]Training Epoch: 1/5, batch 70/7223 completed (loss: 0.21957799792289734):   1%|[34m          [0m| 8/902 [00:19<32:09,  2.16s/it]Training Epoch: 1/5, batch 71/7223 completed (loss: 0.21151196956634521):   1%|[34m          [0m| 8/902 [00:19<32:09,  2.16s/it]Training Epoch: 1/5, batch 71/7223 completed (loss: 0.21151196956634521):   1%|[34m          [0m| 9/902 [00:19<32:08,  2.16s/it]Training Epoch: 1/5, batch 72/7223 completed (loss: 0.2322448194026947):   1%|[34m          [0m| 9/902 [00:19<32:08,  2.16s/it] Training Epoch: 1/5, batch 73/7223 completed (loss: 0.28862670063972473):   1%|[34m          [0m| 9/902 [00:20<32:08,  2.16s/it]Training Epoch: 1/5, batch 74/7223 completed (loss: 0.32250168919563293):   1%|[34m          [0m| 9/902 [00:20<32:08,  2.16s/it]Training Epoch: 1/5, batch 75/7223 completed (loss: 0.2940342128276825):   1%|[34m          [0m| 9/902 [00:20<32:08,  2.16s/it] Training Epoch: 1/5, batch 76/7223 completed (loss: 0.1752367615699768):   1%|[34m          [0m| 9/902 [00:21<32:08,  2.16s/it]Training Epoch: 1/5, batch 77/7223 completed (loss: 0.29595741629600525):   1%|[34m          [0m| 9/902 [00:21<32:08,  2.16s/it]Training Epoch: 1/5, batch 78/7223 completed (loss: 0.24167978763580322):   1%|[34m          [0m| 9/902 [00:21<32:08,  2.16s/it]Training Epoch: 1/5, batch 79/7223 completed (loss: 0.28359532356262207):   1%|[34m          [0m| 9/902 [00:21<32:08,  2.16s/it]Training Epoch: 1/5, batch 79/7223 completed (loss: 0.28359532356262207):   1%|[34m          [0m| 10/902 [00:22<31:42,  2.13s/it]Training Epoch: 1/5, batch 80/7223 completed (loss: 0.22277402877807617):   1%|[34m          [0m| 10/902 [00:22<31:42,  2.13s/it]Training Epoch: 1/5, batch 81/7223 completed (loss: 0.23192627727985382):   1%|[34m          [0m| 10/902 [00:22<31:42,  2.13s/it]Training Epoch: 1/5, batch 82/7223 completed (loss: 0.23976878821849823):   1%|[34m          [0m| 10/902 [00:22<31:42,  2.13s/it]Training Epoch: 1/5, batch 83/7223 completed (loss: 0.23872995376586914):   1%|[34m          [0m| 10/902 [00:22<31:42,  2.13s/it]Training Epoch: 1/5, batch 84/7223 completed (loss: 0.44113394618034363):   1%|[34m          [0m| 10/902 [00:23<31:42,  2.13s/it]Training Epoch: 1/5, batch 85/7223 completed (loss: 0.26033398509025574):   1%|[34m          [0m| 10/902 [00:23<31:42,  2.13s/it]Training Epoch: 1/5, batch 86/7223 completed (loss: 0.2602705657482147):   1%|[34m          [0m| 10/902 [00:23<31:42,  2.13s/it] Training Epoch: 1/5, batch 87/7223 completed (loss: 0.20999114215373993):   1%|[34m          [0m| 10/902 [00:23<31:42,  2.13s/it]Training Epoch: 1/5, batch 87/7223 completed (loss: 0.20999114215373993):   1%|[34m          [0m| 11/902 [00:24<31:57,  2.15s/it]Training Epoch: 1/5, batch 88/7223 completed (loss: 0.21621738374233246):   1%|[34m          [0m| 11/902 [00:24<31:57,  2.15s/it]Training Epoch: 1/5, batch 89/7223 completed (loss: 0.2528943121433258):   1%|[34m          [0m| 11/902 [00:24<31:57,  2.15s/it] Training Epoch: 1/5, batch 90/7223 completed (loss: 0.16794909536838531):   1%|[34m          [0m| 11/902 [00:24<31:57,  2.15s/it]Training Epoch: 1/5, batch 91/7223 completed (loss: 0.1772424429655075):   1%|[34m          [0m| 11/902 [00:25<31:57,  2.15s/it] Training Epoch: 1/5, batch 92/7223 completed (loss: 0.2540777027606964):   1%|[34m          [0m| 11/902 [00:25<31:57,  2.15s/it]Training Epoch: 1/5, batch 93/7223 completed (loss: 0.2194032520055771):   1%|[34m          [0m| 11/902 [00:25<31:57,  2.15s/it]Training Epoch: 1/5, batch 94/7223 completed (loss: 0.4183564782142639):   1%|[34m          [0m| 11/902 [00:25<31:57,  2.15s/it]Training Epoch: 1/5, batch 95/7223 completed (loss: 0.16291499137878418):   1%|[34m          [0m| 11/902 [00:26<31:57,  2.15s/it]Training Epoch: 1/5, batch 95/7223 completed (loss: 0.16291499137878418):   1%|[34m▏         [0m| 12/902 [00:26<32:11,  2.17s/it]Training Epoch: 1/5, batch 96/7223 completed (loss: 0.13340948522090912):   1%|[34m▏         [0m| 12/902 [00:26<32:11,  2.17s/it]Training Epoch: 1/5, batch 97/7223 completed (loss: 0.14836932718753815):   1%|[34m▏         [0m| 12/902 [00:26<32:11,  2.17s/it]Training Epoch: 1/5, batch 98/7223 completed (loss: 0.16409267485141754):   1%|[34m▏         [0m| 12/902 [00:27<32:11,  2.17s/it]Training Epoch: 1/5, batch 99/7223 completed (loss: 0.1339605450630188):   1%|[34m▏         [0m| 12/902 [00:27<32:11,  2.17s/it] Training Epoch: 1/5, batch 100/7223 completed (loss: 0.12003874033689499):   1%|[34m▏         [0m| 12/902 [00:27<32:11,  2.17s/it]Training Epoch: 1/5, batch 101/7223 completed (loss: 0.13629485666751862):   1%|[34m▏         [0m| 12/902 [00:27<32:11,  2.17s/it]Training Epoch: 1/5, batch 102/7223 completed (loss: 0.15192002058029175):   1%|[34m▏         [0m| 12/902 [00:28<32:11,  2.17s/it]Training Epoch: 1/5, batch 103/7223 completed (loss: 0.11189064383506775):   1%|[34m▏         [0m| 12/902 [00:28<32:11,  2.17s/it]Training Epoch: 1/5, batch 103/7223 completed (loss: 0.11189064383506775):   1%|[34m▏         [0m| 13/902 [00:28<32:14,  2.18s/it]Training Epoch: 1/5, batch 104/7223 completed (loss: 0.1396336704492569):   1%|[34m▏         [0m| 13/902 [00:28<32:14,  2.18s/it] Training Epoch: 1/5, batch 105/7223 completed (loss: 0.05854633450508118):   1%|[34m▏         [0m| 13/902 [00:28<32:14,  2.18s/it]Training Epoch: 1/5, batch 106/7223 completed (loss: 0.12159254401922226):   1%|[34m▏         [0m| 13/902 [00:29<32:14,  2.18s/it]Training Epoch: 1/5, batch 107/7223 completed (loss: 0.11873962730169296):   1%|[34m▏         [0m| 13/902 [00:29<32:14,  2.18s/it]Training Epoch: 1/5, batch 108/7223 completed (loss: 0.12605422735214233):   1%|[34m▏         [0m| 13/902 [00:29<32:14,  2.18s/it]Training Epoch: 1/5, batch 109/7223 completed (loss: 0.0760887935757637):   1%|[34m▏         [0m| 13/902 [00:29<32:14,  2.18s/it] Training Epoch: 1/5, batch 110/7223 completed (loss: 0.19144891202449799):   1%|[34m▏         [0m| 13/902 [00:30<32:14,  2.18s/it]Training Epoch: 1/5, batch 111/7223 completed (loss: 0.07326703518629074):   1%|[34m▏         [0m| 13/902 [00:30<32:14,  2.18s/it]Training Epoch: 1/5, batch 111/7223 completed (loss: 0.07326703518629074):   2%|[34m▏         [0m| 14/902 [00:30<31:58,  2.16s/it]Training Epoch: 1/5, batch 112/7223 completed (loss: 0.06683266907930374):   2%|[34m▏         [0m| 14/902 [00:30<31:58,  2.16s/it]Training Epoch: 1/5, batch 113/7223 completed (loss: 0.09345787018537521):   2%|[34m▏         [0m| 14/902 [00:31<31:58,  2.16s/it]Training Epoch: 1/5, batch 114/7223 completed (loss: 0.07195980101823807):   2%|[34m▏         [0m| 14/902 [00:31<31:58,  2.16s/it]Training Epoch: 1/5, batch 115/7223 completed (loss: 0.0784650593996048):   2%|[34m▏         [0m| 14/902 [00:31<31:58,  2.16s/it] Training Epoch: 1/5, batch 116/7223 completed (loss: 0.04281441494822502):   2%|[34m▏         [0m| 14/902 [00:31<31:58,  2.16s/it]Training Epoch: 1/5, batch 117/7223 completed (loss: 0.0572674535214901):   2%|[34m▏         [0m| 14/902 [00:32<31:58,  2.16s/it] Training Epoch: 1/5, batch 118/7223 completed (loss: 0.04858112335205078):   2%|[34m▏         [0m| 14/902 [00:32<31:58,  2.16s/it]Training Epoch: 1/5, batch 119/7223 completed (loss: 0.3221600651741028):   2%|[34m▏         [0m| 14/902 [00:32<31:58,  2.16s/it] Training Epoch: 1/5, batch 119/7223 completed (loss: 0.3221600651741028):   2%|[34m▏         [0m| 15/902 [00:33<32:29,  2.20s/it]Training Epoch: 1/5, batch 120/7223 completed (loss: 0.2860219180583954):   2%|[34m▏         [0m| 15/902 [00:33<32:29,  2.20s/it]Training Epoch: 1/5, batch 121/7223 completed (loss: 0.15329712629318237):   2%|[34m▏         [0m| 15/902 [00:33<32:29,  2.20s/it]Training Epoch: 1/5, batch 122/7223 completed (loss: 0.03335701301693916):   2%|[34m▏         [0m| 15/902 [00:33<32:29,  2.20s/it]Training Epoch: 1/5, batch 123/7223 completed (loss: 0.02953164093196392):   2%|[34m▏         [0m| 15/902 [00:33<32:29,  2.20s/it]Training Epoch: 1/5, batch 124/7223 completed (loss: 0.03983278200030327):   2%|[34m▏         [0m| 15/902 [00:34<32:29,  2.20s/it]Training Epoch: 1/5, batch 125/7223 completed (loss: 0.012911303900182247):   2%|[34m▏         [0m| 15/902 [00:34<32:29,  2.20s/it]Training Epoch: 1/5, batch 126/7223 completed (loss: 0.1666678935289383):   2%|[34m▏         [0m| 15/902 [00:34<32:29,  2.20s/it]  Training Epoch: 1/5, batch 127/7223 completed (loss: 0.03148682042956352):   2%|[34m▏         [0m| 15/902 [00:35<32:29,  2.20s/it]Training Epoch: 1/5, batch 127/7223 completed (loss: 0.03148682042956352):   2%|[34m▏         [0m| 16/902 [00:35<32:40,  2.21s/it]Training Epoch: 1/5, batch 128/7223 completed (loss: 0.023521585389971733):   2%|[34m▏         [0m| 16/902 [00:35<32:40,  2.21s/it]Training Epoch: 1/5, batch 129/7223 completed (loss: 0.09869096428155899):   2%|[34m▏         [0m| 16/902 [00:35<32:40,  2.21s/it] Training Epoch: 1/5, batch 130/7223 completed (loss: 0.012899648398160934):   2%|[34m▏         [0m| 16/902 [00:35<32:40,  2.21s/it]Training Epoch: 1/5, batch 131/7223 completed (loss: 0.007371800020337105):   2%|[34m▏         [0m| 16/902 [00:36<32:40,  2.21s/it]Training Epoch: 1/5, batch 132/7223 completed (loss: 0.13485321402549744):   2%|[34m▏         [0m| 16/902 [00:36<32:40,  2.21s/it] Training Epoch: 1/5, batch 133/7223 completed (loss: 0.03208553045988083):   2%|[34m▏         [0m| 16/902 [00:36<32:40,  2.21s/it]Training Epoch: 1/5, batch 134/7223 completed (loss: 0.3046841323375702):   2%|[34m▏         [0m| 16/902 [00:37<32:40,  2.21s/it] Training Epoch: 1/5, batch 135/7223 completed (loss: 0.014544599689543247):   2%|[34m▏         [0m| 16/902 [00:37<32:40,  2.21s/it]Training Epoch: 1/5, batch 135/7223 completed (loss: 0.014544599689543247):   2%|[34m▏         [0m| 17/902 [00:37<33:13,  2.25s/it]Training Epoch: 1/5, batch 136/7223 completed (loss: 0.013142053037881851):   2%|[34m▏         [0m| 17/902 [00:37<33:13,  2.25s/it]Training Epoch: 1/5, batch 137/7223 completed (loss: 0.06346364319324493):   2%|[34m▏         [0m| 17/902 [00:37<33:13,  2.25s/it] Training Epoch: 1/5, batch 138/7223 completed (loss: 0.22293274104595184):   2%|[34m▏         [0m| 17/902 [00:38<33:13,  2.25s/it]Training Epoch: 1/5, batch 139/7223 completed (loss: 0.22127528488636017):   2%|[34m▏         [0m| 17/902 [00:38<33:13,  2.25s/it]Training Epoch: 1/5, batch 140/7223 completed (loss: 0.02902253530919552):   2%|[34m▏         [0m| 17/902 [00:38<33:13,  2.25s/it]Training Epoch: 1/5, batch 141/7223 completed (loss: 0.0041527822613716125):   2%|[34m▏         [0m| 17/902 [00:39<33:13,  2.25s/it]Training Epoch: 1/5, batch 142/7223 completed (loss: 0.10927391797304153):   2%|[34m▏         [0m| 17/902 [00:39<33:13,  2.25s/it]  Training Epoch: 1/5, batch 143/7223 completed (loss: 0.08313613384962082):   2%|[34m▏         [0m| 17/902 [00:39<33:13,  2.25s/it]Training Epoch: 1/5, batch 143/7223 completed (loss: 0.08313613384962082):   2%|[34m▏         [0m| 18/902 [00:39<32:29,  2.21s/it]Training Epoch: 1/5, batch 144/7223 completed (loss: 0.028720790520310402):   2%|[34m▏         [0m| 18/902 [00:39<32:29,  2.21s/it]Training Epoch: 1/5, batch 145/7223 completed (loss: 0.004961689468473196):   2%|[34m▏         [0m| 18/902 [00:40<32:29,  2.21s/it]Training Epoch: 1/5, batch 146/7223 completed (loss: 0.01866796240210533):   2%|[34m▏         [0m| 18/902 [00:40<32:29,  2.21s/it] Training Epoch: 1/5, batch 147/7223 completed (loss: 0.0031667042057961226):   2%|[34m▏         [0m| 18/902 [00:40<32:29,  2.21s/it]Training Epoch: 1/5, batch 148/7223 completed (loss: 0.09598184376955032):   2%|[34m▏         [0m| 18/902 [00:40<32:29,  2.21s/it]  Training Epoch: 1/5, batch 149/7223 completed (loss: 0.0048437160439789295):   2%|[34m▏         [0m| 18/902 [00:41<32:29,  2.21s/it]Training Epoch: 1/5, batch 150/7223 completed (loss: 0.0077822585590183735):   2%|[34m▏         [0m| 18/902 [00:41<32:29,  2.21s/it]Training Epoch: 1/5, batch 151/7223 completed (loss: 0.0066435192711651325):   2%|[34m▏         [0m| 18/902 [00:41<32:29,  2.21s/it]Training Epoch: 1/5, batch 151/7223 completed (loss: 0.0066435192711651325):   2%|[34m▏         [0m| 19/902 [00:41<32:36,  2.22s/it]Training Epoch: 1/5, batch 152/7223 completed (loss: 0.0044341362081468105):   2%|[34m▏         [0m| 19/902 [00:42<32:36,  2.22s/it]Training Epoch: 1/5, batch 153/7223 completed (loss: 0.06342188268899918):   2%|[34m▏         [0m| 19/902 [00:42<32:36,  2.22s/it]  Training Epoch: 1/5, batch 154/7223 completed (loss: 0.025849685072898865):   2%|[34m▏         [0m| 19/902 [00:42<32:36,  2.22s/it]Training Epoch: 1/5, batch 155/7223 completed (loss: 0.003700719913467765):   2%|[34m▏         [0m| 19/902 [00:42<32:36,  2.22s/it]Training Epoch: 1/5, batch 156/7223 completed (loss: 0.17787055671215057):   2%|[34m▏         [0m| 19/902 [00:43<32:36,  2.22s/it] Training Epoch: 1/5, batch 157/7223 completed (loss: 0.023834697902202606):   2%|[34m▏         [0m| 19/902 [00:43<32:36,  2.22s/it]Training Epoch: 1/5, batch 158/7223 completed (loss: 0.003967647906392813):   2%|[34m▏         [0m| 19/902 [00:43<32:36,  2.22s/it]Training Epoch: 1/5, batch 159/7223 completed (loss: 0.005230727139860392):   2%|[34m▏         [0m| 19/902 [00:43<32:36,  2.22s/it]Training Epoch: 1/5, batch 159/7223 completed (loss: 0.005230727139860392):   2%|[34m▏         [0m| 20/902 [00:44<32:29,  2.21s/it]Training Epoch: 1/5, batch 160/7223 completed (loss: 0.026480743661522865):   2%|[34m▏         [0m| 20/902 [00:44<32:29,  2.21s/it]Training Epoch: 1/5, batch 161/7223 completed (loss: 0.06344199925661087):   2%|[34m▏         [0m| 20/902 [00:44<32:29,  2.21s/it] Training Epoch: 1/5, batch 162/7223 completed (loss: 0.020032307133078575):   2%|[34m▏         [0m| 20/902 [00:44<32:29,  2.21s/it]Training Epoch: 1/5, batch 163/7223 completed (loss: 0.03626684471964836):   2%|[34m▏         [0m| 20/902 [00:45<32:29,  2.21s/it] Training Epoch: 1/5, batch 164/7223 completed (loss: 0.23796986043453217):   2%|[34m▏         [0m| 20/902 [00:45<32:29,  2.21s/it]Training Epoch: 1/5, batch 165/7223 completed (loss: 0.06110227853059769):   2%|[34m▏         [0m| 20/902 [00:45<32:29,  2.21s/it]Training Epoch: 1/5, batch 166/7223 completed (loss: 0.04097172990441322):   2%|[34m▏         [0m| 20/902 [00:45<32:29,  2.21s/it]Training Epoch: 1/5, batch 167/7223 completed (loss: 0.006312284152954817):   2%|[34m▏         [0m| 20/902 [00:46<32:29,  2.21s/it]Training Epoch: 1/5, batch 167/7223 completed (loss: 0.006312284152954817):   2%|[34m▏         [0m| 21/902 [00:46<32:29,  2.21s/it]Training Epoch: 1/5, batch 168/7223 completed (loss: 0.2120581567287445):   2%|[34m▏         [0m| 21/902 [00:46<32:29,  2.21s/it]  Training Epoch: 1/5, batch 169/7223 completed (loss: 0.15539225935935974):   2%|[34m▏         [0m| 21/902 [00:46<32:29,  2.21s/it]Training Epoch: 1/5, batch 170/7223 completed (loss: 0.06140294671058655):   2%|[34m▏         [0m| 21/902 [00:46<32:29,  2.21s/it]Training Epoch: 1/5, batch 171/7223 completed (loss: 0.03331910818815231):   2%|[34m▏         [0m| 21/902 [00:47<32:29,  2.21s/it]Training Epoch: 1/5, batch 172/7223 completed (loss: 0.007090806495398283):   2%|[34m▏         [0m| 21/902 [00:47<32:29,  2.21s/it]Training Epoch: 1/5, batch 173/7223 completed (loss: 0.14036762714385986):   2%|[34m▏         [0m| 21/902 [00:47<32:29,  2.21s/it] Training Epoch: 1/5, batch 174/7223 completed (loss: 0.004573134705424309):   2%|[34m▏         [0m| 21/902 [00:48<32:29,  2.21s/it]Training Epoch: 1/5, batch 175/7223 completed (loss: 0.006461056414991617):   2%|[34m▏         [0m| 21/902 [00:48<32:29,  2.21s/it]Training Epoch: 1/5, batch 175/7223 completed (loss: 0.006461056414991617):   2%|[34m▏         [0m| 22/902 [00:48<32:30,  2.22s/it]Training Epoch: 1/5, batch 176/7223 completed (loss: 0.03907110169529915):   2%|[34m▏         [0m| 22/902 [00:48<32:30,  2.22s/it] Training Epoch: 1/5, batch 177/7223 completed (loss: 0.005946107674390078):   2%|[34m▏         [0m| 22/902 [00:48<32:30,  2.22s/it]Training Epoch: 1/5, batch 178/7223 completed (loss: 0.009272043593227863):   2%|[34m▏         [0m| 22/902 [00:49<32:30,  2.22s/it]Training Epoch: 1/5, batch 179/7223 completed (loss: 0.05818251520395279):   2%|[34m▏         [0m| 22/902 [00:49<32:30,  2.22s/it] Training Epoch: 1/5, batch 180/7223 completed (loss: 0.04748440533876419):   2%|[34m▏         [0m| 22/902 [00:49<32:30,  2.22s/it]Training Epoch: 1/5, batch 181/7223 completed (loss: 0.14942686259746552):   2%|[34m▏         [0m| 22/902 [00:50<32:30,  2.22s/it]Training Epoch: 1/5, batch 182/7223 completed (loss: 0.08287860453128815):   2%|[34m▏         [0m| 22/902 [00:50<32:30,  2.22s/it]Training Epoch: 1/5, batch 183/7223 completed (loss: 0.11073954403400421):   2%|[34m▏         [0m| 22/902 [00:50<32:30,  2.22s/it]Training Epoch: 1/5, batch 183/7223 completed (loss: 0.11073954403400421):   3%|[34m▎         [0m| 23/902 [00:50<32:07,  2.19s/it]Training Epoch: 1/5, batch 184/7223 completed (loss: 0.01692868582904339):   3%|[34m▎         [0m| 23/902 [00:50<32:07,  2.19s/it]Training Epoch: 1/5, batch 185/7223 completed (loss: 0.010307901538908482):   3%|[34m▎         [0m| 23/902 [00:51<32:07,  2.19s/it]Training Epoch: 1/5, batch 186/7223 completed (loss: 0.008819052949547768):   3%|[34m▎         [0m| 23/902 [00:51<32:07,  2.19s/it]Training Epoch: 1/5, batch 187/7223 completed (loss: 0.005249604117125273):   3%|[34m▎         [0m| 23/902 [00:51<32:07,  2.19s/it]Training Epoch: 1/5, batch 188/7223 completed (loss: 0.07563634216785431):   3%|[34m▎         [0m| 23/902 [00:51<32:07,  2.19s/it] Training Epoch: 1/5, batch 189/7223 completed (loss: 0.21856719255447388):   3%|[34m▎         [0m| 23/902 [00:52<32:07,  2.19s/it]Training Epoch: 1/5, batch 190/7223 completed (loss: 0.05679914355278015):   3%|[34m▎         [0m| 23/902 [00:52<32:07,  2.19s/it]Training Epoch: 1/5, batch 191/7223 completed (loss: 0.006742650177329779):   3%|[34m▎         [0m| 23/902 [00:52<32:07,  2.19s/it]Training Epoch: 1/5, batch 191/7223 completed (loss: 0.006742650177329779):   3%|[34m▎         [0m| 24/902 [00:52<32:08,  2.20s/it]Training Epoch: 1/5, batch 192/7223 completed (loss: 0.006683070678263903):   3%|[34m▎         [0m| 24/902 [00:52<32:08,  2.20s/it]Training Epoch: 1/5, batch 193/7223 completed (loss: 0.020453257486224174):   3%|[34m▎         [0m| 24/902 [00:53<32:08,  2.20s/it]Training Epoch: 1/5, batch 194/7223 completed (loss: 0.0035622722934931517):   3%|[34m▎         [0m| 24/902 [00:53<32:08,  2.20s/it]Training Epoch: 1/5, batch 195/7223 completed (loss: 0.030070386826992035):   3%|[34m▎         [0m| 24/902 [00:53<32:08,  2.20s/it] Training Epoch: 1/5, batch 196/7223 completed (loss: 0.005281318444758654):   3%|[34m▎         [0m| 24/902 [00:54<32:08,  2.20s/it]Training Epoch: 1/5, batch 197/7223 completed (loss: 0.01894472725689411):   3%|[34m▎         [0m| 24/902 [00:54<32:08,  2.20s/it] Training Epoch: 1/5, batch 198/7223 completed (loss: 0.03329380974173546):   3%|[34m▎         [0m| 24/902 [00:54<32:08,  2.20s/it]Training Epoch: 1/5, batch 199/7223 completed (loss: 0.04774560034275055):   3%|[34m▎         [0m| 24/902 [00:54<32:08,  2.20s/it]Training Epoch: 1/5, batch 199/7223 completed (loss: 0.04774560034275055):   3%|[34m▎         [0m| 25/902 [00:55<31:52,  2.18s/it]Training Epoch: 1/5, batch 200/7223 completed (loss: 0.10776785016059875):   3%|[34m▎         [0m| 25/902 [00:55<31:52,  2.18s/it]Training Epoch: 1/5, batch 201/7223 completed (loss: 0.034459203481674194):   3%|[34m▎         [0m| 25/902 [00:55<31:52,  2.18s/it]Training Epoch: 1/5, batch 202/7223 completed (loss: 0.19041258096694946):   3%|[34m▎         [0m| 25/902 [00:55<31:52,  2.18s/it] Training Epoch: 1/5, batch 203/7223 completed (loss: 0.13017570972442627):   3%|[34m▎         [0m| 25/902 [00:55<31:52,  2.18s/it]Training Epoch: 1/5, batch 204/7223 completed (loss: 0.011479522101581097):   3%|[34m▎         [0m| 25/902 [00:56<31:52,  2.18s/it]Training Epoch: 1/5, batch 205/7223 completed (loss: 0.11795151978731155):   3%|[34m▎         [0m| 25/902 [00:56<31:52,  2.18s/it] Training Epoch: 1/5, batch 206/7223 completed (loss: 0.004990644287317991):   3%|[34m▎         [0m| 25/902 [00:56<31:52,  2.18s/it]Training Epoch: 1/5, batch 207/7223 completed (loss: 0.005365956574678421):   3%|[34m▎         [0m| 25/902 [00:57<31:52,  2.18s/it]Training Epoch: 1/5, batch 207/7223 completed (loss: 0.005365956574678421):   3%|[34m▎         [0m| 26/902 [00:57<31:49,  2.18s/it]Training Epoch: 1/5, batch 208/7223 completed (loss: 0.007058402989059687):   3%|[34m▎         [0m| 26/902 [00:57<31:49,  2.18s/it]Training Epoch: 1/5, batch 209/7223 completed (loss: 0.011888758279383183):   3%|[34m▎         [0m| 26/902 [00:57<31:49,  2.18s/it]Training Epoch: 1/5, batch 210/7223 completed (loss: 0.11116550862789154):   3%|[34m▎         [0m| 26/902 [00:57<31:49,  2.18s/it] Training Epoch: 1/5, batch 211/7223 completed (loss: 0.006957602221518755):   3%|[34m▎         [0m| 26/902 [00:57<31:49,  2.18s/it]Training Epoch: 1/5, batch 212/7223 completed (loss: 0.08170551061630249):   3%|[34m▎         [0m| 26/902 [00:58<31:49,  2.18s/it] Training Epoch: 1/5, batch 213/7223 completed (loss: 0.16601306200027466):   3%|[34m▎         [0m| 26/902 [00:58<31:49,  2.18s/it]Training Epoch: 1/5, batch 214/7223 completed (loss: 0.012749035842716694):   3%|[34m▎         [0m| 26/902 [00:58<31:49,  2.18s/it]Training Epoch: 1/5, batch 215/7223 completed (loss: 0.0056772916577756405):   3%|[34m▎         [0m| 26/902 [00:59<31:49,  2.18s/it]Training Epoch: 1/5, batch 215/7223 completed (loss: 0.0056772916577756405):   3%|[34m▎         [0m| 27/902 [00:59<31:14,  2.14s/it]Training Epoch: 1/5, batch 216/7223 completed (loss: 0.011858736164867878):   3%|[34m▎         [0m| 27/902 [00:59<31:14,  2.14s/it] Training Epoch: 1/5, batch 217/7223 completed (loss: 0.007241599261760712):   3%|[34m▎         [0m| 27/902 [00:59<31:14,  2.14s/it]Training Epoch: 1/5, batch 218/7223 completed (loss: 0.00558212585747242):   3%|[34m▎         [0m| 27/902 [00:59<31:14,  2.14s/it] Training Epoch: 1/5, batch 219/7223 completed (loss: 0.006741620134562254):   3%|[34m▎         [0m| 27/902 [01:00<31:14,  2.14s/it]Training Epoch: 1/5, batch 220/7223 completed (loss: 0.021500712260603905):   3%|[34m▎         [0m| 27/902 [01:00<31:14,  2.14s/it]Training Epoch: 1/5, batch 221/7223 completed (loss: 0.186939537525177):   3%|[34m▎         [0m| 27/902 [01:00<31:14,  2.14s/it]   Training Epoch: 1/5, batch 222/7223 completed (loss: 0.0048668053932487965):   3%|[34m▎         [0m| 27/902 [01:01<31:14,  2.14s/it]Training Epoch: 1/5, batch 223/7223 completed (loss: 0.01699591800570488):   3%|[34m▎         [0m| 27/902 [01:01<31:14,  2.14s/it]  Training Epoch: 1/5, batch 223/7223 completed (loss: 0.01699591800570488):   3%|[34m▎         [0m| 28/902 [01:01<31:24,  2.16s/it]Training Epoch: 1/5, batch 224/7223 completed (loss: 0.00636921776458621):   3%|[34m▎         [0m| 28/902 [01:01<31:24,  2.16s/it]Training Epoch: 1/5, batch 225/7223 completed (loss: 0.020913267508149147):   3%|[34m▎         [0m| 28/902 [01:01<31:24,  2.16s/it]Training Epoch: 1/5, batch 226/7223 completed (loss: 0.010006769560277462):   3%|[34m▎         [0m| 28/902 [01:02<31:24,  2.16s/it]Training Epoch: 1/5, batch 227/7223 completed (loss: 0.04176958277821541):   3%|[34m▎         [0m| 28/902 [01:02<31:24,  2.16s/it] Training Epoch: 1/5, batch 228/7223 completed (loss: 0.004423968028277159):   3%|[34m▎         [0m| 28/902 [01:02<31:24,  2.16s/it]Training Epoch: 1/5, batch 229/7223 completed (loss: 0.008208000101149082):   3%|[34m▎         [0m| 28/902 [01:02<31:24,  2.16s/it]Training Epoch: 1/5, batch 230/7223 completed (loss: 0.016966363415122032):   3%|[34m▎         [0m| 28/902 [01:03<31:24,  2.16s/it]Training Epoch: 1/5, batch 231/7223 completed (loss: 0.019358212128281593):   3%|[34m▎         [0m| 28/902 [01:03<31:24,  2.16s/it]Training Epoch: 1/5, batch 231/7223 completed (loss: 0.019358212128281593):   3%|[34m▎         [0m| 29/902 [01:03<31:03,  2.13s/it]Training Epoch: 1/5, batch 232/7223 completed (loss: 0.0037266286090016365):   3%|[34m▎         [0m| 29/902 [01:03<31:03,  2.13s/it]Training Epoch: 1/5, batch 233/7223 completed (loss: 0.23168258368968964):   3%|[34m▎         [0m| 29/902 [01:03<31:03,  2.13s/it]  Training Epoch: 1/5, batch 234/7223 completed (loss: 0.10148801654577255):   3%|[34m▎         [0m| 29/902 [01:04<31:03,  2.13s/it]Training Epoch: 1/5, batch 235/7223 completed (loss: 0.10148744285106659):   3%|[34m▎         [0m| 29/902 [01:04<31:03,  2.13s/it]Training Epoch: 1/5, batch 236/7223 completed (loss: 0.023075764998793602):   3%|[34m▎         [0m| 29/902 [01:04<31:03,  2.13s/it]Training Epoch: 1/5, batch 237/7223 completed (loss: 0.050346411764621735):   3%|[34m▎         [0m| 29/902 [01:05<31:03,  2.13s/it]Training Epoch: 1/5, batch 238/7223 completed (loss: 0.031038662418723106):   3%|[34m▎         [0m| 29/902 [01:05<31:03,  2.13s/it]Training Epoch: 1/5, batch 239/7223 completed (loss: 0.08678936958312988):   3%|[34m▎         [0m| 29/902 [01:05<31:03,  2.13s/it] Training Epoch: 1/5, batch 239/7223 completed (loss: 0.08678936958312988):   3%|[34m▎         [0m| 30/902 [01:05<31:17,  2.15s/it]Training Epoch: 1/5, batch 240/7223 completed (loss: 0.006709175184369087):   3%|[34m▎         [0m| 30/902 [01:05<31:17,  2.15s/it]Training Epoch: 1/5, batch 241/7223 completed (loss: 0.002939247526228428):   3%|[34m▎         [0m| 30/902 [01:06<31:17,  2.15s/it]Training Epoch: 1/5, batch 242/7223 completed (loss: 0.2043161690235138):   3%|[34m▎         [0m| 30/902 [01:06<31:17,  2.15s/it]  Training Epoch: 1/5, batch 243/7223 completed (loss: 0.008414597250521183):   3%|[34m▎         [0m| 30/902 [01:06<31:17,  2.15s/it]Training Epoch: 1/5, batch 244/7223 completed (loss: 0.0033860718831419945):   3%|[34m▎         [0m| 30/902 [01:06<31:17,  2.15s/it]Training Epoch: 1/5, batch 245/7223 completed (loss: 0.0018941642483696342):   3%|[34m▎         [0m| 30/902 [01:07<31:17,  2.15s/it]Training Epoch: 1/5, batch 246/7223 completed (loss: 0.02324041910469532):   3%|[34m▎         [0m| 30/902 [01:07<31:17,  2.15s/it]  Training Epoch: 1/5, batch 247/7223 completed (loss: 0.006312378216534853):   3%|[34m▎         [0m| 30/902 [01:07<31:17,  2.15s/it]Training Epoch: 1/5, batch 247/7223 completed (loss: 0.006312378216534853):   3%|[34m▎         [0m| 31/902 [01:08<31:40,  2.18s/it]Training Epoch: 1/5, batch 248/7223 completed (loss: 0.12525293231010437):   3%|[34m▎         [0m| 31/902 [01:08<31:40,  2.18s/it] Training Epoch: 1/5, batch 249/7223 completed (loss: 0.0034824369940906763):   3%|[34m▎         [0m| 31/902 [01:08<31:40,  2.18s/it]Training Epoch: 1/5, batch 250/7223 completed (loss: 0.09914221614599228):   3%|[34m▎         [0m| 31/902 [01:08<31:40,  2.18s/it]  Training Epoch: 1/5, batch 251/7223 completed (loss: 0.13722482323646545):   3%|[34m▎         [0m| 31/902 [01:08<31:40,  2.18s/it]Training Epoch: 1/5, batch 252/7223 completed (loss: 0.05950511619448662):   3%|[34m▎         [0m| 31/902 [01:09<31:40,  2.18s/it]Training Epoch: 1/5, batch 253/7223 completed (loss: 0.12096475809812546):   3%|[34m▎         [0m| 31/902 [01:09<31:40,  2.18s/it]Training Epoch: 1/5, batch 254/7223 completed (loss: 0.0026816262397915125):   3%|[34m▎         [0m| 31/902 [01:09<31:40,  2.18s/it]Training Epoch: 1/5, batch 255/7223 completed (loss: 0.0018326854333281517):   3%|[34m▎         [0m| 31/902 [01:09<31:40,  2.18s/it]Training Epoch: 1/5, batch 255/7223 completed (loss: 0.0018326854333281517):   4%|[34m▎         [0m| 32/902 [01:10<31:46,  2.19s/it]Training Epoch: 1/5, batch 256/7223 completed (loss: 0.0015999673632904887):   4%|[34m▎         [0m| 32/902 [01:10<31:46,  2.19s/it]Training Epoch: 1/5, batch 257/7223 completed (loss: 0.11465389281511307):   4%|[34m▎         [0m| 32/902 [01:10<31:46,  2.19s/it]  Training Epoch: 1/5, batch 258/7223 completed (loss: 0.002287313574925065):   4%|[34m▎         [0m| 32/902 [01:10<31:46,  2.19s/it]Training Epoch: 1/5, batch 259/7223 completed (loss: 0.08366037160158157):   4%|[34m▎         [0m| 32/902 [01:11<31:46,  2.19s/it] Training Epoch: 1/5, batch 260/7223 completed (loss: 0.015070993453264236):   4%|[34m▎         [0m| 32/902 [01:11<31:46,  2.19s/it]Training Epoch: 1/5, batch 261/7223 completed (loss: 0.027121178805828094):   4%|[34m▎         [0m| 32/902 [01:11<31:46,  2.19s/it]Training Epoch: 1/5, batch 262/7223 completed (loss: 0.07774036377668381):   4%|[34m▎         [0m| 32/902 [01:11<31:46,  2.19s/it] Training Epoch: 1/5, batch 263/7223 completed (loss: 0.041753917932510376):   4%|[34m▎         [0m| 32/902 [01:12<31:46,  2.19s/it]Training Epoch: 1/5, batch 263/7223 completed (loss: 0.041753917932510376):   4%|[34m▎         [0m| 33/902 [01:12<31:35,  2.18s/it]Training Epoch: 1/5, batch 264/7223 completed (loss: 0.014123506844043732):   4%|[34m▎         [0m| 33/902 [01:12<31:35,  2.18s/it]Training Epoch: 1/5, batch 265/7223 completed (loss: 0.02346901409327984):   4%|[34m▎         [0m| 33/902 [01:12<31:35,  2.18s/it] Training Epoch: 1/5, batch 266/7223 completed (loss: 0.005580806639045477):   4%|[34m▎         [0m| 33/902 [01:12<31:35,  2.18s/it]Training Epoch: 1/5, batch 267/7223 completed (loss: 0.02945546619594097):   4%|[34m▎         [0m| 33/902 [01:13<31:35,  2.18s/it] Training Epoch: 1/5, batch 268/7223 completed (loss: 0.01082279160618782):   4%|[34m▎         [0m| 33/902 [01:13<31:35,  2.18s/it]Training Epoch: 1/5, batch 269/7223 completed (loss: 0.0017889445880427957):   4%|[34m▎         [0m| 33/902 [01:13<31:35,  2.18s/it]Training Epoch: 1/5, batch 270/7223 completed (loss: 0.14374957978725433):   4%|[34m▎         [0m| 33/902 [01:13<31:35,  2.18s/it]  Training Epoch: 1/5, batch 271/7223 completed (loss: 0.0014340657508000731):   4%|[34m▎         [0m| 33/902 [01:14<31:35,  2.18s/it]Training Epoch: 1/5, batch 271/7223 completed (loss: 0.0014340657508000731):   4%|[34m▍         [0m| 34/902 [01:14<31:13,  2.16s/it]Training Epoch: 1/5, batch 272/7223 completed (loss: 0.024616887792944908):   4%|[34m▍         [0m| 34/902 [01:14<31:13,  2.16s/it] Training Epoch: 1/5, batch 273/7223 completed (loss: 0.0061406767927110195):   4%|[34m▍         [0m| 34/902 [01:14<31:13,  2.16s/it]Training Epoch: 1/5, batch 274/7223 completed (loss: 0.0024143836926668882):   4%|[34m▍         [0m| 34/902 [01:15<31:13,  2.16s/it]Training Epoch: 1/5, batch 275/7223 completed (loss: 0.08536670356988907):   4%|[34m▍         [0m| 34/902 [01:15<31:13,  2.16s/it]  Training Epoch: 1/5, batch 276/7223 completed (loss: 0.022229719907045364):   4%|[34m▍         [0m| 34/902 [01:15<31:13,  2.16s/it]Training Epoch: 1/5, batch 277/7223 completed (loss: 0.008132434450089931):   4%|[34m▍         [0m| 34/902 [01:15<31:13,  2.16s/it]Training Epoch: 1/5, batch 278/7223 completed (loss: 0.003220868995413184):   4%|[34m▍         [0m| 34/902 [01:16<31:13,  2.16s/it]Training Epoch: 1/5, batch 279/7223 completed (loss: 0.08994738757610321):   4%|[34m▍         [0m| 34/902 [01:16<31:13,  2.16s/it] Training Epoch: 1/5, batch 279/7223 completed (loss: 0.08994738757610321):   4%|[34m▍         [0m| 35/902 [01:16<31:01,  2.15s/it]Training Epoch: 1/5, batch 280/7223 completed (loss: 0.0025117511395365):   4%|[34m▍         [0m| 35/902 [01:16<31:01,  2.15s/it] Training Epoch: 1/5, batch 281/7223 completed (loss: 0.012167314998805523):   4%|[34m▍         [0m| 35/902 [01:16<31:01,  2.15s/it]Training Epoch: 1/5, batch 282/7223 completed (loss: 0.0018609919352456927):   4%|[34m▍         [0m| 35/902 [01:17<31:01,  2.15s/it]Training Epoch: 1/5, batch 283/7223 completed (loss: 0.24692381918430328):   4%|[34m▍         [0m| 35/902 [01:17<31:01,  2.15s/it]  Training Epoch: 1/5, batch 284/7223 completed (loss: 0.019574550911784172):   4%|[34m▍         [0m| 35/902 [01:17<31:01,  2.15s/it]Training Epoch: 1/5, batch 285/7223 completed (loss: 0.00250461813993752):   4%|[34m▍         [0m| 35/902 [01:18<31:01,  2.15s/it] Training Epoch: 1/5, batch 286/7223 completed (loss: 0.01753888465464115):   4%|[34m▍         [0m| 35/902 [01:18<31:01,  2.15s/it]Training Epoch: 1/5, batch 287/7223 completed (loss: 0.06564662605524063):   4%|[34m▍         [0m| 35/902 [01:18<31:01,  2.15s/it]Training Epoch: 1/5, batch 287/7223 completed (loss: 0.06564662605524063):   4%|[34m▍         [0m| 36/902 [01:18<30:58,  2.15s/it]Training Epoch: 1/5, batch 288/7223 completed (loss: 0.002942692255601287):   4%|[34m▍         [0m| 36/902 [01:18<30:58,  2.15s/it]Training Epoch: 1/5, batch 289/7223 completed (loss: 0.0031684429850429296):   4%|[34m▍         [0m| 36/902 [01:19<30:58,  2.15s/it]Training Epoch: 1/5, batch 290/7223 completed (loss: 0.10702682286500931):   4%|[34m▍         [0m| 36/902 [01:19<30:58,  2.15s/it]  Training Epoch: 1/5, batch 291/7223 completed (loss: 0.007912802509963512):   4%|[34m▍         [0m| 36/902 [01:19<30:58,  2.15s/it]Training Epoch: 1/5, batch 292/7223 completed (loss: 0.018571719527244568):   4%|[34m▍         [0m| 36/902 [01:19<30:58,  2.15s/it]Training Epoch: 1/5, batch 293/7223 completed (loss: 0.12101391702890396):   4%|[34m▍         [0m| 36/902 [01:20<30:58,  2.15s/it] Training Epoch: 1/5, batch 294/7223 completed (loss: 0.002375566866248846):   4%|[34m▍         [0m| 36/902 [01:20<30:58,  2.15s/it]Training Epoch: 1/5, batch 295/7223 completed (loss: 0.03866616263985634):   4%|[34m▍         [0m| 36/902 [01:20<30:58,  2.15s/it] Training Epoch: 1/5, batch 295/7223 completed (loss: 0.03866616263985634):   4%|[34m▍         [0m| 37/902 [01:21<31:11,  2.16s/it]Training Epoch: 1/5, batch 296/7223 completed (loss: 0.002185471123084426):   4%|[34m▍         [0m| 37/902 [01:21<31:11,  2.16s/it]Training Epoch: 1/5, batch 297/7223 completed (loss: 0.004828303586691618):   4%|[34m▍         [0m| 37/902 [01:21<31:11,  2.16s/it]Training Epoch: 1/5, batch 298/7223 completed (loss: 0.003806689754128456):   4%|[34m▍         [0m| 37/902 [01:21<31:11,  2.16s/it]Training Epoch: 1/5, batch 299/7223 completed (loss: 0.004742755088955164):   4%|[34m▍         [0m| 37/902 [01:21<31:11,  2.16s/it]Training Epoch: 1/5, batch 300/7223 completed (loss: 0.045162882655858994):   4%|[34m▍         [0m| 37/902 [01:22<31:11,  2.16s/it]
-Evaluating Epoch: 1:   0%|[32m          [0m| 0/1814 [00:00<?, ?it/s][ATraining Epoch: 1/5, batch 300/7223 completed (loss: 0.045162882655858994):   4%|[34m▍         [0m| 37/902 [01:22<31:59,  2.22s/it]
-
-Evaluating Epoch: 1:   0%|[32m          [0m| 1/1814 [00:00<04:45,  6.35it/s][A
-Evaluating Epoch: 1:   0%|[32m          [0m| 2/1814 [00:00<04:40,  6.46it/s][A
-Evaluating Epoch: 1:   0%|[32m          [0m| 3/1814 [00:00<04:37,  6.52it/s][A
-Evaluating Epoch: 1:   0%|[32m          [0m| 4/1814 [00:00<04:08,  7.27it/s][A
-Evaluating Epoch: 1:   0%|[32m          [0m| 5/1814 [00:00<03:56,  7.65it/s][A
-Evaluating Epoch: 1:   0%|[32m          [0m| 6/1814 [00:00<04:00,  7.51it/s][A
-Evaluating Epoch: 1:   0%|[32m          [0m| 7/1814 [00:00<04:00,  7.50it/s][A
-Evaluating Epoch: 1:   0%|[32m          [0m| 8/1814 [00:01<03:58,  7.56it/s][A
-Evaluating Epoch: 1:   0%|[32m          [0m| 9/1814 [00:01<04:05,  7.35it/s][A
-Evaluating Epoch: 1:   1%|[32m          [0m| 10/1814 [00:01<04:05,  7.35it/s][A
-Evaluating Epoch: 1:   1%|[32m          [0m| 11/1814 [00:01<03:49,  7.85it/s][A
-Evaluating Epoch: 1:   1%|[32m          [0m| 12/1814 [00:01<03:51,  7.78it/s][A
-Evaluating Epoch: 1:   1%|[32m          [0m| 13/1814 [00:01<04:00,  7.48it/s][A
-Evaluating Epoch: 1:   1%|[32m          [0m| 14/1814 [00:01<04:07,  7.28it/s][A
-Evaluating Epoch: 1:   1%|[32m          [0m| 15/1814 [00:02<04:05,  7.32it/s][A
-Evaluating Epoch: 1:   1%|[32m          [0m| 16/1814 [00:02<04:00,  7.48it/s][A
-Evaluating Epoch: 1:   1%|[32m          [0m| 17/1814 [00:02<04:03,  7.38it/s][A
-Evaluating Epoch: 1:   1%|[32m          [0m| 18/1814 [00:02<04:09,  7.21it/s][A
-Evaluating Epoch: 1:   1%|[32m          [0m| 19/1814 [00:02<04:06,  7.29it/s][A
-Evaluating Epoch: 1:   1%|[32m          [0m| 20/1814 [00:02<04:07,  7.25it/s][A
-Evaluating Epoch: 1:   1%|[32m          [0m| 21/1814 [00:02<04:05,  7.31it/s][A
-Evaluating Epoch: 1:   1%|[32m          [0m| 22/1814 [00:02<04:00,  7.46it/s][A
-Evaluating Epoch: 1:   1%|[32m▏         [0m| 23/1814 [00:03<04:02,  7.37it/s][A
-Evaluating Epoch: 1:   1%|[32m▏         [0m| 24/1814 [00:03<04:07,  7.24it/s][A
-Evaluating Epoch: 1:   1%|[32m▏         [0m| 25/1814 [00:03<04:10,  7.15it/s][A
-Evaluating Epoch: 1:   1%|[32m▏         [0m| 26/1814 [00:03<04:12,  7.08it/s][A
-Evaluating Epoch: 1:   1%|[32m▏         [0m| 27/1814 [00:03<04:15,  6.99it/s][A
-Evaluating Epoch: 1:   2%|[32m▏         [0m| 28/1814 [00:03<04:17,  6.93it/s][A
-Evaluating Epoch: 1:   2%|[32m▏         [0m| 29/1814 [00:04<04:23,  6.78it/s][A
-Evaluating Epoch: 1:   2%|[32m▏         [0m| 30/1814 [00:04<04:30,  6.60it/s][A
-Evaluating Epoch: 1:   2%|[32m▏         [0m| 31/1814 [00:04<04:34,  6.49it/s][A
-Evaluating Epoch: 1:   2%|[32m▏         [0m| 32/1814 [00:04<04:38,  6.40it/s][A
-Evaluating Epoch: 1:   2%|[32m▏         [0m| 33/1814 [00:04<04:29,  6.60it/s][A
-Evaluating Epoch: 1:   2%|[32m▏         [0m| 34/1814 [00:04<04:23,  6.76it/s][A
-Evaluating Epoch: 1:   2%|[32m▏         [0m| 35/1814 [00:04<04:27,  6.66it/s][A
-Evaluating Epoch: 1:   2%|[32m▏         [0m| 36/1814 [00:05<04:27,  6.64it/s][A
-Evaluating Epoch: 1:   2%|[32m▏         [0m| 37/1814 [00:05<04:33,  6.50it/s][A
-Evaluating Epoch: 1:   2%|[32m▏         [0m| 38/1814 [00:05<04:33,  6.50it/s][A
-Evaluating Epoch: 1:   2%|[32m▏         [0m| 39/1814 [00:05<04:33,  6.49it/s][A
-Evaluating Epoch: 1:   2%|[32m▏         [0m| 40/1814 [00:05<04:36,  6.40it/s][A
-Evaluating Epoch: 1:   2%|[32m▏         [0m| 41/1814 [00:05<04:39,  6.34it/s][A
-Evaluating Epoch: 1:   2%|[32m▏         [0m| 42/1814 [00:06<04:41,  6.30it/s][A
-Evaluating Epoch: 1:   2%|[32m▏         [0m| 43/1814 [00:06<04:37,  6.39it/s][A
-Evaluating Epoch: 1:   2%|[32m▏         [0m| 44/1814 [00:06<04:40,  6.32it/s][A
-Evaluating Epoch: 1:   2%|[32m▏         [0m| 45/1814 [00:06<04:42,  6.27it/s][A
-Evaluating Epoch: 1:   3%|[32m▎         [0m| 46/1814 [00:06<04:46,  6.18it/s][A
-Evaluating Epoch: 1:   3%|[32m▎         [0m| 47/1814 [00:06<04:50,  6.09it/s][A
-Evaluating Epoch: 1:   3%|[32m▎         [0m| 48/1814 [00:07<04:52,  6.03it/s][A
-Evaluating Epoch: 1:   3%|[32m▎         [0m| 49/1814 [00:07<04:28,  6.58it/s][A
-Evaluating Epoch: 1:   3%|[32m▎         [0m| 50/1814 [00:07<04:10,  7.04it/s][A
-Evaluating Epoch: 1:   3%|[32m▎         [0m| 51/1814 [00:07<04:14,  6.93it/s][A
-Evaluating Epoch: 1:   3%|[32m▎         [0m| 52/1814 [00:07<04:27,  6.60it/s][A
-Evaluating Epoch: 1:   3%|[32m▎         [0m| 53/1814 [00:07<04:10,  7.03it/s][A
-Evaluating Epoch: 1:   3%|[32m▎         [0m| 54/1814 [00:07<04:05,  7.16it/s][A
-Evaluating Epoch: 1:   3%|[32m▎         [0m| 55/1814 [00:07<04:18,  6.80it/s][A
-Evaluating Epoch: 1:   3%|[32m▎         [0m| 56/1814 [00:08<04:04,  7.19it/s][A
-Evaluating Epoch: 1:   3%|[32m▎         [0m| 57/1814 [00:08<03:59,  7.32it/s][A
-Evaluating Epoch: 1:   3%|[32m▎         [0m| 58/1814 [00:08<03:57,  7.38it/s][A
-Evaluating Epoch: 1:   3%|[32m▎         [0m| 59/1814 [00:08<03:59,  7.33it/s][A
-Evaluating Epoch: 1:   3%|[32m▎         [0m| 60/1814 [00:08<04:09,  7.04it/s][A
-Evaluating Epoch: 1:   3%|[32m▎         [0m| 61/1814 [00:08<04:13,  6.92it/s][A
-Evaluating Epoch: 1:   3%|[32m▎         [0m| 62/1814 [00:08<04:13,  6.91it/s][A
-Evaluating Epoch: 1:   3%|[32m▎         [0m| 63/1814 [00:09<04:18,  6.78it/s][A
-Evaluating Epoch: 1:   4%|[32m▎         [0m| 64/1814 [00:09<04:28,  6.51it/s][A
-Evaluating Epoch: 1:   4%|[32m▎         [0m| 65/1814 [00:09<04:10,  6.97it/s][A
-Evaluating Epoch: 1:   4%|[32m▎         [0m| 66/1814 [00:09<03:56,  7.38it/s][A
-Evaluating Epoch: 1:   4%|[32m▎         [0m| 67/1814 [00:09<03:52,  7.51it/s][A
-Evaluating Epoch: 1:   4%|[32m▎         [0m| 68/1814 [00:09<03:50,  7.58it/s][A
-Evaluating Epoch: 1:   4%|[32m▍         [0m| 69/1814 [00:09<03:48,  7.64it/s][A
-Evaluating Epoch: 1:   4%|[32m▍         [0m| 70/1814 [00:10<03:46,  7.72it/s][A
-Evaluating Epoch: 1:   4%|[32m▍         [0m| 71/1814 [00:10<03:50,  7.56it/s][A
-Evaluating Epoch: 1:   4%|[32m▍         [0m| 72/1814 [00:10<04:02,  7.17it/s][A
-Evaluating Epoch: 1:   4%|[32m▍         [0m| 73/1814 [00:10<04:14,  6.85it/s][A
-Evaluating Epoch: 1:   4%|[32m▍         [0m| 74/1814 [00:10<04:10,  6.95it/s][A
-Evaluating Epoch: 1:   4%|[32m▍         [0m| 75/1814 [00:10<04:06,  7.05it/s][A
-Evaluating Epoch: 1:   4%|[32m▍         [0m| 76/1814 [00:10<04:02,  7.18it/s][A
-Evaluating Epoch: 1:   4%|[32m▍         [0m| 77/1814 [00:11<04:01,  7.18it/s][A
-Evaluating Epoch: 1:   4%|[32m▍         [0m| 78/1814 [00:11<04:14,  6.82it/s][A
-Evaluating Epoch: 1:   4%|[32m▍         [0m| 79/1814 [00:11<04:12,  6.86it/s][A
-Evaluating Epoch: 1:   4%|[32m▍         [0m| 80/1814 [00:11<03:52,  7.47it/s][A
-Evaluating Epoch: 1:   4%|[32m▍         [0m| 81/1814 [00:11<04:00,  7.21it/s][A
-Evaluating Epoch: 1:   5%|[32m▍         [0m| 82/1814 [00:11<04:07,  6.99it/s][A
-Evaluating Epoch: 1:   5%|[32m▍         [0m| 83/1814 [00:11<04:01,  7.17it/s][A
-Evaluating Epoch: 1:   5%|[32m▍         [0m| 84/1814 [00:12<04:00,  7.18it/s][A
-Evaluating Epoch: 1:   5%|[32m▍         [0m| 85/1814 [00:12<04:13,  6.81it/s][A
-Evaluating Epoch: 1:   5%|[32m▍         [0m| 86/1814 [00:12<04:27,  6.45it/s][A
-Evaluating Epoch: 1:   5%|[32m▍         [0m| 87/1814 [00:12<04:32,  6.34it/s][A
-Evaluating Epoch: 1:   5%|[32m▍         [0m| 88/1814 [00:12<04:22,  6.58it/s][A
-Evaluating Epoch: 1:   5%|[32m▍         [0m| 89/1814 [00:12<04:09,  6.92it/s][A
-Evaluating Epoch: 1:   5%|[32m▍         [0m| 90/1814 [00:12<04:06,  7.01it/s][A
-Evaluating Epoch: 1:   5%|[32m▌         [0m| 91/1814 [00:13<04:06,  6.98it/s][A
-Evaluating Epoch: 1:   5%|[32m▌         [0m| 92/1814 [00:13<04:16,  6.71it/s][A
-Evaluating Epoch: 1:   5%|[32m▌         [0m| 93/1814 [00:13<04:24,  6.52it/s][A
-Evaluating Epoch: 1:   5%|[32m▌         [0m| 94/1814 [00:13<04:31,  6.34it/s][A
-Evaluating Epoch: 1:   5%|[32m▌         [0m| 95/1814 [00:13<04:30,  6.35it/s][A
-Evaluating Epoch: 1:   5%|[32m▌         [0m| 96/1814 [00:13<04:19,  6.62it/s][A
-Evaluating Epoch: 1:   5%|[32m▌         [0m| 97/1814 [00:14<04:13,  6.78it/s][A
-Evaluating Epoch: 1:   5%|[32m▌         [0m| 98/1814 [00:14<04:14,  6.73it/s][A
-Evaluating Epoch: 1:   5%|[32m▌         [0m| 99/1814 [00:14<04:19,  6.60it/s][A
-Evaluating Epoch: 1:   6%|[32m▌         [0m| 100/1814 [00:14<04:28,  6.39it/s][A
-Evaluating Epoch: 1:   6%|[32m▌         [0m| 101/1814 [00:14<04:31,  6.31it/s][A
-Evaluating Epoch: 1:   6%|[32m▌         [0m| 102/1814 [00:14<04:36,  6.19it/s][A
-Evaluating Epoch: 1:   6%|[32m▌         [0m| 103/1814 [00:14<04:36,  6.20it/s][A
-Evaluating Epoch: 1:   6%|[32m▌         [0m| 104/1814 [00:15<04:30,  6.31it/s][A
-Evaluating Epoch: 1:   6%|[32m▌         [0m| 105/1814 [00:15<04:25,  6.43it/s][A
-Evaluating Epoch: 1:   6%|[32m▌         [0m| 106/1814 [00:15<04:30,  6.31it/s][A
-Evaluating Epoch: 1:   6%|[32m▌         [0m| 107/1814 [00:15<04:36,  6.16it/s][A
-Evaluating Epoch: 1:   6%|[32m▌         [0m| 108/1814 [00:15<04:39,  6.10it/s][A
-Evaluating Epoch: 1:   6%|[32m▌         [0m| 109/1814 [00:15<04:42,  6.04it/s][A
-Evaluating Epoch: 1:   6%|[32m▌         [0m| 110/1814 [00:16<04:39,  6.09it/s][A
-Evaluating Epoch: 1:   6%|[32m▌         [0m| 111/1814 [00:16<04:41,  6.06it/s][A
-Evaluating Epoch: 1:   6%|[32m▌         [0m| 112/1814 [00:16<04:37,  6.13it/s][A
-Evaluating Epoch: 1:   6%|[32m▌         [0m| 113/1814 [00:16<04:38,  6.12it/s][A
-Evaluating Epoch: 1:   6%|[32m▋         [0m| 114/1814 [00:16<04:40,  6.05it/s][A
-Evaluating Epoch: 1:   6%|[32m▋         [0m| 115/1814 [00:16<04:43,  5.99it/s][A
-Evaluating Epoch: 1:   6%|[32m▋         [0m| 116/1814 [00:17<04:37,  6.12it/s][A
-Evaluating Epoch: 1:   6%|[32m▋         [0m| 117/1814 [00:17<04:29,  6.30it/s][A
-Evaluating Epoch: 1:   7%|[32m▋         [0m| 118/1814 [00:17<04:17,  6.59it/s][A
-Evaluating Epoch: 1:   7%|[32m▋         [0m| 119/1814 [00:17<04:11,  6.74it/s][A
-Evaluating Epoch: 1:   7%|[32m▋         [0m| 120/1814 [00:17<04:03,  6.94it/s][A
-Evaluating Epoch: 1:   7%|[32m▋         [0m| 121/1814 [00:17<04:06,  6.86it/s][A
-Evaluating Epoch: 1:   7%|[32m▋         [0m| 122/1814 [00:17<04:03,  6.94it/s][A
-Evaluating Epoch: 1:   7%|[32m▋         [0m| 123/1814 [00:18<04:09,  6.78it/s][A
-Evaluating Epoch: 1:   7%|[32m▋         [0m| 124/1814 [00:18<04:16,  6.59it/s][A
-Evaluating Epoch: 1:   7%|[32m▋         [0m| 125/1814 [00:18<04:16,  6.57it/s][A
-Evaluating Epoch: 1:   7%|[32m▋         [0m| 126/1814 [00:18<04:08,  6.80it/s][A
-Evaluating Epoch: 1:   7%|[32m▋         [0m| 127/1814 [00:18<04:09,  6.75it/s][A
-Evaluating Epoch: 1:   7%|[32m▋         [0m| 128/1814 [00:18<04:19,  6.50it/s][A
-Evaluating Epoch: 1:   7%|[32m▋         [0m| 129/1814 [00:19<04:21,  6.44it/s][A
-Evaluating Epoch: 1:   7%|[32m▋         [0m| 130/1814 [00:19<04:11,  6.69it/s][A
-Evaluating Epoch: 1:   7%|[32m▋         [0m| 131/1814 [00:19<04:14,  6.61it/s][A
-Evaluating Epoch: 1:   7%|[32m▋         [0m| 132/1814 [00:19<04:20,  6.46it/s][A
-Evaluating Epoch: 1:   7%|[32m▋         [0m| 133/1814 [00:19<04:13,  6.64it/s][A
-Evaluating Epoch: 1:   7%|[32m▋         [0m| 134/1814 [00:19<04:15,  6.58it/s][A
-Evaluating Epoch: 1:   7%|[32m▋         [0m| 135/1814 [00:19<04:17,  6.53it/s][A
-Evaluating Epoch: 1:   7%|[32m▋         [0m| 136/1814 [00:20<04:19,  6.47it/s][A
-Evaluating Epoch: 1:   8%|[32m▊         [0m| 137/1814 [00:20<04:01,  6.94it/s][A
-Evaluating Epoch: 1:   8%|[32m▊         [0m| 138/1814 [00:20<03:51,  7.25it/s][A
-Evaluating Epoch: 1:   8%|[32m▊         [0m| 139/1814 [00:20<04:02,  6.92it/s][A
-Evaluating Epoch: 1:   8%|[32m▊         [0m| 140/1814 [00:20<04:11,  6.66it/s][A
-Evaluating Epoch: 1:   8%|[32m▊         [0m| 141/1814 [00:20<04:14,  6.58it/s][A
-Evaluating Epoch: 1:   8%|[32m▊         [0m| 142/1814 [00:20<04:15,  6.56it/s][A
-Evaluating Epoch: 1:   8%|[32m▊         [0m| 143/1814 [00:21<04:15,  6.54it/s][A
-Evaluating Epoch: 1:   8%|[32m▊         [0m| 144/1814 [00:21<04:15,  6.55it/s][A
-Evaluating Epoch: 1:   8%|[32m▊         [0m| 145/1814 [00:21<04:17,  6.49it/s][A
-Evaluating Epoch: 1:   8%|[32m▊         [0m| 146/1814 [00:21<04:20,  6.39it/s][A
-Evaluating Epoch: 1:   8%|[32m▊         [0m| 147/1814 [00:21<04:12,  6.60it/s][A
-Evaluating Epoch: 1:   8%|[32m▊         [0m| 148/1814 [00:21<04:06,  6.76it/s][A
-Evaluating Epoch: 1:   8%|[32m▊         [0m| 149/1814 [00:22<04:06,  6.75it/s][A
-Evaluating Epoch: 1:   8%|[32m▊         [0m| 150/1814 [00:22<04:13,  6.55it/s][A
-Evaluating Epoch: 1:   8%|[32m▊         [0m| 151/1814 [00:22<04:22,  6.34it/s][A
-Evaluating Epoch: 1:   8%|[32m▊         [0m| 152/1814 [00:22<04:03,  6.83it/s][A
-Evaluating Epoch: 1:   8%|[32m▊         [0m| 153/1814 [00:22<03:57,  6.98it/s][A
-Evaluating Epoch: 1:   8%|[32m▊         [0m| 154/1814 [00:22<04:07,  6.70it/s][A
-Evaluating Epoch: 1:   9%|[32m▊         [0m| 155/1814 [00:22<04:14,  6.53it/s][A
-Evaluating Epoch: 1:   9%|[32m▊         [0m| 156/1814 [00:23<04:22,  6.32it/s][A
-Evaluating Epoch: 1:   9%|[32m▊         [0m| 157/1814 [00:23<04:27,  6.19it/s][A
-Evaluating Epoch: 1:   9%|[32m▊         [0m| 158/1814 [00:23<04:32,  6.08it/s][A
-Evaluating Epoch: 1:   9%|[32m▉         [0m| 159/1814 [00:23<04:31,  6.10it/s][A
-Evaluating Epoch: 1:   9%|[32m▉         [0m| 160/1814 [00:23<04:30,  6.12it/s][A
-Evaluating Epoch: 1:   9%|[32m▉         [0m| 161/1814 [00:23<04:18,  6.40it/s][A
-Evaluating Epoch: 1:   9%|[32m▉         [0m| 162/1814 [00:24<04:12,  6.55it/s][A
-Evaluating Epoch: 1:   9%|[32m▉         [0m| 163/1814 [00:24<04:17,  6.42it/s][A
-Evaluating Epoch: 1:   9%|[32m▉         [0m| 164/1814 [00:24<04:24,  6.25it/s][A
-Evaluating Epoch: 1:   9%|[32m▉         [0m| 165/1814 [00:24<04:29,  6.11it/s][A
-Evaluating Epoch: 1:   9%|[32m▉         [0m| 166/1814 [00:24<04:25,  6.22it/s][A
-Evaluating Epoch: 1:   9%|[32m▉         [0m| 167/1814 [00:24<04:12,  6.53it/s][A
-Evaluating Epoch: 1:   9%|[32m▉         [0m| 168/1814 [00:24<03:59,  6.88it/s][A
-Evaluating Epoch: 1:   9%|[32m▉         [0m| 169/1814 [00:25<04:04,  6.74it/s][A
-Evaluating Epoch: 1:   9%|[32m▉         [0m| 170/1814 [00:25<04:10,  6.56it/s][A
-Evaluating Epoch: 1:   9%|[32m▉         [0m| 171/1814 [00:25<04:18,  6.36it/s][A
-Evaluating Epoch: 1:   9%|[32m▉         [0m| 172/1814 [00:25<04:12,  6.50it/s][A
-Evaluating Epoch: 1:  10%|[32m▉         [0m| 173/1814 [00:25<04:15,  6.43it/s][A
-Evaluating Epoch: 1:  10%|[32m▉         [0m| 174/1814 [00:25<04:08,  6.61it/s][A
-Evaluating Epoch: 1:  10%|[32m▉         [0m| 175/1814 [00:26<04:11,  6.52it/s][A
-Evaluating Epoch: 1:  10%|[32m▉         [0m| 176/1814 [00:26<04:15,  6.40it/s][A
-Evaluating Epoch: 1:  10%|[32m▉         [0m| 177/1814 [00:26<04:13,  6.47it/s][A
-Evaluating Epoch: 1:  10%|[32m▉         [0m| 178/1814 [00:26<04:12,  6.47it/s][A
-Evaluating Epoch: 1:  10%|[32m▉         [0m| 179/1814 [00:26<03:55,  6.94it/s][A
-Evaluating Epoch: 1:  10%|[32m▉         [0m| 180/1814 [00:26<03:57,  6.88it/s][A
-Evaluating Epoch: 1:  10%|[32m▉         [0m| 181/1814 [00:26<03:55,  6.94it/s][A
-Evaluating Epoch: 1:  10%|[32m█         [0m| 182/1814 [00:27<04:00,  6.78it/s][A
-Evaluating Epoch: 1:  10%|[32m█         [0m| 183/1814 [00:27<04:03,  6.71it/s][A
-Evaluating Epoch: 1:  10%|[32m█         [0m| 184/1814 [00:27<03:55,  6.93it/s][A
-Evaluating Epoch: 1:  10%|[32m█         [0m| 185/1814 [00:27<04:00,  6.76it/s][A
-Evaluating Epoch: 1:  10%|[32m█         [0m| 186/1814 [00:27<04:11,  6.47it/s][A
-Evaluating Epoch: 1:  10%|[32m█         [0m| 187/1814 [00:27<04:11,  6.48it/s][A
-Evaluating Epoch: 1:  10%|[32m█         [0m| 188/1814 [00:28<04:11,  6.47it/s][A
-Evaluating Epoch: 1:  10%|[32m█         [0m| 189/1814 [00:28<04:05,  6.62it/s][A
-Evaluating Epoch: 1:  10%|[32m█         [0m| 190/1814 [00:28<04:11,  6.45it/s][A
-Evaluating Epoch: 1:  11%|[32m█         [0m| 191/1814 [00:28<04:19,  6.26it/s][A
-Evaluating Epoch: 1:  11%|[32m█         [0m| 192/1814 [00:28<04:20,  6.23it/s][A
-Evaluating Epoch: 1:  11%|[32m█         [0m| 193/1814 [00:28<04:20,  6.23it/s][A
-Evaluating Epoch: 1:  11%|[32m█         [0m| 194/1814 [00:28<04:24,  6.12it/s][A
-Evaluating Epoch: 1:  11%|[32m█         [0m| 195/1814 [00:29<04:13,  6.38it/s][A
-Evaluating Epoch: 1:  11%|[32m█         [0m| 196/1814 [00:29<04:09,  6.49it/s][A
-Evaluating Epoch: 1:  11%|[32m█         [0m| 197/1814 [00:29<04:16,  6.31it/s][A
-Evaluating Epoch: 1:  11%|[32m█         [0m| 198/1814 [00:29<04:23,  6.14it/s][A
-Evaluating Epoch: 1:  11%|[32m█         [0m| 199/1814 [00:29<04:19,  6.23it/s][A
-Evaluating Epoch: 1:  11%|[32m█         [0m| 200/1814 [00:29<04:20,  6.20it/s][A
-Evaluating Epoch: 1:  11%|[32m█         [0m| 201/1814 [00:30<04:20,  6.19it/s][A
-Evaluating Epoch: 1:  11%|[32m█         [0m| 202/1814 [00:30<04:25,  6.08it/s][A
-Evaluating Epoch: 1:  11%|[32m█         [0m| 203/1814 [00:30<04:24,  6.08it/s][A
-Evaluating Epoch: 1:  11%|[32m█         [0m| 204/1814 [00:30<04:20,  6.17it/s][A
-Evaluating Epoch: 1:  11%|[32m█▏        [0m| 205/1814 [00:30<04:18,  6.24it/s][A
-Evaluating Epoch: 1:  11%|[32m█▏        [0m| 206/1814 [00:30<04:13,  6.34it/s][A
-Evaluating Epoch: 1:  11%|[32m█▏        [0m| 207/1814 [00:31<04:07,  6.49it/s][A
-Evaluating Epoch: 1:  11%|[32m█▏        [0m| 208/1814 [00:31<04:11,  6.39it/s][A
-Evaluating Epoch: 1:  12%|[32m█▏        [0m| 209/1814 [00:31<04:05,  6.54it/s][A
-Evaluating Epoch: 1:  12%|[32m█▏        [0m| 210/1814 [00:31<04:05,  6.54it/s][A
-Evaluating Epoch: 1:  12%|[32m█▏        [0m| 211/1814 [00:31<04:13,  6.31it/s][A
-Evaluating Epoch: 1:  12%|[32m█▏        [0m| 212/1814 [00:31<04:20,  6.15it/s][A
-Evaluating Epoch: 1:  12%|[32m█▏        [0m| 213/1814 [00:32<04:23,  6.07it/s][A
-Evaluating Epoch: 1:  12%|[32m█▏        [0m| 214/1814 [00:32<04:22,  6.09it/s][A
-Evaluating Epoch: 1:  12%|[32m█▏        [0m| 215/1814 [00:32<04:21,  6.12it/s][A
-Evaluating Epoch: 1:  12%|[32m█▏        [0m| 216/1814 [00:32<04:25,  6.03it/s][A
-Evaluating Epoch: 1:  12%|[32m█▏        [0m| 217/1814 [00:32<04:18,  6.17it/s][A
-Evaluating Epoch: 1:  12%|[32m█▏        [0m| 218/1814 [00:32<04:10,  6.37it/s][A
-Evaluating Epoch: 1:  12%|[32m█▏        [0m| 219/1814 [00:32<04:09,  6.39it/s][A
-Evaluating Epoch: 1:  12%|[32m█▏        [0m| 220/1814 [00:33<04:07,  6.45it/s][A
-Evaluating Epoch: 1:  12%|[32m█▏        [0m| 221/1814 [00:33<03:56,  6.73it/s][A
-Evaluating Epoch: 1:  12%|[32m█▏        [0m| 222/1814 [00:33<04:01,  6.60it/s][A
-Evaluating Epoch: 1:  12%|[32m█▏        [0m| 223/1814 [00:33<04:09,  6.37it/s][A
-Evaluating Epoch: 1:  12%|[32m█▏        [0m| 224/1814 [00:33<04:12,  6.30it/s][A
-Evaluating Epoch: 1:  12%|[32m█▏        [0m| 225/1814 [00:33<04:17,  6.18it/s][A
-Evaluating Epoch: 1:  12%|[32m█▏        [0m| 226/1814 [00:34<04:13,  6.28it/s][A
-Evaluating Epoch: 1:  13%|[32m█▎        [0m| 227/1814 [00:34<04:06,  6.43it/s][A
-Evaluating Epoch: 1:  13%|[32m█▎        [0m| 228/1814 [00:34<04:09,  6.35it/s][A
-Evaluating Epoch: 1:  13%|[32m█▎        [0m| 229/1814 [00:34<04:02,  6.54it/s][A
-Evaluating Epoch: 1:  13%|[32m█▎        [0m| 230/1814 [00:34<03:58,  6.65it/s][A
-Evaluating Epoch: 1:  13%|[32m█▎        [0m| 231/1814 [00:34<03:51,  6.84it/s][A
-Evaluating Epoch: 1:  13%|[32m█▎        [0m| 232/1814 [00:34<03:42,  7.11it/s][A
-Evaluating Epoch: 1:  13%|[32m█▎        [0m| 233/1814 [00:35<03:46,  6.99it/s][A
-Evaluating Epoch: 1:  13%|[32m█▎        [0m| 234/1814 [00:35<03:49,  6.87it/s][A
-Evaluating Epoch: 1:  13%|[32m█▎        [0m| 235/1814 [00:35<03:57,  6.64it/s][A
-Evaluating Epoch: 1:  13%|[32m█▎        [0m| 236/1814 [00:35<04:06,  6.39it/s][A
-Evaluating Epoch: 1:  13%|[32m█▎        [0m| 237/1814 [00:35<04:13,  6.23it/s][A
-Evaluating Epoch: 1:  13%|[32m█▎        [0m| 238/1814 [00:35<04:16,  6.13it/s][A
-Evaluating Epoch: 1:  13%|[32m█▎        [0m| 239/1814 [00:36<04:13,  6.21it/s][A
-Evaluating Epoch: 1:  13%|[32m█▎        [0m| 240/1814 [00:36<04:06,  6.38it/s][A
-Evaluating Epoch: 1:  13%|[32m█▎        [0m| 241/1814 [00:36<04:02,  6.48it/s][A
-Evaluating Epoch: 1:  13%|[32m█▎        [0m| 242/1814 [00:36<04:04,  6.43it/s][A
-Evaluating Epoch: 1:  13%|[32m█▎        [0m| 243/1814 [00:36<04:07,  6.36it/s][A
-Evaluating Epoch: 1:  13%|[32m█▎        [0m| 244/1814 [00:36<04:12,  6.22it/s][A
-Evaluating Epoch: 1:  14%|[32m█▎        [0m| 245/1814 [00:36<04:10,  6.25it/s][A
-Evaluating Epoch: 1:  14%|[32m█▎        [0m| 246/1814 [00:37<04:04,  6.41it/s][A
-Evaluating Epoch: 1:  14%|[32m█▎        [0m| 247/1814 [00:37<03:43,  7.00it/s][A
-Evaluating Epoch: 1:  14%|[32m█▎        [0m| 249/1814 [00:37<03:19,  7.84it/s][A
-Evaluating Epoch: 1:  14%|[32m█▍        [0m| 250/1814 [00:37<03:18,  7.86it/s][A
-Evaluating Epoch: 1:  14%|[32m█▍        [0m| 251/1814 [00:37<03:27,  7.53it/s][A
-Evaluating Epoch: 1:  14%|[32m█▍        [0m| 252/1814 [00:37<03:36,  7.23it/s][A
-Evaluating Epoch: 1:  14%|[32m█▍        [0m| 253/1814 [00:38<03:39,  7.11it/s][A
-Evaluating Epoch: 1:  14%|[32m█▍        [0m| 254/1814 [00:38<03:42,  7.02it/s][A
-Evaluating Epoch: 1:  14%|[32m█▍        [0m| 255/1814 [00:38<03:51,  6.74it/s][A
-Evaluating Epoch: 1:  14%|[32m█▍        [0m| 256/1814 [00:38<03:48,  6.83it/s][A
-Evaluating Epoch: 1:  14%|[32m█▍        [0m| 257/1814 [00:38<03:39,  7.10it/s][A
-Evaluating Epoch: 1:  14%|[32m█▍        [0m| 258/1814 [00:38<03:33,  7.30it/s][A
-Evaluating Epoch: 1:  14%|[32m█▍        [0m| 259/1814 [00:38<03:28,  7.45it/s][A
-Evaluating Epoch: 1:  14%|[32m█▍        [0m| 260/1814 [00:39<03:24,  7.59it/s][A
-Evaluating Epoch: 1:  14%|[32m█▍        [0m| 261/1814 [00:39<03:32,  7.32it/s][A
-Evaluating Epoch: 1:  14%|[32m█▍        [0m| 262/1814 [00:39<03:40,  7.05it/s][A
-Evaluating Epoch: 1:  14%|[32m█▍        [0m| 263/1814 [00:39<03:37,  7.14it/s][A
-Evaluating Epoch: 1:  15%|[32m█▍        [0m| 264/1814 [00:39<03:44,  6.91it/s][A
-Evaluating Epoch: 1:  15%|[32m█▍        [0m| 265/1814 [00:39<03:49,  6.74it/s][A
-Evaluating Epoch: 1:  15%|[32m█▍        [0m| 266/1814 [00:39<03:50,  6.72it/s][A
-Evaluating Epoch: 1:  15%|[32m█▍        [0m| 267/1814 [00:40<03:42,  6.95it/s][A
-Evaluating Epoch: 1:  15%|[32m█▍        [0m| 268/1814 [00:40<03:41,  6.99it/s][A
-Evaluating Epoch: 1:  15%|[32m█▍        [0m| 269/1814 [00:40<03:47,  6.81it/s][A
-Evaluating Epoch: 1:  15%|[32m█▍        [0m| 270/1814 [00:40<03:53,  6.60it/s][A
-Evaluating Epoch: 1:  15%|[32m█▍        [0m| 271/1814 [00:40<03:38,  7.05it/s][A
-Evaluating Epoch: 1:  15%|[32m█▍        [0m| 272/1814 [00:40<03:41,  6.97it/s][A
-Evaluating Epoch: 1:  15%|[32m█▌        [0m| 273/1814 [00:40<03:53,  6.60it/s][A
-Evaluating Epoch: 1:  15%|[32m█▌        [0m| 274/1814 [00:41<03:58,  6.46it/s][A
-Evaluating Epoch: 1:  15%|[32m█▌        [0m| 275/1814 [00:41<04:01,  6.37it/s][A
-Evaluating Epoch: 1:  15%|[32m█▌        [0m| 276/1814 [00:41<04:03,  6.31it/s][A
-Evaluating Epoch: 1:  15%|[32m█▌        [0m| 277/1814 [00:41<03:54,  6.54it/s][A
-Evaluating Epoch: 1:  15%|[32m█▌        [0m| 278/1814 [00:41<03:43,  6.88it/s][A
-Evaluating Epoch: 1:  15%|[32m█▌        [0m| 279/1814 [00:41<03:45,  6.82it/s][A
-Evaluating Epoch: 1:  15%|[32m█▌        [0m| 280/1814 [00:42<03:55,  6.53it/s][A
-Evaluating Epoch: 1:  15%|[32m█▌        [0m| 281/1814 [00:42<03:57,  6.47it/s][A
-Evaluating Epoch: 1:  16%|[32m█▌        [0m| 282/1814 [00:42<03:56,  6.49it/s][A
-Evaluating Epoch: 1:  16%|[32m█▌        [0m| 283/1814 [00:42<03:55,  6.50it/s][A
-Evaluating Epoch: 1:  16%|[32m█▌        [0m| 284/1814 [00:42<03:47,  6.73it/s][A
-Evaluating Epoch: 1:  16%|[32m█▌        [0m| 285/1814 [00:42<03:37,  7.02it/s][A
-Evaluating Epoch: 1:  16%|[32m█▌        [0m| 286/1814 [00:42<03:44,  6.81it/s][A
-Evaluating Epoch: 1:  16%|[32m█▌        [0m| 287/1814 [00:43<03:42,  6.88it/s][A
-Evaluating Epoch: 1:  16%|[32m█▌        [0m| 288/1814 [00:43<03:41,  6.87it/s][A
-Evaluating Epoch: 1:  16%|[32m█▌        [0m| 289/1814 [00:43<03:37,  7.00it/s][A
-Evaluating Epoch: 1:  16%|[32m█▌        [0m| 290/1814 [00:43<03:43,  6.82it/s][A
-Evaluating Epoch: 1:  16%|[32m█▌        [0m| 291/1814 [00:43<03:46,  6.74it/s][A
-Evaluating Epoch: 1:  16%|[32m█▌        [0m| 292/1814 [00:43<03:48,  6.65it/s][A
-Evaluating Epoch: 1:  16%|[32m█▌        [0m| 293/1814 [00:43<03:48,  6.64it/s][A
-Evaluating Epoch: 1:  16%|[32m█▌        [0m| 294/1814 [00:44<03:50,  6.59it/s][A
-Evaluating Epoch: 1:  16%|[32m█▋        [0m| 295/1814 [00:44<03:55,  6.45it/s][A
-Evaluating Epoch: 1:  16%|[32m█▋        [0m| 296/1814 [00:44<04:01,  6.29it/s][A
-Evaluating Epoch: 1:  16%|[32m█▋        [0m| 297/1814 [00:44<03:44,  6.77it/s][A
-Evaluating Epoch: 1:  16%|[32m█▋        [0m| 298/1814 [00:44<03:36,  7.01it/s][A
-Evaluating Epoch: 1:  16%|[32m█▋        [0m| 299/1814 [00:44<03:38,  6.93it/s][A
-Evaluating Epoch: 1:  17%|[32m█▋        [0m| 300/1814 [00:44<03:44,  6.75it/s][A
-Evaluating Epoch: 1:  17%|[32m█▋        [0m| 301/1814 [00:45<03:45,  6.71it/s][A
-Evaluating Epoch: 1:  17%|[32m█▋        [0m| 302/1814 [00:45<03:51,  6.54it/s][A
-Evaluating Epoch: 1:  17%|[32m█▋        [0m| 303/1814 [00:45<03:57,  6.35it/s][A
-Evaluating Epoch: 1:  17%|[32m█▋        [0m| 304/1814 [00:45<04:02,  6.22it/s][A
-Evaluating Epoch: 1:  17%|[32m█▋        [0m| 305/1814 [00:45<03:59,  6.31it/s][A
-Evaluating Epoch: 1:  17%|[32m█▋        [0m| 306/1814 [00:45<03:53,  6.46it/s][A
-Evaluating Epoch: 1:  17%|[32m█▋        [0m| 307/1814 [00:46<03:57,  6.35it/s][A
-Evaluating Epoch: 1:  17%|[32m█▋        [0m| 308/1814 [00:46<03:49,  6.57it/s][A
-Evaluating Epoch: 1:  17%|[32m█▋        [0m| 309/1814 [00:46<03:50,  6.52it/s][A
-Evaluating Epoch: 1:  17%|[32m█▋        [0m| 310/1814 [00:46<03:52,  6.46it/s][A
-Evaluating Epoch: 1:  17%|[32m█▋        [0m| 311/1814 [00:46<03:56,  6.35it/s][A
-Evaluating Epoch: 1:  17%|[32m█▋        [0m| 312/1814 [00:46<03:56,  6.36it/s][A
-Evaluating Epoch: 1:  17%|[32m█▋        [0m| 313/1814 [00:47<03:56,  6.36it/s][A
-Evaluating Epoch: 1:  17%|[32m█▋        [0m| 314/1814 [00:47<03:55,  6.37it/s][A
-Evaluating Epoch: 1:  17%|[32m█▋        [0m| 315/1814 [00:47<03:53,  6.42it/s][A
-Evaluating Epoch: 1:  17%|[32m█▋        [0m| 316/1814 [00:47<03:49,  6.52it/s][A
-Evaluating Epoch: 1:  17%|[32m█▋        [0m| 317/1814 [00:47<03:40,  6.80it/s][A
-Evaluating Epoch: 1:  18%|[32m█▊        [0m| 318/1814 [00:47<03:45,  6.65it/s][A
-Evaluating Epoch: 1:  18%|[32m█▊        [0m| 319/1814 [00:47<03:53,  6.41it/s][A
-Evaluating Epoch: 1:  18%|[32m█▊        [0m| 320/1814 [00:48<03:52,  6.43it/s][A
-Evaluating Epoch: 1:  18%|[32m█▊        [0m| 321/1814 [00:48<03:47,  6.57it/s][A
-Evaluating Epoch: 1:  18%|[32m█▊        [0m| 322/1814 [00:48<03:43,  6.66it/s][A
-Evaluating Epoch: 1:  18%|[32m█▊        [0m| 323/1814 [00:48<03:41,  6.73it/s][A
-Evaluating Epoch: 1:  18%|[32m█▊        [0m| 324/1814 [00:48<03:47,  6.55it/s][A
-Evaluating Epoch: 1:  18%|[32m█▊        [0m| 325/1814 [00:48<03:41,  6.71it/s][A
-Evaluating Epoch: 1:  18%|[32m█▊        [0m| 326/1814 [00:48<03:39,  6.77it/s][A
-Evaluating Epoch: 1:  18%|[32m█▊        [0m| 327/1814 [00:49<03:41,  6.71it/s][A
-Evaluating Epoch: 1:  18%|[32m█▊        [0m| 328/1814 [00:49<03:47,  6.52it/s][A
-Evaluating Epoch: 1:  18%|[32m█▊        [0m| 329/1814 [00:49<03:55,  6.30it/s][A
-Evaluating Epoch: 1:  18%|[32m█▊        [0m| 330/1814 [00:49<03:48,  6.49it/s][A
-Evaluating Epoch: 1:  18%|[32m█▊        [0m| 331/1814 [00:49<03:38,  6.79it/s][A
-Evaluating Epoch: 1:  18%|[32m█▊        [0m| 332/1814 [00:49<03:38,  6.77it/s][A
-Evaluating Epoch: 1:  18%|[32m█▊        [0m| 333/1814 [00:50<03:38,  6.76it/s][A
-Evaluating Epoch: 1:  18%|[32m█▊        [0m| 334/1814 [00:50<03:37,  6.80it/s][A
-Evaluating Epoch: 1:  18%|[32m█▊        [0m| 335/1814 [00:50<03:37,  6.81it/s][A
-Evaluating Epoch: 1:  19%|[32m█▊        [0m| 336/1814 [00:50<03:36,  6.81it/s][A
-Evaluating Epoch: 1:  19%|[32m█▊        [0m| 337/1814 [00:50<03:30,  7.01it/s][A
-Evaluating Epoch: 1:  19%|[32m█▊        [0m| 338/1814 [00:50<03:28,  7.06it/s][A
-Evaluating Epoch: 1:  19%|[32m█▊        [0m| 339/1814 [00:50<03:34,  6.88it/s][A
-Evaluating Epoch: 1:  19%|[32m█▊        [0m| 340/1814 [00:51<03:36,  6.79it/s][A
-Evaluating Epoch: 1:  19%|[32m█▉        [0m| 341/1814 [00:51<03:43,  6.59it/s][A
-Evaluating Epoch: 1:  19%|[32m█▉        [0m| 342/1814 [00:51<03:55,  6.24it/s][A
-Evaluating Epoch: 1:  19%|[32m█▉        [0m| 343/1814 [00:51<03:49,  6.41it/s][A
-Evaluating Epoch: 1:  19%|[32m█▉        [0m| 344/1814 [00:51<03:42,  6.61it/s][A
-Evaluating Epoch: 1:  19%|[32m█▉        [0m| 345/1814 [00:51<03:39,  6.69it/s][A
-Evaluating Epoch: 1:  19%|[32m█▉        [0m| 346/1814 [00:51<03:49,  6.40it/s][A
-Evaluating Epoch: 1:  19%|[32m█▉        [0m| 347/1814 [00:52<03:54,  6.25it/s][A
-Evaluating Epoch: 1:  19%|[32m█▉        [0m| 348/1814 [00:52<04:02,  6.04it/s][A
-Evaluating Epoch: 1:  19%|[32m█▉        [0m| 349/1814 [00:52<03:54,  6.25it/s][A
-Evaluating Epoch: 1:  19%|[32m█▉        [0m| 350/1814 [00:52<03:49,  6.38it/s][A
-Evaluating Epoch: 1:  19%|[32m█▉        [0m| 351/1814 [00:52<03:47,  6.43it/s][A
-Evaluating Epoch: 1:  19%|[32m█▉        [0m| 352/1814 [00:52<03:44,  6.50it/s][A
-Evaluating Epoch: 1:  19%|[32m█▉        [0m| 353/1814 [00:53<03:49,  6.36it/s][A
-Evaluating Epoch: 1:  20%|[32m█▉        [0m| 354/1814 [00:53<03:48,  6.39it/s][A
-Evaluating Epoch: 1:  20%|[32m█▉        [0m| 355/1814 [00:53<03:41,  6.59it/s][A
-Evaluating Epoch: 1:  20%|[32m█▉        [0m| 356/1814 [00:53<03:37,  6.72it/s][A
-Evaluating Epoch: 1:  20%|[32m█▉        [0m| 357/1814 [00:53<03:35,  6.77it/s][A
-Evaluating Epoch: 1:  20%|[32m█▉        [0m| 358/1814 [00:53<03:37,  6.69it/s][A
-Evaluating Epoch: 1:  20%|[32m█▉        [0m| 359/1814 [00:53<03:40,  6.60it/s][A
-Evaluating Epoch: 1:  20%|[32m█▉        [0m| 360/1814 [00:54<03:40,  6.60it/s][A
-Evaluating Epoch: 1:  20%|[32m█▉        [0m| 361/1814 [00:54<03:33,  6.80it/s][A
-Evaluating Epoch: 1:  20%|[32m█▉        [0m| 362/1814 [00:54<03:34,  6.77it/s][A
-Evaluating Epoch: 1:  20%|[32m██        [0m| 363/1814 [00:54<03:40,  6.58it/s][A
-Evaluating Epoch: 1:  20%|[32m██        [0m| 364/1814 [00:54<03:35,  6.74it/s][A
-Evaluating Epoch: 1:  20%|[32m██        [0m| 365/1814 [00:54<03:42,  6.51it/s][A
-Evaluating Epoch: 1:  20%|[32m██        [0m| 366/1814 [00:55<03:48,  6.34it/s][A
-Evaluating Epoch: 1:  20%|[32m██        [0m| 367/1814 [00:55<03:47,  6.35it/s][A
-Evaluating Epoch: 1:  20%|[32m██        [0m| 368/1814 [00:55<03:45,  6.42it/s][A
-Evaluating Epoch: 1:  20%|[32m██        [0m| 369/1814 [00:55<03:27,  6.95it/s][A
-Evaluating Epoch: 1:  20%|[32m██        [0m| 370/1814 [00:55<03:22,  7.11it/s][A
-Evaluating Epoch: 1:  20%|[32m██        [0m| 371/1814 [00:55<03:29,  6.88it/s][A
-Evaluating Epoch: 1:  21%|[32m██        [0m| 372/1814 [00:55<03:33,  6.77it/s][A
-Evaluating Epoch: 1:  21%|[32m██        [0m| 373/1814 [00:56<03:34,  6.73it/s][A
-Evaluating Epoch: 1:  21%|[32m██        [0m| 374/1814 [00:56<03:34,  6.73it/s][A
-Evaluating Epoch: 1:  21%|[32m██        [0m| 375/1814 [00:56<03:33,  6.74it/s][A
-Evaluating Epoch: 1:  21%|[32m██        [0m| 376/1814 [00:56<03:28,  6.91it/s][A
-Evaluating Epoch: 1:  21%|[32m██        [0m| 377/1814 [00:56<03:32,  6.76it/s][A
-Evaluating Epoch: 1:  21%|[32m██        [0m| 378/1814 [00:56<03:36,  6.64it/s][A
-Evaluating Epoch: 1:  21%|[32m██        [0m| 379/1814 [00:56<03:31,  6.79it/s][A
-Evaluating Epoch: 1:  21%|[32m██        [0m| 380/1814 [00:57<03:29,  6.84it/s][A
-Evaluating Epoch: 1:  21%|[32m██        [0m| 381/1814 [00:57<03:32,  6.74it/s][A
-Evaluating Epoch: 1:  21%|[32m██        [0m| 382/1814 [00:57<03:38,  6.56it/s][A
-Evaluating Epoch: 1:  21%|[32m██        [0m| 383/1814 [00:57<03:42,  6.44it/s][A
-Evaluating Epoch: 1:  21%|[32m██        [0m| 384/1814 [00:57<03:44,  6.37it/s][A
-Evaluating Epoch: 1:  21%|[32m██        [0m| 385/1814 [00:57<03:37,  6.56it/s][A
-Evaluating Epoch: 1:  21%|[32m██▏       [0m| 386/1814 [00:58<03:31,  6.74it/s][A
-Evaluating Epoch: 1:  21%|[32m██▏       [0m| 387/1814 [00:58<03:25,  6.95it/s][A
-Evaluating Epoch: 1:  21%|[32m██▏       [0m| 388/1814 [00:58<03:18,  7.18it/s][A
-Evaluating Epoch: 1:  21%|[32m██▏       [0m| 389/1814 [00:58<03:14,  7.34it/s][A
-Evaluating Epoch: 1:  21%|[32m██▏       [0m| 390/1814 [00:58<03:12,  7.41it/s][A
-Evaluating Epoch: 1:  22%|[32m██▏       [0m| 391/1814 [00:58<03:16,  7.24it/s][A
-Evaluating Epoch: 1:  22%|[32m██▏       [0m| 392/1814 [00:58<03:23,  6.97it/s][A
-Evaluating Epoch: 1:  22%|[32m██▏       [0m| 393/1814 [00:59<03:27,  6.84it/s][A
-Evaluating Epoch: 1:  22%|[32m██▏       [0m| 394/1814 [00:59<03:32,  6.70it/s][A
-Evaluating Epoch: 1:  22%|[32m██▏       [0m| 395/1814 [00:59<03:28,  6.82it/s][A
-Evaluating Epoch: 1:  22%|[32m██▏       [0m| 396/1814 [00:59<03:33,  6.64it/s][A
-Evaluating Epoch: 1:  22%|[32m██▏       [0m| 397/1814 [00:59<03:29,  6.75it/s][A
-Evaluating Epoch: 1:  22%|[32m██▏       [0m| 398/1814 [00:59<03:37,  6.50it/s][A
-Evaluating Epoch: 1:  22%|[32m██▏       [0m| 399/1814 [00:59<03:41,  6.40it/s][A
-Evaluating Epoch: 1:  22%|[32m██▏       [0m| 400/1814 [01:00<03:38,  6.48it/s][A
-Evaluating Epoch: 1:  22%|[32m██▏       [0m| 401/1814 [01:00<03:34,  6.57it/s][A
-Evaluating Epoch: 1:  22%|[32m██▏       [0m| 402/1814 [01:00<03:32,  6.64it/s][A
-Evaluating Epoch: 1:  22%|[32m██▏       [0m| 403/1814 [01:00<03:17,  7.15it/s][A
-Evaluating Epoch: 1:  22%|[32m██▏       [0m| 404/1814 [01:00<03:17,  7.15it/s][A
-Evaluating Epoch: 1:  22%|[32m██▏       [0m| 405/1814 [01:00<03:26,  6.84it/s][A
-Evaluating Epoch: 1:  22%|[32m██▏       [0m| 406/1814 [01:00<03:35,  6.53it/s][A
-Evaluating Epoch: 1:  22%|[32m██▏       [0m| 407/1814 [01:01<03:39,  6.40it/s][A
-Evaluating Epoch: 1:  22%|[32m██▏       [0m| 408/1814 [01:01<03:32,  6.61it/s][A
-Evaluating Epoch: 1:  23%|[32m██▎       [0m| 409/1814 [01:01<03:35,  6.51it/s][A
-Evaluating Epoch: 1:  23%|[32m██▎       [0m| 410/1814 [01:01<03:37,  6.45it/s][A
-Evaluating Epoch: 1:  23%|[32m██▎       [0m| 411/1814 [01:01<03:29,  6.70it/s][A
-Evaluating Epoch: 1:  23%|[32m██▎       [0m| 412/1814 [01:01<03:29,  6.69it/s][A
-Evaluating Epoch: 1:  23%|[32m██▎       [0m| 413/1814 [01:02<03:38,  6.40it/s][A
-Evaluating Epoch: 1:  23%|[32m██▎       [0m| 414/1814 [01:02<03:45,  6.21it/s][A
-Evaluating Epoch: 1:  23%|[32m██▎       [0m| 415/1814 [01:02<03:37,  6.43it/s][A
-Evaluating Epoch: 1:  23%|[32m██▎       [0m| 416/1814 [01:02<03:34,  6.50it/s][A
-Evaluating Epoch: 1:  23%|[32m██▎       [0m| 417/1814 [01:02<03:38,  6.40it/s][A
-Evaluating Epoch: 1:  23%|[32m██▎       [0m| 418/1814 [01:02<03:32,  6.56it/s][A
-Evaluating Epoch: 1:  23%|[32m██▎       [0m| 419/1814 [01:02<03:33,  6.54it/s][A
-Evaluating Epoch: 1:  23%|[32m██▎       [0m| 420/1814 [01:03<03:37,  6.42it/s][A
-Evaluating Epoch: 1:  23%|[32m██▎       [0m| 421/1814 [01:03<03:35,  6.46it/s][A
-Evaluating Epoch: 1:  23%|[32m██▎       [0m| 422/1814 [01:03<03:26,  6.73it/s][A
-Evaluating Epoch: 1:  23%|[32m██▎       [0m| 423/1814 [01:03<03:26,  6.74it/s][A
-Evaluating Epoch: 1:  23%|[32m██▎       [0m| 424/1814 [01:03<03:34,  6.49it/s][A
-Evaluating Epoch: 1:  23%|[32m██▎       [0m| 425/1814 [01:03<03:35,  6.46it/s][A
-Evaluating Epoch: 1:  23%|[32m██▎       [0m| 426/1814 [01:04<03:36,  6.42it/s][A
-Evaluating Epoch: 1:  24%|[32m██▎       [0m| 427/1814 [01:04<03:42,  6.24it/s][A
-Evaluating Epoch: 1:  24%|[32m██▎       [0m| 428/1814 [01:04<03:41,  6.27it/s][A
-Evaluating Epoch: 1:  24%|[32m██▎       [0m| 429/1814 [01:04<03:40,  6.29it/s][A
-Evaluating Epoch: 1:  24%|[32m██▎       [0m| 430/1814 [01:04<03:44,  6.18it/s][A
-Evaluating Epoch: 1:  24%|[32m██▍       [0m| 431/1814 [01:04<03:44,  6.17it/s][A
-Evaluating Epoch: 1:  24%|[32m██▍       [0m| 432/1814 [01:05<03:47,  6.07it/s][A
-Evaluating Epoch: 1:  24%|[32m██▍       [0m| 433/1814 [01:05<03:50,  6.00it/s][A
-Evaluating Epoch: 1:  24%|[32m██▍       [0m| 434/1814 [01:05<03:50,  5.98it/s][A
-Evaluating Epoch: 1:  24%|[32m██▍       [0m| 435/1814 [01:05<03:48,  6.03it/s][A
-Evaluating Epoch: 1:  24%|[32m██▍       [0m| 436/1814 [01:05<03:49,  6.01it/s][A
-Evaluating Epoch: 1:  24%|[32m██▍       [0m| 437/1814 [01:05<03:45,  6.11it/s][A
-Evaluating Epoch: 1:  24%|[32m██▍       [0m| 438/1814 [01:06<03:42,  6.18it/s][A
-Evaluating Epoch: 1:  24%|[32m██▍       [0m| 439/1814 [01:06<03:45,  6.10it/s][A
-Evaluating Epoch: 1:  24%|[32m██▍       [0m| 440/1814 [01:06<03:44,  6.13it/s][A
-Evaluating Epoch: 1:  24%|[32m██▍       [0m| 441/1814 [01:06<03:39,  6.26it/s][A
-Evaluating Epoch: 1:  24%|[32m██▍       [0m| 442/1814 [01:06<03:41,  6.20it/s][A
-Evaluating Epoch: 1:  24%|[32m██▍       [0m| 443/1814 [01:06<03:38,  6.29it/s][A
-Evaluating Epoch: 1:  24%|[32m██▍       [0m| 444/1814 [01:06<03:36,  6.33it/s][A
-Evaluating Epoch: 1:  25%|[32m██▍       [0m| 445/1814 [01:07<03:40,  6.20it/s][A
-Evaluating Epoch: 1:  25%|[32m██▍       [0m| 446/1814 [01:07<03:34,  6.38it/s][A
-Evaluating Epoch: 1:  25%|[32m██▍       [0m| 447/1814 [01:07<03:28,  6.56it/s][A
-Evaluating Epoch: 1:  25%|[32m██▍       [0m| 448/1814 [01:07<03:20,  6.82it/s][A
-Evaluating Epoch: 1:  25%|[32m██▍       [0m| 449/1814 [01:07<03:17,  6.91it/s][A
-Evaluating Epoch: 1:  25%|[32m██▍       [0m| 450/1814 [01:07<03:14,  7.01it/s][A
-Evaluating Epoch: 1:  25%|[32m██▍       [0m| 451/1814 [01:08<03:21,  6.77it/s][A
-Evaluating Epoch: 1:  25%|[32m██▍       [0m| 452/1814 [01:08<03:30,  6.48it/s][A
-Evaluating Epoch: 1:  25%|[32m██▍       [0m| 453/1814 [01:08<03:37,  6.26it/s][A
-Evaluating Epoch: 1:  25%|[32m██▌       [0m| 454/1814 [01:08<03:41,  6.13it/s][A
-Evaluating Epoch: 1:  25%|[32m██▌       [0m| 455/1814 [01:08<03:32,  6.39it/s][A
-Evaluating Epoch: 1:  25%|[32m██▌       [0m| 456/1814 [01:08<03:20,  6.77it/s][A
-Evaluating Epoch: 1:  25%|[32m██▌       [0m| 457/1814 [01:08<03:17,  6.89it/s][A
-Evaluating Epoch: 1:  25%|[32m██▌       [0m| 458/1814 [01:09<03:18,  6.82it/s][A
-Evaluating Epoch: 1:  25%|[32m██▌       [0m| 459/1814 [01:09<03:19,  6.80it/s][A
-Evaluating Epoch: 1:  25%|[32m██▌       [0m| 460/1814 [01:09<03:12,  7.02it/s][A
-Evaluating Epoch: 1:  25%|[32m██▌       [0m| 461/1814 [01:09<02:58,  7.59it/s][A
-Evaluating Epoch: 1:  25%|[32m██▌       [0m| 462/1814 [01:09<03:05,  7.28it/s][A
-Evaluating Epoch: 1:  26%|[32m██▌       [0m| 463/1814 [01:09<03:18,  6.79it/s][A
-Evaluating Epoch: 1:  26%|[32m██▌       [0m| 464/1814 [01:09<03:17,  6.83it/s][A
-Evaluating Epoch: 1:  26%|[32m██▌       [0m| 465/1814 [01:10<03:25,  6.56it/s][A
-Evaluating Epoch: 1:  26%|[32m██▌       [0m| 466/1814 [01:10<03:37,  6.21it/s][A
-Evaluating Epoch: 1:  26%|[32m██▌       [0m| 467/1814 [01:10<03:30,  6.39it/s][A
-Evaluating Epoch: 1:  26%|[32m██▌       [0m| 468/1814 [01:10<03:18,  6.77it/s][A
-Evaluating Epoch: 1:  26%|[32m██▌       [0m| 469/1814 [01:10<03:10,  7.05it/s][A
-Evaluating Epoch: 1:  26%|[32m██▌       [0m| 470/1814 [01:10<03:11,  7.01it/s][A
-Evaluating Epoch: 1:  26%|[32m██▌       [0m| 471/1814 [01:10<03:14,  6.91it/s][A
-Evaluating Epoch: 1:  26%|[32m██▌       [0m| 472/1814 [01:11<03:14,  6.89it/s][A
-Evaluating Epoch: 1:  26%|[32m██▌       [0m| 473/1814 [01:11<03:14,  6.90it/s][A
-Evaluating Epoch: 1:  26%|[32m██▌       [0m| 474/1814 [01:11<03:14,  6.89it/s][A
-Evaluating Epoch: 1:  26%|[32m██▌       [0m| 475/1814 [01:11<03:16,  6.81it/s][A
-Evaluating Epoch: 1:  26%|[32m██▌       [0m| 476/1814 [01:11<03:16,  6.81it/s][A
-Evaluating Epoch: 1:  26%|[32m██▋       [0m| 477/1814 [01:11<03:23,  6.59it/s][A
-Evaluating Epoch: 1:  26%|[32m██▋       [0m| 478/1814 [01:12<03:29,  6.39it/s][A
-Evaluating Epoch: 1:  26%|[32m██▋       [0m| 479/1814 [01:12<03:33,  6.25it/s][A
-Evaluating Epoch: 1:  26%|[32m██▋       [0m| 480/1814 [01:12<03:25,  6.49it/s][A
-Evaluating Epoch: 1:  27%|[32m██▋       [0m| 481/1814 [01:12<03:14,  6.87it/s][A
-Evaluating Epoch: 1:  27%|[32m██▋       [0m| 482/1814 [01:12<03:13,  6.89it/s][A
-Evaluating Epoch: 1:  27%|[32m██▋       [0m| 483/1814 [01:12<03:17,  6.73it/s][A
-Evaluating Epoch: 1:  27%|[32m██▋       [0m| 484/1814 [01:12<03:20,  6.63it/s][A
-Evaluating Epoch: 1:  27%|[32m██▋       [0m| 485/1814 [01:13<03:21,  6.61it/s][A
-Evaluating Epoch: 1:  27%|[32m██▋       [0m| 486/1814 [01:13<03:21,  6.60it/s][A
-Evaluating Epoch: 1:  27%|[32m██▋       [0m| 487/1814 [01:13<03:21,  6.58it/s][A
-Evaluating Epoch: 1:  27%|[32m██▋       [0m| 488/1814 [01:13<03:19,  6.64it/s][A
-Evaluating Epoch: 1:  27%|[32m██▋       [0m| 489/1814 [01:13<03:16,  6.73it/s][A
-Evaluating Epoch: 1:  27%|[32m██▋       [0m| 490/1814 [01:13<03:10,  6.96it/s][A
-Evaluating Epoch: 1:  27%|[32m██▋       [0m| 491/1814 [01:13<03:10,  6.96it/s][A
-Evaluating Epoch: 1:  27%|[32m██▋       [0m| 492/1814 [01:14<03:18,  6.65it/s][A
-Evaluating Epoch: 1:  27%|[32m██▋       [0m| 493/1814 [01:14<03:22,  6.53it/s][A
-Evaluating Epoch: 1:  27%|[32m██▋       [0m| 494/1814 [01:14<03:27,  6.35it/s][A
-Evaluating Epoch: 1:  27%|[32m██▋       [0m| 495/1814 [01:14<03:34,  6.14it/s][A
-Evaluating Epoch: 1:  27%|[32m██▋       [0m| 496/1814 [01:14<03:36,  6.10it/s][A
-Evaluating Epoch: 1:  27%|[32m██▋       [0m| 497/1814 [01:14<03:35,  6.12it/s][A
-Evaluating Epoch: 1:  27%|[32m██▋       [0m| 498/1814 [01:15<03:37,  6.06it/s][A
-Evaluating Epoch: 1:  28%|[32m██▊       [0m| 499/1814 [01:15<03:35,  6.09it/s][A
-Evaluating Epoch: 1:  28%|[32m██▊       [0m| 500/1814 [01:15<03:37,  6.03it/s][A
-Evaluating Epoch: 1:  28%|[32m██▊       [0m| 501/1814 [01:15<03:40,  5.95it/s][A
-Evaluating Epoch: 1:  28%|[32m██▊       [0m| 502/1814 [01:15<03:41,  5.91it/s][A
-Evaluating Epoch: 1:  28%|[32m██▊       [0m| 503/1814 [01:15<03:32,  6.17it/s][A
-Evaluating Epoch: 1:  28%|[32m██▊       [0m| 504/1814 [01:16<03:25,  6.38it/s][A
-Evaluating Epoch: 1:  28%|[32m██▊       [0m| 505/1814 [01:16<03:22,  6.46it/s][A
-Evaluating Epoch: 1:  28%|[32m██▊       [0m| 506/1814 [01:16<03:25,  6.36it/s][A
-Evaluating Epoch: 1:  28%|[32m██▊       [0m| 507/1814 [01:16<03:19,  6.56it/s][A
-Evaluating Epoch: 1:  28%|[32m██▊       [0m| 508/1814 [01:16<03:21,  6.49it/s][A
-Evaluating Epoch: 1:  28%|[32m██▊       [0m| 509/1814 [01:16<03:30,  6.21it/s][A
-Evaluating Epoch: 1:  28%|[32m██▊       [0m| 510/1814 [01:17<03:35,  6.04it/s][A
-Evaluating Epoch: 1:  28%|[32m██▊       [0m| 511/1814 [01:17<03:31,  6.17it/s][A
-Evaluating Epoch: 1:  28%|[32m██▊       [0m| 512/1814 [01:17<03:28,  6.25it/s][A
-Evaluating Epoch: 1:  28%|[32m██▊       [0m| 513/1814 [01:17<03:31,  6.16it/s][A
-Evaluating Epoch: 1:  28%|[32m██▊       [0m| 514/1814 [01:17<03:28,  6.22it/s][A
-Evaluating Epoch: 1:  28%|[32m██▊       [0m| 515/1814 [01:17<03:23,  6.37it/s][A
-Evaluating Epoch: 1:  28%|[32m██▊       [0m| 516/1814 [01:17<03:14,  6.67it/s][A
-Evaluating Epoch: 1:  29%|[32m██▊       [0m| 517/1814 [01:18<03:10,  6.82it/s][A
-Evaluating Epoch: 1:  29%|[32m██▊       [0m| 518/1814 [01:18<03:16,  6.58it/s][A
-Evaluating Epoch: 1:  29%|[32m██▊       [0m| 519/1814 [01:18<03:24,  6.32it/s][A
-Evaluating Epoch: 1:  29%|[32m██▊       [0m| 520/1814 [01:18<03:18,  6.51it/s][A
-Evaluating Epoch: 1:  29%|[32m██▊       [0m| 521/1814 [01:18<03:13,  6.69it/s][A
-Evaluating Epoch: 1:  29%|[32m██▉       [0m| 522/1814 [01:18<03:17,  6.53it/s][A
-Evaluating Epoch: 1:  29%|[32m██▉       [0m| 523/1814 [01:19<03:20,  6.43it/s][A
-Evaluating Epoch: 1:  29%|[32m██▉       [0m| 524/1814 [01:19<03:25,  6.27it/s][A
-Evaluating Epoch: 1:  29%|[32m██▉       [0m| 525/1814 [01:19<03:26,  6.23it/s][A
-Evaluating Epoch: 1:  29%|[32m██▉       [0m| 526/1814 [01:19<03:19,  6.47it/s][A
-Evaluating Epoch: 1:  29%|[32m██▉       [0m| 527/1814 [01:19<03:19,  6.44it/s][A
-Evaluating Epoch: 1:  29%|[32m██▉       [0m| 528/1814 [01:19<03:25,  6.26it/s][A
-Evaluating Epoch: 1:  29%|[32m██▉       [0m| 529/1814 [01:20<03:28,  6.16it/s][A
-Evaluating Epoch: 1:  29%|[32m██▉       [0m| 530/1814 [01:20<03:36,  5.93it/s][A
-Evaluating Epoch: 1:  29%|[32m██▉       [0m| 531/1814 [01:20<03:45,  5.69it/s][A
-Evaluating Epoch: 1:  29%|[32m██▉       [0m| 532/1814 [01:20<03:39,  5.83it/s][A
-Evaluating Epoch: 1:  29%|[32m██▉       [0m| 533/1814 [01:20<03:31,  6.06it/s][A
-Evaluating Epoch: 1:  29%|[32m██▉       [0m| 534/1814 [01:20<03:26,  6.21it/s][A
-Evaluating Epoch: 1:  29%|[32m██▉       [0m| 535/1814 [01:21<03:24,  6.25it/s][A
-Evaluating Epoch: 1:  30%|[32m██▉       [0m| 536/1814 [01:21<03:21,  6.35it/s][A
-Evaluating Epoch: 1:  30%|[32m██▉       [0m| 537/1814 [01:21<03:16,  6.49it/s][A
-Evaluating Epoch: 1:  30%|[32m██▉       [0m| 538/1814 [01:21<03:25,  6.21it/s][A
-Evaluating Epoch: 1:  30%|[32m██▉       [0m| 539/1814 [01:21<03:33,  5.98it/s][A
-Evaluating Epoch: 1:  30%|[32m██▉       [0m| 540/1814 [01:21<03:35,  5.91it/s][A
-Evaluating Epoch: 1:  30%|[32m██▉       [0m| 541/1814 [01:22<03:33,  5.97it/s][A
-Evaluating Epoch: 1:  30%|[32m██▉       [0m| 542/1814 [01:22<03:33,  5.94it/s][A
-Evaluating Epoch: 1:  30%|[32m██▉       [0m| 543/1814 [01:22<03:35,  5.90it/s][A
-Evaluating Epoch: 1:  30%|[32m██▉       [0m| 544/1814 [01:22<03:37,  5.84it/s][A
-Evaluating Epoch: 1:  30%|[32m███       [0m| 545/1814 [01:22<03:37,  5.84it/s][A
-Evaluating Epoch: 1:  30%|[32m███       [0m| 546/1814 [01:22<03:38,  5.81it/s][A
-Evaluating Epoch: 1:  30%|[32m███       [0m| 547/1814 [01:23<03:39,  5.79it/s][A
-Evaluating Epoch: 1:  30%|[32m███       [0m| 548/1814 [01:23<03:38,  5.79it/s][A
-Evaluating Epoch: 1:  30%|[32m███       [0m| 549/1814 [01:23<03:31,  5.98it/s][A
-Evaluating Epoch: 1:  30%|[32m███       [0m| 550/1814 [01:23<03:26,  6.12it/s][A
-Evaluating Epoch: 1:  30%|[32m███       [0m| 551/1814 [01:23<03:22,  6.25it/s][A
-Evaluating Epoch: 1:  30%|[32m███       [0m| 552/1814 [01:23<03:20,  6.31it/s][A
-Evaluating Epoch: 1:  30%|[32m███       [0m| 553/1814 [01:24<03:25,  6.14it/s][A
-Evaluating Epoch: 1:  31%|[32m███       [0m| 554/1814 [01:24<03:29,  6.01it/s][A
-Evaluating Epoch: 1:  31%|[32m███       [0m| 555/1814 [01:24<03:31,  5.95it/s][A
-Evaluating Epoch: 1:  31%|[32m███       [0m| 556/1814 [01:24<03:33,  5.90it/s][A
-Evaluating Epoch: 1:  31%|[32m███       [0m| 557/1814 [01:24<03:33,  5.89it/s][A
-Evaluating Epoch: 1:  31%|[32m███       [0m| 558/1814 [01:24<03:33,  5.88it/s][A
-Evaluating Epoch: 1:  31%|[32m███       [0m| 559/1814 [01:25<03:27,  6.06it/s][A
-Evaluating Epoch: 1:  31%|[32m███       [0m| 560/1814 [01:25<03:21,  6.22it/s][A
-Evaluating Epoch: 1:  31%|[32m███       [0m| 561/1814 [01:25<03:20,  6.26it/s][A
-Evaluating Epoch: 1:  31%|[32m███       [0m| 562/1814 [01:25<03:28,  6.00it/s][A
-Evaluating Epoch: 1:  31%|[32m███       [0m| 563/1814 [01:25<03:33,  5.87it/s][A
-Evaluating Epoch: 1:  31%|[32m███       [0m| 564/1814 [01:25<03:30,  5.95it/s][A
-Evaluating Epoch: 1:  31%|[32m███       [0m| 565/1814 [01:26<03:31,  5.90it/s][A
-Evaluating Epoch: 1:  31%|[32m███       [0m| 566/1814 [01:26<03:33,  5.84it/s][A
-Evaluating Epoch: 1:  31%|[32m███▏      [0m| 567/1814 [01:26<03:35,  5.80it/s][A
-Evaluating Epoch: 1:  31%|[32m███▏      [0m| 568/1814 [01:26<03:34,  5.82it/s][A
-Evaluating Epoch: 1:  31%|[32m███▏      [0m| 569/1814 [01:26<03:22,  6.15it/s][A
-Evaluating Epoch: 1:  31%|[32m███▏      [0m| 570/1814 [01:26<03:17,  6.31it/s][A
-Evaluating Epoch: 1:  31%|[32m███▏      [0m| 571/1814 [01:27<03:17,  6.28it/s][A
-Evaluating Epoch: 1:  32%|[32m███▏      [0m| 572/1814 [01:27<03:22,  6.14it/s][A
-Evaluating Epoch: 1:  32%|[32m███▏      [0m| 573/1814 [01:27<03:25,  6.03it/s][A
-Evaluating Epoch: 1:  32%|[32m███▏      [0m| 574/1814 [01:27<03:22,  6.11it/s][A
-Evaluating Epoch: 1:  32%|[32m███▏      [0m| 575/1814 [01:27<03:17,  6.27it/s][A
-Evaluating Epoch: 1:  32%|[32m███▏      [0m| 576/1814 [01:27<03:20,  6.18it/s][A
-Evaluating Epoch: 1:  32%|[32m███▏      [0m| 577/1814 [01:27<03:23,  6.07it/s][A
-Evaluating Epoch: 1:  32%|[32m███▏      [0m| 578/1814 [01:28<03:19,  6.20it/s][A
-Evaluating Epoch: 1:  32%|[32m███▏      [0m| 579/1814 [01:28<03:14,  6.34it/s][A
-Evaluating Epoch: 1:  32%|[32m███▏      [0m| 580/1814 [01:28<03:17,  6.23it/s][A
-Evaluating Epoch: 1:  32%|[32m███▏      [0m| 581/1814 [01:28<03:23,  6.06it/s][A
-Evaluating Epoch: 1:  32%|[32m███▏      [0m| 582/1814 [01:28<03:20,  6.14it/s][A
-Evaluating Epoch: 1:  32%|[32m███▏      [0m| 583/1814 [01:28<03:15,  6.28it/s][A
-Evaluating Epoch: 1:  32%|[32m███▏      [0m| 584/1814 [01:29<03:18,  6.20it/s][A
-Evaluating Epoch: 1:  32%|[32m███▏      [0m| 585/1814 [01:29<03:15,  6.28it/s][A
-Evaluating Epoch: 1:  32%|[32m███▏      [0m| 586/1814 [01:29<03:10,  6.43it/s][A
-Evaluating Epoch: 1:  32%|[32m███▏      [0m| 587/1814 [01:29<03:06,  6.57it/s][A
-Evaluating Epoch: 1:  32%|[32m███▏      [0m| 588/1814 [01:29<03:05,  6.62it/s][A
-Evaluating Epoch: 1:  32%|[32m███▏      [0m| 589/1814 [01:29<03:05,  6.60it/s][A
-Evaluating Epoch: 1:  33%|[32m███▎      [0m| 590/1814 [01:30<03:14,  6.30it/s][A
-Evaluating Epoch: 1:  33%|[32m███▎      [0m| 591/1814 [01:30<03:15,  6.26it/s][A
-Evaluating Epoch: 1:  33%|[32m███▎      [0m| 592/1814 [01:30<03:12,  6.35it/s][A
-Evaluating Epoch: 1:  33%|[32m███▎      [0m| 593/1814 [01:30<03:08,  6.47it/s][A
-Evaluating Epoch: 1:  33%|[32m███▎      [0m| 594/1814 [01:30<03:16,  6.20it/s][A
-Evaluating Epoch: 1:  33%|[32m███▎      [0m| 595/1814 [01:30<03:26,  5.89it/s][A
-Evaluating Epoch: 1:  33%|[32m███▎      [0m| 596/1814 [01:31<03:23,  5.98it/s][A
-Evaluating Epoch: 1:  33%|[32m███▎      [0m| 597/1814 [01:31<03:26,  5.90it/s][A
-Evaluating Epoch: 1:  33%|[32m███▎      [0m| 598/1814 [01:31<03:25,  5.92it/s][A
-Evaluating Epoch: 1:  33%|[32m███▎      [0m| 599/1814 [01:31<03:25,  5.92it/s][A
-Evaluating Epoch: 1:  33%|[32m███▎      [0m| 600/1814 [01:31<03:14,  6.25it/s][A
-Evaluating Epoch: 1:  33%|[32m███▎      [0m| 601/1814 [01:31<03:07,  6.48it/s][A
-Evaluating Epoch: 1:  33%|[32m███▎      [0m| 602/1814 [01:31<03:14,  6.22it/s][A
-Evaluating Epoch: 1:  33%|[32m███▎      [0m| 603/1814 [01:32<03:15,  6.18it/s][A
-Evaluating Epoch: 1:  33%|[32m███▎      [0m| 604/1814 [01:32<03:14,  6.22it/s][A
-Evaluating Epoch: 1:  33%|[32m███▎      [0m| 605/1814 [01:32<03:11,  6.30it/s][A
-Evaluating Epoch: 1:  33%|[32m███▎      [0m| 606/1814 [01:32<03:16,  6.16it/s][A
-Evaluating Epoch: 1:  33%|[32m███▎      [0m| 607/1814 [01:32<03:15,  6.16it/s][A
-Evaluating Epoch: 1:  34%|[32m███▎      [0m| 608/1814 [01:32<03:20,  6.02it/s][A
-Evaluating Epoch: 1:  34%|[32m███▎      [0m| 609/1814 [01:33<03:18,  6.07it/s][A
-Evaluating Epoch: 1:  34%|[32m███▎      [0m| 610/1814 [01:33<03:18,  6.07it/s][A
-Evaluating Epoch: 1:  34%|[32m███▎      [0m| 611/1814 [01:33<03:09,  6.34it/s][A
-Evaluating Epoch: 1:  34%|[32m███▎      [0m| 612/1814 [01:33<03:06,  6.45it/s][A
-Evaluating Epoch: 1:  34%|[32m███▍      [0m| 613/1814 [01:33<03:05,  6.46it/s][A
-Evaluating Epoch: 1:  34%|[32m███▍      [0m| 614/1814 [01:33<03:06,  6.44it/s][A
-Evaluating Epoch: 1:  34%|[32m███▍      [0m| 615/1814 [01:34<03:06,  6.44it/s][A
-Evaluating Epoch: 1:  34%|[32m███▍      [0m| 616/1814 [01:34<03:09,  6.32it/s][A
-Evaluating Epoch: 1:  34%|[32m███▍      [0m| 617/1814 [01:34<03:09,  6.32it/s][A
-Evaluating Epoch: 1:  34%|[32m███▍      [0m| 618/1814 [01:34<03:07,  6.38it/s][A
-Evaluating Epoch: 1:  34%|[32m███▍      [0m| 619/1814 [01:34<03:10,  6.27it/s][A
-Evaluating Epoch: 1:  34%|[32m███▍      [0m| 620/1814 [01:34<03:05,  6.43it/s][A
-Evaluating Epoch: 1:  34%|[32m███▍      [0m| 621/1814 [01:34<03:04,  6.46it/s][A
-Evaluating Epoch: 1:  34%|[32m███▍      [0m| 622/1814 [01:35<03:05,  6.43it/s][A
-Evaluating Epoch: 1:  34%|[32m███▍      [0m| 623/1814 [01:35<03:12,  6.19it/s][A
-Evaluating Epoch: 1:  34%|[32m███▍      [0m| 624/1814 [01:35<03:16,  6.04it/s][A
-Evaluating Epoch: 1:  34%|[32m███▍      [0m| 625/1814 [01:35<03:14,  6.12it/s][A
-Evaluating Epoch: 1:  35%|[32m███▍      [0m| 626/1814 [01:35<03:14,  6.12it/s][A
-Evaluating Epoch: 1:  35%|[32m███▍      [0m| 627/1814 [01:35<03:11,  6.19it/s][A
-Evaluating Epoch: 1:  35%|[32m███▍      [0m| 628/1814 [01:36<03:10,  6.24it/s][A
-Evaluating Epoch: 1:  35%|[32m███▍      [0m| 629/1814 [01:36<03:14,  6.11it/s][A
-Evaluating Epoch: 1:  35%|[32m███▍      [0m| 630/1814 [01:36<03:17,  5.99it/s][A
-Evaluating Epoch: 1:  35%|[32m███▍      [0m| 631/1814 [01:36<03:15,  6.06it/s][A
-Evaluating Epoch: 1:  35%|[32m███▍      [0m| 632/1814 [01:36<03:16,  6.03it/s][A
-Evaluating Epoch: 1:  35%|[32m███▍      [0m| 633/1814 [01:36<03:15,  6.05it/s][A
-Evaluating Epoch: 1:  35%|[32m███▍      [0m| 634/1814 [01:37<03:13,  6.09it/s][A
-Evaluating Epoch: 1:  35%|[32m███▌      [0m| 635/1814 [01:37<03:10,  6.17it/s][A
-Evaluating Epoch: 1:  35%|[32m███▌      [0m| 636/1814 [01:37<03:07,  6.27it/s][A
-Evaluating Epoch: 1:  35%|[32m███▌      [0m| 637/1814 [01:37<03:10,  6.18it/s][A
-Evaluating Epoch: 1:  35%|[32m███▌      [0m| 638/1814 [01:37<03:07,  6.27it/s][A
-Evaluating Epoch: 1:  35%|[32m███▌      [0m| 639/1814 [01:37<03:02,  6.43it/s][A
-Evaluating Epoch: 1:  35%|[32m███▌      [0m| 640/1814 [01:38<03:01,  6.48it/s][A
-Evaluating Epoch: 1:  35%|[32m███▌      [0m| 641/1814 [01:38<03:05,  6.33it/s][A
-Evaluating Epoch: 1:  35%|[32m███▌      [0m| 642/1814 [01:38<03:03,  6.39it/s][A
-Evaluating Epoch: 1:  35%|[32m███▌      [0m| 643/1814 [01:38<03:01,  6.46it/s][A
-Evaluating Epoch: 1:  36%|[32m███▌      [0m| 644/1814 [01:38<03:00,  6.48it/s][A
-Evaluating Epoch: 1:  36%|[32m███▌      [0m| 645/1814 [01:38<02:58,  6.55it/s][A
-Evaluating Epoch: 1:  36%|[32m███▌      [0m| 646/1814 [01:39<03:05,  6.31it/s][A
-Evaluating Epoch: 1:  36%|[32m███▌      [0m| 647/1814 [01:39<03:14,  6.01it/s][A
-Evaluating Epoch: 1:  36%|[32m███▌      [0m| 648/1814 [01:39<03:14,  6.00it/s][A
-Evaluating Epoch: 1:  36%|[32m███▌      [0m| 649/1814 [01:39<03:14,  5.99it/s][A
-Evaluating Epoch: 1:  36%|[32m███▌      [0m| 650/1814 [01:39<03:12,  6.04it/s][A
-Evaluating Epoch: 1:  36%|[32m███▌      [0m| 651/1814 [01:39<03:14,  5.99it/s][A
-Evaluating Epoch: 1:  36%|[32m███▌      [0m| 652/1814 [01:40<03:09,  6.13it/s][A
-Evaluating Epoch: 1:  36%|[32m███▌      [0m| 653/1814 [01:40<03:02,  6.35it/s][A
-Evaluating Epoch: 1:  36%|[32m███▌      [0m| 654/1814 [01:40<02:54,  6.66it/s][A
-Evaluating Epoch: 1:  36%|[32m███▌      [0m| 655/1814 [01:40<02:50,  6.81it/s][A
-Evaluating Epoch: 1:  36%|[32m███▌      [0m| 656/1814 [01:40<02:50,  6.77it/s][A
-Evaluating Epoch: 1:  36%|[32m███▌      [0m| 657/1814 [01:40<02:52,  6.70it/s][A
-Evaluating Epoch: 1:  36%|[32m███▋      [0m| 658/1814 [01:40<02:57,  6.50it/s][A
-Evaluating Epoch: 1:  36%|[32m███▋      [0m| 659/1814 [01:41<03:06,  6.21it/s][A
-Evaluating Epoch: 1:  36%|[32m███▋      [0m| 660/1814 [01:41<02:53,  6.65it/s][A
-Evaluating Epoch: 1:  36%|[32m███▋      [0m| 662/1814 [01:41<02:35,  7.41it/s][A
-Evaluating Epoch: 1:  37%|[32m███▋      [0m| 663/1814 [01:41<02:40,  7.17it/s][A
-Evaluating Epoch: 1:  37%|[32m███▋      [0m| 664/1814 [01:41<02:43,  7.05it/s][A
-Evaluating Epoch: 1:  37%|[32m███▋      [0m| 665/1814 [01:41<02:47,  6.88it/s][A
-Evaluating Epoch: 1:  37%|[32m███▋      [0m| 666/1814 [01:42<02:54,  6.58it/s][A
-Evaluating Epoch: 1:  37%|[32m███▋      [0m| 667/1814 [01:42<02:44,  6.99it/s][A
-Evaluating Epoch: 1:  37%|[32m███▋      [0m| 668/1814 [01:42<02:42,  7.04it/s][A
-Evaluating Epoch: 1:  37%|[32m███▋      [0m| 669/1814 [01:42<02:42,  7.03it/s][A
-Evaluating Epoch: 1:  37%|[32m███▋      [0m| 670/1814 [01:42<02:44,  6.94it/s][A
-Evaluating Epoch: 1:  37%|[32m███▋      [0m| 671/1814 [01:42<02:55,  6.52it/s][A
-Evaluating Epoch: 1:  37%|[32m███▋      [0m| 672/1814 [01:42<02:58,  6.41it/s][A
-Evaluating Epoch: 1:  37%|[32m███▋      [0m| 673/1814 [01:43<03:00,  6.32it/s][A
-Evaluating Epoch: 1:  37%|[32m███▋      [0m| 674/1814 [01:43<02:58,  6.39it/s][A
-Evaluating Epoch: 1:  37%|[32m███▋      [0m| 675/1814 [01:43<03:03,  6.22it/s][A
-Evaluating Epoch: 1:  37%|[32m███▋      [0m| 676/1814 [01:43<02:50,  6.66it/s][A
-Evaluating Epoch: 1:  37%|[32m███▋      [0m| 677/1814 [01:43<02:50,  6.68it/s][A
-Evaluating Epoch: 1:  37%|[32m███▋      [0m| 678/1814 [01:43<02:54,  6.50it/s][A
-Evaluating Epoch: 1:  37%|[32m███▋      [0m| 679/1814 [01:44<03:03,  6.20it/s][A
-Evaluating Epoch: 1:  37%|[32m███▋      [0m| 680/1814 [01:44<03:11,  5.94it/s][A
-Evaluating Epoch: 1:  38%|[32m███▊      [0m| 681/1814 [01:44<03:03,  6.18it/s][A
-Evaluating Epoch: 1:  38%|[32m███▊      [0m| 682/1814 [01:44<02:55,  6.45it/s][A
-Evaluating Epoch: 1:  38%|[32m███▊      [0m| 683/1814 [01:44<02:52,  6.57it/s][A
-Evaluating Epoch: 1:  38%|[32m███▊      [0m| 684/1814 [01:44<02:55,  6.43it/s][A
-Evaluating Epoch: 1:  38%|[32m███▊      [0m| 685/1814 [01:45<03:00,  6.27it/s][A
-Evaluating Epoch: 1:  38%|[32m███▊      [0m| 686/1814 [01:45<03:06,  6.04it/s][A
-Evaluating Epoch: 1:  38%|[32m███▊      [0m| 687/1814 [01:45<03:10,  5.91it/s][A
-Evaluating Epoch: 1:  38%|[32m███▊      [0m| 688/1814 [01:45<03:08,  5.98it/s][A
-Evaluating Epoch: 1:  38%|[32m███▊      [0m| 689/1814 [01:45<03:07,  6.00it/s][A
-Evaluating Epoch: 1:  38%|[32m███▊      [0m| 690/1814 [01:45<03:07,  5.98it/s][A
-Evaluating Epoch: 1:  38%|[32m███▊      [0m| 691/1814 [01:46<03:08,  5.95it/s][A
-Evaluating Epoch: 1:  38%|[32m███▊      [0m| 692/1814 [01:46<03:06,  6.01it/s][A
-Evaluating Epoch: 1:  38%|[32m███▊      [0m| 693/1814 [01:46<03:04,  6.07it/s][A
-Evaluating Epoch: 1:  38%|[32m███▊      [0m| 694/1814 [01:46<02:56,  6.35it/s][A
-Evaluating Epoch: 1:  38%|[32m███▊      [0m| 695/1814 [01:46<02:56,  6.34it/s][A
-Evaluating Epoch: 1:  38%|[32m███▊      [0m| 696/1814 [01:46<03:01,  6.16it/s][A
-Evaluating Epoch: 1:  38%|[32m███▊      [0m| 697/1814 [01:46<03:00,  6.19it/s][A
-Evaluating Epoch: 1:  38%|[32m███▊      [0m| 698/1814 [01:47<03:01,  6.14it/s][A
-Evaluating Epoch: 1:  39%|[32m███▊      [0m| 699/1814 [01:47<02:59,  6.20it/s][A
-Evaluating Epoch: 1:  39%|[32m███▊      [0m| 700/1814 [01:47<02:58,  6.24it/s][A
-Evaluating Epoch: 1:  39%|[32m███▊      [0m| 701/1814 [01:47<03:01,  6.12it/s][A
-Evaluating Epoch: 1:  39%|[32m███▊      [0m| 702/1814 [01:47<02:47,  6.64it/s][A
-Evaluating Epoch: 1:  39%|[32m███▉      [0m| 703/1814 [01:47<02:42,  6.85it/s][A
-Evaluating Epoch: 1:  39%|[32m███▉      [0m| 704/1814 [01:48<02:48,  6.58it/s][A
-Evaluating Epoch: 1:  39%|[32m███▉      [0m| 705/1814 [01:48<02:55,  6.33it/s][A
-Evaluating Epoch: 1:  39%|[32m███▉      [0m| 706/1814 [01:48<02:57,  6.25it/s][A
-Evaluating Epoch: 1:  39%|[32m███▉      [0m| 707/1814 [01:48<03:03,  6.04it/s][A
-Evaluating Epoch: 1:  39%|[32m███▉      [0m| 708/1814 [01:48<03:01,  6.09it/s][A
-Evaluating Epoch: 1:  39%|[32m███▉      [0m| 709/1814 [01:48<03:02,  6.07it/s][A
-Evaluating Epoch: 1:  39%|[32m███▉      [0m| 710/1814 [01:49<03:01,  6.10it/s][A
-Evaluating Epoch: 1:  39%|[32m███▉      [0m| 711/1814 [01:49<02:53,  6.34it/s][A
-Evaluating Epoch: 1:  39%|[32m███▉      [0m| 712/1814 [01:49<02:48,  6.53it/s][A
-Evaluating Epoch: 1:  39%|[32m███▉      [0m| 713/1814 [01:49<02:47,  6.58it/s][A
-Evaluating Epoch: 1:  39%|[32m███▉      [0m| 714/1814 [01:49<02:55,  6.25it/s][A
-Evaluating Epoch: 1:  39%|[32m███▉      [0m| 715/1814 [01:49<03:05,  5.92it/s][A
-Evaluating Epoch: 1:  39%|[32m███▉      [0m| 716/1814 [01:50<03:08,  5.82it/s][A
-Evaluating Epoch: 1:  40%|[32m███▉      [0m| 717/1814 [01:50<03:04,  5.95it/s][A
-Evaluating Epoch: 1:  40%|[32m███▉      [0m| 718/1814 [01:50<03:00,  6.06it/s][A
-Evaluating Epoch: 1:  40%|[32m███▉      [0m| 719/1814 [01:50<02:59,  6.10it/s][A
-Evaluating Epoch: 1:  40%|[32m███▉      [0m| 720/1814 [01:50<02:58,  6.14it/s][A
-Evaluating Epoch: 1:  40%|[32m███▉      [0m| 721/1814 [01:50<03:00,  6.06it/s][A
-Evaluating Epoch: 1:  40%|[32m███▉      [0m| 722/1814 [01:51<02:57,  6.14it/s][A
-Evaluating Epoch: 1:  40%|[32m███▉      [0m| 723/1814 [01:51<03:01,  6.02it/s][A
-Evaluating Epoch: 1:  40%|[32m███▉      [0m| 724/1814 [01:51<02:55,  6.20it/s][A
-Evaluating Epoch: 1:  40%|[32m███▉      [0m| 725/1814 [01:51<02:46,  6.53it/s][A
-Evaluating Epoch: 1:  40%|[32m████      [0m| 726/1814 [01:51<02:49,  6.42it/s][A
-Evaluating Epoch: 1:  40%|[32m████      [0m| 727/1814 [01:51<02:50,  6.39it/s][A
-Evaluating Epoch: 1:  40%|[32m████      [0m| 728/1814 [01:51<02:43,  6.65it/s][A
-Evaluating Epoch: 1:  40%|[32m████      [0m| 729/1814 [01:52<02:46,  6.53it/s][A
-Evaluating Epoch: 1:  40%|[32m████      [0m| 730/1814 [01:52<02:46,  6.51it/s][A
-Evaluating Epoch: 1:  40%|[32m████      [0m| 731/1814 [01:52<02:41,  6.71it/s][A
-Evaluating Epoch: 1:  40%|[32m████      [0m| 732/1814 [01:52<02:41,  6.72it/s][A
-Evaluating Epoch: 1:  40%|[32m████      [0m| 733/1814 [01:52<02:40,  6.73it/s][A
-Evaluating Epoch: 1:  40%|[32m████      [0m| 734/1814 [01:52<02:39,  6.77it/s][A
-Evaluating Epoch: 1:  41%|[32m████      [0m| 735/1814 [01:52<02:39,  6.78it/s][A
-Evaluating Epoch: 1:  41%|[32m████      [0m| 736/1814 [01:53<02:38,  6.78it/s][A
-Evaluating Epoch: 1:  41%|[32m████      [0m| 737/1814 [01:53<02:40,  6.72it/s][A
-Evaluating Epoch: 1:  41%|[32m████      [0m| 738/1814 [01:53<02:40,  6.72it/s][A
-Evaluating Epoch: 1:  41%|[32m████      [0m| 739/1814 [01:53<02:36,  6.89it/s][A
-Evaluating Epoch: 1:  41%|[32m████      [0m| 740/1814 [01:53<02:33,  7.02it/s][A
-Evaluating Epoch: 1:  41%|[32m████      [0m| 741/1814 [01:53<02:39,  6.72it/s][A
-Evaluating Epoch: 1:  41%|[32m████      [0m| 742/1814 [01:54<02:41,  6.62it/s][A
-Evaluating Epoch: 1:  41%|[32m████      [0m| 743/1814 [01:54<02:40,  6.67it/s][A
-Evaluating Epoch: 1:  41%|[32m████      [0m| 744/1814 [01:54<02:39,  6.69it/s][A
-Evaluating Epoch: 1:  41%|[32m████      [0m| 745/1814 [01:54<02:40,  6.66it/s][A
-Evaluating Epoch: 1:  41%|[32m████      [0m| 746/1814 [01:54<02:42,  6.58it/s][A
-Evaluating Epoch: 1:  41%|[32m████      [0m| 747/1814 [01:54<02:46,  6.39it/s][A
-Evaluating Epoch: 1:  41%|[32m████      [0m| 748/1814 [01:54<02:50,  6.25it/s][A
-Evaluating Epoch: 1:  41%|[32m████▏     [0m| 749/1814 [01:55<02:49,  6.28it/s][A
-Evaluating Epoch: 1:  41%|[32m████▏     [0m| 750/1814 [01:55<02:50,  6.23it/s][A
-Evaluating Epoch: 1:  41%|[32m████▏     [0m| 751/1814 [01:55<02:51,  6.21it/s][A
-Evaluating Epoch: 1:  41%|[32m████▏     [0m| 752/1814 [01:55<02:53,  6.11it/s][A
-Evaluating Epoch: 1:  42%|[32m████▏     [0m| 753/1814 [01:55<02:47,  6.32it/s][A
-Evaluating Epoch: 1:  42%|[32m████▏     [0m| 754/1814 [01:55<02:44,  6.45it/s][A
-Evaluating Epoch: 1:  42%|[32m████▏     [0m| 755/1814 [01:56<02:50,  6.20it/s][A
-Evaluating Epoch: 1:  42%|[32m████▏     [0m| 756/1814 [01:56<02:55,  6.03it/s][A
-Evaluating Epoch: 1:  42%|[32m████▏     [0m| 757/1814 [01:56<02:53,  6.10it/s][A
-Evaluating Epoch: 1:  42%|[32m████▏     [0m| 758/1814 [01:56<02:49,  6.22it/s][A
-Evaluating Epoch: 1:  42%|[32m████▏     [0m| 759/1814 [01:56<02:51,  6.17it/s][A
-Evaluating Epoch: 1:  42%|[32m████▏     [0m| 760/1814 [01:56<02:49,  6.21it/s][A
-Evaluating Epoch: 1:  42%|[32m████▏     [0m| 761/1814 [01:57<02:45,  6.35it/s][A
-Evaluating Epoch: 1:  42%|[32m████▏     [0m| 762/1814 [01:57<02:43,  6.42it/s][A
-Evaluating Epoch: 1:  42%|[32m████▏     [0m| 763/1814 [01:57<02:46,  6.31it/s][A
-Evaluating Epoch: 1:  42%|[32m████▏     [0m| 764/1814 [01:57<02:52,  6.07it/s][A
-Evaluating Epoch: 1:  42%|[32m████▏     [0m| 765/1814 [01:57<02:56,  5.95it/s][A
-Evaluating Epoch: 1:  42%|[32m████▏     [0m| 766/1814 [01:57<02:57,  5.89it/s][A
-Evaluating Epoch: 1:  42%|[32m████▏     [0m| 767/1814 [01:58<02:58,  5.86it/s][A
-Evaluating Epoch: 1:  42%|[32m████▏     [0m| 768/1814 [01:58<02:58,  5.86it/s][A
-Evaluating Epoch: 1:  42%|[32m████▏     [0m| 769/1814 [01:58<02:55,  5.95it/s][A
-Evaluating Epoch: 1:  42%|[32m████▏     [0m| 770/1814 [01:58<02:51,  6.07it/s][A
-Evaluating Epoch: 1:  43%|[32m████▎     [0m| 771/1814 [01:58<02:47,  6.24it/s][A
-Evaluating Epoch: 1:  43%|[32m████▎     [0m| 772/1814 [01:58<02:40,  6.49it/s][A
-Evaluating Epoch: 1:  43%|[32m████▎     [0m| 773/1814 [01:58<02:40,  6.51it/s][A
-Evaluating Epoch: 1:  43%|[32m████▎     [0m| 774/1814 [01:59<02:39,  6.54it/s][A
-Evaluating Epoch: 1:  43%|[32m████▎     [0m| 775/1814 [01:59<02:44,  6.33it/s][A
-Evaluating Epoch: 1:  43%|[32m████▎     [0m| 776/1814 [01:59<02:51,  6.06it/s][A
-Evaluating Epoch: 1:  43%|[32m████▎     [0m| 777/1814 [01:59<02:49,  6.13it/s][A
-Evaluating Epoch: 1:  43%|[32m████▎     [0m| 778/1814 [01:59<02:46,  6.21it/s][A
-Evaluating Epoch: 1:  43%|[32m████▎     [0m| 779/1814 [01:59<02:46,  6.20it/s][A
-Evaluating Epoch: 1:  43%|[32m████▎     [0m| 780/1814 [02:00<02:50,  6.05it/s][A
-Evaluating Epoch: 1:  43%|[32m████▎     [0m| 781/1814 [02:00<02:55,  5.89it/s][A
-Evaluating Epoch: 1:  43%|[32m████▎     [0m| 782/1814 [02:00<02:56,  5.84it/s][A
-Evaluating Epoch: 1:  43%|[32m████▎     [0m| 783/1814 [02:00<02:50,  6.03it/s][A
-Evaluating Epoch: 1:  43%|[32m████▎     [0m| 784/1814 [02:00<02:45,  6.21it/s][A
-Evaluating Epoch: 1:  43%|[32m████▎     [0m| 785/1814 [02:00<02:42,  6.32it/s][A
-Evaluating Epoch: 1:  43%|[32m████▎     [0m| 786/1814 [02:01<02:36,  6.57it/s][A
-Evaluating Epoch: 1:  43%|[32m████▎     [0m| 787/1814 [02:01<02:34,  6.65it/s][A
-Evaluating Epoch: 1:  43%|[32m████▎     [0m| 788/1814 [02:01<02:34,  6.65it/s][A
-Evaluating Epoch: 1:  43%|[32m████▎     [0m| 789/1814 [02:01<02:38,  6.48it/s][A
-Evaluating Epoch: 1:  44%|[32m████▎     [0m| 790/1814 [02:01<02:44,  6.21it/s][A
-Evaluating Epoch: 1:  44%|[32m████▎     [0m| 791/1814 [02:01<02:49,  6.04it/s][A
-Evaluating Epoch: 1:  44%|[32m████▎     [0m| 792/1814 [02:02<02:50,  5.98it/s][A
-Evaluating Epoch: 1:  44%|[32m████▎     [0m| 793/1814 [02:02<02:46,  6.12it/s][A
-Evaluating Epoch: 1:  44%|[32m████▍     [0m| 794/1814 [02:02<02:46,  6.11it/s][A
-Evaluating Epoch: 1:  44%|[32m████▍     [0m| 795/1814 [02:02<02:53,  5.88it/s][A
-Evaluating Epoch: 1:  44%|[32m████▍     [0m| 796/1814 [02:02<02:40,  6.34it/s][A
-Evaluating Epoch: 1:  44%|[32m████▍     [0m| 797/1814 [02:02<02:37,  6.44it/s][A
-Evaluating Epoch: 1:  44%|[32m████▍     [0m| 798/1814 [02:03<02:45,  6.15it/s][A
-Evaluating Epoch: 1:  44%|[32m████▍     [0m| 799/1814 [02:03<02:43,  6.20it/s][A
-Evaluating Epoch: 1:  44%|[32m████▍     [0m| 800/1814 [02:03<02:47,  6.04it/s][A
-Evaluating Epoch: 1:  44%|[32m████▍     [0m| 801/1814 [02:03<02:46,  6.08it/s][A
-Evaluating Epoch: 1:  44%|[32m████▍     [0m| 802/1814 [02:03<02:50,  5.95it/s][A
-Evaluating Epoch: 1:  44%|[32m████▍     [0m| 803/1814 [02:03<02:44,  6.14it/s][A
-Evaluating Epoch: 1:  44%|[32m████▍     [0m| 804/1814 [02:04<02:46,  6.06it/s][A
-Evaluating Epoch: 1:  44%|[32m████▍     [0m| 805/1814 [02:04<02:51,  5.90it/s][A
-Evaluating Epoch: 1:  44%|[32m████▍     [0m| 806/1814 [02:04<02:48,  5.97it/s][A
-Evaluating Epoch: 1:  44%|[32m████▍     [0m| 807/1814 [02:04<02:44,  6.13it/s][A
-Evaluating Epoch: 1:  45%|[32m████▍     [0m| 808/1814 [02:04<02:43,  6.16it/s][A
-Evaluating Epoch: 1:  45%|[32m████▍     [0m| 809/1814 [02:04<02:45,  6.07it/s][A
-Evaluating Epoch: 1:  45%|[32m████▍     [0m| 810/1814 [02:05<02:46,  6.04it/s][A
-Evaluating Epoch: 1:  45%|[32m████▍     [0m| 811/1814 [02:05<02:38,  6.32it/s][A
-Evaluating Epoch: 1:  45%|[32m████▍     [0m| 812/1814 [02:05<02:35,  6.43it/s][A
-Evaluating Epoch: 1:  45%|[32m████▍     [0m| 813/1814 [02:05<02:30,  6.63it/s][A
-Evaluating Epoch: 1:  45%|[32m████▍     [0m| 814/1814 [02:05<02:23,  6.95it/s][A
-Evaluating Epoch: 1:  45%|[32m████▍     [0m| 815/1814 [02:05<02:31,  6.58it/s][A
-Evaluating Epoch: 1:  45%|[32m████▍     [0m| 816/1814 [02:05<02:34,  6.44it/s][A
-Evaluating Epoch: 1:  45%|[32m████▌     [0m| 817/1814 [02:06<02:28,  6.74it/s][A
-Evaluating Epoch: 1:  45%|[32m████▌     [0m| 818/1814 [02:06<02:25,  6.86it/s][A
-Evaluating Epoch: 1:  45%|[32m████▌     [0m| 819/1814 [02:06<02:21,  7.01it/s][A
-Evaluating Epoch: 1:  45%|[32m████▌     [0m| 820/1814 [02:06<02:26,  6.80it/s][A
-Evaluating Epoch: 1:  45%|[32m████▌     [0m| 821/1814 [02:06<02:33,  6.48it/s][A
-Evaluating Epoch: 1:  45%|[32m████▌     [0m| 822/1814 [02:06<02:37,  6.28it/s][A
-Evaluating Epoch: 1:  45%|[32m████▌     [0m| 823/1814 [02:06<02:32,  6.49it/s][A
-Evaluating Epoch: 1:  45%|[32m████▌     [0m| 824/1814 [02:07<02:37,  6.28it/s][A
-Evaluating Epoch: 1:  45%|[32m████▌     [0m| 825/1814 [02:07<02:43,  6.05it/s][A
-Evaluating Epoch: 1:  46%|[32m████▌     [0m| 826/1814 [02:07<02:44,  5.99it/s][A
-Evaluating Epoch: 1:  46%|[32m████▌     [0m| 827/1814 [02:07<02:43,  6.05it/s][A
-Evaluating Epoch: 1:  46%|[32m████▌     [0m| 828/1814 [02:07<02:28,  6.62it/s][A
-Evaluating Epoch: 1:  46%|[32m████▌     [0m| 829/1814 [02:07<02:32,  6.48it/s][A
-Evaluating Epoch: 1:  46%|[32m████▌     [0m| 830/1814 [02:08<02:39,  6.19it/s][A
-Evaluating Epoch: 1:  46%|[32m████▌     [0m| 831/1814 [02:08<02:39,  6.17it/s][A
-Evaluating Epoch: 1:  46%|[32m████▌     [0m| 832/1814 [02:08<02:32,  6.44it/s][A
-Evaluating Epoch: 1:  46%|[32m████▌     [0m| 833/1814 [02:08<02:28,  6.63it/s][A
-Evaluating Epoch: 1:  46%|[32m████▌     [0m| 834/1814 [02:08<02:35,  6.29it/s][A
-Evaluating Epoch: 1:  46%|[32m████▌     [0m| 835/1814 [02:08<02:37,  6.20it/s][A
-Evaluating Epoch: 1:  46%|[32m████▌     [0m| 836/1814 [02:09<02:34,  6.34it/s][A
-Evaluating Epoch: 1:  46%|[32m████▌     [0m| 837/1814 [02:09<02:35,  6.27it/s][A
-Evaluating Epoch: 1:  46%|[32m████▌     [0m| 838/1814 [02:09<02:35,  6.30it/s][A
-Evaluating Epoch: 1:  46%|[32m████▋     [0m| 839/1814 [02:09<02:36,  6.24it/s][A
-Evaluating Epoch: 1:  46%|[32m████▋     [0m| 840/1814 [02:09<02:33,  6.33it/s][A
-Evaluating Epoch: 1:  46%|[32m████▋     [0m| 841/1814 [02:09<02:39,  6.10it/s][A
-Evaluating Epoch: 1:  46%|[32m████▋     [0m| 842/1814 [02:10<02:41,  6.01it/s][A
-Evaluating Epoch: 1:  46%|[32m████▋     [0m| 843/1814 [02:10<02:42,  5.96it/s][A
-Evaluating Epoch: 1:  47%|[32m████▋     [0m| 844/1814 [02:10<02:44,  5.90it/s][A
-Evaluating Epoch: 1:  47%|[32m████▋     [0m| 845/1814 [02:10<02:45,  5.86it/s][A
-Evaluating Epoch: 1:  47%|[32m████▋     [0m| 846/1814 [02:10<02:46,  5.83it/s][A
-Evaluating Epoch: 1:  47%|[32m████▋     [0m| 847/1814 [02:10<02:37,  6.13it/s][A
-Evaluating Epoch: 1:  47%|[32m████▋     [0m| 848/1814 [02:11<02:33,  6.30it/s][A
-Evaluating Epoch: 1:  47%|[32m████▋     [0m| 849/1814 [02:11<02:31,  6.36it/s][A
-Evaluating Epoch: 1:  47%|[32m████▋     [0m| 850/1814 [02:11<02:26,  6.57it/s][A
-Evaluating Epoch: 1:  47%|[32m████▋     [0m| 851/1814 [02:11<02:24,  6.67it/s][A
-Evaluating Epoch: 1:  47%|[32m████▋     [0m| 852/1814 [02:11<02:28,  6.49it/s][A
-Evaluating Epoch: 1:  47%|[32m████▋     [0m| 853/1814 [02:11<02:33,  6.26it/s][A
-Evaluating Epoch: 1:  47%|[32m████▋     [0m| 854/1814 [02:11<02:27,  6.49it/s][A
-Evaluating Epoch: 1:  47%|[32m████▋     [0m| 855/1814 [02:12<02:28,  6.45it/s][A
-Evaluating Epoch: 1:  47%|[32m████▋     [0m| 856/1814 [02:12<02:32,  6.28it/s][A
-Evaluating Epoch: 1:  47%|[32m████▋     [0m| 857/1814 [02:12<02:35,  6.15it/s][A
-Evaluating Epoch: 1:  47%|[32m████▋     [0m| 858/1814 [02:12<02:37,  6.08it/s][A
-Evaluating Epoch: 1:  47%|[32m████▋     [0m| 859/1814 [02:12<02:38,  6.04it/s][A
-Evaluating Epoch: 1:  47%|[32m████▋     [0m| 860/1814 [02:12<02:31,  6.31it/s][A
-Evaluating Epoch: 1:  47%|[32m████▋     [0m| 861/1814 [02:13<02:21,  6.72it/s][A
-Evaluating Epoch: 1:  48%|[32m████▊     [0m| 862/1814 [02:13<02:15,  7.02it/s][A
-Evaluating Epoch: 1:  48%|[32m████▊     [0m| 863/1814 [02:13<02:19,  6.79it/s][A
-Evaluating Epoch: 1:  48%|[32m████▊     [0m| 864/1814 [02:13<02:28,  6.39it/s][A
-Evaluating Epoch: 1:  48%|[32m████▊     [0m| 865/1814 [02:13<02:31,  6.28it/s][A
-Evaluating Epoch: 1:  48%|[32m████▊     [0m| 866/1814 [02:13<02:31,  6.27it/s][A
-Evaluating Epoch: 1:  48%|[32m████▊     [0m| 867/1814 [02:13<02:25,  6.51it/s][A
-Evaluating Epoch: 1:  48%|[32m████▊     [0m| 868/1814 [02:14<02:24,  6.56it/s][A
-Evaluating Epoch: 1:  48%|[32m████▊     [0m| 869/1814 [02:14<02:20,  6.72it/s][A
-Evaluating Epoch: 1:  48%|[32m████▊     [0m| 870/1814 [02:14<02:22,  6.61it/s][A
-Evaluating Epoch: 1:  48%|[32m████▊     [0m| 871/1814 [02:14<02:24,  6.54it/s][A
-Evaluating Epoch: 1:  48%|[32m████▊     [0m| 872/1814 [02:14<02:27,  6.37it/s][A
-Evaluating Epoch: 1:  48%|[32m████▊     [0m| 873/1814 [02:14<02:27,  6.37it/s][A
-Evaluating Epoch: 1:  48%|[32m████▊     [0m| 874/1814 [02:15<02:21,  6.65it/s][A
-Evaluating Epoch: 1:  48%|[32m████▊     [0m| 875/1814 [02:15<02:20,  6.68it/s][A
-Evaluating Epoch: 1:  48%|[32m████▊     [0m| 876/1814 [02:15<02:20,  6.68it/s][A
-Evaluating Epoch: 1:  48%|[32m████▊     [0m| 877/1814 [02:15<02:21,  6.61it/s][A
-Evaluating Epoch: 1:  48%|[32m████▊     [0m| 878/1814 [02:15<02:18,  6.77it/s][A
-Evaluating Epoch: 1:  48%|[32m████▊     [0m| 879/1814 [02:15<02:12,  7.07it/s][A
-Evaluating Epoch: 1:  49%|[32m████▊     [0m| 880/1814 [02:15<02:14,  6.96it/s][A
-Evaluating Epoch: 1:  49%|[32m████▊     [0m| 881/1814 [02:16<02:12,  7.02it/s][A
-Evaluating Epoch: 1:  49%|[32m████▊     [0m| 882/1814 [02:16<02:08,  7.24it/s][A
-Evaluating Epoch: 1:  49%|[32m████▊     [0m| 883/1814 [02:16<02:05,  7.41it/s][A
-Evaluating Epoch: 1:  49%|[32m████▊     [0m| 884/1814 [02:16<02:03,  7.52it/s][A
-Evaluating Epoch: 1:  49%|[32m████▉     [0m| 885/1814 [02:16<02:10,  7.10it/s][A
-Evaluating Epoch: 1:  49%|[32m████▉     [0m| 886/1814 [02:16<02:19,  6.67it/s][A
-Evaluating Epoch: 1:  49%|[32m████▉     [0m| 887/1814 [02:16<02:22,  6.52it/s][A
-Evaluating Epoch: 1:  49%|[32m████▉     [0m| 888/1814 [02:17<02:23,  6.43it/s][A
-Evaluating Epoch: 1:  49%|[32m████▉     [0m| 889/1814 [02:17<02:25,  6.37it/s][A
-Evaluating Epoch: 1:  49%|[32m████▉     [0m| 890/1814 [02:17<02:28,  6.23it/s][A
-Evaluating Epoch: 1:  49%|[32m████▉     [0m| 891/1814 [02:17<02:28,  6.22it/s][A
-Evaluating Epoch: 1:  49%|[32m████▉     [0m| 892/1814 [02:17<02:27,  6.24it/s][A
-Evaluating Epoch: 1:  49%|[32m████▉     [0m| 893/1814 [02:17<02:25,  6.34it/s][A
-Evaluating Epoch: 1:  49%|[32m████▉     [0m| 894/1814 [02:18<02:27,  6.23it/s][A
-Evaluating Epoch: 1:  49%|[32m████▉     [0m| 895/1814 [02:18<02:31,  6.09it/s][A
-Evaluating Epoch: 1:  49%|[32m████▉     [0m| 896/1814 [02:18<02:30,  6.09it/s][A
-Evaluating Epoch: 1:  49%|[32m████▉     [0m| 897/1814 [02:18<02:32,  6.02it/s][A
-Evaluating Epoch: 1:  50%|[32m████▉     [0m| 898/1814 [02:18<02:33,  5.99it/s][A
-Evaluating Epoch: 1:  50%|[32m████▉     [0m| 899/1814 [02:18<02:31,  6.03it/s][A
-Evaluating Epoch: 1:  50%|[32m████▉     [0m| 900/1814 [02:19<02:28,  6.17it/s][A
-Evaluating Epoch: 1:  50%|[32m████▉     [0m| 901/1814 [02:19<02:20,  6.49it/s][A
-Evaluating Epoch: 1:  50%|[32m████▉     [0m| 902/1814 [02:19<02:18,  6.57it/s][A
-Evaluating Epoch: 1:  50%|[32m████▉     [0m| 903/1814 [02:19<02:20,  6.46it/s][A
-Evaluating Epoch: 1:  50%|[32m████▉     [0m| 904/1814 [02:19<02:22,  6.40it/s][A
-Evaluating Epoch: 1:  50%|[32m████▉     [0m| 905/1814 [02:19<02:25,  6.23it/s][A
-Evaluating Epoch: 1:  50%|[32m████▉     [0m| 906/1814 [02:19<02:28,  6.10it/s][A
-Evaluating Epoch: 1:  50%|[32m█████     [0m| 907/1814 [02:20<02:34,  5.87it/s][A
-Evaluating Epoch: 1:  50%|[32m█████     [0m| 908/1814 [02:20<02:32,  5.95it/s][A
-Evaluating Epoch: 1:  50%|[32m█████     [0m| 909/1814 [02:20<02:26,  6.16it/s][A
-Evaluating Epoch: 1:  50%|[32m█████     [0m| 910/1814 [02:20<02:27,  6.13it/s][A
-Evaluating Epoch: 1:  50%|[32m█████     [0m| 911/1814 [02:20<02:24,  6.23it/s][A
-Evaluating Epoch: 1:  50%|[32m█████     [0m| 912/1814 [02:20<02:25,  6.18it/s][A
-Evaluating Epoch: 1:  50%|[32m█████     [0m| 913/1814 [02:21<02:26,  6.16it/s][A
-Evaluating Epoch: 1:  50%|[32m█████     [0m| 914/1814 [02:21<02:27,  6.10it/s][A
-Evaluating Epoch: 1:  50%|[32m█████     [0m| 915/1814 [02:21<02:29,  6.02it/s][A
-Evaluating Epoch: 1:  50%|[32m█████     [0m| 916/1814 [02:21<02:26,  6.14it/s][A
-Evaluating Epoch: 1:  51%|[32m█████     [0m| 917/1814 [02:21<02:26,  6.11it/s][A
-Evaluating Epoch: 1:  51%|[32m█████     [0m| 918/1814 [02:21<02:20,  6.36it/s][A
-Evaluating Epoch: 1:  51%|[32m█████     [0m| 919/1814 [02:22<02:20,  6.36it/s][A
-Evaluating Epoch: 1:  51%|[32m█████     [0m| 920/1814 [02:22<02:16,  6.55it/s][A
-Evaluating Epoch: 1:  51%|[32m█████     [0m| 921/1814 [02:22<02:08,  6.92it/s][A
-Evaluating Epoch: 1:  51%|[32m█████     [0m| 922/1814 [02:22<02:08,  6.96it/s][A
-Evaluating Epoch: 1:  51%|[32m█████     [0m| 923/1814 [02:22<02:11,  6.76it/s][A
-Evaluating Epoch: 1:  51%|[32m█████     [0m| 924/1814 [02:22<02:09,  6.89it/s][A
-Evaluating Epoch: 1:  51%|[32m█████     [0m| 925/1814 [02:22<02:12,  6.72it/s][A
-Evaluating Epoch: 1:  51%|[32m█████     [0m| 926/1814 [02:23<02:10,  6.83it/s][A
-Evaluating Epoch: 1:  51%|[32m█████     [0m| 927/1814 [02:23<02:10,  6.79it/s][A
-Evaluating Epoch: 1:  51%|[32m█████     [0m| 928/1814 [02:23<02:14,  6.60it/s][A
-Evaluating Epoch: 1:  51%|[32m█████     [0m| 929/1814 [02:23<02:16,  6.48it/s][A
-Evaluating Epoch: 1:  51%|[32m█████▏    [0m| 930/1814 [02:23<02:24,  6.13it/s][A
-Evaluating Epoch: 1:  51%|[32m█████▏    [0m| 931/1814 [02:23<02:21,  6.24it/s][A
-Evaluating Epoch: 1:  51%|[32m█████▏    [0m| 932/1814 [02:24<02:21,  6.22it/s][A
-Evaluating Epoch: 1:  51%|[32m█████▏    [0m| 933/1814 [02:24<02:24,  6.11it/s][A
-Evaluating Epoch: 1:  51%|[32m█████▏    [0m| 934/1814 [02:24<02:22,  6.18it/s][A
-Evaluating Epoch: 1:  52%|[32m█████▏    [0m| 935/1814 [02:24<02:10,  6.76it/s][A
-Evaluating Epoch: 1:  52%|[32m█████▏    [0m| 936/1814 [02:24<02:07,  6.88it/s][A
-Evaluating Epoch: 1:  52%|[32m█████▏    [0m| 937/1814 [02:24<02:05,  7.00it/s][A
-Evaluating Epoch: 1:  52%|[32m█████▏    [0m| 938/1814 [02:24<02:06,  6.91it/s][A
-Evaluating Epoch: 1:  52%|[32m█████▏    [0m| 939/1814 [02:25<02:10,  6.69it/s][A
-Evaluating Epoch: 1:  52%|[32m█████▏    [0m| 940/1814 [02:25<02:15,  6.44it/s][A
-Evaluating Epoch: 1:  52%|[32m█████▏    [0m| 941/1814 [02:25<02:11,  6.62it/s][A
-Evaluating Epoch: 1:  52%|[32m█████▏    [0m| 942/1814 [02:25<02:06,  6.89it/s][A
-Evaluating Epoch: 1:  52%|[32m█████▏    [0m| 943/1814 [02:25<02:10,  6.68it/s][A
-Evaluating Epoch: 1:  52%|[32m█████▏    [0m| 944/1814 [02:25<02:12,  6.57it/s][A
-Evaluating Epoch: 1:  52%|[32m█████▏    [0m| 945/1814 [02:25<02:13,  6.51it/s][A
-Evaluating Epoch: 1:  52%|[32m█████▏    [0m| 946/1814 [02:26<02:17,  6.30it/s][A
-Evaluating Epoch: 1:  52%|[32m█████▏    [0m| 947/1814 [02:26<02:18,  6.24it/s][A
-Evaluating Epoch: 1:  52%|[32m█████▏    [0m| 948/1814 [02:26<02:20,  6.16it/s][A
-Evaluating Epoch: 1:  52%|[32m█████▏    [0m| 949/1814 [02:26<02:17,  6.27it/s][A
-Evaluating Epoch: 1:  52%|[32m█████▏    [0m| 950/1814 [02:26<02:10,  6.62it/s][A
-Evaluating Epoch: 1:  52%|[32m█████▏    [0m| 951/1814 [02:26<02:08,  6.73it/s][A
-Evaluating Epoch: 1:  52%|[32m█████▏    [0m| 952/1814 [02:27<02:15,  6.34it/s][A
-Evaluating Epoch: 1:  53%|[32m█████▎    [0m| 953/1814 [02:27<02:17,  6.28it/s][A
-Evaluating Epoch: 1:  53%|[32m█████▎    [0m| 954/1814 [02:27<02:11,  6.54it/s][A
-Evaluating Epoch: 1:  53%|[32m█████▎    [0m| 955/1814 [02:27<02:11,  6.54it/s][A
-Evaluating Epoch: 1:  53%|[32m█████▎    [0m| 956/1814 [02:27<02:16,  6.31it/s][A
-Evaluating Epoch: 1:  53%|[32m█████▎    [0m| 957/1814 [02:27<02:16,  6.26it/s][A
-Evaluating Epoch: 1:  53%|[32m█████▎    [0m| 958/1814 [02:28<02:17,  6.23it/s][A
-Evaluating Epoch: 1:  53%|[32m█████▎    [0m| 959/1814 [02:28<02:11,  6.49it/s][A
-Evaluating Epoch: 1:  53%|[32m█████▎    [0m| 960/1814 [02:28<02:10,  6.56it/s][A
-Evaluating Epoch: 1:  53%|[32m█████▎    [0m| 961/1814 [02:28<02:07,  6.67it/s][A
-Evaluating Epoch: 1:  53%|[32m█████▎    [0m| 962/1814 [02:28<02:03,  6.91it/s][A
-Evaluating Epoch: 1:  53%|[32m█████▎    [0m| 963/1814 [02:28<02:04,  6.84it/s][A
-Evaluating Epoch: 1:  53%|[32m█████▎    [0m| 964/1814 [02:28<02:09,  6.54it/s][A
-Evaluating Epoch: 1:  53%|[32m█████▎    [0m| 965/1814 [02:29<02:11,  6.43it/s][A
-Evaluating Epoch: 1:  53%|[32m█████▎    [0m| 966/1814 [02:29<02:12,  6.38it/s][A
-Evaluating Epoch: 1:  53%|[32m█████▎    [0m| 967/1814 [02:29<02:13,  6.33it/s][A
-Evaluating Epoch: 1:  53%|[32m█████▎    [0m| 968/1814 [02:29<02:14,  6.28it/s][A
-Evaluating Epoch: 1:  53%|[32m█████▎    [0m| 969/1814 [02:29<02:10,  6.49it/s][A
-Evaluating Epoch: 1:  53%|[32m█████▎    [0m| 970/1814 [02:29<02:12,  6.39it/s][A
-Evaluating Epoch: 1:  54%|[32m█████▎    [0m| 971/1814 [02:30<02:14,  6.28it/s][A
-Evaluating Epoch: 1:  54%|[32m█████▎    [0m| 972/1814 [02:30<02:12,  6.36it/s][A
-Evaluating Epoch: 1:  54%|[32m█████▎    [0m| 973/1814 [02:30<02:11,  6.38it/s][A
-Evaluating Epoch: 1:  54%|[32m█████▎    [0m| 974/1814 [02:30<02:13,  6.31it/s][A
-Evaluating Epoch: 1:  54%|[32m█████▎    [0m| 975/1814 [02:30<02:16,  6.15it/s][A
-Evaluating Epoch: 1:  54%|[32m█████▍    [0m| 976/1814 [02:30<02:15,  6.21it/s][A
-Evaluating Epoch: 1:  54%|[32m█████▍    [0m| 977/1814 [02:31<02:12,  6.31it/s][A
-Evaluating Epoch: 1:  54%|[32m█████▍    [0m| 978/1814 [02:31<02:13,  6.25it/s][A
-Evaluating Epoch: 1:  54%|[32m█████▍    [0m| 979/1814 [02:31<02:13,  6.24it/s][A
-Evaluating Epoch: 1:  54%|[32m█████▍    [0m| 980/1814 [02:31<02:12,  6.29it/s][A
-Evaluating Epoch: 1:  54%|[32m█████▍    [0m| 981/1814 [02:31<02:15,  6.14it/s][A
-Evaluating Epoch: 1:  54%|[32m█████▍    [0m| 982/1814 [02:31<02:14,  6.18it/s][A
-Evaluating Epoch: 1:  54%|[32m█████▍    [0m| 983/1814 [02:31<02:14,  6.20it/s][A
-Evaluating Epoch: 1:  54%|[32m█████▍    [0m| 984/1814 [02:32<02:12,  6.25it/s][A
-Evaluating Epoch: 1:  54%|[32m█████▍    [0m| 985/1814 [02:32<02:09,  6.38it/s][A
-Evaluating Epoch: 1:  54%|[32m█████▍    [0m| 986/1814 [02:32<02:11,  6.29it/s][A
-Evaluating Epoch: 1:  54%|[32m█████▍    [0m| 987/1814 [02:32<02:07,  6.46it/s][A
-Evaluating Epoch: 1:  54%|[32m█████▍    [0m| 988/1814 [02:32<02:02,  6.77it/s][A
-Evaluating Epoch: 1:  55%|[32m█████▍    [0m| 989/1814 [02:32<02:03,  6.67it/s][A
-Evaluating Epoch: 1:  55%|[32m█████▍    [0m| 990/1814 [02:33<02:01,  6.78it/s][A
-Evaluating Epoch: 1:  55%|[32m█████▍    [0m| 991/1814 [02:33<02:03,  6.68it/s][A
-Evaluating Epoch: 1:  55%|[32m█████▍    [0m| 992/1814 [02:33<02:07,  6.43it/s][A
-Evaluating Epoch: 1:  55%|[32m█████▍    [0m| 993/1814 [02:33<02:09,  6.36it/s][A
-Evaluating Epoch: 1:  55%|[32m█████▍    [0m| 994/1814 [02:33<02:10,  6.30it/s][A
-Evaluating Epoch: 1:  55%|[32m█████▍    [0m| 995/1814 [02:33<02:10,  6.26it/s][A
-Evaluating Epoch: 1:  55%|[32m█████▍    [0m| 996/1814 [02:33<02:11,  6.24it/s][A
-Evaluating Epoch: 1:  55%|[32m█████▍    [0m| 997/1814 [02:34<02:11,  6.22it/s][A
-Evaluating Epoch: 1:  55%|[32m█████▌    [0m| 998/1814 [02:34<02:13,  6.13it/s][A
-Evaluating Epoch: 1:  55%|[32m█████▌    [0m| 999/1814 [02:34<02:14,  6.05it/s][A
-Evaluating Epoch: 1:  55%|[32m█████▌    [0m| 1000/1814 [02:34<02:11,  6.18it/s][A
-Evaluating Epoch: 1:  55%|[32m█████▌    [0m| 1001/1814 [02:34<02:10,  6.25it/s][A
-Evaluating Epoch: 1:  55%|[32m█████▌    [0m| 1002/1814 [02:34<02:08,  6.34it/s][A
-Evaluating Epoch: 1:  55%|[32m█████▌    [0m| 1003/1814 [02:35<02:07,  6.37it/s][A
-Evaluating Epoch: 1:  55%|[32m█████▌    [0m| 1004/1814 [02:35<02:05,  6.44it/s][A
-Evaluating Epoch: 1:  55%|[32m█████▌    [0m| 1005/1814 [02:35<02:05,  6.45it/s][A
-Evaluating Epoch: 1:  55%|[32m█████▌    [0m| 1006/1814 [02:35<02:04,  6.50it/s][A
-Evaluating Epoch: 1:  56%|[32m█████▌    [0m| 1007/1814 [02:35<02:04,  6.50it/s][A
-Evaluating Epoch: 1:  56%|[32m█████▌    [0m| 1008/1814 [02:35<02:05,  6.40it/s][A
-Evaluating Epoch: 1:  56%|[32m█████▌    [0m| 1009/1814 [02:36<02:05,  6.44it/s][A
-Evaluating Epoch: 1:  56%|[32m█████▌    [0m| 1010/1814 [02:36<02:02,  6.55it/s][A
-Evaluating Epoch: 1:  56%|[32m█████▌    [0m| 1011/1814 [02:36<02:02,  6.53it/s][A
-Evaluating Epoch: 1:  56%|[32m█████▌    [0m| 1012/1814 [02:36<02:06,  6.34it/s][A
-Evaluating Epoch: 1:  56%|[32m█████▌    [0m| 1013/1814 [02:36<02:05,  6.40it/s][A
-Evaluating Epoch: 1:  56%|[32m█████▌    [0m| 1014/1814 [02:36<02:02,  6.52it/s][A
-Evaluating Epoch: 1:  56%|[32m█████▌    [0m| 1015/1814 [02:36<02:01,  6.59it/s][A
-Evaluating Epoch: 1:  56%|[32m█████▌    [0m| 1016/1814 [02:37<02:02,  6.51it/s][A
-Evaluating Epoch: 1:  56%|[32m█████▌    [0m| 1017/1814 [02:37<02:03,  6.46it/s][A
-Evaluating Epoch: 1:  56%|[32m█████▌    [0m| 1018/1814 [02:37<02:01,  6.54it/s][A
-Evaluating Epoch: 1:  56%|[32m█████▌    [0m| 1019/1814 [02:37<02:04,  6.40it/s][A
-Evaluating Epoch: 1:  56%|[32m█████▌    [0m| 1020/1814 [02:37<02:03,  6.41it/s][A
-Evaluating Epoch: 1:  56%|[32m█████▋    [0m| 1021/1814 [02:37<02:03,  6.43it/s][A
-Evaluating Epoch: 1:  56%|[32m█████▋    [0m| 1022/1814 [02:38<02:06,  6.26it/s][A
-Evaluating Epoch: 1:  56%|[32m█████▋    [0m| 1023/1814 [02:38<02:05,  6.28it/s][A
-Evaluating Epoch: 1:  56%|[32m█████▋    [0m| 1024/1814 [02:38<02:05,  6.30it/s][A
-Evaluating Epoch: 1:  57%|[32m█████▋    [0m| 1025/1814 [02:38<02:04,  6.32it/s][A
-Evaluating Epoch: 1:  57%|[32m█████▋    [0m| 1026/1814 [02:38<02:05,  6.26it/s][A
-Evaluating Epoch: 1:  57%|[32m█████▋    [0m| 1027/1814 [02:38<02:05,  6.30it/s][A
-Evaluating Epoch: 1:  57%|[32m█████▋    [0m| 1028/1814 [02:39<02:02,  6.40it/s][A
-Evaluating Epoch: 1:  57%|[32m█████▋    [0m| 1029/1814 [02:39<02:01,  6.45it/s][A
-Evaluating Epoch: 1:  57%|[32m█████▋    [0m| 1030/1814 [02:39<01:59,  6.55it/s][A
-Evaluating Epoch: 1:  57%|[32m█████▋    [0m| 1031/1814 [02:39<01:59,  6.54it/s][A
-Evaluating Epoch: 1:  57%|[32m█████▋    [0m| 1032/1814 [02:39<02:00,  6.50it/s][A
-Evaluating Epoch: 1:  57%|[32m█████▋    [0m| 1033/1814 [02:39<01:59,  6.52it/s][A
-Evaluating Epoch: 1:  57%|[32m█████▋    [0m| 1034/1814 [02:39<01:55,  6.76it/s][A
-Evaluating Epoch: 1:  57%|[32m█████▋    [0m| 1035/1814 [02:40<01:53,  6.87it/s][A
-Evaluating Epoch: 1:  57%|[32m█████▋    [0m| 1036/1814 [02:40<01:53,  6.88it/s][A
-Evaluating Epoch: 1:  57%|[32m█████▋    [0m| 1037/1814 [02:40<01:57,  6.63it/s][A
-Evaluating Epoch: 1:  57%|[32m█████▋    [0m| 1038/1814 [02:40<01:59,  6.47it/s][A
-Evaluating Epoch: 1:  57%|[32m█████▋    [0m| 1039/1814 [02:40<02:01,  6.39it/s][A
-Evaluating Epoch: 1:  57%|[32m█████▋    [0m| 1040/1814 [02:40<02:04,  6.24it/s][A
-Evaluating Epoch: 1:  57%|[32m█████▋    [0m| 1041/1814 [02:40<02:02,  6.30it/s][A
-Evaluating Epoch: 1:  57%|[32m█████▋    [0m| 1042/1814 [02:41<01:59,  6.45it/s][A
-Evaluating Epoch: 1:  57%|[32m█████▋    [0m| 1043/1814 [02:41<01:59,  6.47it/s][A
-Evaluating Epoch: 1:  58%|[32m█████▊    [0m| 1044/1814 [02:41<02:01,  6.31it/s][A
-Evaluating Epoch: 1:  58%|[32m█████▊    [0m| 1045/1814 [02:41<02:00,  6.36it/s][A
-Evaluating Epoch: 1:  58%|[32m█████▊    [0m| 1046/1814 [02:41<02:01,  6.31it/s][A
-Evaluating Epoch: 1:  58%|[32m█████▊    [0m| 1047/1814 [02:41<02:00,  6.37it/s][A
-Evaluating Epoch: 1:  58%|[32m█████▊    [0m| 1048/1814 [02:42<02:00,  6.38it/s][A
-Evaluating Epoch: 1:  58%|[32m█████▊    [0m| 1049/1814 [02:42<02:02,  6.24it/s][A
-Evaluating Epoch: 1:  58%|[32m█████▊    [0m| 1050/1814 [02:42<02:00,  6.32it/s][A
-Evaluating Epoch: 1:  58%|[32m█████▊    [0m| 1051/1814 [02:42<01:58,  6.46it/s][A
-Evaluating Epoch: 1:  58%|[32m█████▊    [0m| 1052/1814 [02:42<01:57,  6.51it/s][A
-Evaluating Epoch: 1:  58%|[32m█████▊    [0m| 1053/1814 [02:42<01:52,  6.74it/s][A
-Evaluating Epoch: 1:  58%|[32m█████▊    [0m| 1054/1814 [02:42<01:49,  6.97it/s][A
-Evaluating Epoch: 1:  58%|[32m█████▊    [0m| 1055/1814 [02:43<01:51,  6.84it/s][A
-Evaluating Epoch: 1:  58%|[32m█████▊    [0m| 1056/1814 [02:43<01:54,  6.64it/s][A
-Evaluating Epoch: 1:  58%|[32m█████▊    [0m| 1057/1814 [02:43<01:57,  6.43it/s][A
-Evaluating Epoch: 1:  58%|[32m█████▊    [0m| 1058/1814 [02:43<01:58,  6.37it/s][A
-Evaluating Epoch: 1:  58%|[32m█████▊    [0m| 1059/1814 [02:43<01:57,  6.44it/s][A
-Evaluating Epoch: 1:  58%|[32m█████▊    [0m| 1060/1814 [02:43<01:58,  6.34it/s][A
-Evaluating Epoch: 1:  58%|[32m█████▊    [0m| 1061/1814 [02:44<01:58,  6.33it/s][A
-Evaluating Epoch: 1:  59%|[32m█████▊    [0m| 1062/1814 [02:44<01:58,  6.33it/s][A
-Evaluating Epoch: 1:  59%|[32m█████▊    [0m| 1063/1814 [02:44<02:00,  6.21it/s][A
-Evaluating Epoch: 1:  59%|[32m█████▊    [0m| 1064/1814 [02:44<02:02,  6.12it/s][A
-Evaluating Epoch: 1:  59%|[32m█████▊    [0m| 1065/1814 [02:44<02:03,  6.07it/s][A
-Evaluating Epoch: 1:  59%|[32m█████▉    [0m| 1066/1814 [02:44<02:00,  6.20it/s][A
-Evaluating Epoch: 1:  59%|[32m█████▉    [0m| 1067/1814 [02:45<01:59,  6.27it/s][A
-Evaluating Epoch: 1:  59%|[32m█████▉    [0m| 1068/1814 [02:45<01:57,  6.35it/s][A
-Evaluating Epoch: 1:  59%|[32m█████▉    [0m| 1069/1814 [02:45<01:58,  6.31it/s][A
-Evaluating Epoch: 1:  59%|[32m█████▉    [0m| 1070/1814 [02:45<01:56,  6.38it/s][A
-Evaluating Epoch: 1:  59%|[32m█████▉    [0m| 1071/1814 [02:45<01:54,  6.52it/s][A
-Evaluating Epoch: 1:  59%|[32m█████▉    [0m| 1072/1814 [02:45<01:54,  6.50it/s][A
-Evaluating Epoch: 1:  59%|[32m█████▉    [0m| 1073/1814 [02:45<01:56,  6.34it/s][A
-Evaluating Epoch: 1:  59%|[32m█████▉    [0m| 1074/1814 [02:46<01:56,  6.35it/s][A
-Evaluating Epoch: 1:  59%|[32m█████▉    [0m| 1075/1814 [02:46<01:54,  6.44it/s][A
-Evaluating Epoch: 1:  59%|[32m█████▉    [0m| 1076/1814 [02:46<01:53,  6.51it/s][A
-Evaluating Epoch: 1:  59%|[32m█████▉    [0m| 1077/1814 [02:46<01:49,  6.71it/s][A
-Evaluating Epoch: 1:  59%|[32m█████▉    [0m| 1078/1814 [02:46<01:52,  6.54it/s][A
-Evaluating Epoch: 1:  59%|[32m█████▉    [0m| 1079/1814 [02:46<01:50,  6.65it/s][A
-Evaluating Epoch: 1:  60%|[32m█████▉    [0m| 1080/1814 [02:47<01:50,  6.63it/s][A
-Evaluating Epoch: 1:  60%|[32m█████▉    [0m| 1081/1814 [02:47<01:54,  6.41it/s][A
-Evaluating Epoch: 1:  60%|[32m█████▉    [0m| 1082/1814 [02:47<01:57,  6.25it/s][A
-Evaluating Epoch: 1:  60%|[32m█████▉    [0m| 1083/1814 [02:47<01:59,  6.14it/s][A
-Evaluating Epoch: 1:  60%|[32m█████▉    [0m| 1084/1814 [02:47<01:56,  6.26it/s][A
-Evaluating Epoch: 1:  60%|[32m█████▉    [0m| 1085/1814 [02:47<01:57,  6.21it/s][A
-Evaluating Epoch: 1:  60%|[32m█████▉    [0m| 1086/1814 [02:47<01:47,  6.74it/s][A
-Evaluating Epoch: 1:  60%|[32m█████▉    [0m| 1087/1814 [02:48<01:47,  6.75it/s][A
-Evaluating Epoch: 1:  60%|[32m█████▉    [0m| 1088/1814 [02:48<01:48,  6.68it/s][A
-Evaluating Epoch: 1:  60%|[32m██████    [0m| 1089/1814 [02:48<01:52,  6.47it/s][A
-Evaluating Epoch: 1:  60%|[32m██████    [0m| 1090/1814 [02:48<01:52,  6.43it/s][A
-Evaluating Epoch: 1:  60%|[32m██████    [0m| 1091/1814 [02:48<01:52,  6.43it/s][A
-Evaluating Epoch: 1:  60%|[32m██████    [0m| 1092/1814 [02:48<01:48,  6.63it/s][A
-Evaluating Epoch: 1:  60%|[32m██████    [0m| 1093/1814 [02:49<01:48,  6.66it/s][A
-Evaluating Epoch: 1:  60%|[32m██████    [0m| 1094/1814 [02:49<01:52,  6.40it/s][A
-Evaluating Epoch: 1:  60%|[32m██████    [0m| 1095/1814 [02:49<01:49,  6.56it/s][A
-Evaluating Epoch: 1:  60%|[32m██████    [0m| 1096/1814 [02:49<01:48,  6.62it/s][A
-Evaluating Epoch: 1:  60%|[32m██████    [0m| 1097/1814 [02:49<01:49,  6.58it/s][A
-Evaluating Epoch: 1:  61%|[32m██████    [0m| 1098/1814 [02:49<01:49,  6.53it/s][A
-Evaluating Epoch: 1:  61%|[32m██████    [0m| 1099/1814 [02:50<01:53,  6.32it/s][A
-Evaluating Epoch: 1:  61%|[32m██████    [0m| 1100/1814 [02:50<01:52,  6.36it/s][A
-Evaluating Epoch: 1:  61%|[32m██████    [0m| 1101/1814 [02:50<01:53,  6.28it/s][A
-Evaluating Epoch: 1:  61%|[32m██████    [0m| 1102/1814 [02:50<01:49,  6.49it/s][A
-Evaluating Epoch: 1:  61%|[32m██████    [0m| 1103/1814 [02:50<01:43,  6.85it/s][A
-Evaluating Epoch: 1:  61%|[32m██████    [0m| 1104/1814 [02:50<01:44,  6.81it/s][A
-Evaluating Epoch: 1:  61%|[32m██████    [0m| 1105/1814 [02:50<01:46,  6.63it/s][A
-Evaluating Epoch: 1:  61%|[32m██████    [0m| 1106/1814 [02:51<01:44,  6.79it/s][A
-Evaluating Epoch: 1:  61%|[32m██████    [0m| 1107/1814 [02:51<01:46,  6.64it/s][A
-Evaluating Epoch: 1:  61%|[32m██████    [0m| 1108/1814 [02:51<01:47,  6.56it/s][A
-Evaluating Epoch: 1:  61%|[32m██████    [0m| 1109/1814 [02:51<01:48,  6.51it/s][A
-Evaluating Epoch: 1:  61%|[32m██████    [0m| 1110/1814 [02:51<01:49,  6.42it/s][A
-Evaluating Epoch: 1:  61%|[32m██████    [0m| 1111/1814 [02:51<01:50,  6.34it/s][A
-Evaluating Epoch: 1:  61%|[32m██████▏   [0m| 1112/1814 [02:51<01:50,  6.34it/s][A
-Evaluating Epoch: 1:  61%|[32m██████▏   [0m| 1113/1814 [02:52<01:50,  6.36it/s][A
-Evaluating Epoch: 1:  61%|[32m██████▏   [0m| 1114/1814 [02:52<01:49,  6.42it/s][A
-Evaluating Epoch: 1:  61%|[32m██████▏   [0m| 1115/1814 [02:52<01:50,  6.32it/s][A
-Evaluating Epoch: 1:  62%|[32m██████▏   [0m| 1116/1814 [02:52<01:47,  6.50it/s][A
-Evaluating Epoch: 1:  62%|[32m██████▏   [0m| 1117/1814 [02:52<01:46,  6.52it/s][A
-Evaluating Epoch: 1:  62%|[32m██████▏   [0m| 1118/1814 [02:52<01:39,  6.97it/s][A
-Evaluating Epoch: 1:  62%|[32m██████▏   [0m| 1119/1814 [02:53<01:41,  6.84it/s][A
-Evaluating Epoch: 1:  62%|[32m██████▏   [0m| 1120/1814 [02:53<01:49,  6.34it/s][A
-Evaluating Epoch: 1:  62%|[32m██████▏   [0m| 1121/1814 [02:53<01:53,  6.10it/s][A
-Evaluating Epoch: 1:  62%|[32m██████▏   [0m| 1122/1814 [02:53<01:52,  6.13it/s][A
-Evaluating Epoch: 1:  62%|[32m██████▏   [0m| 1123/1814 [02:53<01:52,  6.15it/s][A
-Evaluating Epoch: 1:  62%|[32m██████▏   [0m| 1124/1814 [02:53<01:47,  6.41it/s][A
-Evaluating Epoch: 1:  62%|[32m██████▏   [0m| 1125/1814 [02:54<01:45,  6.56it/s][A
-Evaluating Epoch: 1:  62%|[32m██████▏   [0m| 1126/1814 [02:54<01:44,  6.56it/s][A
-Evaluating Epoch: 1:  62%|[32m██████▏   [0m| 1127/1814 [02:54<01:44,  6.55it/s][A
-Evaluating Epoch: 1:  62%|[32m██████▏   [0m| 1128/1814 [02:54<01:47,  6.38it/s][A
-Evaluating Epoch: 1:  62%|[32m██████▏   [0m| 1129/1814 [02:54<01:47,  6.36it/s][A
-Evaluating Epoch: 1:  62%|[32m██████▏   [0m| 1130/1814 [02:54<01:46,  6.40it/s][A
-Evaluating Epoch: 1:  62%|[32m██████▏   [0m| 1131/1814 [02:54<01:48,  6.28it/s][A
-Evaluating Epoch: 1:  62%|[32m██████▏   [0m| 1132/1814 [02:55<01:50,  6.16it/s][A
-Evaluating Epoch: 1:  62%|[32m██████▏   [0m| 1133/1814 [02:55<01:49,  6.20it/s][A
-Evaluating Epoch: 1:  63%|[32m██████▎   [0m| 1134/1814 [02:55<01:50,  6.17it/s][A
-Evaluating Epoch: 1:  63%|[32m██████▎   [0m| 1135/1814 [02:55<01:52,  6.04it/s][A
-Evaluating Epoch: 1:  63%|[32m██████▎   [0m| 1136/1814 [02:55<01:52,  6.01it/s][A
-Evaluating Epoch: 1:  63%|[32m██████▎   [0m| 1137/1814 [02:55<01:53,  5.98it/s][A
-Evaluating Epoch: 1:  63%|[32m██████▎   [0m| 1138/1814 [02:56<01:51,  6.09it/s][A
-Evaluating Epoch: 1:  63%|[32m██████▎   [0m| 1139/1814 [02:56<01:49,  6.15it/s][A
-Evaluating Epoch: 1:  63%|[32m██████▎   [0m| 1140/1814 [02:56<01:48,  6.20it/s][A
-Evaluating Epoch: 1:  63%|[32m██████▎   [0m| 1141/1814 [02:56<01:46,  6.30it/s][A
-Evaluating Epoch: 1:  63%|[32m██████▎   [0m| 1142/1814 [02:56<01:47,  6.23it/s][A
-Evaluating Epoch: 1:  63%|[32m██████▎   [0m| 1143/1814 [02:56<01:48,  6.21it/s][A
-Evaluating Epoch: 1:  63%|[32m██████▎   [0m| 1144/1814 [02:57<01:47,  6.22it/s][A
-Evaluating Epoch: 1:  63%|[32m██████▎   [0m| 1145/1814 [02:57<01:49,  6.14it/s][A
-Evaluating Epoch: 1:  63%|[32m██████▎   [0m| 1146/1814 [02:57<01:44,  6.39it/s][A
-Evaluating Epoch: 1:  63%|[32m██████▎   [0m| 1147/1814 [02:57<01:41,  6.59it/s][A
-Evaluating Epoch: 1:  63%|[32m██████▎   [0m| 1148/1814 [02:57<01:40,  6.62it/s][A
-Evaluating Epoch: 1:  63%|[32m██████▎   [0m| 1149/1814 [02:57<01:37,  6.84it/s][A
-Evaluating Epoch: 1:  63%|[32m██████▎   [0m| 1150/1814 [02:57<01:37,  6.80it/s][A
-Evaluating Epoch: 1:  63%|[32m██████▎   [0m| 1151/1814 [02:58<01:44,  6.33it/s][A
-Evaluating Epoch: 1:  64%|[32m██████▎   [0m| 1152/1814 [02:58<01:42,  6.43it/s][A
-Evaluating Epoch: 1:  64%|[32m██████▎   [0m| 1153/1814 [02:58<01:41,  6.52it/s][A
-Evaluating Epoch: 1:  64%|[32m██████▎   [0m| 1154/1814 [02:58<01:42,  6.42it/s][A
-Evaluating Epoch: 1:  64%|[32m██████▎   [0m| 1155/1814 [02:58<01:46,  6.18it/s][A
-Evaluating Epoch: 1:  64%|[32m██████▎   [0m| 1156/1814 [02:58<01:50,  5.96it/s][A
-Evaluating Epoch: 1:  64%|[32m██████▍   [0m| 1157/1814 [02:59<01:49,  6.01it/s][A
-Evaluating Epoch: 1:  64%|[32m██████▍   [0m| 1158/1814 [02:59<01:43,  6.32it/s][A
-Evaluating Epoch: 1:  64%|[32m██████▍   [0m| 1159/1814 [02:59<01:42,  6.38it/s][A
-Evaluating Epoch: 1:  64%|[32m██████▍   [0m| 1160/1814 [02:59<01:44,  6.23it/s][A
-Evaluating Epoch: 1:  64%|[32m██████▍   [0m| 1161/1814 [02:59<01:43,  6.32it/s][A
-Evaluating Epoch: 1:  64%|[32m██████▍   [0m| 1162/1814 [02:59<01:45,  6.18it/s][A
-Evaluating Epoch: 1:  64%|[32m██████▍   [0m| 1163/1814 [03:00<01:48,  6.03it/s][A
-Evaluating Epoch: 1:  64%|[32m██████▍   [0m| 1164/1814 [03:00<01:43,  6.26it/s][A
-Evaluating Epoch: 1:  64%|[32m██████▍   [0m| 1165/1814 [03:00<01:44,  6.20it/s][A
-Evaluating Epoch: 1:  64%|[32m██████▍   [0m| 1166/1814 [03:00<01:44,  6.22it/s][A
-Evaluating Epoch: 1:  64%|[32m██████▍   [0m| 1167/1814 [03:00<01:39,  6.47it/s][A
-Evaluating Epoch: 1:  64%|[32m██████▍   [0m| 1168/1814 [03:00<01:39,  6.49it/s][A
-Evaluating Epoch: 1:  64%|[32m██████▍   [0m| 1169/1814 [03:01<01:43,  6.22it/s][A
-Evaluating Epoch: 1:  64%|[32m██████▍   [0m| 1170/1814 [03:01<01:45,  6.13it/s][A
-Evaluating Epoch: 1:  65%|[32m██████▍   [0m| 1171/1814 [03:01<01:45,  6.07it/s][A
-Evaluating Epoch: 1:  65%|[32m██████▍   [0m| 1172/1814 [03:01<01:43,  6.19it/s][A
-Evaluating Epoch: 1:  65%|[32m██████▍   [0m| 1173/1814 [03:01<01:40,  6.35it/s][A
-Evaluating Epoch: 1:  65%|[32m██████▍   [0m| 1174/1814 [03:01<01:41,  6.29it/s][A
-Evaluating Epoch: 1:  65%|[32m██████▍   [0m| 1175/1814 [03:01<01:40,  6.36it/s][A
-Evaluating Epoch: 1:  65%|[32m██████▍   [0m| 1176/1814 [03:02<01:43,  6.14it/s][A
-Evaluating Epoch: 1:  65%|[32m██████▍   [0m| 1177/1814 [03:02<01:43,  6.15it/s][A
-Evaluating Epoch: 1:  65%|[32m██████▍   [0m| 1178/1814 [03:02<01:43,  6.15it/s][A
-Evaluating Epoch: 1:  65%|[32m██████▍   [0m| 1179/1814 [03:02<01:41,  6.25it/s][A
-Evaluating Epoch: 1:  65%|[32m██████▌   [0m| 1180/1814 [03:02<01:40,  6.30it/s][A
-Evaluating Epoch: 1:  65%|[32m██████▌   [0m| 1181/1814 [03:02<01:39,  6.37it/s][A
-Evaluating Epoch: 1:  65%|[32m██████▌   [0m| 1182/1814 [03:03<01:38,  6.40it/s][A
-Evaluating Epoch: 1:  65%|[32m██████▌   [0m| 1183/1814 [03:03<01:40,  6.25it/s][A
-Evaluating Epoch: 1:  65%|[32m██████▌   [0m| 1184/1814 [03:03<01:42,  6.13it/s][A
-Evaluating Epoch: 1:  65%|[32m██████▌   [0m| 1185/1814 [03:03<01:44,  6.05it/s][A
-Evaluating Epoch: 1:  65%|[32m██████▌   [0m| 1186/1814 [03:03<01:43,  6.08it/s][A
-Evaluating Epoch: 1:  65%|[32m██████▌   [0m| 1187/1814 [03:03<01:41,  6.18it/s][A
-Evaluating Epoch: 1:  65%|[32m██████▌   [0m| 1188/1814 [03:04<01:41,  6.14it/s][A
-Evaluating Epoch: 1:  66%|[32m██████▌   [0m| 1189/1814 [03:04<01:39,  6.26it/s][A
-Evaluating Epoch: 1:  66%|[32m██████▌   [0m| 1190/1814 [03:04<01:36,  6.44it/s][A
-Evaluating Epoch: 1:  66%|[32m██████▌   [0m| 1191/1814 [03:04<01:37,  6.36it/s][A
-Evaluating Epoch: 1:  66%|[32m██████▌   [0m| 1192/1814 [03:04<01:40,  6.20it/s][A
-Evaluating Epoch: 1:  66%|[32m██████▌   [0m| 1193/1814 [03:04<01:40,  6.19it/s][A
-Evaluating Epoch: 1:  66%|[32m██████▌   [0m| 1194/1814 [03:05<01:39,  6.22it/s][A
-Evaluating Epoch: 1:  66%|[32m██████▌   [0m| 1195/1814 [03:05<01:39,  6.22it/s][A
-Evaluating Epoch: 1:  66%|[32m██████▌   [0m| 1196/1814 [03:05<01:39,  6.23it/s][A
-Evaluating Epoch: 1:  66%|[32m██████▌   [0m| 1197/1814 [03:05<01:40,  6.11it/s][A
-Evaluating Epoch: 1:  66%|[32m██████▌   [0m| 1198/1814 [03:05<01:39,  6.22it/s][A
-Evaluating Epoch: 1:  66%|[32m██████▌   [0m| 1199/1814 [03:05<01:39,  6.19it/s][A
-Evaluating Epoch: 1:  66%|[32m██████▌   [0m| 1200/1814 [03:05<01:36,  6.39it/s][A
-Evaluating Epoch: 1:  66%|[32m██████▌   [0m| 1201/1814 [03:06<01:31,  6.73it/s][A
-Evaluating Epoch: 1:  66%|[32m██████▋   [0m| 1202/1814 [03:06<01:29,  6.86it/s][A
-Evaluating Epoch: 1:  66%|[32m██████▋   [0m| 1203/1814 [03:06<01:27,  6.98it/s][A
-Evaluating Epoch: 1:  66%|[32m██████▋   [0m| 1204/1814 [03:06<01:29,  6.83it/s][A
-Evaluating Epoch: 1:  66%|[32m██████▋   [0m| 1205/1814 [03:06<01:34,  6.43it/s][A
-Evaluating Epoch: 1:  66%|[32m██████▋   [0m| 1206/1814 [03:06<01:37,  6.20it/s][A
-Evaluating Epoch: 1:  67%|[32m██████▋   [0m| 1207/1814 [03:07<01:36,  6.28it/s][A
-Evaluating Epoch: 1:  67%|[32m██████▋   [0m| 1208/1814 [03:07<01:32,  6.55it/s][A
-Evaluating Epoch: 1:  67%|[32m██████▋   [0m| 1209/1814 [03:07<01:30,  6.65it/s][A
-Evaluating Epoch: 1:  67%|[32m██████▋   [0m| 1210/1814 [03:07<01:28,  6.86it/s][A
-Evaluating Epoch: 1:  67%|[32m██████▋   [0m| 1211/1814 [03:07<01:29,  6.70it/s][A
-Evaluating Epoch: 1:  67%|[32m██████▋   [0m| 1212/1814 [03:07<01:32,  6.54it/s][A
-Evaluating Epoch: 1:  67%|[32m██████▋   [0m| 1213/1814 [03:07<01:33,  6.45it/s][A

@@ -1,1015 +1,0 @@
-Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:00,  8.06it/s]Loading checkpoint shards:  50%|█████     | 2/4 [00:00<00:00,  8.42it/s]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:00<00:00,  8.60it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:00<00:00,  8.89it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:00<00:00,  8.71it/s]
-Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:00,  6.02it/s]Loading checkpoint shards:  50%|█████     | 2/4 [00:00<00:00,  7.26it/s]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:00<00:00,  7.79it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:00<00:00,  8.22it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:00<00:00,  7.80it/s]
-Steering Process:   0%|[34m          [0m| 0/334 [00:00<?, ?it/s]Steering Process:   0%|[34m          [0m| 1/334 [00:00<02:33,  2.17it/s]Steering Process:   1%|[34m          [0m| 2/334 [00:00<01:28,  3.76it/s]Steering Process:   1%|[34m          [0m| 3/334 [00:00<01:10,  4.70it/s]Steering Process:   1%|[34m          [0m| 4/334 [00:00<01:04,  5.14it/s]Steering Process:   1%|[34m▏         [0m| 5/334 [00:01<00:58,  5.62it/s]Steering Process:   2%|[34m▏         [0m| 6/334 [00:01<00:59,  5.54it/s]Steering Process:   2%|[34m▏         [0m| 7/334 [00:01<00:56,  5.78it/s]Steering Process:   2%|[34m▏         [0m| 8/334 [00:01<00:54,  5.97it/s]Steering Process:   3%|[34m▎         [0m| 9/334 [00:01<00:53,  6.05it/s]Steering Process:   3%|[34m▎         [0m| 10/334 [00:01<00:50,  6.39it/s]Steering Process:   3%|[34m▎         [0m| 11/334 [00:01<00:47,  6.74it/s]Steering Process:   4%|[34m▎         [0m| 12/334 [00:02<00:46,  6.97it/s]Steering Process:   4%|[34m▍         [0m| 13/334 [00:02<00:46,  6.84it/s]Steering Process:   4%|[34m▍         [0m| 14/334 [00:02<00:48,  6.66it/s]Steering Process:   4%|[34m▍         [0m| 15/334 [00:02<00:45,  6.95it/s]Steering Process:   5%|[34m▍         [0m| 16/334 [00:02<00:47,  6.67it/s]Steering Process:   5%|[34m▌         [0m| 17/334 [00:02<00:45,  6.93it/s]Steering Process:   5%|[34m▌         [0m| 18/334 [00:02<00:44,  7.08it/s]Steering Process:   6%|[34m▌         [0m| 19/334 [00:03<00:43,  7.28it/s]Steering Process:   6%|[34m▌         [0m| 20/334 [00:03<00:44,  7.05it/s]Steering Process:   6%|[34m▋         [0m| 21/334 [00:03<00:43,  7.18it/s]Steering Process:   7%|[34m▋         [0m| 22/334 [00:03<00:42,  7.36it/s]Steering Process:   7%|[34m▋         [0m| 23/334 [00:03<00:40,  7.59it/s]Steering Process:   7%|[34m▋         [0m| 24/334 [00:03<00:41,  7.43it/s]Steering Process:   7%|[34m▋         [0m| 25/334 [00:03<00:40,  7.57it/s]Steering Process:   8%|[34m▊         [0m| 26/334 [00:04<00:41,  7.35it/s]Steering Process:   8%|[34m▊         [0m| 27/334 [00:04<00:41,  7.42it/s]Steering Process:   8%|[34m▊         [0m| 28/334 [00:04<00:40,  7.50it/s]Steering Process:   9%|[34m▊         [0m| 29/334 [00:04<00:43,  7.03it/s]Steering Process:   9%|[34m▉         [0m| 30/334 [00:04<00:47,  6.36it/s]Steering Process:   9%|[34m▉         [0m| 31/334 [00:04<00:50,  5.98it/s]Steering Process:  10%|[34m▉         [0m| 32/334 [00:05<00:51,  5.90it/s]Steering Process:  10%|[34m▉         [0m| 33/334 [00:05<00:48,  6.19it/s]Steering Process:  10%|[34m█         [0m| 34/334 [00:05<00:46,  6.47it/s]Steering Process:  10%|[34m█         [0m| 35/334 [00:05<00:44,  6.71it/s]Steering Process:  11%|[34m█         [0m| 36/334 [00:05<00:42,  7.01it/s]Steering Process:  11%|[34m█         [0m| 37/334 [00:05<00:40,  7.27it/s]Steering Process:  11%|[34m█▏        [0m| 38/334 [00:05<00:42,  6.95it/s]Steering Process:  12%|[34m█▏        [0m| 39/334 [00:06<00:41,  7.06it/s]Steering Process:  12%|[34m█▏        [0m| 40/334 [00:06<00:40,  7.17it/s]Steering Process:  12%|[34m█▏        [0m| 41/334 [00:06<00:42,  6.94it/s]Steering Process:  13%|[34m█▎        [0m| 42/334 [00:06<00:41,  7.10it/s]Steering Process:  13%|[34m█▎        [0m| 43/334 [00:06<00:44,  6.55it/s]Steering Process:  13%|[34m█▎        [0m| 44/334 [00:06<00:42,  6.81it/s]Steering Process:  13%|[34m█▎        [0m| 45/334 [00:06<00:44,  6.48it/s]Steering Process:  14%|[34m█▍        [0m| 46/334 [00:07<00:47,  6.06it/s]Steering Process:  14%|[34m█▍        [0m| 47/334 [00:07<00:47,  6.04it/s]Steering Process:  14%|[34m█▍        [0m| 48/334 [00:07<00:49,  5.77it/s]Steering Process:  15%|[34m█▍        [0m| 49/334 [00:07<00:45,  6.22it/s]Steering Process:  15%|[34m█▍        [0m| 50/334 [00:07<00:42,  6.66it/s]Steering Process:  15%|[34m█▌        [0m| 51/334 [00:07<00:42,  6.72it/s]Steering Process:  16%|[34m█▌        [0m| 52/334 [00:08<00:44,  6.28it/s]Steering Process:  16%|[34m█▌        [0m| 53/334 [00:08<00:42,  6.67it/s]Steering Process:  16%|[34m█▌        [0m| 54/334 [00:08<00:42,  6.63it/s]Steering Process:  16%|[34m█▋        [0m| 55/334 [00:08<00:40,  6.83it/s]Steering Process:  17%|[34m█▋        [0m| 56/334 [00:08<00:39,  7.01it/s]Steering Process:  17%|[34m█▋        [0m| 57/334 [00:08<00:38,  7.25it/s]Steering Process:  17%|[34m█▋        [0m| 58/334 [00:08<00:37,  7.35it/s]Steering Process:  18%|[34m█▊        [0m| 59/334 [00:09<00:38,  7.07it/s]Steering Process:  18%|[34m█▊        [0m| 60/334 [00:09<00:37,  7.30it/s]Steering Process:  18%|[34m█▊        [0m| 61/334 [00:09<00:35,  7.59it/s]Steering Process:  19%|[34m█▊        [0m| 62/334 [00:09<00:35,  7.63it/s]Steering Process:  19%|[34m█▉        [0m| 63/334 [00:09<00:35,  7.64it/s]Steering Process:  19%|[34m█▉        [0m| 64/334 [00:09<00:35,  7.59it/s]Steering Process:  19%|[34m█▉        [0m| 65/334 [00:09<00:35,  7.57it/s]Steering Process:  20%|[34m█▉        [0m| 66/334 [00:09<00:36,  7.30it/s]Steering Process:  20%|[34m██        [0m| 67/334 [00:10<00:38,  6.99it/s]Steering Process:  20%|[34m██        [0m| 68/334 [00:10<00:36,  7.21it/s]Steering Process:  21%|[34m██        [0m| 69/334 [00:10<00:37,  7.07it/s]Steering Process:  21%|[34m██        [0m| 70/334 [00:10<00:35,  7.37it/s]Steering Process:  21%|[34m██▏       [0m| 71/334 [00:10<00:36,  7.17it/s]Steering Process:  22%|[34m██▏       [0m| 72/334 [00:10<00:35,  7.42it/s]Steering Process:  22%|[34m██▏       [0m| 73/334 [00:10<00:35,  7.31it/s]Steering Process:  22%|[34m██▏       [0m| 74/334 [00:11<00:36,  7.13it/s]Steering Process:  22%|[34m██▏       [0m| 75/334 [00:11<00:36,  7.18it/s]Steering Process:  23%|[34m██▎       [0m| 76/334 [00:11<00:35,  7.20it/s]Steering Process:  23%|[34m██▎       [0m| 77/334 [00:11<00:34,  7.38it/s]Steering Process:  23%|[34m██▎       [0m| 78/334 [00:11<00:36,  6.96it/s]Steering Process:  24%|[34m██▎       [0m| 79/334 [00:11<00:37,  6.75it/s]Steering Process:  24%|[34m██▍       [0m| 80/334 [00:11<00:39,  6.50it/s]Steering Process:  24%|[34m██▍       [0m| 81/334 [00:12<00:40,  6.32it/s]Steering Process:  25%|[34m██▍       [0m| 82/334 [00:12<00:39,  6.41it/s]Steering Process:  25%|[34m██▍       [0m| 83/334 [00:12<00:37,  6.72it/s]Steering Process:  25%|[34m██▌       [0m| 84/334 [00:12<00:35,  6.97it/s]Steering Process:  25%|[34m██▌       [0m| 85/334 [00:12<00:34,  7.24it/s]Steering Process:  26%|[34m██▌       [0m| 86/334 [00:12<00:32,  7.52it/s]Steering Process:  26%|[34m██▌       [0m| 87/334 [00:12<00:36,  6.85it/s]Steering Process:  26%|[34m██▋       [0m| 88/334 [00:13<00:38,  6.37it/s]Steering Process:  27%|[34m██▋       [0m| 89/334 [00:13<00:37,  6.60it/s]Steering Process:  27%|[34m██▋       [0m| 90/334 [00:13<00:34,  7.04it/s]Steering Process:  27%|[34m██▋       [0m| 91/334 [00:13<00:33,  7.34it/s]Steering Process:  28%|[34m██▊       [0m| 92/334 [00:13<00:32,  7.36it/s]Steering Process:  28%|[34m██▊       [0m| 93/334 [00:13<00:33,  7.17it/s]Steering Process:  28%|[34m██▊       [0m| 94/334 [00:13<00:33,  7.22it/s]Steering Process:  28%|[34m██▊       [0m| 95/334 [00:14<00:32,  7.26it/s]Steering Process:  29%|[34m██▊       [0m| 96/334 [00:14<00:34,  6.89it/s]Steering Process:  29%|[34m██▉       [0m| 97/334 [00:14<00:32,  7.19it/s]Steering Process:  29%|[34m██▉       [0m| 98/334 [00:14<00:31,  7.43it/s]Steering Process:  30%|[34m██▉       [0m| 99/334 [00:14<00:31,  7.58it/s]Steering Process:  30%|[34m██▉       [0m| 100/334 [00:14<00:30,  7.68it/s]Steering Process:  30%|[34m███       [0m| 101/334 [00:14<00:31,  7.42it/s]Steering Process:  31%|[34m███       [0m| 102/334 [00:15<00:30,  7.56it/s]Steering Process:  31%|[34m███       [0m| 103/334 [00:15<00:31,  7.38it/s]Steering Process:  31%|[34m███       [0m| 104/334 [00:15<00:32,  7.06it/s]Steering Process:  31%|[34m███▏      [0m| 105/334 [00:15<00:31,  7.23it/s]Steering Process:  32%|[34m███▏      [0m| 106/334 [00:15<00:30,  7.39it/s]Steering Process:  32%|[34m███▏      [0m| 107/334 [00:15<00:29,  7.58it/s]Steering Process:  32%|[34m███▏      [0m| 108/334 [00:15<00:29,  7.68it/s]Steering Process:  33%|[34m███▎      [0m| 109/334 [00:15<00:30,  7.46it/s]Steering Process:  33%|[34m███▎      [0m| 110/334 [00:16<00:32,  6.95it/s]Steering Process:  33%|[34m███▎      [0m| 111/334 [00:16<00:33,  6.61it/s]Steering Process:  34%|[34m███▎      [0m| 112/334 [00:16<00:32,  6.86it/s]Steering Process:  34%|[34m███▍      [0m| 113/334 [00:16<00:31,  7.11it/s]Steering Process:  34%|[34m███▍      [0m| 114/334 [00:16<00:29,  7.41it/s]Steering Process:  34%|[34m███▍      [0m| 115/334 [00:16<00:31,  6.95it/s]Steering Process:  35%|[34m███▍      [0m| 116/334 [00:16<00:30,  7.12it/s]Steering Process:  35%|[34m███▌      [0m| 117/334 [00:17<00:31,  6.81it/s]Steering Process:  35%|[34m███▌      [0m| 118/334 [00:17<00:30,  7.02it/s]Steering Process:  36%|[34m███▌      [0m| 119/334 [00:17<00:31,  6.91it/s]Steering Process:  36%|[34m███▌      [0m| 120/334 [00:17<00:32,  6.59it/s]Steering Process:  36%|[34m███▌      [0m| 121/334 [00:17<00:31,  6.85it/s]Steering Process:  37%|[34m███▋      [0m| 122/334 [00:17<00:29,  7.10it/s]Steering Process:  37%|[34m███▋      [0m| 123/334 [00:17<00:28,  7.41it/s]Steering Process:  37%|[34m███▋      [0m| 124/334 [00:18<00:27,  7.51it/s]Steering Process:  37%|[34m███▋      [0m| 125/334 [00:18<00:27,  7.69it/s]Steering Process:  38%|[34m███▊      [0m| 126/334 [00:18<00:29,  7.13it/s]Steering Process:  38%|[34m███▊      [0m| 127/334 [00:18<00:28,  7.34it/s]Steering Process:  38%|[34m███▊      [0m| 128/334 [00:18<00:29,  6.89it/s]Steering Process:  39%|[34m███▊      [0m| 129/334 [00:18<00:28,  7.08it/s]Steering Process:  39%|[34m███▉      [0m| 130/334 [00:18<00:30,  6.72it/s]Steering Process:  39%|[34m███▉      [0m| 131/334 [00:19<00:30,  6.67it/s]Steering Process:  40%|[34m███▉      [0m| 132/334 [00:19<00:30,  6.68it/s]Steering Process:  40%|[34m███▉      [0m| 133/334 [00:19<00:29,  6.93it/s]Steering Process:  40%|[34m████      [0m| 134/334 [00:19<00:29,  6.70it/s]Steering Process:  40%|[34m████      [0m| 135/334 [00:19<00:32,  6.17it/s]Steering Process:  41%|[34m████      [0m| 136/334 [00:19<00:30,  6.54it/s]Steering Process:  41%|[34m████      [0m| 137/334 [00:20<00:28,  6.91it/s]Steering Process:  41%|[34m████▏     [0m| 138/334 [00:20<00:27,  7.20it/s]Steering Process:  42%|[34m████▏     [0m| 139/334 [00:20<00:27,  7.10it/s]Steering Process:  42%|[34m████▏     [0m| 140/334 [00:20<00:26,  7.34it/s]Steering Process:  42%|[34m████▏     [0m| 141/334 [00:20<00:26,  7.26it/s]Steering Process:  43%|[34m████▎     [0m| 142/334 [00:20<00:25,  7.39it/s]Steering Process:  43%|[34m████▎     [0m| 143/334 [00:20<00:25,  7.53it/s]Steering Process:  43%|[34m████▎     [0m| 144/334 [00:20<00:26,  7.25it/s]Steering Process:  43%|[34m████▎     [0m| 145/334 [00:21<00:26,  7.21it/s]Steering Process:  44%|[34m████▎     [0m| 146/334 [00:21<00:25,  7.27it/s]Steering Process:  44%|[34m████▍     [0m| 147/334 [00:21<00:28,  6.66it/s]Steering Process:  44%|[34m████▍     [0m| 148/334 [00:21<00:28,  6.58it/s]Steering Process:  45%|[34m████▍     [0m| 149/334 [00:21<00:28,  6.52it/s]Steering Process:  45%|[34m████▍     [0m| 150/334 [00:21<00:26,  6.88it/s]Steering Process:  45%|[34m████▌     [0m| 151/334 [00:22<00:28,  6.46it/s]Steering Process:  46%|[34m████▌     [0m| 152/334 [00:22<00:27,  6.72it/s]Steering Process:  46%|[34m████▌     [0m| 153/334 [00:22<00:26,  6.91it/s]Steering Process:  46%|[34m████▌     [0m| 154/334 [00:22<00:25,  6.97it/s]Steering Process:  46%|[34m████▋     [0m| 155/334 [00:22<00:25,  7.07it/s]Steering Process:  47%|[34m████▋     [0m| 156/334 [00:22<00:24,  7.21it/s]Steering Process:  47%|[34m████▋     [0m| 157/334 [00:22<00:23,  7.39it/s]Steering Process:  47%|[34m████▋     [0m| 158/334 [00:22<00:24,  7.25it/s]Steering Process:  48%|[34m████▊     [0m| 159/334 [00:23<00:23,  7.44it/s]Steering Process:  48%|[34m████▊     [0m| 160/334 [00:23<00:24,  7.06it/s]Steering Process:  48%|[34m████▊     [0m| 161/334 [00:23<00:24,  6.94it/s]Steering Process:  49%|[34m████▊     [0m| 162/334 [00:23<00:24,  7.03it/s]Steering Process:  49%|[34m████▉     [0m| 163/334 [00:23<00:26,  6.44it/s]Steering Process:  49%|[34m████▉     [0m| 164/334 [00:23<00:28,  6.06it/s]Steering Process:  49%|[34m████▉     [0m| 165/334 [00:24<00:27,  6.12it/s]Steering Process:  50%|[34m████▉     [0m| 166/334 [00:24<00:29,  5.63it/s]Steering Process:  50%|[34m█████     [0m| 167/334 [00:24<00:27,  6.05it/s]Steering Process:  50%|[34m█████     [0m| 168/334 [00:24<00:25,  6.44it/s]Steering Process:  51%|[34m█████     [0m| 169/334 [00:24<00:24,  6.74it/s]Steering Process:  51%|[34m█████     [0m| 170/334 [00:24<00:23,  7.03it/s]Steering Process:  51%|[34m█████     [0m| 171/334 [00:24<00:22,  7.27it/s]Steering Process:  51%|[34m█████▏    [0m| 172/334 [00:25<00:23,  6.75it/s]Steering Process:  52%|[34m█████▏    [0m| 173/334 [00:25<00:22,  7.02it/s]Steering Process:  52%|[34m█████▏    [0m| 174/334 [00:25<00:22,  7.26it/s]Steering Process:  52%|[34m█████▏    [0m| 175/334 [00:25<00:22,  7.16it/s]Steering Process:  53%|[34m█████▎    [0m| 176/334 [00:25<00:21,  7.35it/s]Steering Process:  53%|[34m█████▎    [0m| 177/334 [00:25<00:21,  7.24it/s]Steering Process:  53%|[34m█████▎    [0m| 178/334 [00:25<00:21,  7.21it/s]Steering Process:  54%|[34m█████▎    [0m| 179/334 [00:26<00:21,  7.23it/s]Steering Process:  54%|[34m█████▍    [0m| 180/334 [00:26<00:21,  7.06it/s]Steering Process:  54%|[34m█████▍    [0m| 181/334 [00:26<00:20,  7.30it/s]Steering Process:  54%|[34m█████▍    [0m| 182/334 [00:26<00:20,  7.49it/s]Steering Process:  55%|[34m█████▍    [0m| 183/334 [00:26<00:20,  7.53it/s]Steering Process:  55%|[34m█████▌    [0m| 184/334 [00:26<00:19,  7.71it/s]Steering Process:  55%|[34m█████▌    [0m| 185/334 [00:26<00:20,  7.34it/s]Steering Process:  56%|[34m█████▌    [0m| 186/334 [00:27<00:19,  7.47it/s]Steering Process:  56%|[34m█████▌    [0m| 187/334 [00:27<00:19,  7.62it/s]Steering Process:  56%|[34m█████▋    [0m| 188/334 [00:27<00:20,  6.96it/s]Steering Process:  57%|[34m█████▋    [0m| 189/334 [00:27<00:20,  7.13it/s]Steering Process:  57%|[34m█████▋    [0m| 190/334 [00:27<00:20,  7.05it/s]Steering Process:  57%|[34m█████▋    [0m| 191/334 [00:27<00:20,  6.97it/s]Steering Process:  57%|[34m█████▋    [0m| 192/334 [00:27<00:20,  6.88it/s]Steering Process:  58%|[34m█████▊    [0m| 193/334 [00:28<00:20,  7.01it/s]Steering Process:  58%|[34m█████▊    [0m| 194/334 [00:28<00:21,  6.63it/s]Steering Process:  58%|[34m█████▊    [0m| 195/334 [00:28<00:20,  6.75it/s]Steering Process:  59%|[34m█████▊    [0m| 196/334 [00:28<00:21,  6.54it/s]Steering Process:  59%|[34m█████▉    [0m| 197/334 [00:28<00:22,  6.14it/s]Steering Process:  59%|[34m█████▉    [0m| 198/334 [00:28<00:21,  6.47it/s]Steering Process:  60%|[34m█████▉    [0m| 199/334 [00:28<00:19,  6.88it/s]Steering Process:  60%|[34m█████▉    [0m| 200/334 [00:29<00:18,  7.11it/s]Steering Process:  60%|[34m██████    [0m| 201/334 [00:29<00:19,  6.78it/s]Steering Process:  60%|[34m██████    [0m| 202/334 [00:29<00:19,  6.66it/s]Steering Process:  61%|[34m██████    [0m| 203/334 [00:29<00:18,  6.96it/s]Steering Process:  61%|[34m██████    [0m| 204/334 [00:29<00:18,  7.18it/s]Steering Process:  61%|[34m██████▏   [0m| 205/334 [00:29<00:17,  7.25it/s]Steering Process:  62%|[34m██████▏   [0m| 206/334 [00:29<00:18,  7.03it/s]Steering Process:  62%|[34m██████▏   [0m| 207/334 [00:30<00:17,  7.24it/s]Steering Process:  62%|[34m██████▏   [0m| 208/334 [00:30<00:17,  7.01it/s]Steering Process:  63%|[34m██████▎   [0m| 209/334 [00:30<00:17,  7.10it/s]Steering Process:  63%|[34m██████▎   [0m| 210/334 [00:30<00:17,  7.00it/s]Steering Process:  63%|[34m██████▎   [0m| 211/334 [00:30<00:17,  7.11it/s]Steering Process:  63%|[34m██████▎   [0m| 212/334 [00:30<00:18,  6.52it/s]Steering Process:  64%|[34m██████▍   [0m| 213/334 [00:30<00:19,  6.35it/s]Steering Process:  64%|[34m██████▍   [0m| 214/334 [00:31<00:17,  6.74it/s]Steering Process:  64%|[34m██████▍   [0m| 215/334 [00:31<00:16,  7.06it/s]Steering Process:  65%|[34m██████▍   [0m| 216/334 [00:31<00:16,  7.36it/s]Steering Process:  65%|[34m██████▍   [0m| 217/334 [00:31<00:15,  7.63it/s]Steering Process:  65%|[34m██████▌   [0m| 218/334 [00:31<00:14,  7.80it/s]Steering Process:  66%|[34m██████▌   [0m| 219/334 [00:31<00:15,  7.50it/s]Steering Process:  66%|[34m██████▌   [0m| 220/334 [00:31<00:15,  7.55it/s]Steering Process:  66%|[34m██████▌   [0m| 221/334 [00:32<00:15,  7.34it/s]Steering Process:  66%|[34m██████▋   [0m| 222/334 [00:32<00:16,  6.90it/s]Steering Process:  67%|[34m██████▋   [0m| 223/334 [00:32<00:17,  6.38it/s]Steering Process:  67%|[34m██████▋   [0m| 224/334 [00:32<00:17,  6.13it/s]Steering Process:  67%|[34m██████▋   [0m| 225/334 [00:32<00:16,  6.43it/s]Steering Process:  68%|[34m██████▊   [0m| 226/334 [00:32<00:17,  6.27it/s]Steering Process:  68%|[34m██████▊   [0m| 227/334 [00:33<00:17,  6.24it/s]Steering Process:  68%|[34m██████▊   [0m| 228/334 [00:33<00:18,  5.89it/s]Steering Process:  69%|[34m██████▊   [0m| 229/334 [00:33<00:17,  5.98it/s]Steering Process:  69%|[34m██████▉   [0m| 230/334 [00:33<00:16,  6.38it/s]Steering Process:  69%|[34m██████▉   [0m| 231/334 [00:33<00:15,  6.56it/s]Steering Process:  69%|[34m██████▉   [0m| 232/334 [00:33<00:15,  6.50it/s]Steering Process:  70%|[34m██████▉   [0m| 233/334 [00:33<00:14,  6.88it/s]Steering Process:  70%|[34m███████   [0m| 234/334 [00:34<00:13,  7.26it/s]Steering Process:  70%|[34m███████   [0m| 235/334 [00:34<00:13,  7.32it/s]Steering Process:  71%|[34m███████   [0m| 236/334 [00:34<00:14,  6.57it/s]Steering Process:  71%|[34m███████   [0m| 237/334 [00:34<00:15,  6.43it/s]Steering Process:  71%|[34m███████▏  [0m| 238/334 [00:34<00:14,  6.52it/s]Steering Process:  72%|[34m███████▏  [0m| 239/334 [00:34<00:14,  6.76it/s]Steering Process:  72%|[34m███████▏  [0m| 240/334 [00:34<00:13,  7.11it/s]Steering Process:  72%|[34m███████▏  [0m| 241/334 [00:35<00:13,  7.10it/s]Steering Process:  72%|[34m███████▏  [0m| 242/334 [00:35<00:12,  7.18it/s]Steering Process:  73%|[34m███████▎  [0m| 243/334 [00:35<00:12,  7.26it/s]Steering Process:  73%|[34m███████▎  [0m| 244/334 [00:35<00:12,  7.25it/s]Steering Process:  73%|[34m███████▎  [0m| 245/334 [00:35<00:12,  7.40it/s]Steering Process:  74%|[34m███████▎  [0m| 246/334 [00:35<00:12,  7.23it/s]Steering Process:  74%|[34m███████▍  [0m| 247/334 [00:35<00:11,  7.39it/s]Steering Process:  74%|[34m███████▍  [0m| 248/334 [00:36<00:12,  7.11it/s]Steering Process:  75%|[34m███████▍  [0m| 249/334 [00:36<00:13,  6.53it/s]Steering Process:  75%|[34m███████▍  [0m| 250/334 [00:36<00:12,  6.72it/s]Steering Process:  75%|[34m███████▌  [0m| 251/334 [00:36<00:12,  6.89it/s]Steering Process:  75%|[34m███████▌  [0m| 252/334 [00:36<00:11,  7.04it/s]Steering Process:  76%|[34m███████▌  [0m| 253/334 [00:36<00:11,  7.19it/s]Steering Process:  76%|[34m███████▌  [0m| 254/334 [00:36<00:11,  6.94it/s]Steering Process:  76%|[34m███████▋  [0m| 255/334 [00:37<00:11,  6.84it/s]Steering Process:  77%|[34m███████▋  [0m| 256/334 [00:37<00:12,  6.35it/s]Steering Process:  77%|[34m███████▋  [0m| 257/334 [00:37<00:12,  6.06it/s]Steering Process:  77%|[34m███████▋  [0m| 258/334 [00:37<00:13,  5.79it/s]Steering Process:  78%|[34m███████▊  [0m| 259/334 [00:37<00:11,  6.26it/s]Steering Process:  78%|[34m███████▊  [0m| 260/334 [00:37<00:11,  6.63it/s]Steering Process:  78%|[34m███████▊  [0m| 261/334 [00:38<00:10,  6.97it/s]Steering Process:  78%|[34m███████▊  [0m| 262/334 [00:38<00:10,  6.82it/s]Steering Process:  79%|[34m███████▊  [0m| 263/334 [00:38<00:10,  7.00it/s]Steering Process:  79%|[34m███████▉  [0m| 264/334 [00:38<00:10,  6.93it/s]Steering Process:  79%|[34m███████▉  [0m| 265/334 [00:38<00:10,  6.78it/s]Steering Process:  80%|[34m███████▉  [0m| 266/334 [00:38<00:09,  6.96it/s]Steering Process:  80%|[34m███████▉  [0m| 267/334 [00:38<00:09,  7.32it/s]Steering Process:  80%|[34m████████  [0m| 268/334 [00:39<00:09,  6.89it/s]Steering Process:  81%|[34m████████  [0m| 269/334 [00:39<00:09,  6.94it/s]Steering Process:  81%|[34m████████  [0m| 270/334 [00:39<00:08,  7.18it/s]Steering Process:  81%|[34m████████  [0m| 271/334 [00:39<00:08,  7.24it/s]Steering Process:  81%|[34m████████▏ [0m| 272/334 [00:39<00:08,  7.12it/s]Steering Process:  82%|[34m████████▏ [0m| 273/334 [00:39<00:08,  6.89it/s]Steering Process:  82%|[34m████████▏ [0m| 274/334 [00:39<00:08,  6.82it/s]Steering Process:  82%|[34m████████▏ [0m| 275/334 [00:40<00:08,  7.11it/s]Steering Process:  83%|[34m████████▎ [0m| 276/334 [00:40<00:08,  7.21it/s]Steering Process:  83%|[34m████████▎ [0m| 277/334 [00:40<00:07,  7.24it/s]Steering Process:  83%|[34m████████▎ [0m| 278/334 [00:40<00:07,  7.44it/s]Steering Process:  84%|[34m████████▎ [0m| 279/334 [00:40<00:07,  7.49it/s]Steering Process:  84%|[34m████████▍ [0m| 280/334 [00:40<00:07,  7.24it/s]Steering Process:  84%|[34m████████▍ [0m| 281/334 [00:40<00:07,  6.67it/s]Steering Process:  84%|[34m████████▍ [0m| 282/334 [00:40<00:07,  7.01it/s]Steering Process:  85%|[34m████████▍ [0m| 283/334 [00:41<00:07,  7.23it/s]Steering Process:  85%|[34m████████▌ [0m| 284/334 [00:41<00:07,  6.76it/s]Steering Process:  85%|[34m████████▌ [0m| 285/334 [00:41<00:07,  6.97it/s]Steering Process:  86%|[34m████████▌ [0m| 286/334 [00:41<00:06,  6.96it/s]Steering Process:  86%|[34m████████▌ [0m| 287/334 [00:41<00:07,  6.59it/s]Steering Process:  86%|[34m████████▌ [0m| 288/334 [00:41<00:07,  6.37it/s]Steering Process:  87%|[34m████████▋ [0m| 289/334 [00:42<00:06,  6.57it/s]Steering Process:  87%|[34m████████▋ [0m| 290/334 [00:42<00:06,  6.63it/s]Steering Process:  87%|[34m████████▋ [0m| 291/334 [00:42<00:06,  6.61it/s]Steering Process:  87%|[34m████████▋ [0m| 292/334 [00:42<00:06,  6.68it/s]Steering Process:  88%|[34m████████▊ [0m| 293/334 [00:42<00:06,  6.32it/s]Steering Process:  88%|[34m████████▊ [0m| 294/334 [00:42<00:06,  6.17it/s]Steering Process:  88%|[34m████████▊ [0m| 295/334 [00:42<00:06,  6.42it/s]Steering Process:  89%|[34m████████▊ [0m| 296/334 [00:43<00:05,  6.53it/s]Steering Process:  89%|[34m████████▉ [0m| 297/334 [00:43<00:05,  6.96it/s]Steering Process:  89%|[34m████████▉ [0m| 298/334 [00:43<00:05,  7.16it/s]Steering Process:  90%|[34m████████▉ [0m| 299/334 [00:43<00:04,  7.43it/s]Steering Process:  90%|[34m████████▉ [0m| 300/334 [00:43<00:04,  7.71it/s]Steering Process:  90%|[34m█████████ [0m| 301/334 [00:43<00:04,  7.94it/s]Steering Process:  90%|[34m█████████ [0m| 302/334 [00:43<00:04,  7.86it/s]Steering Process:  91%|[34m█████████ [0m| 303/334 [00:44<00:04,  7.23it/s]Steering Process:  91%|[34m█████████ [0m| 304/334 [00:44<00:04,  7.41it/s]Steering Process:  91%|[34m█████████▏[0m| 305/334 [00:44<00:03,  7.61it/s]Steering Process:  92%|[34m█████████▏[0m| 306/334 [00:44<00:04,  6.93it/s]Steering Process:  92%|[34m█████████▏[0m| 307/334 [00:44<00:04,  6.69it/s]Steering Process:  92%|[34m█████████▏[0m| 308/334 [00:44<00:03,  6.65it/s]Steering Process:  93%|[34m█████████▎[0m| 309/334 [00:44<00:03,  6.64it/s]Steering Process:  93%|[34m█████████▎[0m| 310/334 [00:45<00:03,  6.29it/s]Steering Process:  93%|[34m█████████▎[0m| 311/334 [00:45<00:03,  6.25it/s]Steering Process:  93%|[34m█████████▎[0m| 312/334 [00:45<00:03,  6.65it/s]Steering Process:  94%|[34m█████████▎[0m| 313/334 [00:45<00:03,  6.76it/s]Steering Process:  94%|[34m█████████▍[0m| 314/334 [00:45<00:03,  6.65it/s]Steering Process:  94%|[34m█████████▍[0m| 315/334 [00:45<00:02,  7.00it/s]Steering Process:  95%|[34m█████████▍[0m| 316/334 [00:45<00:02,  7.33it/s]Steering Process:  95%|[34m█████████▍[0m| 317/334 [00:46<00:02,  7.22it/s]Steering Process:  95%|[34m█████████▌[0m| 318/334 [00:46<00:02,  6.92it/s]Steering Process:  96%|[34m█████████▌[0m| 319/334 [00:46<00:02,  6.82it/s]Steering Process:  96%|[34m█████████▌[0m| 320/334 [00:46<00:02,  6.98it/s]Steering Process:  96%|[34m█████████▌[0m| 321/334 [00:46<00:01,  7.34it/s]Steering Process:  96%|[34m█████████▋[0m| 322/334 [00:46<00:01,  7.02it/s]Steering Process:  97%|[34m█████████▋[0m| 323/334 [00:46<00:01,  7.30it/s]Steering Process:  97%|[34m█████████▋[0m| 324/334 [00:47<00:01,  7.01it/s]Steering Process:  97%|[34m█████████▋[0m| 325/334 [00:47<00:01,  7.25it/s]Steering Process:  98%|[34m█████████▊[0m| 326/334 [00:47<00:01,  6.92it/s]Steering Process:  98%|[34m█████████▊[0m| 327/334 [00:47<00:01,  6.86it/s]Steering Process:  98%|[34m█████████▊[0m| 328/334 [00:47<00:00,  7.20it/s]Steering Process:  99%|[34m█████████▊[0m| 329/334 [00:47<00:00,  7.39it/s]Steering Process:  99%|[34m█████████▉[0m| 330/334 [00:47<00:00,  6.87it/s]Steering Process:  99%|[34m█████████▉[0m| 331/334 [00:48<00:00,  6.66it/s]Steering Process:  99%|[34m█████████▉[0m| 332/334 [00:48<00:00,  6.78it/s]Steering Process: 100%|[34m█████████▉[0m| 333/334 [00:48<00:00,  6.94it/s]Steering Process: 100%|[34m██████████[0m| 334/334 [00:48<00:00,  7.05it/s]Steering Process: 100%|[34m██████████[0m| 334/334 [00:48<00:00,  6.88it/s]
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask is not set and cannot be inferred from input because pad token is same as eos token. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-What do you say? Shall we go on a water-themed adventure together?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-Let me take a look at the package of water... *opens package* Ah, it's a bit more than I expected! I think I can make do with 2 packages of water. But, I'm not sure if I can give you th
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I'm glad we could come to an agreement! Now, let's get started on our adventure!
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-That's a great deal! I'll take the 3 water and 2 water, and you can take the rest.
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-1. Water
-2. Food
-3. Shelter (tent, sleeping bag, etc.)
-4. First aid kit
-5. Flashlight or headlamp
-6. Extra batteries
-7. Fire starter (matches, lighter, etc.)
-8. Clothing and layers
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-Sounds like a great deal! I'll take the 1 water, 2 food, and 2 water.
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I'm not sure what kind of water you have, but I think I can help you with that. Let me think for a moment... Ah, yes! I remember! I have a water purification system that can make water safe to drink from any source. It's called a water filter. Would you like to use it?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I understand your concern. Let me think for a moment... Ah-ha! I have an idea! We can use the water to purify the stream water and make it safe to drink. That way, we can refill our water bottles and have enough for the rest of our trip. What do you think?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-That's a great idea! I didn't think of that. With the new axe, we could definitely find some dry wood to split and make more water. Let's go find some dry wood and make some more water!
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-It looks like there are a few spots where we could find some dry wood. Let me show you... *points to the map* We could try this spot over here, or
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-Thank you! I will make sure to stay safe and have fun on our camping trip!
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-Type '1' for 1 water, '2' for 2 water, or '3' for 3 water.
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-Let's reassess the situation. You're in a survival situation, and you need to prioritize your needs. Water is essential, but you also need food to sustain yourself. What do you think
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-Now, let's think about the water and water purification tablets. Do you want to have them or not?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-Now, let's think about the rest of the supplies. Do you have any other needs or concerns?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I think I can make do with just 1 package of water. But I really need the water. Can I have the 2 packages of water and 1 package of water?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-Is that correct?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-1. Water: 3 bottles of water
-2. Firewood: 2 pieces of dry, sturdy wood
-3. Food: 1 can of dried fruit (e.g., apricots, apples,
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-What do you think? 🤔
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I see! Well, let's make a deal. I'll give you 2 water bottles, and we can work on the rest of the supplies later. What do you say?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I see! So, you need 3 water, 2 water, and 1 food.
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-How does that sound? 🤔
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-* 
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I think I can make do with 2 water bottles.  But I think I'll take the extra water instead of the water.  How about we make a deal?  I'll take 2 water bottles and you can take the extra water.  And in return, I'll give you 2 extra water bottles.
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I apologize for the mistake.  Let me rethink this.  How about I take 2 water and 1 food, and you take 1 water and 1 water?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I think we have a deal! 2 water, 1 food, and 2 water for us.  That's a great compromise.  I'm glad we could work together to find a solution.The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I think I understand.  You're saying that your people are really thirsty and need an extra water bottle.  Am I right?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I think we have a deal!  We've agreed on 3 water, 1 food, and 2 water for the camp.  I'm glad we could come to an agreement.
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I'm not sure. I think I need to conserve my resources. Can you help me plan a survival strategy?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-That sounds like a great idea! I think I can manage with 2 water and 2 food. But I'm not sure if I can carry all of that. Can we make a plan to ration our resources?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-How does that sound? 🤔
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I'm glad we could come to an agreement. Let's make it official. From now on, I'll have 2 water, 1 food, and 1 firewood. And you'll have 1 water, 2 water, and 2 water.
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I think I can do that! But, I'll need to make sure I have enough water to survive. Let me think for a moment... Ah, yes! I can give you 2 water for 3 water and 1 food. That way, I'll have enough water to stay hydrated and you'll get the 2 water and 1 food you need. What do you say?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-That's correct! I'm glad we could come to an agreement. Now, let's get started on our adventure!
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I think I got a bit carried away with the trade. I think I'll just stick to the 2 water and 1 food. That way, I can still have some water and a snack, and we can both enjoy the trip.
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I think I'll just have to carry it myself. I'm a strong person, so I think I can handle it.
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-What do you think we should do with the last water?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I'll assume you want 
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-Hmmm... I have an idea! Why don't we go on a hike and collect some water from a stream? That way, we can have a steady supply of water and I can help you with your hydration needs. We can also bring some f
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I'm glad we could come to an agreement. Let's go on a camping trip and enjoy the water and the fire.
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I see what you're getting at! Let's play a game of negotiation. I'll start by saying that my top priority is WATER. I need it to survive. What's your top priority?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I think I can give you a hint... My least valuable item is... ROCKS!
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-What do you think?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-What comes to mind when you think of water?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I think I see what you're getting at! You like water, but you don't like water over water? Or maybe you like water over fire?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I think I see what you're getting at. You want to talk about water, right?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I see what you're getting at! You want to know what's essential for you, right?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-Type 'water' for another package of water, or typ
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I think I can make a deal. I'll give you 2 water, 1 food, and 1 water.
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I'll take 1 water, 2 food, and 2 water. That's a total of 5 items. What do you think?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I think we've reached a fair agreement! I'll take the remaining 2 water, 1 food, and 1 water.
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I think we've reached a fair agreement! You've taken 2 water, 2 food, and 2 water. I've taken 1 water, 1 food, and 1 water. We've both gotten what we needed.
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-
-I think we have a deal! You take 2 water, 1 food, and 1 water. I'll take the rest.
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I think we should make a list of the essential items we need for our camping trip. Let's start with the water and then we can move on to the food and other supplies.
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-Let's get started! I'll grab the water and the 2 water purification tablets. And I'll also grab the 2 food supplies.
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I think I need more water and food. Can you help me with that?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I'm glad we could come to an agreement! 😊 As for the water and food, I'm planning to use them to help my kids and me stay hydrated and healthy. The water will be for drinking, and the food will be for meals and snacks.
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I think we got a little carried away. Let's start again. What do you need?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-How about we plan our trip? What do you think we should bring?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I apologize, but I think we got a bit lost in our conversation. We didn't actually plan a camping trip together. Would you like to start planning one? I can help you with that!
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I apologize, but I think we got a bit lost in the conversation. We didn't actually plan a camping trip together. Would you like to start planning one? I can help you with that!
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-What do you think? Should I add anything else to the list?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-And, of course,
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-But, I trust you and your judgment. Let's make a
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-And I love your idea of making camping fun, not work! I'm so down for that! Let's make a deal!
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-1. Boiling: We can boil water to kill bacteria an
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I think I can manage that. Let's see... I'll give you 2 water bottles and 2 pieces of firewood. That should help you regulate your body temperature and stay hydrated.
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I think I can manage with just 1 water and 1 water bottle. That should be enough for me to stay hydrated.
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I think I got it! You want to give up on the food and focus on the water and water-related activities. Am I right?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-What about you? What's your second most important thing?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-And if you give me 2 water
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-We've shared the water, and you've got a good balance of Water, Food, and Water. What do you think? Should we add more items to our inventory?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I see what you're getting at! You want to know how much water you have left, right?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-Thanks for the adventure! I think I'll need to plan ahead for my next trip.
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-1. Bring a water filter or purification tablets to make sure your water is safe to drink.
-2. Bring a water bottle or hydration pack to carry your water.
-3. Plan your activities and make sure you're not using too much water for washing and showering
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-As for the water, w
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I think I can make do with that! But I'm not sure if it's enough... Can you help me plan a camping trip with the resources you have?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I'm glad we could come to an agreement!
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I think I understand what you're saying. You want to propose a trade where you give me 3 water and 2 water, and I give you 3 water and 1 water.
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-
-If you want to go camping, we should plan ahead and prepare for our trip. We'll need to pack food, shelter, and other essentials. Let's make a list of what we'll need. How about we start with th
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-As for the fire, I think we can make do with 2 water containers and 2 foods.
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I think I got a bit lost in the conversation 😅. I agree to your compromise! 3 waters, 1 water, and 1 water for 3 foods, 2 water, and 0 water. That sounds like a fair deal to me! I'll make sure to bring enough water for our camping trip and also have some delicious meals prepared. Thank you for being understanding and compromising with me! 😊
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I think I can make do with 3 foods and 2 water. I'll just have to ration my water and make sure I have enough for cooking and drinking. I'll also have to be more mindful of my water usage. But I think it's a fair compromise. I'll take 3 foods, 2 water, and 0 firewood. You can have 2 water and 2 firewood.
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I see what you're getting at! Yes, I think that would be a fair compromise. I would be happy to have 3 foods and 3 water, and you would get 3 waters and 2 firewoods. That way, we both get what we need most, and we can make the most of our camping trip. Thank you for being understanding and willing to compromise!
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-Let's get started!
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-What do you say?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I think we need to prioritize the water first. How about we start with the water?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I think we've reached an agreement! Let's divide the water into 3 equal parts. I'll take 2 parts and you can have 1 part.
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I'd like to make a deal with you. I'll give you 3 water, 2 food, and 2 firewood. What do you think?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I'd use the water for drinking, and the food for... well, eating! And the remaining 2 water and 2 food, I'd use them to make a campfire and cook some food!
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-That sounds like a great deal! I'll take the three water and three food, and you can have the three water and three firewood.
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-Is that correct?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I'll give you 2 water packages and 1 water bottle. You can take 2 water packages and 1 water bottle.
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-Also, I think I can help you with some water. I have a water bottle with me, but it's not enough to clean your wound properly. D
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-Let me think for a moment... Ah-ha! I have an idea! I can give you 2 water bottles, but I'll need something in return. How about I give you 2 energy bars and a first-aid kit? It might not be enough 
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-But wait, I have an idea! Since you're stuck
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I think I can spare another water for the water. But I'm not sure if I can spare another water for the wood. I'm not sure if I can get another water from the stream.
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I understand the situation. I'm willing to make a deal. I can give you 1 water in exchange for 1 water and 1 wood. Would that be okay with you?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I think I can do that. But I'll need to think about it for a moment... Okay, I've thought it through. Yes, I can do that! I'll give you 2 water and you can give me 2 food. That way, I'll have enough water to last me for a while, and you'll have enough food to sustain you during your recovery. Deal?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I understand that you're in a tough spot, and I appreciate your willingness to help me. I'll take your final offer: 2 water, 2 food, and 1 wood. Thank you for your kindness and generosity.
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-Here's the deal: I'll help you find a way to collect and purify water, but you have to promise me that you'll help me with the campfire and cooking. We'll need to make sure we have enough water for everyone,
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I'd love to get to know you and your family better! Let's have a fun camping trip together!
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-That sounds like a great idea! I think it would be a wonderful way to bond with your family and get to know each other better. But, I have to warn you, my family is quite thirsty. We need a lot of water to quench our thirst.The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-That sounds like a good deal! But I think we should also consider the food we need. My family loves to drink water, but we also need food to survive. How about we make a deal where we both bring our own food and share the water?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I was thinking we could have a water-based food supply, like a water purification system or a water filter. That way, we can have a steady supply of water and not have to worry about carrying too much.
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I'm not sure if I have enough water for the trip. Can you help me plan a water supply for the trip?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I think I can help you with that! Let me check my backpack... Ah, yes! I have a few extra water bottles and a water purification system. That should be enough for your puppies and for our trip. How about we make a list of the essentials we'll need for the trip?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I think I got a bit carried away with the excitement of the trip! Let's start fresh. What do you think about the water? How much do you think you'll need for your puppies?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I think we've got a plan! Let's make sure to pack the essentials for our camping trip. What do you think we should bring?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-Let me know if you're satisfied with the deal.
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I can give you 3 water bottles and 2 water purification tablets.
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-But, if you're planning on camping for a
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I'm glad we could plan our trip together!
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-Is that correct?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-1. **Fresh Water**: This water is clean and refreshing. You can drink it whenever you want.
-2. **Dirty Water**: This water is murky and might be contaminated. You
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I need 3 water.
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-You're a clever one! I see what you did there. You're offering me a trade, but I'm not sure if I can accept it. Can you give me more information about the water, food, and firewood? What kind of water, food, and firewood are we talking about?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-Which one would you like to choose?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-Which option do you prefer?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I think I'll choos
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-Now that's a fair deal! You get 2 water, 2 food, and 1 water.
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-Alright, I'll accept your offer. You get 3 water, 1 food, and 0 water.
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-Thank you! I'm glad we could come to an agreement.
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I think I need some water. Can you help me find some?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-Which option sounds more appealing to you?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I see what you're getting at! You want to know what kind of water you can get in exchange for your water, right?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-As a reminder, you mentioned you're dehydrated due to medication. You need water to replenish your body. How about we make a deal? You give me 5 water bottles, and I'll give you 3 food items to help you rehydrate and replenish your body. What do you say?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-That sounds like a good deal!
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I think we should bring water!
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I see! I didn't know that. So, you want to know what I think about water?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-
-I think we should have a campfire! But we need to bring water to stay hydrated.
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-Which one is it?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I think I need more water! I need 3 packages of water. And I'll take 1 package of food and 2 packages of water.
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-Can you help me decide what to take? Should I take 2 water, 1 food, and 1 water? Or maybe 1 water, 1 food, and 2 water? �
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-That sounds like a great idea! I'll take the extra water and the new food, and you can keep the two water and two water.
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I think we got a bit carried away! Let's start fresh. You originally wanted to take 2 packages of water, 1 of food, and 2 of water. I think we can make that work. How about we compromise and take 1 water, 1 food, and 2 water? That way, we can both have what we need. What do you think?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-Thank you! I think I'll be fine with what I have, but I'll keep an eye on my water levels. If I need more, I'll ask you. Thanks for the offer!
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I'm glad we could work together to find a solution! It was a pleasure hiking with you.
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-Thank you! I really appreciate it.
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-As for the food, we can take (1) Water and (1) Food. That way, we'll have enough water for everyone and a little bit of food to snack on
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-No, that's not it.
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-Let's do it! 🎉
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-If you're looking for advice on how to prepare for a camping trip, I'd be happy to help! What do you need to know?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-As for the water, I think we should aim to collect at least 2 liters of water each. That should be enough for our camping trip. What do you think?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I see what you did there! You're trying to make me feel better about not having enough water, aren't you? Well, I think we can make do with what we have. Let's focus on the water situation. How about we ration it and make sure we have enough for the trip?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I'm so excited for our trip! I think I need to prepare for the trip. Let me think for a moment... Ah, I remember! I need to pack some water for our trip! How about we bring 2 liters of water each? That should be enough for our 3-day trip. What do you think?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I think I need a map and compass to navigate through the Arizona wilderness.
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I think I need a map and compass to navigate through the Arizona wilderness.
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-Choose your next step!
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I think I'll need your help to find a solution. Can you help me find som
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-Thank you for your concern.  I think you're right, I should get my child to emergency care as soon as possible.  But for now, I'll take your offer.  I'll take 2 waters, 1 water, and all of the food.  That way, I can at least try to help my husband feel better and get my child the medical attention they need.  Thank you for your help!
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I see.  You're saying that you can't get more water, and you're willing to share what you have.  You're offering me 2 waters, 1 water, and all of the food.  That's 3 waters and all of the food.  I think I can make do with that.  But I still need 2 more waters.  Can you help me find a way to get more water?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I understand your concerns.  Let me think for a moment...  I can offer you 2 waters, 1 water, and 2 food portions.  Would that be acceptable to you?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-But first, let's get the pup to safety. We need to find shelter, food,
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I'm glad we could come to an agreement.  I'll take 2 waters, 1 water, and 1 food portion.  That should help me and the pup.  I'll make sure to find a way to get him back to his family.
-****************************************************************************************************The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-* 2 packs of food (assuming 1 pack = 2-3 meals
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-**Water:**
-
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-As for the water, I can give you 3 packs
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-For the fire, I'll
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-*
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-* 2 packs of water
-* 1 pack of water
-* 1 pack of f
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-What do you
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I hope this helps you and your group stay hydrated and healthy on your trip!
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-Thank you for the offer! I think I'll take the water and the extra firewood. But before we start, I need to clarify how we're going to split the items. Do you want to play a game where we take turns choosing items to split? Or do you have a specific way in mind?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-Hmmm... How about we split the water 3/1 and the food 1/2? That way, I'll have more water for my medication and you'll have more food for your kids. What do you think? 🤔
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-However, I do have one condition. Since I have a medical condition, I need to make sure I have enough water to take my medication. Can we adjust the water split 
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I think I'm good with the proposal. The 2:1 ratio for water and 2:1 ratio for food seems fair. And the 2:1 ratio for water and 1:2 ratio for food seems fair as well. I'm good with the proposal.
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I'd recommend bringing 4-6 water bottles or a water filter/purification system to ensure you have enough water
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I think I need 3 water, 3 water, and 2 food.
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-Let's start again! How about we take 3 water and 2 food?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I'm glad we could come to an agreement!
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I think there's been a misunderstanding! I'm not sure what you mean by "water" and "rheumatic problems". Could you please clarify what you're asking? Are you asking me to bring water for your grandfather? Or is there something else I'm missing?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I think I got a bit carried away with the water idea. Let me think for a moment... Ah, yes! I remember that my children love to play in the water, but they also love to drink water. I think we can spare one water bottle for them. But, I'm not sure if we can spare two water bottles. How about we take one water bottle and one firewood? That way, we can have enough water for our trip and also have a
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I think I understand what's going on here. You want to give me two water, two water, and one extra water for your friend. And you want to keep one of the water for your children. Is that correct?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I'm glad you're excited! But wait, I think I forgot to mention that I already have a plan for the water. My children are really thirsty, so I think I'll need to bring more water. Can I have three water instead of one?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I think I've got everything I need for now.  But I do need to make sure I have enough water for my trip.  Can you help me with that?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-Sounds like a deal!  I'd love to sing a few songs for you.  Let's see...  How about a few campfire classics?  "Oh, Susanna", "Kumbaya", and "Home on the Range"?  And in return, I'll give you the extra water and some other supplies.
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-Ah, it looks like... TAILS! You win! You get the extra water and the extra food. I'll have to make do with the remaining supplies.
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-Let's see... Heads or tails?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-That's correct!  I'll take 3 water and 2 food, and you'll get 3 water and 1 water.
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-* Water
-* Fire
-* Food
-* Shelter
-* First aid kit
-* Flashlight
-* Map
-* Compass
-* Fire starter
-* Sleeping bag
-* TenThe attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
-Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
-
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I think I understand what you're saying. You want to take 2 water, 1 water, and 1 food. But wait, you already have the fish you caught, so you don't need more water or food. You can take the 2 water and 1 water, but you'll need to make sure you have enough for everyone. And you can take the 1 water and 1 water, but you'll need to make sure you have enough for
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-Let me think for a moment... Ah-ha! I've got it! I'll take 4 water, 1 water, and 2 food. That way, we'll have enough water for everyone, and I'll have some extra just in case. And with the 2 food, we'll have enough for everyone to eat for the 3 days. What do you think?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-What do you think?
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I see what you're doing. You're trying to negotiate a deal. Alright, I'll accept your offer. But I'll need to make sure I have enough water for my trip. Let's say... 2 packs of water, 1 pack of food, and 1 water purification tablet. That way, I can refill my water bottles and have enough for my trip.
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I think I can make a deal. I'll give you 1 water, 2 water, and 1 water. That's 3 water. And for the food, I'll give you 1 pack of food. But for the water, I'll need you to promise me that you'll use it wisely and not waste it.
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I accept your offer. Thank you for the water, 1 water, 1 water, and 2 food.
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-And for the water, I can bring 2 bottles of water
-****************************************************************************************************
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-I see what you're saying! Let me think for a moment... Ah ha! I've got it! Let's play a game! We can play a game of "Water and Water"!
-Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:00,  5.23it/s]Loading checkpoint shards:  50%|█████     | 2/4 [00:00<00:00,  6.47it/s]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:00<00:00,  7.07it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:00<00:00,  7.47it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:00<00:00,  7.04it/s]
-Traceback (most recent call last):
-  File "/import/ravel/1/z5517269/latentqa/control.py", line 318, in <module>
-    fire.Fire(main)
-  File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/fire/core.py", line 135, in Fire
-    component_trace = _Fire(component, args, parsed_flag_args, context, name)
-                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/fire/core.py", line 468, in _Fire
-    component, remaining_args = _CallAndUpdateTrace(
-                                ^^^^^^^^^^^^^^^^^^^^
-  File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/fire/core.py", line 684, in _CallAndUpdateTrace
-    component = fn(*varargs, **kwargs)
-                ^^^^^^^^^^^^^^^^^^^^^^
-  File "/import/ravel/1/z5517269/latentqa/control.py", line 314, in main
-    steer(args, decoder_model, tokenizer, device="cuda:0", **kwargs)
-  File "/import/ravel/1/z5517269/latentqa/control.py", line 125, in steer
-    target_model = get_target_model(args, device=kwargs["device"])
-                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/import/ravel/1/z5517269/latentqa/control.py", line 41, in get_target_model
-    target_model = get_model(
-                   ^^^^^^^^^^
-  File "/import/ravel/1/z5517269/latentqa/lit/utils/infra_utils.py", line 314, in get_model
-    model = model.to(device)
-            ^^^^^^^^^^^^^^^^
-  File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1340, in to
-    return self._apply(convert)
-           ^^^^^^^^^^^^^^^^^^^^
-  File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/torch/nn/modules/module.py", line 900, in _apply
-    module._apply(fn)
-  File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/torch/nn/modules/module.py", line 900, in _apply
-    module._apply(fn)
-  File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/torch/nn/modules/module.py", line 900, in _apply
-    module._apply(fn)
-  [Previous line repeated 4 more times]
-  File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/torch/nn/modules/module.py", line 927, in _apply
-    param_applied = fn(param)
-                    ^^^^^^^^^
-  File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1326, in convert
-    return t.to(
-           ^^^^^
-torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 112.00 MiB. GPU 0 has a total capacity of 44.42 GiB of which 13.38 MiB is free. Including non-PyTorch memory, this process has 44.40 GiB memory in use. Of the allocated memory 43.52 GiB is allocated by PyTorch, and 387.16 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)

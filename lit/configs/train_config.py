@@ -24,7 +24,7 @@ class train_config:
     eval_stimulus: str = ""
     eval_control: str = ""
     eval_qa: str = "data/FANTOM/valid.json"
-    eval_every_n_steps: int = 300
+    eval_every_n_steps: int = 1750
     # Please change to a directory with ample space as model checkpoints are saved here
     # output_dir: str = "out/runs"
     output_dir: str = "/srv/scratch/CRUISE/Mehdi/out/runs"
