@@ -7,8 +7,8 @@ class interpret_config:
     target_model_name: str = ""
     
     # This should match your training setup; these defaults are from our setup
-    min_layer_to_read: int = 15
-    max_layer_to_read: int = 16
+    min_layer_to_read: int = 5
+    max_layer_to_read: int = 6
     num_layers_to_read: int = 1
     num_layers_to_sample: int = 1
     layer_to_write: int = 0
@@ -19,8 +19,8 @@ class interpret_config:
     batch_size: int = 50
     modify_chat_template: bool = True
     truncate: str = "none"
-    save_name: str = "NegotiationToM-8B"
+    save_name: str = "CRAIGSLISTBARGAIN-Deep-8B"
     prompt: str = ""
 
     # Evaluation Dataset # data/NegotiationToM/test.json
-    eval_qa: str = "data/NegotiationToM/test.json"
+    eval_qa: str = "data/CRAIGSLISTBARGAIN/test.json"

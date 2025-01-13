@@ -20,4 +20,4 @@ export HF_HOME=/srv/scratch/CRUISE/Mehdi/HF
 
 /srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/bin/python reading.py \
     --target_model_name meta-llama/Meta-Llama-3-8B-Instruct \
-    --decoder_model_name /srv/scratch/CRUISE/Mehdi/out/runs/031/checkpoints/epoch2-steps4005-2025-01-07_18-38-23
+    --decoder_model_name /srv/scratch/CRUISE/Mehdi/out/runs/043/checkpoints/epoch3-steps16140-2025-01-13_12-26-25

@@ -109,7 +109,10 @@ def main(**kwargs):
         read_prompts, QAs = get_FanToM_text(args, tokenizer, False)
     elif args.eval_qa.find('NegotiationToM')!=-1:
         read_prompts, QAs = get_NegotiationToM_text(args, tokenizer, False)
-
+    elif args.eval_qa.find('SpokenBargaining')!=-1:
+        read_prompts, QAs = get_Spoken_text(args, tokenizer, False)
+    elif args.eval_qa.find('JobInterview')!=-1:
+        read_prompts, QAs = get_JI_text(args, tokenizer, False)
 
 
     dialogs = read_prompts

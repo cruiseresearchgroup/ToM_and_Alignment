@@ -394,6 +394,51 @@ def get_NegotiationToM_dataset_for_steer_belief(train_config, tokenizer, train=T
         is_dialog=False
     )
 
+def get_JI_dataset(train_config=None, tokenizer=None, train=True):
+    data_path = train_config.train_qa if train else train_config.eval_qa
+    with open(data_path, 'rb') as fin:
+        data = json.load(fin)
+    read_prompts, QAs = [], []
+    for item in data:
+        recruiter_id = item['users'][0]['id'] if item['users'][0]['id']=='recruiter' else item['users'][1]['id']
+        worker_id = item['users'][0]['id'] if item['users'][0]['id']=='worker' else item['users'][1]['id']
+        temp = []
+        for utterance in item['comments']:
+            if utterance['user_id']==recruiter_id:
+                temp.append({'role': 'assistant', 'content':utterance['body']})
+            if utterance['user_id']==worker_id:
+                temp.append({'role': 'user', 'content':utterance['body']})
+        read_prompts.append(temp)
+
+        question = "How much weight does the user assign to different factors for his next job?"
+        worker_weights = item['users'][0]['utilities'] if item['users'][0]['id']=='worker' else item['users'][1]['utilities']
+        worker_weights = [str((factor['name'], round(factor['weight'], 2))) for factor in worker_weights]
+        answer = f"Factors and their weights are as follows: {' '.join(worker_weights)}"
+        QAs.append([
+                {"role": "user", "content": question},
+                {"role": "assistant", "content": answer}
+                ])
+    def legal_conversation(conversation):
+        if len(conversation)<=4:
+            return False
+        # pervious_role = conversation[0]['role']
+        # for utterance in conversation[1:]:
+        #     if utterance['role']==pervious_role:
+        #         return False
+        #     pervious_role = utterance['role']
+        return True
+    filtered_read_prompts, filtered_QA = [], []
+    for rp, qa in zip(read_prompts, QAs):
+        if legal_conversation(rp)==True:
+            filtered_read_prompts.append(rp)
+            filtered_QA.append(qa)
+    assert len(filtered_QA)==len(filtered_read_prompts)
+    return ToMLatentQADataset(
+        tokenizer,
+        filtered_read_prompts,
+        filtered_QA
+    )
+    
 
 def get_ToM_dataset(train_config, tokenizer, train=True):
     if train_config.train_qa.find('CaSiNo')!=-1:
@@ -406,6 +451,8 @@ def get_ToM_dataset(train_config, tokenizer, train=True):
         return get_NegotiationToM_dataset(train_config, tokenizer, train)
         # return get_NegotiationToM_dataset_for_steer_intent(train_config, tokenizer, train)
         # return get_NegotiationToM_dataset_for_steer_belief(train_config, tokenizer, train)
+    elif train_config.train_qa.find('Job')!=-1:
+        return get_JI_dataset(train_config, tokenizer, train)
     else:
         return Exception('There is NO such dataset!')
     

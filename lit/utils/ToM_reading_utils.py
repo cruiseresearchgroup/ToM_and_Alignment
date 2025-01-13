@@ -189,6 +189,24 @@ def get_bargain_text(train_config, tokenizer, train=True):
     assert len(filtered_QA)==len(filtered_read_prompts)
     return filtered_read_prompts, filtered_QA
 
+def get_Spoken_text(train_config, tokenizer, train=True):
+    data_path = train_config.train_qa if train else train_config.eval_qa
+    with open(data_path, 'rb') as fin:
+        data = json.load(fin)
+    read_prompts, QAs = [], []
+    for item in data:
+        length = sum([len(utt['content'].split(' ')) for utt in item['chat_log']])
+        if length<600:
+            read_prompts.append(item['chat_log'])
+            question = "They were bargaining over a housing. What are the offered prices each party has in mind?"
+            answer = f"The offered price of the seller is {item['seller_price']},000, and the buyer's is {item['buyer_price']},000 dollars."
+            QAs.append([
+                    {"role": "user", "content": question},
+                    {"role": "assistant", "content": answer}
+                    ])
+    return read_prompts, QAs
+
+
 def get_CaSiNo_text(train_config, tokenizer, train=True):
     data_path = train_config.train_qa if train else train_config.eval_qa
     with open(data_path, 'rb') as fin:
@@ -238,6 +256,50 @@ def get_FanToM_text(train_config, tokenizer, train=True):
         read_prompts.append(temp_read_prompt)
     assert len(final_QAs)==len(read_prompts)
     return read_prompts, final_QAs
+
+def get_JI_text(train_config, tokenizer, train=True):
+    data_path = train_config.train_qa if train else train_config.eval_qa
+    with open(data_path, 'rb') as fin:
+        data = json.load(fin)
+    read_prompts, QAs = [], []
+    for item in data:
+        recruiter_id = item['users'][0]['id'] if item['users'][0]['id']=='recruiter' else item['users'][1]['id']
+        worker_id = item['users'][0]['id'] if item['users'][0]['id']=='worker' else item['users'][1]['id']
+        temp = []
+        for utterance in item['comments']:
+            if utterance['user_id']==recruiter_id:
+                temp.append({'role': 'assistant', 'content':utterance['body']})
+            if utterance['user_id']==worker_id:
+                temp.append({'role': 'user', 'content':utterance['body']})
+        read_prompts.append(temp)
+
+        question = "How much weight does the user assign to different factors for his next job?"
+        worker_weights = item['users'][0]['utilities'] if item['users'][0]['id']=='worker' else item['users'][1]['utilities']
+        worker_weights = [str((factor['name'], round(factor['weight'], 2))) for factor in worker_weights]
+        answer = f"Factors and their weights are as follows: {' '.join(worker_weights)}"
+        QAs.append([
+                {"role": "user", "content": question},
+                {"role": "assistant", "content": answer}
+                ])
+    def legal_conversation(conversation):
+        if len(conversation)<=4:
+            return False
+        length = sum([len(utt['content'].split(' ')) for utt in conversation])
+        if length>400:
+            return False
+        # pervious_role = conversation[0]['role']
+        # for utterance in conversation[1:]:
+        #     if utterance['role']==pervious_role:
+        #         return False
+        #     pervious_role = utterance['role']
+        return True
+    filtered_read_prompts, filtered_QA = [], []
+    for rp, qa in zip(read_prompts, QAs):
+        if legal_conversation(rp)==True:
+            filtered_read_prompts.append(rp)
+            filtered_QA.append(qa)
+    assert len(filtered_QA)==len(filtered_read_prompts)
+    return filtered_read_prompts, filtered_QA
 
 def get_NegotiationToM_text(train_config, tokenizer, train=True):
     data_path = train_config.train_qa if train else train_config.eval_qa

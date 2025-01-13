@@ -1,0 +1,19 @@
+Loading vscode - vscode-cli
+spawn -ignore HUP /share/apps/noarch/vscode/vscode-cli/code tunnel
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+
+Open this link in your browser https://vscode.dev/tunnel/wolfpack_z5517269/import/ravel/1/z5517269/latentqa
+
+[2m[2025-01-13 17:01:09][0m [35minfo[0m [tunnels::connections::relay_tunnel_host] Opened new client on channel 2
+[2m[2025-01-13 17:01:09][0m [35minfo[0m [russh::server] wrote id
+[2m[2025-01-13 17:01:09][0m [35minfo[0m [russh::server] read other id
+[2m[2025-01-13 17:01:09][0m [35minfo[0m [russh::server] session is running
+[2m[2025-01-13 17:01:10][0m [35minfo[0m [rpc.0] Checking /import/ravel/1/z5517269/.vscode/cli/servers/Stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f/log.txt and /import/ravel/1/z5517269/.vscode/cli/servers/Stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f/pid.txt for a running server...
+[2m[2025-01-13 17:01:10][0m [35minfo[0m [rpc.0] Starting server...
+[2m[2025-01-13 17:01:10][0m [35minfo[0m [rpc.0] Server started
