@@ -18,6 +18,16 @@ from lit.utils.infra_utils import (
 from lit.utils.ToM_reading_utils import *
 import sys
 
+def messages_to_string(messages):
+    formatted_messages = []
+    for message in messages:
+        role = message.get("role", "unknown").capitalize()  # e.g., "user" -> "User"
+        content = message.get("content", "")
+        formatted_messages.append(f"{role}: {content}")
+    
+    full_prompt = "\n".join(formatted_messages)
+    
+    return full_prompt
 
 def interpret(
     target_model,
@@ -41,16 +51,21 @@ def interpret(
         for idx in batch_indices:
             rp, qa = dialogs[idx], questions[idx]
             question = [{"role": "user", "content": qa[0]}]
+            # try:
+            print(rp)
             read_prompt = tokenizer.apply_chat_template(
                         rp,
                         tokenize=False,
                         add_generation_prompt=True,
                         )
+            # except:
+            #     read_prompt = messages_to_string(rp) # handling ministral 
             probe_data.append(
             {
                 "read_prompt": read_prompt,
                 "dialog": BASE_DIALOG + question,
             }
+            
         )
         batch = tokenize(
         probe_data,
@@ -76,7 +91,7 @@ def interpret(
     responses_data = []
     if generate:
         for i in range(len(out)):
-            
+            print(tokenizer.decode(out[i]))
             prompt, completion = clean_text(tokenizer.decode(out[i]))
             print(f"[PROMPT]: {questions[i % len(questions)][0]['content']}")
             print(f"[COMPLETION]: {completion}")

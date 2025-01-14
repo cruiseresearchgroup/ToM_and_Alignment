@@ -1,16 +1,0 @@
-Loading vscode - vscode-cli
-spawn -ignore HUP /share/apps/noarch/vscode/vscode-cli/code tunnel
-*
-* Visual Studio Code Server
-*
-* By using the software, you agree to
-* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
-* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
-*
-[?25l[33m?[0m [1mHow would you like to log in to Visual Studio Code?[0m [38;5;8m›[0m
-[32m❯[0m [36mMicrosoft Account[0m
-  GitHub Account
-[2A[2K[1B[2K[1B[2A  Microsoft Account
-[32m❯[0m [36mGitHub Account[0m
-[3A[2K[1B[2K[1B[2K[1B[3A[32m✔[0m [1mHow would you like to log in to Visual Studio Code?[0m [38;5;8m·[0m [32mGitHub Account[0m
-[?25hTo grant access to the server, please log into https://github.com/login/device and use code 307D-23F4

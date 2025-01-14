@@ -201,16 +201,19 @@ def tokenize(
             }
         ]
         query += batch[i]["dialog"]
-        queries.append(
-            tokenizer.apply_chat_template(
-                query,
-                tokenize=False,
-                add_generation_prompt=generate,
-                chat_template=(
-                    DECODER_CHAT_TEMPLATES[name] if modify_chat_template else None
-                ),
+        try:
+            queries.append(
+                tokenizer.apply_chat_template(
+                    query,
+                    tokenize=False,
+                    add_generation_prompt=generate,
+                    chat_template=(
+                        DECODER_CHAT_TEMPLATES[name] if modify_chat_template else None
+                    ),
+                )
             )
-        )
+        except:
+            queries.append(messages_to_string(query))
     tokenized_write = tokenizer(
         queries,
         return_tensors="pt",
@@ -240,41 +243,6 @@ def tokenize(
 
     return tokenized_batch
 
-
-###########################
-####### Dataloading #######
-###########################
-
-# class ToMLatentQADataset(Dataset):
-#     def __init__(
-#         self,
-#         tokenizer,
-#         read_prompts,
-#         QAs
-#     ):
-#         self.BD = [
-#             {
-#                 "role": "assistant",
-#                 "content": "Sure, I've analyzed the user.",
-#             }
-#         ]
-#         self.tokenizer = tokenizer
-#         self.read_prompts = read_prompts
-#         self.QAs = QAs
-#         self.lengths = []
-#         for rp, qa in zip(read_prompts, QAs):
-#             self.lengths.append(sum([len(item['content']) for item in rp])+len(qa[0]['content'])+len(qa[1]['content']))
-
-#     def __len__(self):
-#         return len(self.QAs)
-
-#     def __getitem__(self, idx):
-#         read_prompt = self.read_prompts[idx]
-#         qa_dialog = self.QAs[idx]
-#         read_prompt = self.tokenizer.apply_chat_template(
-#                 read_prompt, tokenize=False, add_generation_prompt=False
-#             )
-#         return {"read_prompt": read_prompt, "dialog": self.BD + qa_dialog}
 
 class LatentQADataset(Dataset):
     def __init__(
@@ -470,86 +438,6 @@ def get_dist_batch_sampler(dataset, train_config, mode):
         shuffle=(mode == "train"),
         seed=train_config.seed,
     )
-
-# def get_bargain_dataset(train_config, tokenizer, train=True):
-#     data_path = train_config.train_qa if train else train_config.eval_qa
-#     with open(data_path, 'rb') as fin:
-#         data = json.load(fin)
-#     read_prompts, QAs = [], []
-#     for item in data:
-#         if 'events' not in item:
-#             continue
-#         temp = []
-#         for uttrance in item['events']:
-#             if uttrance['action']=='message' and uttrance['data']!=None:
-#                 if uttrance['agent']==0 and len(uttrance['data'].strip())!=0:
-#                     temp.append({"role": "user", "content": uttrance['data'].strip()})
-#                 elif uttrance['agent']==1 and len(uttrance['data'].strip())!=0:
-#                     temp.append({"role": "assistant", "content": uttrance['data'].strip()})
-#         read_prompts.append(temp)
-#         buyer_price = item['scenario']['kbs'][0]['personal']['Target']
-#         category = item['scenario']['category'] 
-#         question = f"They were bargaining over a {category}. What is the price that the buyer had in mind?"
-#         answer = f"The price that the buyer had in mind was {buyer_price} dollars."
-#         QAs.append([
-#                 {"role": "user", "content": question},
-#                 {"role": "assistant", "content": answer}
-#                 ])
-#     def legal_conversation(conversation):
-#         if len(conversation)<=4:
-#             return False
-#         pervious_role = conversation[0]['role']
-#         for utterance in conversation[1:]:
-#             if utterance['role']==pervious_role:
-#                 return False
-#             pervious_role = utterance['role']
-#         return True
-#     filtered_read_prompts, filtered_QA = [], []
-#     for rp, qa in zip(read_prompts, QAs):
-#         if legal_conversation(rp)==True:
-#             filtered_read_prompts.append(rp)
-#             filtered_QA.append(qa)
-#     assert len(filtered_QA)==len(filtered_read_prompts)
-#     return ToMLatentQADataset(
-#         tokenizer,
-#         filtered_read_prompts,
-#         filtered_QA
-#     )
-
-# def get_CaSiNo_dataset(train_config, tokenizer, train=True):
-#     data_path = train_config.train_qa if train else train_config.eval_qa
-#     with open(data_path, 'rb') as fin:
-#         data = json.load(fin)
-#     read_prompts, QAs = [], []
-#     for item in data:
-#         temp = []
-#         for uttrance in item['chat_logs']:
-#             if uttrance['text'] in ['Submit-Deal', 'Accept-Deal']:
-#                 continue
-#             elif uttrance['id'] == 'mturk_agent_2':
-#                 temp.append({"role": "user", "content": uttrance['text']})
-#             elif uttrance['id'] == 'mturk_agent_1':
-#                 temp.append({"role": "assistant", "content": uttrance['text']})
-#         read_prompts.append(temp)
-#         priorities, things = list(item['participant_info']['mturk_agent_2']['value2issue'].keys()), list(item['participant_info']['mturk_agent_2']['value2issue'].values())
-#         question = "What is the priority of each item for the picnic?"
-#         answer = f"The priority for {things[0]}, {things[1]} and {things[2]} are respectively {priorities[0]}, {priorities[1]} and {priorities[2]}."
-#         QAs.append([
-#                 {"role": "user", "content": question},
-#                 {"role": "assistant", "content": answer}
-#                 ])
-#     assert len(QAs)==len(read_prompts)
-#     return ToMLatentQADataset(
-#         tokenizer,
-#         read_prompts,
-#         QAs
-#     )
-
-# def get_ToM_dataset(train_config, tokenizer, train=True):
-#     if train_config.train_qa.find('CaSiNo')!=-1:
-#         return get_CaSiNo_dataset(train_config, tokenizer, train)
-#     elif train_config.train_qa.find('BARGAIN')!=-1:
-#         return get_bargain_dataset(train_config, tokenizer, train)
     
 
 def get_dataset(train_config, tokenizer, train=True):

@@ -1,0 +1,182 @@
+[
+  {
+    "index": 0,
+    "response": "For Agent 1: The priority for Food, Water and Firewood are respectively Low, Medium and High. For Agent 2: The priority for Food, Water and Firewood are respectively Low, Medium and High.",
+    "input_prompt": "How much priority did each agent assign to different items?",
+    "ground_truth": "For Agent 1: The priority for Food, Water and Firewood are respectively Medium, Low and High. For Agent 2: The priority for Food, Water and Firewood are respectively Medium, Low and High."
+  },
+  {
+    "index": 1,
+    "response": "For Agent 1: The priority for Food, Water and Firewood are respectively High, Medium and Low. For Agent 2: The priority for Food, Water and Firewood are respectively Medium, High and Low.",
+    "input_prompt": "How much priority did each agent assign to different items?",
+    "ground_truth": "For Agent 1: The priority for Food, Water and Firewood are respectively High, Low and Medium. For Agent 2: The priority for Food, Water and Firewood are respectively Low, High and Medium."
+  },
+  {
+    "index": 2,
+    "response": "For Agent 1: The priority for Food, Water and Firewood are respectively High, Medium and Low. For Agent 2: The priority for Food, Water and Firewood are respectively High, Low and Medium.",
+    "input_prompt": "How much priority did each agent assign to different items?",
+    "ground_truth": "For Agent 1: The priority for Food, Water and Firewood are respectively High, Medium and Low. For Agent 2: The priority for Food, Water and Firewood are respectively High, Low and Medium."
+  },
+  {
+    "index": 3,
+    "response": "For Agent 1: The priority for Food, Water and Firewood are respectively High, Low and Medium. For Agent 2: The priority for Food, Water and Firewood are respectively Medium, Low and High.",
+    "input_prompt": "How much priority did each agent assign to different items?",
+    "ground_truth": "For Agent 1: The priority for Food, Water and Firewood are respectively High, Medium and Low. For Agent 2: The priority for Food, Water and Firewood are respectively Low, High and Medium."
+  },
+  {
+    "index": 4,
+    "response": "For Agent 1: The priority for Food, Water and Firewood are respectively Medium, High and Low. For Agent 2: The priority for Food, Water and Firewood are respectively Medium, High and Low.",
+    "input_prompt": "How much priority did each agent assign to different items?",
+    "ground_truth": "For Agent 1: The priority for Food, Water and Firewood are respectively High, Low and Medium. For Agent 2: The priority for Food, Water and Firewood are respectively Medium, High and Low."
+  },
+  {
+    "index": 5,
+    "response": "For Agent 1: The priority for Food, Water and Firewood are respectively Low, Medium and High. For Agent 2: The priority for Food, Water and Firewood are respectively Low, Medium and High.",
+    "input_prompt": "How much priority did each agent assign to different items?",
+    "ground_truth": "For Agent 1: The priority for Food, Water and Firewood are respectively Low, High and Medium. For Agent 2: The priority for Food, Water and Firewood are respectively Low, Medium and High."
+  },
+  {
+    "index": 6,
+    "response": "For Agent 1: The priority for Food, Water and Firewood are respectively Low, High and Medium. For Agent 2: The priority for Food, Water and Firewood are respectively Medium, High and Low.",
+    "input_prompt": "How much priority did each agent assign to different items?",
+    "ground_truth": "For Agent 1: The priority for Food, Water and Firewood are respectively Medium, High and Low. For Agent 2: The priority for Food, Water and Firewood are respectively High, Medium and Low."
+  },
+  {
+    "index": 7,
+    "response": "For Agent 1: The priority for Food, Water and Firewood are respectively Medium, High and Low. For Agent 2: The priority for Food, Water and Firewood are respectively Medium, High and Low.",
+    "input_prompt": "How much priority did each agent assign to different items?",
+    "ground_truth": "For Agent 1: The priority for Food, Water and Firewood are respectively Medium, High and Low. For Agent 2: The priority for Food, Water and Firewood are respectively Low, High and Medium."
+  },
+  {
+    "index": 8,
+    "response": "For Agent 1: The priority for Food, Water and Firewood are respectively Medium, High and Low. For Agent 2: The priority for Food, Water and Firewood are respectively Medium, High and Low.",
+    "input_prompt": "How much priority did each agent assign to different items?",
+    "ground_truth": "For Agent 1: The priority for Food, Water and Firewood are respectively High, Low and Medium. For Agent 2: The priority for Food, Water and Firewood are respectively High, Low and Medium."
+  },
+  {
+    "index": 9,
+    "response": "For Agent 1: The priority for Food, Water and Firewood are respectively Low, High and Medium. For Agent 2: The priority for Food, Water and Firewood are respectively Low, High and Medium.",
+    "input_prompt": "How much priority did each agent assign to different items?",
+    "ground_truth": "For Agent 1: The priority for Food, Water and Firewood are respectively Low, Medium and High. For Agent 2: The priority for Food, Water and Firewood are respectively Medium, Low and High."
+  },
+  {
+    "index": 10,
+    "response": "For Agent 1: The priority for Food, Water and Firewood are respectively Medium, Low and High. For Agent 2: The priority for Food, Water and Firewood are respectively Medium, Low and High.",
+    "input_prompt": "How much priority did each agent assign to different items?",
+    "ground_truth": "For Agent 1: The priority for Food, Water and Firewood are respectively Medium, Low and High. For Agent 2: The priority for Food, Water and Firewood are respectively Medium, High and Low."
+  },
+  {
+    "index": 11,
+    "response": "For Agent 1: The priority for Food, Water and Firewood are respectively High, Low and Medium. For Agent 2: The priority for Food, Water and Firewood are respectively High, Low and Medium.",
+    "input_prompt": "How much priority did each agent assign to different items?",
+    "ground_truth": "For Agent 1: The priority for Food, Water and Firewood are respectively High, Medium and Low. For Agent 2: The priority for Food, Water and Firewood are respectively Low, Medium and High."
+  },
+  {
+    "index": 12,
+    "response": "For Agent 1: The priority for Food, Water and Firewood are respectively High, Low and Medium. For Agent 2: The priority for Food, Water and Firewood are respectively High, Low and Medium.",
+    "input_prompt": "How much priority did each agent assign to different items?",
+    "ground_truth": "For Agent 1: The priority for Food, Water and Firewood are respectively Medium, High and Low. For Agent 2: The priority for Food, Water and Firewood are respectively Medium, Low and High."
+  },
+  {
+    "index": 13,
+    "response": "For Agent 1: The priority for Food, Water and Firewood are respectively Low, High and Medium. For Agent 2: The priority for Food, Water and Firewood are respectively Medium, Low and High.",
+    "input_prompt": "How much priority did each agent assign to different items?",
+    "ground_truth": "For Agent 1: The priority for Food, Water and Firewood are respectively Medium, High and Low. For Agent 2: The priority for Food, Water and Firewood are respectively Medium, High and Low."
+  },
+  {
+    "index": 14,
+    "response": "For Agent 1: The priority for Food, Water and Firewood are respectively High, Low and Medium. For Agent 2: The priority for Food, Water and Firewood are respectively High, Low and Medium.",
+    "input_prompt": "How much priority did each agent assign to different items?",
+    "ground_truth": "For Agent 1: The priority for Food, Water and Firewood are respectively High, Medium and Low. For Agent 2: The priority for Food, Water and Firewood are respectively High, Low and Medium."
+  },
+  {
+    "index": 15,
+    "response": "For Agent 1: The priority for Food, Water and Firewood are respectively Low, Medium and High. For Agent 2: The priority for Food, Water and Firewood are respectively Low, Medium and High.",
+    "input_prompt": "How much priority did each agent assign to different items?",
+    "ground_truth": "For Agent 1: The priority for Food, Water and Firewood are respectively Medium, Low and High. For Agent 2: The priority for Food, Water and Firewood are respectively Medium, Low and High."
+  },
+  {
+    "index": 16,
+    "response": "For Agent 1: The priority for Food, Water and Firewood are respectively High, Medium and Low. For Agent 2: The priority for Food, Water and Firewood are respectively High, Low and Medium.",
+    "input_prompt": "How much priority did each agent assign to different items?",
+    "ground_truth": "For Agent 1: The priority for Food, Water and Firewood are respectively High, Low and Medium. For Agent 2: The priority for Food, Water and Firewood are respectively Low, Medium and High."
+  },
+  {
+    "index": 17,
+    "response": "For Agent 1: The priority for Food, Water and Firewood are respectively Low, High and Medium. For Agent 2: The priority for Food, Water and Firewood are respectively Low, High and Medium.",
+    "input_prompt": "How much priority did each agent assign to different items?",
+    "ground_truth": "For Agent 1: The priority for Food, Water and Firewood are respectively Medium, High and Low. For Agent 2: The priority for Food, Water and Firewood are respectively Low, High and Medium."
+  },
+  {
+    "index": 18,
+    "response": "For Agent 1: The priority for Food, Water and Firewood are respectively High, Medium and Low. For Agent 2: The priority for Food, Water and Firewood are respectively High, Low and Medium.",
+    "input_prompt": "How much priority did each agent assign to different items?",
+    "ground_truth": "For Agent 1: The priority for Food, Water and Firewood are respectively High, Medium and Low. For Agent 2: The priority for Food, Water and Firewood are respectively High, Medium and Low."
+  },
+  {
+    "index": 19,
+    "response": "For Agent 1: The priority for Food, Water and Firewood are respectively High, Low and Medium. For Agent 2: The priority for Food, Water and Firewood are respectively Medium, High and Low.",
+    "input_prompt": "How much priority did each agent assign to different items?",
+    "ground_truth": "For Agent 1: The priority for Food, Water and Firewood are respectively Medium, High and Low. For Agent 2: The priority for Food, Water and Firewood are respectively High, Low and Medium."
+  },
+  {
+    "index": 20,
+    "response": "For Agent 1: The priority for Food, Water and Firewood are respectively Medium, Low and High. For Agent 2: The priority for Food, Water and Firewood are respectively Medium, Low and High.",
+    "input_prompt": "How much priority did each agent assign to different items?",
+    "ground_truth": "For Agent 1: The priority for Food, Water and Firewood are respectively Low, Medium and High. For Agent 2: The priority for Food, Water and Firewood are respectively Medium, Low and High."
+  },
+  {
+    "index": 21,
+    "response": "For Agent 1: The priority for Food, Water and Firewood are respectively Medium, Low and High. For Agent 2: The priority for Food, Water and Firewood are respectively Medium, Low and High.",
+    "input_prompt": "How much priority did each agent assign to different items?",
+    "ground_truth": "For Agent 1: The priority for Food, Water and Firewood are respectively Low, Medium and High. For Agent 2: The priority for Food, Water and Firewood are respectively High, Medium and Low."
+  },
+  {
+    "index": 22,
+    "response": "For Agent 1: The priority for Food, Water and Firewood are respectively Medium, Low and High. For Agent 2: The priority for Food, Water and Firewood are respectively Medium, Low and High.",
+    "input_prompt": "How much priority did each agent assign to different items?",
+    "ground_truth": "For Agent 1: The priority for Food, Water and Firewood are respectively Medium, Low and High. For Agent 2: The priority for Food, Water and Firewood are respectively High, Medium and Low."
+  },
+  {
+    "index": 23,
+    "response": "For Agent 1: The priority for Food, Water and Firewood are respectively Medium, Low and High. For Agent 2: The priority for Food, Water and Firewood are respectively Low, High and Medium.",
+    "input_prompt": "How much priority did each agent assign to different items?",
+    "ground_truth": "For Agent 1: The priority for Food, Water and Firewood are respectively Low, High and Medium. For Agent 2: The priority for Food, Water and Firewood are respectively Medium, High and Low."
+  },
+  {
+    "index": 24,
+    "response": "For Agent 1: The priority for Food, Water and Firewood are respectively High, Medium and Low. For Agent 2: The priority for Food, Water and Firewood are respectively High, Medium and Low.",
+    "input_prompt": "How much priority did each agent assign to different items?",
+    "ground_truth": "For Agent 1: The priority for Food, Water and Firewood are respectively High, Low and Medium. For Agent 2: The priority for Food, Water and Firewood are respectively Low, High and Medium."
+  },
+  {
+    "index": 25,
+    "response": "For Agent 1: The priority for Food, Water and Firewood are respectively High, Medium and Low. For Agent 2: The priority for Food, Water and Firewood are respectively High, Medium and Low.",
+    "input_prompt": "How much priority did each agent assign to different items?",
+    "ground_truth": "For Agent 1: The priority for Food, Water and Firewood are respectively Medium, High and Low. For Agent 2: The priority for Food, Water and Firewood are respectively High, Low and Medium."
+  },
+  {
+    "index": 26,
+    "response": "For Agent 1: The priority for Food, Water and Firewood are respectively High, Low and Medium. For Agent 2: The priority for Food, Water and Firewood are respectively High, Low and Medium.",
+    "input_prompt": "How much priority did each agent assign to different items?",
+    "ground_truth": "For Agent 1: The priority for Food, Water and Firewood are respectively High, Low and Medium. For Agent 2: The priority for Food, Water and Firewood are respectively High, Low and Medium."
+  },
+  {
+    "index": 27,
+    "response": "For Agent 1: The priority for Food, Water and Firewood are respectively Medium, Low and High. For Agent 2: The priority for Food, Water and Firewood are respectively Low, High and Medium.",
+    "input_prompt": "How much priority did each agent assign to different items?",
+    "ground_truth": "For Agent 1: The priority for Food, Water and Firewood are respectively High, Low and Medium. For Agent 2: The priority for Food, Water and Firewood are respectively Medium, High and Low."
+  },
+  {
+    "index": 28,
+    "response": "For Agent 1: The priority for Food, Water and Firewood are respectively Low, Medium and High. For Agent 2: The priority for Food, Water and Firewood are respectively Low, Medium and High.",
+    "input_prompt": "How much priority did each agent assign to different items?",
+    "ground_truth": "For Agent 1: The priority for Food, Water and Firewood are respectively Medium, Low and High. For Agent 2: The priority for Food, Water and Firewood are respectively Low, Medium and High."
+  },
+  {
+    "index": 29,
+    "response": "For Agent 1: The priority for Food, Water and Firewood are respectively Low, High and Medium. For Agent 2: The priority for Food, Water and Firewood are respectively Low, Medium and High.",
+    "input_prompt": "How much priority did each agent assign to different items?",
+    "ground_truth": "For Agent 1: The priority for Food, Water and Firewood are respectively Low, Medium and High. For Agent 2: The priority for Food, Water and Firewood are respectively Low, High and Medium."
+  }
+]

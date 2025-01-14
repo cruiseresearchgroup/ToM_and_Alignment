@@ -147,6 +147,18 @@ def setup_fantom(df, conversation_input_type='full'):
 
     return inputs, qas
 
+def messages_to_string(messages):
+    formatted_messages = []
+    for message in messages:
+        role = message.get("role", "unknown").capitalize()  # e.g., "user" -> "User"
+        content = message.get("content", "")
+        formatted_messages.append(f"{role}: {content}")
+    
+    full_prompt = "\n".join(formatted_messages)
+    
+    return full_prompt
+
+
 class ToMLatentQADataset(Dataset):
     def __init__(
         self,
@@ -180,15 +192,12 @@ class ToMLatentQADataset(Dataset):
     def __getitem__(self, idx):
         read_prompt = self.read_prompts[idx]
         qa_dialog = self.QAs[idx]
-        # if self.is_dialog:
-        read_prompt = self.tokenizer.apply_chat_template(
-                read_prompt, tokenize=False, add_generation_prompt=False
-            )
-            
-        # else:
-        #     read_prompt = self.tokenizer.apply_chat_template(
-        #             read_prompt, tokenize=False, add_generation_prompt=False
-        #         )
+        try:
+            read_prompt = self.tokenizer.apply_chat_template(
+                        read_prompt, tokenize=False, add_generation_prompt=False
+                    )
+        except:
+            read_prompt = messages_to_string(read_prompt) # handling ministral 
         return {"read_prompt": read_prompt, "dialog": self.BD + qa_dialog}
 
 def get_bargain_dataset(train_config, tokenizer, train=True):
@@ -203,9 +212,9 @@ def get_bargain_dataset(train_config, tokenizer, train=True):
         for uttrance in item['events']:
             if uttrance['action']=='message' and uttrance['data']!=None:
                 if uttrance['agent']==0 and len(uttrance['data'].strip())!=0:
-                    temp.append({"role": "Buyer", "content": uttrance['data'].strip()})
+                    temp.append({"role": "assistant", "content": uttrance['data'].strip()})
                 elif uttrance['agent']==1 and len(uttrance['data'].strip())!=0:
-                    temp.append({"role": "Seller", "content": uttrance['data'].strip()})
+                    temp.append({"role": "user", "content": uttrance['data'].strip()})
         read_prompts.append(temp)
 
         buyer_price = item['scenario']['kbs'][0]['personal']['Target']
@@ -247,20 +256,31 @@ def get_CaSiNo_dataset(train_config, tokenizer, train=True):
     read_prompts, QAs = [], []
     for item in data:
         temp = []
+        user = item['chat_logs'][0]['id']
         for uttrance in item['chat_logs']:
             if uttrance['text'] in ['Submit-Deal', 'Accept-Deal']:
                 continue
-            elif uttrance['id'] == 'mturk_agent_2':
-                temp.append({"role": "assistant", "content": uttrance['text']})
-            elif uttrance['id'] == 'mturk_agent_1':
-                temp.append({"role": "user", "content": uttrance['text']})
+            elif uttrance['id'] == user:
+                if len(temp)!=0 and temp[-1]['role']=="user":
+                    temp[-1]['content'] = temp[-1]['content']+'\n'+uttrance['text']
+                else:
+                    temp.append({"role": "user", "content": uttrance['text']})
+            else:
+                if len(temp)!=0 and temp[-1]['role']=="assistant":
+                    temp[-1]['content'] = temp[-1]['content']+'\n'+uttrance['text']
+                else:
+                    temp.append({"role": "assistant", "content": uttrance['text']}) 
         read_prompts.append(temp)
+        if user=='mturk_agent_1':
+            priorities_1, things_1 = list(item['participant_info']['mturk_agent_1']['value2issue'].keys()), list(item['participant_info']['mturk_agent_1']['value2issue'].values())
+            priorities_2, things_2 = list(item['participant_info']['mturk_agent_2']['value2issue'].keys()), list(item['participant_info']['mturk_agent_2']['value2issue'].values())
+        if user=='mturk_agent_2':
+            priorities_2, things_2 = list(item['participant_info']['mturk_agent_1']['value2issue'].keys()), list(item['participant_info']['mturk_agent_1']['value2issue'].values())
+            priorities_1, things_1 = list(item['participant_info']['mturk_agent_2']['value2issue'].keys()), list(item['participant_info']['mturk_agent_2']['value2issue'].values())
         
-        priorities_1, things_1 = list(item['participant_info']['mturk_agent_1']['value2issue'].keys()), list(item['participant_info']['mturk_agent_1']['value2issue'].values())
-        priorities_2, things_2 = list(item['participant_info']['mturk_agent_2']['value2issue'].keys()), list(item['participant_info']['mturk_agent_2']['value2issue'].values())
-        question = "How much priority did each agent assign to different items?"
-        answer = f"For Agent 1: The priority for {things_1[0]}, {things_1[1]} and {things_1[2]} are respectively {priorities_1[0]}, {priorities_1[1]} and {priorities_1[2]}."
-        answer += f" For Agent 2: The priority for {things_2[0]}, {things_2[1]} and {things_2[2]} are respectively {priorities_2[0]}, {priorities_2[1]} and {priorities_2[2]}."
+        question = "How much priority does the assistant and the user assign to different items?"
+        answer = f"For the user: The priority for {things_1[0]}, {things_1[1]} and {things_1[2]} are respectively {priorities_1[0]}, {priorities_1[1]} and {priorities_1[2]}."
+        answer += f" For the assistant: The priority for {things_2[0]}, {things_2[1]} and {things_2[2]} are respectively {priorities_2[0]}, {priorities_2[1]} and {priorities_2[2]}."
         QAs.append([
                 {"role": "user", "content": question},
                 {"role": "assistant", "content": answer}
