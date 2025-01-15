@@ -23,21 +23,21 @@ class train_config:
     eval_stimulus_completion: str = ""
     eval_stimulus: str = ""
     eval_control: str = ""
-    eval_qa: str = "./data/CaSiNo/valid.json"
-    eval_every_n_steps: int = 300
+    eval_qa: str = "./data/FANTOM/valid.json"
+    eval_every_n_steps: int = 1806
     # Please change to a directory with ample space as model checkpoints are saved here
     # output_dir: str = "out/runs"
     output_dir: str = "/srv/scratch/CRUISE/Mehdi/out/runs"
     save_model: bool = True
     save_after_epoch: bool = True
     use_wandb: bool = True
-    run_name: str = "CaSiNo Middle Llama-3 1B"
+    run_name: str = "FANTOM Middle Llama-3 8B"
 
     # Patching args
     shift_position_ids: bool = True
-    min_layer_to_read: int = 8
+    min_layer_to_read: int = 15
     # Typically, we only read 1 layer, so set max = min + 1  
-    max_layer_to_read: int = 9
+    max_layer_to_read: int = 16
     layer_to_write: int = 0
     # Change only if reading from multiple layers (at once or sequentially) during training
     module_setup: str = "read-vary_write-fixed_n-fixed"

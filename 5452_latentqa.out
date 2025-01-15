@@ -1,0 +1,171 @@
+Traceback (most recent call last):
+  File "/import/ravel/1/z5517269/latentqa/reading.py", line 149, in <module>
+    fire.Fire(main)
+  File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/fire/core.py", line 135, in Fire
+    component_trace = _Fire(component, args, parsed_flag_args, context, name)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/fire/core.py", line 468, in _Fire
+    component, remaining_args = _CallAndUpdateTrace(
+                                ^^^^^^^^^^^^^^^^^^^^
+  File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/fire/core.py", line 684, in _CallAndUpdateTrace
+    component = fn(*varargs, **kwargs)
+                ^^^^^^^^^^^^^^^^^^^^^^
+  File "/import/ravel/1/z5517269/latentqa/reading.py", line 122, in main
+    read_prompts, QAs = get_bargain_text(args, tokenizer, False)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/import/ravel/1/z5517269/latentqa/lit/utils/ToM_reading_utils.py", line 149, in get_bargain_text
+    with open(data_path, 'rb') as fin:
+         ^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: './data/CRAIGLISTBARGAIN/valid.json'
+Traceback (most recent call last):
+  File "/import/ravel/1/z5517269/latentqa/reading.py", line 149, in <module>
+    fire.Fire(main)
+  File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/fire/core.py", line 135, in Fire
+    component_trace = _Fire(component, args, parsed_flag_args, context, name)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/fire/core.py", line 468, in _Fire
+    component, remaining_args = _CallAndUpdateTrace(
+                                ^^^^^^^^^^^^^^^^^^^^
+  File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/fire/core.py", line 684, in _CallAndUpdateTrace
+    component = fn(*varargs, **kwargs)
+                ^^^^^^^^^^^^^^^^^^^^^^
+  File "/import/ravel/1/z5517269/latentqa/reading.py", line 122, in main
+    read_prompts, QAs = get_bargain_text(args, tokenizer, False)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/import/ravel/1/z5517269/latentqa/lit/utils/ToM_reading_utils.py", line 149, in get_bargain_text
+    with open(data_path, 'rb') as fin:
+         ^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: './data/CRAIGLISTBARGAIN/valid.json'
+Traceback (most recent call last):
+  File "/import/ravel/1/z5517269/latentqa/reading.py", line 149, in <module>
+    fire.Fire(main)
+  File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/fire/core.py", line 135, in Fire
+    component_trace = _Fire(component, args, parsed_flag_args, context, name)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/fire/core.py", line 468, in _Fire
+    component, remaining_args = _CallAndUpdateTrace(
+                                ^^^^^^^^^^^^^^^^^^^^
+  File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/fire/core.py", line 684, in _CallAndUpdateTrace
+    component = fn(*varargs, **kwargs)
+                ^^^^^^^^^^^^^^^^^^^^^^
+  File "/import/ravel/1/z5517269/latentqa/reading.py", line 122, in main
+    read_prompts, QAs = get_bargain_text(args, tokenizer, False)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/import/ravel/1/z5517269/latentqa/lit/utils/ToM_reading_utils.py", line 149, in get_bargain_text
+    with open(data_path, 'rb') as fin:
+         ^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: './data/CRAIGLISTBARGAIN/valid.json'
+Traceback (most recent call last):
+  File "/import/ravel/1/z5517269/latentqa/reading.py", line 149, in <module>
+    fire.Fire(main)
+  File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/fire/core.py", line 135, in Fire
+    component_trace = _Fire(component, args, parsed_flag_args, context, name)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/fire/core.py", line 468, in _Fire
+    component, remaining_args = _CallAndUpdateTrace(
+                                ^^^^^^^^^^^^^^^^^^^^
+  File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/fire/core.py", line 684, in _CallAndUpdateTrace
+    component = fn(*varargs, **kwargs)
+                ^^^^^^^^^^^^^^^^^^^^^^
+  File "/import/ravel/1/z5517269/latentqa/reading.py", line 122, in main
+    read_prompts, QAs = get_bargain_text(args, tokenizer, False)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/import/ravel/1/z5517269/latentqa/lit/utils/ToM_reading_utils.py", line 149, in get_bargain_text
+    with open(data_path, 'rb') as fin:
+         ^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: './data/CRAIGLISTBARGAIN/valid.json'
+Traceback (most recent call last):
+  File "/import/ravel/1/z5517269/latentqa/reading.py", line 149, in <module>
+    fire.Fire(main)
+  File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/fire/core.py", line 135, in Fire
+    component_trace = _Fire(component, args, parsed_flag_args, context, name)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/fire/core.py", line 468, in _Fire
+    component, remaining_args = _CallAndUpdateTrace(
+                                ^^^^^^^^^^^^^^^^^^^^
+  File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/fire/core.py", line 684, in _CallAndUpdateTrace
+    component = fn(*varargs, **kwargs)
+                ^^^^^^^^^^^^^^^^^^^^^^
+  File "/import/ravel/1/z5517269/latentqa/reading.py", line 122, in main
+    read_prompts, QAs = get_bargain_text(args, tokenizer, False)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/import/ravel/1/z5517269/latentqa/lit/utils/ToM_reading_utils.py", line 149, in get_bargain_text
+    with open(data_path, 'rb') as fin:
+         ^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: './data/CRAIGLISTBARGAIN/valid.json'
+Traceback (most recent call last):
+  File "/import/ravel/1/z5517269/latentqa/reading.py", line 149, in <module>
+    fire.Fire(main)
+  File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/fire/core.py", line 135, in Fire
+    component_trace = _Fire(component, args, parsed_flag_args, context, name)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/fire/core.py", line 468, in _Fire
+    component, remaining_args = _CallAndUpdateTrace(
+                                ^^^^^^^^^^^^^^^^^^^^
+  File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/fire/core.py", line 684, in _CallAndUpdateTrace
+    component = fn(*varargs, **kwargs)
+                ^^^^^^^^^^^^^^^^^^^^^^
+  File "/import/ravel/1/z5517269/latentqa/reading.py", line 122, in main
+    read_prompts, QAs = get_bargain_text(args, tokenizer, False)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/import/ravel/1/z5517269/latentqa/lit/utils/ToM_reading_utils.py", line 149, in get_bargain_text
+    with open(data_path, 'rb') as fin:
+         ^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: './data/CRAIGLISTBARGAIN/valid.json'
+Traceback (most recent call last):
+  File "/import/ravel/1/z5517269/latentqa/reading.py", line 149, in <module>
+    fire.Fire(main)
+  File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/fire/core.py", line 135, in Fire
+    component_trace = _Fire(component, args, parsed_flag_args, context, name)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/fire/core.py", line 468, in _Fire
+    component, remaining_args = _CallAndUpdateTrace(
+                                ^^^^^^^^^^^^^^^^^^^^
+  File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/fire/core.py", line 684, in _CallAndUpdateTrace
+    component = fn(*varargs, **kwargs)
+                ^^^^^^^^^^^^^^^^^^^^^^
+  File "/import/ravel/1/z5517269/latentqa/reading.py", line 122, in main
+    read_prompts, QAs = get_bargain_text(args, tokenizer, False)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/import/ravel/1/z5517269/latentqa/lit/utils/ToM_reading_utils.py", line 149, in get_bargain_text
+    with open(data_path, 'rb') as fin:
+         ^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: './data/CRAIGLISTBARGAIN/valid.json'
+Traceback (most recent call last):
+  File "/import/ravel/1/z5517269/latentqa/reading.py", line 149, in <module>
+    fire.Fire(main)
+  File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/fire/core.py", line 135, in Fire
+    component_trace = _Fire(component, args, parsed_flag_args, context, name)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/fire/core.py", line 468, in _Fire
+    component, remaining_args = _CallAndUpdateTrace(
+                                ^^^^^^^^^^^^^^^^^^^^
+  File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/fire/core.py", line 684, in _CallAndUpdateTrace
+    component = fn(*varargs, **kwargs)
+                ^^^^^^^^^^^^^^^^^^^^^^
+  File "/import/ravel/1/z5517269/latentqa/reading.py", line 122, in main
+    read_prompts, QAs = get_bargain_text(args, tokenizer, False)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/import/ravel/1/z5517269/latentqa/lit/utils/ToM_reading_utils.py", line 149, in get_bargain_text
+    with open(data_path, 'rb') as fin:
+         ^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: './data/CRAIGLISTBARGAIN/valid.json'
+Traceback (most recent call last):
+  File "/import/ravel/1/z5517269/latentqa/reading.py", line 149, in <module>
+    fire.Fire(main)
+  File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/fire/core.py", line 135, in Fire
+    component_trace = _Fire(component, args, parsed_flag_args, context, name)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/fire/core.py", line 468, in _Fire
+    component, remaining_args = _CallAndUpdateTrace(
+                                ^^^^^^^^^^^^^^^^^^^^
+  File "/srv/scratch/CRUISE/z5517269/miniconda/envs/latentqa/lib/python3.11/site-packages/fire/core.py", line 684, in _CallAndUpdateTrace
+    component = fn(*varargs, **kwargs)
+                ^^^^^^^^^^^^^^^^^^^^^^
+  File "/import/ravel/1/z5517269/latentqa/reading.py", line 122, in main
+    read_prompts, QAs = get_bargain_text(args, tokenizer, False)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/import/ravel/1/z5517269/latentqa/lit/utils/ToM_reading_utils.py", line 149, in get_bargain_text
+    with open(data_path, 'rb') as fin:
+         ^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: './data/CRAIGLISTBARGAIN/valid.json'

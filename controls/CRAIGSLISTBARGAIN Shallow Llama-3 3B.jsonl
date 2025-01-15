@@ -1,0 +1,2720 @@
+[
+  {
+    "index": 0,
+    "response": "The offered price of the seller is 250, and the buyer's is 230 dollars.",
+    "input_prompt": "They were bargaining over a electronics. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 265, and the buyer's is 243 dollars."
+  },
+  {
+    "index": 1,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 1895, and the buyer\\'s is 949 dollars'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2495, and the buyer's is 1497 dollars."
+  },
+  {
+    "index": 2,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 299, and the buyer\\'s is 149 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 299, and the buyer's is 275 dollars."
+  },
+  {
+    "index": 3,
+    "response": "The offered price of the seller is 50, and the buyer's is 38 dollars.",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 50, and the buyer's is 38 dollars."
+  },
+  {
+    "index": 4,
+    "response": "{'role': 'assistant', 'content': 'The offered price is 1800, the buyer\\'s price is 1660, the seller\\'s price is 1800'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 1810, and the buyer's is 1665 dollars."
+  },
+  {
+    "index": 5,
+    "response": "The offered price of the seller is 18, and the buyer's is 9 dollars.",
+    "input_prompt": "They were bargaining over a electronics. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 18, and the buyer's is 16 dollars."
+  },
+  {
+    "index": 6,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 250, and the buyer\\'s is 150 dollars.'}",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 250, and the buyer's is 230 dollars."
+  },
+  {
+    "index": 7,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 2088, and the buyer\\'s is 1044 dollars'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2350, and the buyer's is 1786 dollars."
+  },
+  {
+    "index": 8,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 125, and the buyer\\'s is 115 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 125, and the buyer's is 75 dollars."
+  },
+  {
+    "index": 9,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 5500, and the buyer\\'s is 2750 dollars.'}",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 8000, and the buyer's is 4800 dollars."
+  },
+  {
+    "index": 10,
+    "response": "The offered price of the seller is 24, and the buyer's is 18 dollars.",
+    "input_prompt": "They were bargaining over a phone. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 24, and the buyer's is 18 dollars."
+  },
+  {
+    "index": 11,
+    "response": "{'role': 'assistant', 'content': 'The offered price is 2000, the buyer\\'s price is 1672'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2200, and the buyer's is 1672 dollars."
+  },
+  {
+    "index": 12,
+    "response": "The offered price of the seller is 2200, and the buyer's is 1980 dollars.",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2200, and the buyer's is 2024 dollars."
+  },
+  {
+    "index": 13,
+    "response": "The offered price of the seller is 25, and the buyer's is 17 dollars.",
+    "input_prompt": "They were bargaining over a phone. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 24, and the buyer's is 22 dollars."
+  },
+  {
+    "index": 14,
+    "response": "Sure, I've analyzed the dialog.",
+    "input_prompt": "They were bargaining over a electronics. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 18, and the buyer's is 13 dollars."
+  },
+  {
+    "index": 15,
+    "response": "Sure, I've analyzed the dialog parties.",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 10500, and the buyer's is 7980 dollars."
+  },
+  {
+    "index": 16,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 600, and the buyer\\'s is 300 dollars'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 600, and the buyer's is 456 dollars."
+  },
+  {
+    "index": 17,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 2350, the buyer\\'s is 2175 dollars'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2495, and the buyer's is 1896 dollars."
+  },
+  {
+    "index": 18,
+    "response": "The offered price of the seller is 340, and the buyer's is 170 dollars.",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 299, and the buyer's is 227 dollars."
+  },
+  {
+    "index": 19,
+    "response": "The offered price of the seller is 8000, and the buyer's is 7200 dollars.",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 8000, and the buyer's is 7360 dollars."
+  },
+  {
+    "index": 20,
+    "response": "The offered price of the seller is 24, and the buyer's is 22 dollars.",
+    "input_prompt": "They were bargaining over a phone. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 24, and the buyer's is 22 dollars."
+  },
+  {
+    "index": 21,
+    "response": "Sure, I've analyzed the dialog parties.",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2495, and the buyer's is 2295 dollars."
+  },
+  {
+    "index": 22,
+    "response": "The offered price of the seller is 2200, and the buyer's is 1890 dollars.",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2495, and the buyer's is 1896 dollars."
+  },
+  {
+    "index": 23,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 8000, the buyer\\'s is 5600 dollars.'}",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 8000, and the buyer's is 6080 dollars."
+  },
+  {
+    "index": 24,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 2200, and the buyer\\'s is 1100 dollars.'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2200, and the buyer's is 1672 dollars."
+  },
+  {
+    "index": 25,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 9000, the buyer\\'s is 8100 dollars.'}",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 10500, and the buyer's is 7980 dollars."
+  },
+  {
+    "index": 26,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 5100, and the buyer\\'s is 3876 dollars.'}",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 5100, and the buyer's is 3876 dollars."
+  },
+  {
+    "index": 27,
+    "response": "{'role': 'assistant', 'content': 'The offered price is 400, the buyer\\'s price is 360'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 400, and the buyer's is 368 dollars."
+  },
+  {
+    "index": 28,
+    "response": "Sure, I've analyzed the dialog parties.",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2250, and the buyer's is 1350 dollars."
+  },
+  {
+    "index": 29,
+    "response": "{'role': 'assistant', 'content': 'The offered price is 1895, the buyer\\'s price is 1895, the seller\\'s price is 1895, the difference is 1895'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 1719, and the buyer's is 1031 dollars."
+  },
+  {
+    "index": 30,
+    "response": "The offered price of the seller is 7668, and the buyer's is 4509 dollars.",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 7668, and the buyer's is 7054 dollars."
+  },
+  {
+    "index": 31,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 1729, and the buyer\\'s is 1553 dollars'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 1719, and the buyer's is 1581 dollars."
+  },
+  {
+    "index": 32,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 60, and the buyer\\'s is 30 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 60, and the buyer's is 45 dollars."
+  },
+  {
+    "index": 33,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 300, and the buyer\\'s is 270 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 325, and the buyer's is 247 dollars."
+  },
+  {
+    "index": 34,
+    "response": "The offered price of the seller is 350, and the buyer's is 175 dollars.",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 325, and the buyer's is 247 dollars."
+  },
+  {
+    "index": 35,
+    "response": "{'role': 'assistant', 'content': 'The offered price is 2479, the buyer\\'s price is 2229 dollars'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2695, and the buyer's is 2479 dollars."
+  },
+  {
+    "index": 36,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 150, and the buyer\\'s is 90 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 200, and the buyer's is 120 dollars."
+  },
+  {
+    "index": 37,
+    "response": "Sure, I've analyzed the dialog parties.",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 600, and the buyer's is 360 dollars."
+  },
+  {
+    "index": 38,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 8400, and the buyer\\'s is 5040 dollars'}",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 8400, and the buyer's is 6384 dollars."
+  },
+  {
+    "index": 39,
+    "response": "Sure, I've analyzed the dialog parties.",
+    "input_prompt": "They were bargaining over a phone. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 150, and the buyer's is 114 dollars."
+  },
+  {
+    "index": 40,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 80, and the buyer\\'s is 60 dollars.'}",
+    "input_prompt": "They were bargaining over a electronics. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 75, and the buyer's is 57 dollars."
+  },
+  {
+    "index": 41,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 60, and the buyer\\'s is 30 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 60, and the buyer's is 45 dollars."
+  },
+  {
+    "index": 42,
+    "response": "Sure, I've analyzed the dialog parties.",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2350, and the buyer's is 1410 dollars."
+  },
+  {
+    "index": 43,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 11900, the buyer\\'s is 5970 dollars.'}",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 16000, and the buyer's is 9600 dollars."
+  },
+  {
+    "index": 44,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 325, and the buyer\\'s is 195 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 325, and the buyer's is 195 dollars."
+  },
+  {
+    "index": 45,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 60, and the buyer\\'s is 30 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 80, and the buyer's is 48 dollars."
+  },
+  {
+    "index": 46,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 25, and the buyer\\'s is 12 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 25, and the buyer's is 19 dollars."
+  },
+  {
+    "index": 47,
+    "response": "The offered price of the seller is 695, and the buyer's is 619 dollars.",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 695, and the buyer's is 639 dollars."
+  },
+  {
+    "index": 48,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 500, and the buyer\\'s is 300 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 500, and the buyer's is 300 dollars."
+  },
+  {
+    "index": 49,
+    "response": "Sure, I've analyzed the dialog parties.",
+    "input_prompt": "They were bargaining over a phone. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 24, and the buyer's is 14 dollars."
+  },
+  {
+    "index": 50,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 4000, the buyer\\'s is 3600 dollars'}",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 4000, and the buyer's is 2400 dollars."
+  },
+  {
+    "index": 51,
+    "response": "The offered price of the seller is 8000, and the buyer's is 7200 dollars.",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 8000, and the buyer's is 7360 dollars."
+  },
+  {
+    "index": 52,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 450, and the buyer\\'s is 315 dollars.'}",
+    "input_prompt": "They were bargaining over a phone. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 650, and the buyer's is 390 dollars."
+  },
+  {
+    "index": 53,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 70, and the buyer\\'s is 35 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 80, and the buyer's is 60 dollars."
+  },
+  {
+    "index": 54,
+    "response": "The offered price of the seller is 200, and the buyer's is 180 dollars.",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 200, and the buyer's is 184 dollars."
+  },
+  {
+    "index": 55,
+    "response": "The offered price of the seller is 2000, and the buyer's is 1400 dollars.",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2000, and the buyer's is 1520 dollars."
+  },
+  {
+    "index": 56,
+    "response": "{'role': 'assistant', 'content': 'The offered price is 2050, the buyer\\'s price is 1500, the seller\\'s price is 2050'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2050, and the buyer's is 1558 dollars."
+  },
+  {
+    "index": 57,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 100, and the buyer\\'s is 50 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 325, and the buyer's is 299 dollars."
+  },
+  {
+    "index": 58,
+    "response": "Sure, I've analyzed the dialog parties.",
+    "input_prompt": "They were bargaining over a electronics. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 15, and the buyer's is 9 dollars."
+  },
+  {
+    "index": 59,
+    "response": "The offered price of the seller is 7800, and the buyer's is 5460 dollars.",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 7900, and the buyer's is 6004 dollars."
+  },
+  {
+    "index": 60,
+    "response": "The offered price of the seller is 20, and the buyer's is 12 dollars.",
+    "input_prompt": "They were bargaining over a electronics. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 18, and the buyer's is 16 dollars."
+  },
+  {
+    "index": 61,
+    "response": "{'role': 'assistant', 'content': 'The offered price is 150, the buyer\\'s price is 135 dollars'}",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 150, and the buyer's is 114 dollars."
+  },
+  {
+    "index": 62,
+    "response": "{'role': 'assistant', 'content': 'The offered price is 550, the best price is 550, the seller\\'s price is 550'}",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2000, and the buyer's is 1840 dollars."
+  },
+  {
+    "index": 63,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 150, and the buyer\\'s is 75 dollars.'}",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 160, and the buyer's is 147 dollars."
+  },
+  {
+    "index": 64,
+    "response": "The offered price of the seller is 200, and the buyer's is 180 dollars.",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 190, and the buyer's is 174 dollars."
+  },
+  {
+    "index": 65,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 200, and the buyer\\'s is 100 dollars.'}",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 160, and the buyer's is 121 dollars."
+  },
+  {
+    "index": 66,
+    "response": "The offered price of the seller is 349, and the buyer's is 199 dollars.",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 349, and the buyer's is 265 dollars."
+  },
+  {
+    "index": 67,
+    "response": "The offered price of the seller is 200, and the buyer's is 152 dollars.",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 200, and the buyer's is 152 dollars."
+  },
+  {
+    "index": 68,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 350, and the buyer\\'s is 175 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 399, and the buyer's is 239 dollars."
+  },
+  {
+    "index": 69,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 80, and the buyer\\'s is 72 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 80, and the buyer's is 73 dollars."
+  },
+  {
+    "index": 70,
+    "response": "The offered price of the seller is 200, and the buyer's is 100 dollars.",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 3000, and the buyer's is 2280 dollars."
+  },
+  {
+    "index": 71,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 499, and the buyer\\'s is 249 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 499, and the buyer's is 299 dollars."
+  },
+  {
+    "index": 72,
+    "response": "The offered price of the seller is 3000, and the buyer's is 2700 dollars.",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 3000, and the buyer's is 2760 dollars."
+  },
+  {
+    "index": 73,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 30, and the buyer\\'s is 24 dollars.'}",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 30, and the buyer's is 22 dollars."
+  },
+  {
+    "index": 74,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 25, and the buyer\\'s is 17 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 25, and the buyer's is 23 dollars."
+  },
+  {
+    "index": 75,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 5100, the buyer\\'s is 4590 dollars'}",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 5100, and the buyer's is 3876 dollars."
+  },
+  {
+    "index": 76,
+    "response": "The offered price of the seller is 349, and the buyer's is 199 dollars.",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 349, and the buyer's is 209 dollars."
+  },
+  {
+    "index": 77,
+    "response": "The offered price of the seller is 2250, and the buyer's is 1125 dollars.",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2250, and the buyer's is 1350 dollars."
+  },
+  {
+    "index": 78,
+    "response": "The offered price of the seller is 1500, and the buyer's is 1350 dollars.",
+    "input_prompt": "They were bargaining over a electronics. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 1800, and the buyer's is 1368 dollars."
+  },
+  {
+    "index": 79,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 2800, the buyer\\'s is 2128 dollars'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2800, and the buyer's is 2128 dollars."
+  },
+  {
+    "index": 80,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 2100, the buyer\\'s is 1050 dollars'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2100, and the buyer's is 1260 dollars."
+  },
+  {
+    "index": 81,
+    "response": "The offered price of the seller is 18, and the buyer's is 16 dollars.",
+    "input_prompt": "They were bargaining over a electronics. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 18, and the buyer's is 13 dollars."
+  },
+  {
+    "index": 82,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 250, and the buyer\\'s is 243 dollars'}",
+    "input_prompt": "They were bargaining over a electronics. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 265, and the buyer's is 243 dollars."
+  },
+  {
+    "index": 83,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 7500, the buyer\\'s is 7500 dollars.'}",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 8000, and the buyer's is 4800 dollars."
+  },
+  {
+    "index": 84,
+    "response": "The offered price of the seller is 15, and the buyer's is 10 dollars.",
+    "input_prompt": "They were bargaining over a phone. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 15, and the buyer's is 13 dollars."
+  },
+  {
+    "index": 85,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 200, and the buyer\\'s is 180 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 200, and the buyer's is 184 dollars."
+  },
+  {
+    "index": 86,
+    "response": "The offered price of the seller is 5000, and the buyer's is 4500 dollars.",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 5100, and the buyer's is 4692 dollars."
+  },
+  {
+    "index": 87,
+    "response": "{'role': 'assistant', 'content': 'The offered price is 2495, the buyer\\'s price is 2225'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2495, and the buyer's is 2295 dollars."
+  },
+  {
+    "index": 88,
+    "response": "{'role': 'assistant', 'content': 'The offered price is 100, the buyer\\'s price is 90'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 100, and the buyer's is 76 dollars."
+  },
+  {
+    "index": 89,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 1750, the buyer\\'s is 1625 dollars'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 1810, and the buyer's is 1086 dollars."
+  },
+  {
+    "index": 90,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 1700, the buyer\\'s is 1539 dollars'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 1950, and the buyer's is 1482 dollars."
+  },
+  {
+    "index": 91,
+    "response": "The offered price of the seller is 499, and the buyer's is 249 dollars.",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 399, and the buyer's is 303 dollars."
+  },
+  {
+    "index": 92,
+    "response": "The offered price of the seller is 250, and the buyer's is 175 dollars.",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 250, and the buyer's is 150 dollars."
+  },
+  {
+    "index": 93,
+    "response": "The offered price of the seller is 600, and the buyer's is 540 dollars.",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 695, and the buyer's is 417 dollars."
+  },
+  {
+    "index": 94,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 2200, the buyer\\'s is 1980 dollars'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2440, and the buyer's is 1854 dollars."
+  },
+  {
+    "index": 95,
+    "response": "Sure, I've analyzed the dialog parties.",
+    "input_prompt": "They were bargaining over a phone. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 15, and the buyer's is 13 dollars."
+  },
+  {
+    "index": 96,
+    "response": "The offered price of the seller is 320, and the buyer's is 288 dollars.",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 375, and the buyer's is 285 dollars."
+  },
+  {
+    "index": 97,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 3500, and the buyer\\'s is 3150 dollars.'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 3395, and the buyer's is 3123 dollars."
+  },
+  {
+    "index": 98,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 7668, and the buyer\\'s is 7668.'}",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 7668, and the buyer's is 4600 dollars."
+  },
+  {
+    "index": 99,
+    "response": "The offered price of the seller is 18, and the buyer's is 16 dollars.",
+    "input_prompt": "They were bargaining over a electronics. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 18, and the buyer's is 16 dollars."
+  },
+  {
+    "index": 100,
+    "response": "Sure, I've analyzed the dialog parties.",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 13500, and the buyer's is 8100 dollars."
+  },
+  {
+    "index": 101,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 40, and the buyer\\'s is 36 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 50, and the buyer's is 38 dollars."
+  },
+  {
+    "index": 102,
+    "response": "The offered price of the seller is 15, and the buyer's is 13 dollars.",
+    "input_prompt": "They were bargaining over a electronics. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 15, and the buyer's is 11 dollars."
+  },
+  {
+    "index": 103,
+    "response": "{'role': 'assistant', 'content': {'offers': {'open': 3000, 'close': 3000}}}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 3295, and the buyer's is 1977 dollars."
+  },
+  {
+    "index": 104,
+    "response": "The offered price of the seller is 350, and the buyer's is 322 dollars.",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 349, and the buyer's is 321 dollars."
+  },
+  {
+    "index": 105,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 40, and the buyer\\'s is 20 dollars.'}",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 30, and the buyer's is 27 dollars."
+  },
+  {
+    "index": 106,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 2100, the buyer\\'s is 1050 dollars'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2495, and the buyer's is 1497 dollars."
+  },
+  {
+    "index": 107,
+    "response": "The offered price of the seller is 80, and the buyer's is 56 dollars.",
+    "input_prompt": "They were bargaining over a phone. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 80, and the buyer's is 73 dollars."
+  },
+  {
+    "index": 108,
+    "response": "{'role': 'assistant', 'content': 'The offered price is 1895, the best offer is 1895, the selling price is 1895'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 1719, and the buyer's is 1306 dollars."
+  },
+  {
+    "index": 109,
+    "response": "Sure, I've analyzed the dialog parties.",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2250, and the buyer's is 1710 dollars."
+  },
+  {
+    "index": 110,
+    "response": "The offered price of the seller is 7000, and the buyer's is 6300 dollars.",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 8000, and the buyer's is 6080 dollars."
+  },
+  {
+    "index": 111,
+    "response": "The offered price of the seller is 2500, and the buyer's is 1750 dollars.",
+    "input_prompt": "They were bargaining over a phone. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 480, and the buyer's is 441 dollars."
+  },
+  {
+    "index": 112,
+    "response": "{'role': 'assistant', 'content': 'The offered price is 1650, the buyer\\'s price is 1002, the seller\\'s price is 1650'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 1950, and the buyer's is 1170 dollars."
+  },
+  {
+    "index": 113,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 100, and the buyer\\'s is 50 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 600, and the buyer's is 552 dollars."
+  },
+  {
+    "index": 114,
+    "response": "{'role': 'assistant', 'content': 'The offered price is 2800, the buyer\\'s price is 1400 dollars.'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2800, and the buyer's is 1680 dollars."
+  },
+  {
+    "index": 115,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 2400, and the buyer\\'s is 2160 dollars'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2350, and the buyer's is 2162 dollars."
+  },
+  {
+    "index": 116,
+    "response": "{'role': 'assistant', 'content': 'The offered price is 3395, the buyer\\'s price is 2395'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 3395, and the buyer's is 2580 dollars."
+  },
+  {
+    "index": 117,
+    "response": "The offered price of the seller is 8000, and the buyer's is 5600 dollars.",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 7668, and the buyer's is 5827 dollars."
+  },
+  {
+    "index": 118,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 350, and the buyer\\'s is 175 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 400, and the buyer's is 240 dollars."
+  },
+  {
+    "index": 119,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 150, and the buyer\\'s is 75 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 125, and the buyer's is 115 dollars."
+  },
+  {
+    "index": 120,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 50, and the buyer\\'s is 25 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 50, and the buyer's is 46 dollars."
+  },
+  {
+    "index": 121,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 75, and the buyer\\'s is 67 dollars.'}",
+    "input_prompt": "They were bargaining over a electronics. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 75, and the buyer's is 69 dollars."
+  },
+  {
+    "index": 122,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 100, and the buyer\\'s is 90 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 100, and the buyer's is 60 dollars."
+  },
+  {
+    "index": 123,
+    "response": "The offered price of the seller is 15, and the buyer's is 11 dollars.",
+    "input_prompt": "They were bargaining over a phone. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 15, and the buyer's is 11 dollars."
+  },
+  {
+    "index": 124,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 200, and the buyer\\'s is 100 dollars.'}",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 160, and the buyer's is 96 dollars."
+  },
+  {
+    "index": 125,
+    "response": "The offered price of the seller is 499, and the buyer's is 249 dollars.",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 499, and the buyer's is 379 dollars."
+  },
+  {
+    "index": 126,
+    "response": "The offered price of the seller is 650, and the buyer's is 585 dollars.",
+    "input_prompt": "They were bargaining over a phone. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 650, and the buyer's is 598 dollars."
+  },
+  {
+    "index": 127,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 2295, the buyer\\'s is 1147 dollars'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2200, and the buyer's is 2024 dollars."
+  },
+  {
+    "index": 128,
+    "response": "The offered price of the seller is 1810, and the buyer's is 1610 dollars.",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 1810, and the buyer's is 1086 dollars."
+  },
+  {
+    "index": 129,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 125, and the buyer\\'s is 115 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 125, and the buyer's is 115 dollars."
+  },
+  {
+    "index": 130,
+    "response": "The offered price of the seller is 650, and the buyer's is 585 dollars.",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 650, and the buyer's is 598 dollars."
+  },
+  {
+    "index": 131,
+    "response": "The offered price of the seller is 500, and the buyer's is 450 dollars.",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 600, and the buyer's is 360 dollars."
+  },
+  {
+    "index": 132,
+    "response": "The offered price of the seller is 125, and the buyer's is 112 dollars.",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 125, and the buyer's is 95 dollars."
+  },
+  {
+    "index": 133,
+    "response": "The offered price of the seller is 60, and the buyer's is 36 dollars.",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 60, and the buyer's is 36 dollars."
+  },
+  {
+    "index": 134,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 50, and the buyer\\'s is 45 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 50, and the buyer's is 46 dollars."
+  },
+  {
+    "index": 135,
+    "response": "The offered price of the seller is 8500, and the buyer's is 5950 dollars.",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 8400, and the buyer's is 5040 dollars."
+  },
+  {
+    "index": 136,
+    "response": "The offered price of the seller is 25, and the buyer's is 12 dollars.",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 25, and the buyer's is 15 dollars."
+  },
+  {
+    "index": 137,
+    "response": "The offered price of the seller is 70, and the buyer's is 63 dollars.",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 65, and the buyer's is 59 dollars."
+  },
+  {
+    "index": 138,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 3000, the buyer\\'s is 2100 dollars'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2695, and the buyer's is 2048 dollars."
+  },
+  {
+    "index": 139,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 5100, and the buyer\\'s is 3060 dollars.'}",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 5100, and the buyer's is 3060 dollars."
+  },
+  {
+    "index": 140,
+    "response": "Sure, I've analyzed the dialog parties.",
+    "input_prompt": "They were bargaining over a electronics. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 265, and the buyer's is 159 dollars."
+  },
+  {
+    "index": 141,
+    "response": "Sure, I've analyzed the dialog parties.",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 100, and the buyer's is 92 dollars."
+  },
+  {
+    "index": 142,
+    "response": "{'role': 'assistant', 'content': 'The offered price is 150, and the buyer\\'s is 90 dollars.'}",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 150, and the buyer's is 90 dollars."
+  },
+  {
+    "index": 143,
+    "response": "{'role': 'assistant', 'content': 'The offered price is 1895, the buyer\\'s price is 1895, the seller\\'s price is 1895, the difference is 1895'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2100, and the buyer's is 1596 dollars."
+  },
+  {
+    "index": 144,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 600, and the buyer\\'s is 300 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 600, and the buyer's is 552 dollars."
+  },
+  {
+    "index": 145,
+    "response": "Sure, I've analyzed the dialog parties.",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 349, and the buyer's is 265 dollars."
+  },
+  {
+    "index": 146,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 125, and the buyer\\'s is 115 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 125, and the buyer's is 115 dollars."
+  },
+  {
+    "index": 147,
+    "response": "The offered price of the seller is 150, and the buyer's is 135 dollars.",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 150, and the buyer's is 114 dollars."
+  },
+  {
+    "index": 148,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 50, and the buyer\\'s is 25 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 50, and the buyer's is 46 dollars."
+  },
+  {
+    "index": 149,
+    "response": "{'role': 'assistant', 'content': {'offers': {'price': 275, 'unit': 'dollars'}}}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 499, and the buyer's is 459 dollars."
+  },
+  {
+    "index": 150,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 500, and the buyer\\'s is 450 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 499, and the buyer's is 459 dollars."
+  },
+  {
+    "index": 151,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 350, and the buyer\\'s is 245 dollars'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 399, and the buyer's is 279 dollars."
+  },
+  {
+    "index": 152,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 400, the buyer\\'s is 200 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 399, and the buyer's is 199 dollars."
+  },
+  {
+    "index": 153,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 10500, the buyer\\'s is 5250 dollars'}",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 10500, and the buyer's is 7349 dollars."
+  },
+  {
+    "index": 154,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 399, and the buyer\\'s is 199 dollars'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 399, and the buyer's is 359 dollars."
+  },
+  {
+    "index": 155,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 10000, and the buyer\\'s is 9000 dollars.'}",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 10500, and the buyer's is 9450 dollars."
+  },
+  {
+    "index": 156,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 399, and the buyer\\'s is 199 dollars'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 399, and the buyer's is 199 dollars."
+  },
+  {
+    "index": 157,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 490, and the buyer\\'s is 245 dollars.'}",
+    "input_prompt": "They were bargaining over a phone. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 499, and the buyer's is 349 dollars."
+  },
+  {
+    "index": 158,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 60, and the buyer\\'s is 30 dollars.'}",
+    "input_prompt": "They were bargaining over a electronics. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 65, and the buyer's is 58 dollars."
+  },
+  {
+    "index": 159,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 120, and the buyer\\'s is 60 dollars.'}",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 110, and the buyer's is 55 dollars."
+  },
+  {
+    "index": 160,
+    "response": "The offered price of the seller is 60, and the buyer's is 30 dollars.",
+    "input_prompt": "They were bargaining over a electronics. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 65, and the buyer's is 58 dollars."
+  },
+  {
+    "index": 161,
+    "response": "The offered price of the seller is 499, and the buyer's is 249 dollars.",
+    "input_prompt": "They were bargaining over a phone. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 499, and the buyer's is 249 dollars."
+  },
+  {
+    "index": 162,
+    "response": "The offered price of the seller is 70, and the buyer's is 42 dollars.",
+    "input_prompt": "They were bargaining over a electronics. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 65, and the buyer's is 45 dollars."
+  },
+  {
+    "index": 163,
+    "response": "The offered price of the seller is 500, and the buyer's is 465 dollars.",
+    "input_prompt": "They were bargaining over a phone. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 499, and the buyer's is 449 dollars."
+  },
+  {
+    "index": 164,
+    "response": "The offered price of the seller is 10, and the buyer's is 7 dollars.",
+    "input_prompt": "They were bargaining over a phone. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 10, and the buyer's is 9 dollars."
+  },
+  {
+    "index": 165,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 10, and the buyer\\'s is 6 dollars.'}",
+    "input_prompt": "They were bargaining over a phone. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 10, and the buyer's is 5 dollars."
+  },
+  {
+    "index": 166,
+    "response": "The offered price of the seller is 10, and the buyer's is 9 dollars.",
+    "input_prompt": "They were bargaining over a phone. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 10, and the buyer's is 7 dollars."
+  },
+  {
+    "index": 167,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 10, and the buyer\\'s is 5 dollars.'}",
+    "input_prompt": "They were bargaining over a phone. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 10, and the buyer's is 5 dollars."
+  },
+  {
+    "index": 168,
+    "response": "The offered price of the seller is 10, and the buyer's is 9 dollars.",
+    "input_prompt": "They were bargaining over a electronics. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 10, and the buyer's is 5 dollars."
+  },
+  {
+    "index": 169,
+    "response": "The offered price of the seller is 600, and the buyer's is 540 dollars.",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 600, and the buyer's is 420 dollars."
+  },
+  {
+    "index": 170,
+    "response": "The offered price of the seller is 3500, and the buyer's is 2450 dollars.",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 3500, and the buyer's is 2450 dollars."
+  },
+  {
+    "index": 171,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 50, and the buyer\\'s is 25 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 50, and the buyer's is 25 dollars."
+  },
+  {
+    "index": 172,
+    "response": "The offered price of the seller is 200, and the buyer's is 140 dollars.",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 250, and the buyer's is 175 dollars."
+  },
+  {
+    "index": 173,
+    "response": "The offered price of the seller is 600, and the buyer's is 420 dollars.",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 600, and the buyer's is 300 dollars."
+  },
+  {
+    "index": 174,
+    "response": "The offered price of the seller is 5000, and the buyer's is 3500 dollars.",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 5500, and the buyer's is 2750 dollars."
+  },
+  {
+    "index": 175,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 3000, the buyer\\'s is 1500 dollars.'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2800, and the buyer's is 2520 dollars."
+  },
+  {
+    "index": 176,
+    "response": "The offered price of the seller is 3500, and the buyer's is 1750 dollars.",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 3500, and the buyer's is 1750 dollars."
+  },
+  {
+    "index": 177,
+    "response": "The offered price of the seller is 5500, and the buyer's is 4950 dollars.",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 5500, and the buyer's is 3849 dollars."
+  },
+  {
+    "index": 178,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 50, and the buyer\\'s is 35 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 50, and the buyer's is 35 dollars."
+  },
+  {
+    "index": 179,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 6400, and the buyer\\'s is 3200 dollars.'}",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 6400, and the buyer's is 3200 dollars."
+  },
+  {
+    "index": 180,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 6200, the buyer\\'s is 5580 dollars'}",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 6200, and the buyer's is 5580 dollars."
+  },
+  {
+    "index": 181,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 160, and the buyer\\'s is 144 dollars'}",
+    "input_prompt": "They were bargaining over a phone. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 150, and the buyer's is 135 dollars."
+  },
+  {
+    "index": 182,
+    "response": "The offered price of the seller is 50, and the buyer's is 46 dollars.",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 50, and the buyer's is 45 dollars."
+  },
+  {
+    "index": 183,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 1595, and the buyer\\'s is 1470 dollars'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2100, and the buyer's is 1470 dollars."
+  },
+  {
+    "index": 184,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 150, and the buyer\\'s is 75 dollars.'}",
+    "input_prompt": "They were bargaining over a phone. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 150, and the buyer's is 75 dollars."
+  },
+  {
+    "index": 185,
+    "response": "The offered price of the seller is 50, and the buyer's is 25 dollars.",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 50, and the buyer's is 25 dollars."
+  },
+  {
+    "index": 186,
+    "response": "The offered price of the seller is 50, and the buyer's is 25 dollars.",
+    "input_prompt": "They were bargaining over a phone. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 60, and the buyer's is 42 dollars."
+  },
+  {
+    "index": 187,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 60, and the buyer\\'s is 30 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 60, and the buyer's is 30 dollars."
+  },
+  {
+    "index": 188,
+    "response": "The offered price of the seller is 20, and the buyer's is 10 dollars.",
+    "input_prompt": "They were bargaining over a electronics. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 20, and the buyer's is 10 dollars."
+  },
+  {
+    "index": 189,
+    "response": "{'role': 'assistant', 'content': 'The offered price is 50, and the buyer\\'s price is 25 dollars.'}",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 50, and the buyer's is 35 dollars."
+  },
+  {
+    "index": 190,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 15, and the buyer\\'s is 7 dollars.'}",
+    "input_prompt": "They were bargaining over a electronics. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 10, and the buyer's is 7 dollars."
+  },
+  {
+    "index": 191,
+    "response": "The offered price of the seller is 250, and the buyer's is 230 dollars.",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 250, and the buyer's is 225 dollars."
+  },
+  {
+    "index": 192,
+    "response": "{'role': 'assistant', 'content': 'The offered price is 2400, the buyer\\'s price is 2160 dollars'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2800, and the buyer's is 1959 dollars."
+  },
+  {
+    "index": 193,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 650, the buyer\\'s is 390 dollars'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 600, and the buyer's is 540 dollars."
+  },
+  {
+    "index": 194,
+    "response": "Sure, I've analyzed the dialog parties.",
+    "input_prompt": "They were bargaining over a electronics. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 20, and the buyer's is 18 dollars."
+  },
+  {
+    "index": 195,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 60, and the buyer\\'s is 30 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 60, and the buyer's is 54 dollars."
+  },
+  {
+    "index": 196,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 2800, the buyer\\'s is 1400 dollars.'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2800, and the buyer's is 1400 dollars."
+  },
+  {
+    "index": 197,
+    "response": "Sure, I've analyzed the dialog parties.",
+    "input_prompt": "They were bargaining over a phone. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 150, and the buyer's is 105 dollars."
+  },
+  {
+    "index": 198,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 600, and the buyer\\'s is 300 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 600, and the buyer's is 300 dollars."
+  },
+  {
+    "index": 199,
+    "response": "{'role': 'assistant', 'content': 'The offered price is 150, the best price is 150, the seller\\'s price is 150'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 150, and the buyer's is 75 dollars."
+  },
+  {
+    "index": 200,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 53, and the buyer\\'s is 25 dollars.'}",
+    "input_prompt": "They were bargaining over a phone. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 60, and the buyer's is 54 dollars."
+  },
+  {
+    "index": 201,
+    "response": "The offered price of the seller is 10, and the buyer's is 9 dollars.",
+    "input_prompt": "They were bargaining over a electronics. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 10, and the buyer's is 9 dollars."
+  },
+  {
+    "index": 202,
+    "response": "The offered price of the seller is 6400, and the buyer's is 3200 dollars.",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 6400, and the buyer's is 5760 dollars."
+  },
+  {
+    "index": 203,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 20, and the buyer\\'s is 18 dollars.'}",
+    "input_prompt": "They were bargaining over a electronics. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 20, and the buyer's is 14 dollars."
+  },
+  {
+    "index": 204,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 150, and the buyer\\'s is 75 dollars.'}",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 250, and the buyer's is 125 dollars."
+  },
+  {
+    "index": 205,
+    "response": "The offered price of the seller is 5500, and the buyer's is 4400 dollars.",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 6400, and the buyer's is 4480 dollars."
+  },
+  {
+    "index": 206,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 50, and the buyer\\'s is 25 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 50, and the buyer's is 45 dollars."
+  },
+  {
+    "index": 207,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 150, and the buyer\\'s is 75 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 150, and the buyer's is 105 dollars."
+  },
+  {
+    "index": 208,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 5500, the buyer\\'s is 2750 dollars'}",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 6200, and the buyer's is 3100 dollars."
+  },
+  {
+    "index": 209,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 6000, and the buyer\\'s is 4800 dollars.'}",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 6400, and the buyer's is 4480 dollars."
+  },
+  {
+    "index": 210,
+    "response": "The offered price of the seller is 150, and the buyer's is 135 dollars.",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 150, and the buyer's is 135 dollars."
+  },
+  {
+    "index": 211,
+    "response": "The offered price of the seller is 3500, and the buyer's is 3150 dollars.",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 3500, and the buyer's is 3150 dollars."
+  },
+  {
+    "index": 212,
+    "response": "The offered price of the seller is 500, and the buyer's is 450 dollars.",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 600, and the buyer's is 420 dollars."
+  },
+  {
+    "index": 213,
+    "response": "The offered price of the seller is 60, and the buyer's is 30 dollars.",
+    "input_prompt": "They were bargaining over a phone. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 60, and the buyer's is 30 dollars."
+  },
+  {
+    "index": 214,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 20, and the buyer\\'s is 14 dollars.'}",
+    "input_prompt": "They were bargaining over a electronics. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 20, and the buyer's is 14 dollars."
+  },
+  {
+    "index": 215,
+    "response": "The offered price of the seller is 50, and the buyer's is 25 dollars.",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 50, and the buyer's is 35 dollars."
+  },
+  {
+    "index": 216,
+    "response": "{'role': 'assistant', 'content': 'The offered price is 1895, the buyer\\'s price is 1705, the seller\\'s price is 1895'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2100, and the buyer's is 1470 dollars."
+  },
+  {
+    "index": 217,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 2650, the buyer\\'s is 1985 dollars'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2800, and the buyer's is 1400 dollars."
+  },
+  {
+    "index": 218,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 150, and the buyer\\'s is 75 dollars.'}",
+    "input_prompt": "They were bargaining over a phone. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 150, and the buyer's is 105 dollars."
+  },
+  {
+    "index": 219,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 80, and the buyer\\'s is 40 dollars.'}",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 75, and the buyer's is 52 dollars."
+  },
+  {
+    "index": 220,
+    "response": "The offered price of the seller is 75, and the buyer's is 67 dollars.",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 75, and the buyer's is 67 dollars."
+  },
+  {
+    "index": 221,
+    "response": "{'role': 'assistant', 'content': 'The offered price is 300, the buyer\\'s price is 270, the seller\\'s price is 270'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 300, and the buyer's is 270 dollars."
+  },
+  {
+    "index": 222,
+    "response": "The offered price of the seller is 295, and the buyer's is 207 dollars.",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 300, and the buyer's is 210 dollars."
+  },
+  {
+    "index": 223,
+    "response": "The offered price of the seller is 75, and the buyer's is 37 dollars.",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 75, and the buyer's is 37 dollars."
+  },
+  {
+    "index": 224,
+    "response": "{'role': 'assistant', 'content': 'The offered price is 150, and the buyer\\'s price is 135 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 150, and the buyer's is 105 dollars."
+  },
+  {
+    "index": 225,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 20, and the buyer\\'s is 18 dollars.'}",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 20, and the buyer's is 18 dollars."
+  },
+  {
+    "index": 226,
+    "response": "The offered price of the seller is 20, and the buyer's is 10 dollars.",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 20, and the buyer's is 10 dollars."
+  },
+  {
+    "index": 227,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 20, and the buyer\\'s is 14 dollars.'}",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 20, and the buyer's is 14 dollars."
+  },
+  {
+    "index": 228,
+    "response": "{'role': 'assistant', 'content': 'The offered price is 100, the buyer\\'s price is 50'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 150, and the buyer's is 75 dollars."
+  },
+  {
+    "index": 229,
+    "response": "The offered price of the seller is 60, and the buyer's is 52 dollars.",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 75, and the buyer's is 52 dollars."
+  },
+  {
+    "index": 230,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 15, and the buyer\\'s is 13 dollars.'}",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 20, and the buyer's is 14 dollars."
+  },
+  {
+    "index": 231,
+    "response": "The offered price of the seller is 150, and the buyer's is 135 dollars.",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 150, and the buyer's is 135 dollars."
+  },
+  {
+    "index": 232,
+    "response": "The offered price of the seller is 250, and the buyer's is 175 dollars.",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 300, and the buyer's is 210 dollars."
+  },
+  {
+    "index": 233,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 20, and the buyer\\'s is 10 dollars.'}",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 20, and the buyer's is 14 dollars."
+  },
+  {
+    "index": 234,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 200, and the buyer\\'s is 140 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 150, and the buyer's is 75 dollars."
+  },
+  {
+    "index": 235,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 20, and the buyer\\'s is 18 dollars.'}",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 20, and the buyer's is 18 dollars."
+  },
+  {
+    "index": 236,
+    "response": "The offered price of the seller is 20, and the buyer's is 10 dollars.",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 20, and the buyer's is 10 dollars."
+  },
+  {
+    "index": 237,
+    "response": "Sure, I've analyzed the dialog parties.",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 75, and the buyer's is 52 dollars."
+  },
+  {
+    "index": 238,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 20, and the buyer\\'s is 10 dollars.'}",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 20, and the buyer's is 10 dollars."
+  },
+  {
+    "index": 239,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 300, and the buyer\\'s is 150 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 300, and the buyer's is 210 dollars."
+  },
+  {
+    "index": 240,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 100, and the buyer\\'s is 90 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 150, and the buyer's is 75 dollars."
+  },
+  {
+    "index": 241,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 20, and the buyer\\'s is 18 dollars.'}",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 20, and the buyer's is 14 dollars."
+  },
+  {
+    "index": 242,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 20, and the buyer\\'s is 18 dollars.'}",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 20, and the buyer's is 10 dollars."
+  },
+  {
+    "index": 243,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 300, and the buyer\\'s is 270 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 300, and the buyer's is 270 dollars."
+  },
+  {
+    "index": 244,
+    "response": "The offered price of the seller is 150, and the buyer's is 135 dollars.",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 150, and the buyer's is 135 dollars."
+  },
+  {
+    "index": 245,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 75, and the buyer\\'s is 67 dollars.'}",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 75, and the buyer's is 67 dollars."
+  },
+  {
+    "index": 246,
+    "response": "The offered price of the seller is 50, and the buyer's is 35 dollars.",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 75, and the buyer's is 37 dollars."
+  },
+  {
+    "index": 247,
+    "response": "The offered price of the seller is 75, and the buyer's is 37 dollars.",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 75, and the buyer's is 37 dollars."
+  },
+  {
+    "index": 248,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 100, and the buyer\\'s is 50 dollars.'}",
+    "input_prompt": "They were bargaining over a phone. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 80, and the buyer's is 56 dollars."
+  },
+  {
+    "index": 249,
+    "response": "The offered price of the seller is 150, and the buyer's is 105 dollars.",
+    "input_prompt": "They were bargaining over a electronics. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 150, and the buyer's is 105 dollars."
+  },
+  {
+    "index": 250,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 340, and the buyer\\'s is 306 dollars'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 349, and the buyer's is 314 dollars."
+  },
+  {
+    "index": 251,
+    "response": "The offered price of the seller is 200, and the buyer's is 100 dollars.",
+    "input_prompt": "They were bargaining over a electronics. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 150, and the buyer's is 105 dollars."
+  },
+  {
+    "index": 252,
+    "response": "{'role': 'assistant', 'content': 'The offered price is 2600, the buyer\\'s price is 2340, the seller\\'s price is 2600, the difference is 2600'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2850, and the buyer's is 1425 dollars."
+  },
+  {
+    "index": 253,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 20, and the buyer\\'s is 18 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 20, and the buyer's is 18 dollars."
+  },
+  {
+    "index": 254,
+    "response": "The offered price of the seller is 220, and the buyer's is 198 dollars.",
+    "input_prompt": "They were bargaining over a electronics. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 220, and the buyer's is 110 dollars."
+  },
+  {
+    "index": 255,
+    "response": "The offered price of the seller is 350, and the buyer's is 245 dollars.",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 349, and the buyer's is 244 dollars."
+  },
+  {
+    "index": 256,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 1995, the buyer\\'s is 1435 dollars'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2050, and the buyer's is 1435 dollars."
+  },
+  {
+    "index": 257,
+    "response": "{'role': 'assistant', 'content': 'The offered price is 2050, the buyer\\'s price is 1500, the seller\\'s price is 2050'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2050, and the buyer's is 1025 dollars."
+  },
+  {
+    "index": 258,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 20, and the buyer\\'s is 10 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 20, and the buyer's is 14 dollars."
+  },
+  {
+    "index": 259,
+    "response": "The offered price of the seller is 150, and the buyer's is 135 dollars.",
+    "input_prompt": "They were bargaining over a electronics. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 150, and the buyer's is 135 dollars."
+  },
+  {
+    "index": 260,
+    "response": "{'role': 'assistant', 'content': 'The offered price is 80, the buyer\\'s price is 60'}",
+    "input_prompt": "They were bargaining over a phone. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 80, and the buyer's is 40 dollars."
+  },
+  {
+    "index": 261,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 7000, the buyer\\'s is 6300 dollars.'}",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 8400, and the buyer's is 5880 dollars."
+  },
+  {
+    "index": 262,
+    "response": "The offered price of the seller is 10, and the buyer's is 5 dollars.",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 10, and the buyer's is 5 dollars."
+  },
+  {
+    "index": 263,
+    "response": "The offered price of the seller is 3000, and the buyer's is 1500 dollars.",
+    "input_prompt": "They were bargaining over a electronics. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2500, and the buyer's is 1250 dollars."
+  },
+  {
+    "index": 264,
+    "response": "The offered price of the seller is 80, and the buyer's is 56 dollars.",
+    "input_prompt": "They were bargaining over a phone. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 80, and the buyer's is 56 dollars."
+  },
+  {
+    "index": 265,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 2200, the buyer\\'s is 1980 dollars'}",
+    "input_prompt": "They were bargaining over a electronics. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2500, and the buyer's is 2250 dollars."
+  },
+  {
+    "index": 266,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 10, and the buyer\\'s is 9 dollars.'}",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 10, and the buyer's is 9 dollars."
+  },
+  {
+    "index": 267,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 150, and the buyer\\'s is 75 dollars.'}",
+    "input_prompt": "They were bargaining over a electronics. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 150, and the buyer's is 75 dollars."
+  },
+  {
+    "index": 268,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 220, and the buyer\\'s is 198 dollars.'}",
+    "input_prompt": "They were bargaining over a electronics. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 220, and the buyer's is 198 dollars."
+  },
+  {
+    "index": 269,
+    "response": "The offered price of the seller is 20, and the buyer's is 10 dollars.",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 20, and the buyer's is 10 dollars."
+  },
+  {
+    "index": 270,
+    "response": "{'role': 'assistant', 'content': 'The offered price is 10, the buyer\\'s price is 5'}",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 10, and the buyer's is 7 dollars."
+  },
+  {
+    "index": 271,
+    "response": "The offered price of the seller is 2800, and the buyer's is 1960 dollars.",
+    "input_prompt": "They were bargaining over a electronics. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2500, and the buyer's is 1750 dollars."
+  },
+  {
+    "index": 272,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 2850, the buyer\\'s is 2565 dollars'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2850, and the buyer's is 2565 dollars."
+  },
+  {
+    "index": 273,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 200, and the buyer\\'s is 100 dollars.'}",
+    "input_prompt": "They were bargaining over a electronics. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 220, and the buyer's is 154 dollars."
+  },
+  {
+    "index": 274,
+    "response": "The offered price of the seller is 220, and the buyer's is 110 dollars.",
+    "input_prompt": "They were bargaining over a electronics. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 220, and the buyer's is 154 dollars."
+  },
+  {
+    "index": 275,
+    "response": "{'role': 'assistant', 'content': {'offers': {'open': 2000, 'close': 2000}}}'",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2050, and the buyer's is 1845 dollars."
+  },
+  {
+    "index": 276,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 8400, the buyer\\'s is 5040 dollars'}",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 8400, and the buyer's is 4200 dollars."
+  },
+  {
+    "index": 277,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 300, and the buyer\\'s is 198 dollars.'}",
+    "input_prompt": "They were bargaining over a electronics. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 220, and the buyer's is 198 dollars."
+  },
+  {
+    "index": 278,
+    "response": "{'role': 'assistant', 'content': 'The offered price is 8400, the buyer\\'s price is 7560, the seller\\'s price is 7560, the difference is 8400'}",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 8400, and the buyer's is 4200 dollars."
+  },
+  {
+    "index": 279,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 150, and the buyer\\'s is 75 dollars.'}",
+    "input_prompt": "They were bargaining over a electronics. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 150, and the buyer's is 75 dollars."
+  },
+  {
+    "index": 280,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 80, and the buyer\\'s is 72 dollars.'}",
+    "input_prompt": "They were bargaining over a phone. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 80, and the buyer's is 72 dollars."
+  },
+  {
+    "index": 281,
+    "response": "Sure, I've analyzed the dialog.",
+    "input_prompt": "They were bargaining over a electronics. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 150, and the buyer's is 135 dollars."
+  },
+  {
+    "index": 282,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 6500, and the buyer\\'s is 5850 dollars.'}",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 8400, and the buyer's is 5880 dollars."
+  },
+  {
+    "index": 283,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 2950, and the buyer\\'s is 2655 dollars'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2850, and the buyer's is 2565 dollars."
+  },
+  {
+    "index": 284,
+    "response": "Sure, I've analyzed the dialog parties.",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 600, and the buyer's is 540 dollars."
+  },
+  {
+    "index": 285,
+    "response": "Sure, I've analyzed the dialog parties.",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 4000, and the buyer's is 3600 dollars."
+  },
+  {
+    "index": 286,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 1995, and the buyer\\'s is 1795 dollars'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2250, and the buyer's is 2025 dollars."
+  },
+  {
+    "index": 287,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 1725, and the buyer\\'s is 1552 dollars'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 1725, and the buyer's is 1552 dollars."
+  },
+  {
+    "index": 288,
+    "response": "The offered price of the seller is 275, and the buyer's is 247 dollars.",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 325, and the buyer's is 227 dollars."
+  },
+  {
+    "index": 289,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 3400, the buyer\\'s is 1700 dollars'}",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 4000, and the buyer's is 2800 dollars."
+  },
+  {
+    "index": 290,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 30, and the buyer\\'s is 27 dollars.'}",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 30, and the buyer's is 27 dollars."
+  },
+  {
+    "index": 291,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 4000, the buyer\\'s is 3600 dollars'}",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 4000, and the buyer's is 2000 dollars."
+  },
+  {
+    "index": 292,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 4000, and the buyer\\'s is 3600 dollars.'}",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 4000, and the buyer's is 3600 dollars."
+  },
+  {
+    "index": 293,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 1400, the buyer\\'s is 980 dollars'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 1150, and the buyer's is 1035 dollars."
+  },
+  {
+    "index": 294,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 100, and the buyer''s is 50 dollars.}",
+    "input_prompt": "They were bargaining over a electronics. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 70, and the buyer's is 49 dollars."
+  },
+  {
+    "index": 295,
+    "response": "{'role': 'assistant', 'content': 'The offered price is 150, the buyer\\'s price is 135 dollars'}",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 190, and the buyer's is 95 dollars."
+  },
+  {
+    "index": 296,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 320, and the buyer\\'s is 288 dollars'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 325, and the buyer's is 292 dollars."
+  },
+  {
+    "index": 297,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 60, and the buyer\\'s is 30 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 95, and the buyer's is 47 dollars."
+  },
+  {
+    "index": 298,
+    "response": "The offered price of the seller is 150, and the buyer's is 135 dollars.",
+    "input_prompt": "They were bargaining over a phone. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 175, and the buyer's is 122 dollars."
+  },
+  {
+    "index": 299,
+    "response": "{'role': 'assistant', 'content': 'The offered price is 2150, the buyer\\'s price is 1015 dollars'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2250, and the buyer's is 1575 dollars."
+  },
+  {
+    "index": 300,
+    "response": "Sure, I've analyzed the dialog parties.",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 75, and the buyer's is 52 dollars."
+  },
+  {
+    "index": 301,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 1895, the buyer\\'s is 1895 dollars'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2250, and the buyer's is 1575 dollars."
+  },
+  {
+    "index": 302,
+    "response": "The offered price of the seller is 1895, and the buyer's is 1187 dollars.",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 1585, and the buyer's is 1109 dollars."
+  },
+  {
+    "index": 303,
+    "response": "{'role': 'assistant', 'content': 'The offered price is 1356, the best offer is 1216, the selling price is 1216'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 1795, and the buyer's is 1256 dollars."
+  },
+  {
+    "index": 304,
+    "response": "The offered price of the seller is 60, and the buyer's is 54 dollars.",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 75, and the buyer's is 52 dollars."
+  },
+  {
+    "index": 305,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 1750, the buyer\\'s is 1575 dollars'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 1750, and the buyer's is 1225 dollars."
+  },
+  {
+    "index": 306,
+    "response": "The offered price of the seller is 70, and the buyer's is 49 dollars.",
+    "input_prompt": "They were bargaining over a electronics. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 70, and the buyer's is 49 dollars."
+  },
+  {
+    "index": 307,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 1500, the buyer\\'s is 1050 dollars.'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 1725, and the buyer's is 1207 dollars."
+  },
+  {
+    "index": 308,
+    "response": "Sure, I've analyzed the dialog parties.",
+    "input_prompt": "They were bargaining over a phone. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 745, and the buyer's is 670 dollars."
+  },
+  {
+    "index": 309,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 40, and the buyer\\'s is 20 dollars.'}",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 30, and the buyer's is 21 dollars."
+  },
+  {
+    "index": 310,
+    "response": "{'role': 'assistant', 'content': 'The offered price is 2200, the best offer is 2200, the selling price is 2200'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2250, and the buyer's is 2025 dollars."
+  },
+  {
+    "index": 311,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 1250, and the buyer\\'s is 1150 dollars'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 1250, and the buyer's is 1125 dollars."
+  },
+  {
+    "index": 312,
+    "response": "The offered price of the seller is 4199, and the buyer's is 2099 dollars.",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 4199, and the buyer's is 3779 dollars."
+  },
+  {
+    "index": 313,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 2200, the buyer\\'s is 1100 dollars.'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2875, and the buyer's is 1437 dollars."
+  },
+  {
+    "index": 314,
+    "response": "{'role': 'assistant', 'content': 'The offered price is 1875, and the buyer\\'s is 1687 dollars'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2200, and the buyer's is 1540 dollars."
+  },
+  {
+    "index": 315,
+    "response": "The offered price of the seller is 2, and the buyer's is 1 dollars.",
+    "input_prompt": "They were bargaining over a phone. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2, and the buyer's is 1 dollars."
+  },
+  {
+    "index": 316,
+    "response": "The offered price of the seller is 3, and the buyer's is 1 dollars.",
+    "input_prompt": "They were bargaining over a phone. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2, and the buyer's is 1 dollars."
+  },
+  {
+    "index": 317,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 250, and the buyer\\'s is 230 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 299, and the buyer's is 209 dollars."
+  },
+  {
+    "index": 318,
+    "response": "{'role': 'assistant', 'content': 'The offered price is 850, the buyer\\'s price is 425'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 1150, and the buyer's is 575 dollars."
+  },
+  {
+    "index": 319,
+    "response": "Sure, I've analyzed the dialog parties.",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 30600, and the buyer's is 15300 dollars."
+  },
+  {
+    "index": 320,
+    "response": "{'role': 'assistant', 'content': 'The offered price is 1300, the buyer\\'s price is 1190'}",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 1250, and the buyer's is 1125 dollars."
+  },
+  {
+    "index": 321,
+    "response": "The offered price of the seller is 70, and the buyer's is 35 dollars.",
+    "input_prompt": "They were bargaining over a electronics. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 70, and the buyer's is 63 dollars."
+  },
+  {
+    "index": 322,
+    "response": "Sure, I've analyzed the dialog parties.",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2250, and the buyer's is 1125 dollars."
+  },
+  {
+    "index": 323,
+    "response": "The offered price of the seller is 2, and the buyer's is 1 dollars.",
+    "input_prompt": "They were bargaining over a phone. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2, and the buyer's is 1 dollars."
+  },
+  {
+    "index": 324,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 200, and the buyer\\'s is 100 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 295, and the buyer's is 147 dollars."
+  },
+  {
+    "index": 325,
+    "response": "Sure, I've analyzed the dialog parties.",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2495, and the buyer's is 1247 dollars."
+  },
+  {
+    "index": 326,
+    "response": "Sure, I've analyzed the dialog parties.",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 299, and the buyer's is 269 dollars."
+  },
+  {
+    "index": 327,
+    "response": "The offered price of the seller is 20, and the buyer's is 10 dollars.",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 20, and the buyer's is 14 dollars."
+  },
+  {
+    "index": 328,
+    "response": "{'role': 'assistant', 'content': 'The offered price is 2850, the buyer\\'s price is 2587'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2875, and the buyer's is 2587 dollars."
+  },
+  {
+    "index": 329,
+    "response": "The offered price of the seller is 30, and the buyer's is 27 dollars.",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 25, and the buyer's is 17 dollars."
+  },
+  {
+    "index": 330,
+    "response": "The offered price of the seller is 6000, and the buyer's is 5400 dollars.",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 5500, and the buyer's is 4950 dollars."
+  },
+  {
+    "index": 331,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 20, and the buyer\\'s is 18 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 20, and the buyer's is 18 dollars."
+  },
+  {
+    "index": 332,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 75, and the buyer\\'s is 37 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 75, and the buyer's is 37 dollars."
+  },
+  {
+    "index": 333,
+    "response": "Sure, I've analyzed the dialog parties.",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 5500, and the buyer's is 2750 dollars."
+  },
+  {
+    "index": 334,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 700, and the buyer\\'s is 630 dollars.'}",
+    "input_prompt": "They were bargaining over a phone. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 745, and the buyer's is 521 dollars."
+  },
+  {
+    "index": 335,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 50, and the buyer\\'s is 30 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 35, and the buyer's is 24 dollars."
+  },
+  {
+    "index": 336,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 2200, the buyer\\'s is 1980 dollars'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2495, and the buyer's is 1746 dollars."
+  },
+  {
+    "index": 337,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 745, and the buyer\\'s is 372 dollars.'}",
+    "input_prompt": "They were bargaining over a phone. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 745, and the buyer's is 372 dollars."
+  },
+  {
+    "index": 338,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 25, and the buyer\\'s is 18 dollars.'}",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 25, and the buyer's is 12 dollars."
+  },
+  {
+    "index": 339,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 200, and the buyer\\'s is 100 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 200, and the buyer's is 100 dollars."
+  },
+  {
+    "index": 340,
+    "response": "Sure, I've analyzed the dialog parties.",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 600, and the buyer's is 540 dollars."
+  },
+  {
+    "index": 341,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 295, and the buyer\\'s is 265 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 295, and the buyer's is 265 dollars."
+  },
+  {
+    "index": 342,
+    "response": "{'role': 'assistant', 'content': {'offers': {'open': 1750, 'close': 1750}}}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 1750, and the buyer's is 1575 dollars."
+  },
+  {
+    "index": 343,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 35, and the buyer\\'s is 17 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 35, and the buyer's is 17 dollars."
+  },
+  {
+    "index": 344,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 200, and the buyer\\'s is 100 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 299, and the buyer's is 149 dollars."
+  },
+  {
+    "index": 345,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 2875, and the buyer\\'s is 1577 dollars'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2875, and the buyer's is 2012 dollars."
+  },
+  {
+    "index": 346,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 2200, the buyer\\'s is 1100 dollars'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2200, and the buyer's is 1100 dollars."
+  },
+  {
+    "index": 347,
+    "response": "The offered price of the seller is 11000, and the buyer's is 6600 dollars.",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 13500, and the buyer's is 6750 dollars."
+  },
+  {
+    "index": 348,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 5500, the buyer\\'s is 3850 dollars'}",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 5500, and the buyer's is 3849 dollars."
+  },
+  {
+    "index": 349,
+    "response": "{'role': 'assistant', 'content': 'The offered price is 295, the buyer\\'s price is 265, the seller\\'s price is 295'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 295, and the buyer's is 265 dollars."
+  },
+  {
+    "index": 350,
+    "response": "{'role': 'assistant', 'content': 'The offered price is 1000, the buyer\\'s price is 700'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 1750, and the buyer's is 875 dollars."
+  },
+  {
+    "index": 351,
+    "response": "{'role': 'assistant', 'content': 1725}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 1725, and the buyer's is 862 dollars."
+  },
+  {
+    "index": 352,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 80, and the buyer\\'s is 72 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 75, and the buyer's is 67 dollars."
+  },
+  {
+    "index": 353,
+    "response": "The offered price of the seller is 1795, and the buyer's is 1346 dollars.",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 1795, and the buyer's is 897 dollars."
+  },
+  {
+    "index": 354,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 100, and the buyer\\'s is 50 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 200, and the buyer's is 140 dollars."
+  },
+  {
+    "index": 355,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 3000, the buyer\\'s is 1500 dollars.'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2250, and the buyer's is 1125 dollars."
+  },
+  {
+    "index": 356,
+    "response": "{'role': 'assistant', 'content': {'offers': {'open': 1795, 'close': 1795}}}'",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 1795, and the buyer's is 1615 dollars."
+  },
+  {
+    "index": 357,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 2595, and the buyer\\'s is 2595 dollars.'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2495, and the buyer's is 2245 dollars."
+  },
+  {
+    "index": 358,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 1100, the buyer\\'s is 990 dollars'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 1250, and the buyer's is 625 dollars."
+  },
+  {
+    "index": 359,
+    "response": "The offered price of the seller is 190, and the buyer's is 171 dollars.",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 190, and the buyer's is 133 dollars."
+  },
+  {
+    "index": 360,
+    "response": "Sure, I've analyzed the dialog parties.",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 13500, and the buyer's is 12150 dollars."
+  },
+  {
+    "index": 361,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 20, and the buyer\\'s is 10 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 20, and the buyer's is 10 dollars."
+  },
+  {
+    "index": 362,
+    "response": "{'role': 'assistant', 'content': 'The offered price is 600, the buyer\\'s price is 300'}",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 600, and the buyer's is 300 dollars."
+  },
+  {
+    "index": 363,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 32000, and the buyer\\'s is 28800 dollars.'}",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 30600, and the buyer's is 27540 dollars."
+  },
+  {
+    "index": 364,
+    "response": "{'role': 'assistant', 'content': {'offers': {'open': 275, 'close': 275}, 'accept': 275, 'den<|start_header_id|>system<|end_header_id|>\n\n'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 295, and the buyer's is 206 dollars."
+  },
+  {
+    "index": 365,
+    "response": "The offered price of the seller is 50, and the buyer's is 30 dollars.",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 30, and the buyer's is 15 dollars."
+  },
+  {
+    "index": 366,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 80, and the buyer\\'s is 72 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 95, and the buyer's is 66 dollars."
+  },
+  {
+    "index": 367,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 1250, the buyer\\'s is 625 dollars'}",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 1250, and the buyer's is 625 dollars."
+  },
+  {
+    "index": 368,
+    "response": "The offered price of the seller is 170, and the buyer's is 153 dollars.",
+    "input_prompt": "They were bargaining over a phone. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 175, and the buyer's is 157 dollars."
+  },
+  {
+    "index": 369,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 1250, the buyer\\'s is 875 dollars'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 1250, and the buyer's is 875 dollars."
+  },
+  {
+    "index": 370,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 2200, and the buyer\\'s is 1980 dollars'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2200, and the buyer's is 1980 dollars."
+  },
+  {
+    "index": 371,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 600, and the buyer\\'s is 420 dollars.'}",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 600, and the buyer's is 420 dollars."
+  },
+  {
+    "index": 372,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 35, and the buyer\\'s is 31 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 35, and the buyer's is 31 dollars."
+  },
+  {
+    "index": 373,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 200, and the buyer\\'s is 100 dollars.'}",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 190, and the buyer's is 171 dollars."
+  },
+  {
+    "index": 374,
+    "response": "The offered price of the seller is 85, and the buyer's is 57 dollars.",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 95, and the buyer's is 85 dollars."
+  },
+  {
+    "index": 375,
+    "response": "The offered price of the seller is 8600, and the buyer's is 4300 dollars.",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 30600, and the buyer's is 21420 dollars."
+  },
+  {
+    "index": 376,
+    "response": "Sure, I've analyzed the dialog parties.",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 325, and the buyer's is 162 dollars."
+  },
+  {
+    "index": 377,
+    "response": "The offered price of the seller is 1500, and the buyer's is 900 dollars.",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 1585, and the buyer's is 792 dollars."
+  },
+  {
+    "index": 378,
+    "response": "The offered price of the seller is 25, and the buyer's is 17 dollars.",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 25, and the buyer's is 22 dollars."
+  },
+  {
+    "index": 379,
+    "response": "The offered price of the seller is 4200, and the buyer's is 3780 dollars.",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 4199, and the buyer's is 2939 dollars."
+  },
+  {
+    "index": 380,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 1400, the buyer\\'s is 980 dollars'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 1585, and the buyer's is 792 dollars."
+  },
+  {
+    "index": 381,
+    "response": "The offered price of the seller is 25, and the buyer's is 23 dollars.",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 25, and the buyer's is 22 dollars."
+  },
+  {
+    "index": 382,
+    "response": "The offered price of the seller is 75, and the buyer's is 67 dollars.",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 75, and the buyer's is 67 dollars."
+  },
+  {
+    "index": 383,
+    "response": "Sure, I've analyzed the dialog parties.",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2250, and the buyer's is 1125 dollars."
+  },
+  {
+    "index": 384,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 200, and the buyer\\'s is 100 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 200, and the buyer's is 140 dollars."
+  },
+  {
+    "index": 385,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 150, and the buyer\\'s is 135 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 200, and the buyer's is 140 dollars."
+  },
+  {
+    "index": 386,
+    "response": "{'role': 'assistant', 'content': 'The offered price is 745, the buyer\\'s price is 521, the seller\\'s price is 745'}",
+    "input_prompt": "They were bargaining over a phone. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 745, and the buyer's is 521 dollars."
+  },
+  {
+    "index": 387,
+    "response": "{'role': 'assistant', 'content': 'The offered price is 2250, the buyer\\'s price is 2025'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2250, and the buyer's is 1125 dollars."
+  },
+  {
+    "index": 388,
+    "response": "The offered price of the seller is 10, and the buyer's is 5 dollars.",
+    "input_prompt": "They were bargaining over a phone. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2, and the buyer's is 1 dollars."
+  },
+  {
+    "index": 389,
+    "response": "Sure, I've analyzed the dialog parties.",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 1150, and the buyer's is 805 dollars."
+  },
+  {
+    "index": 390,
+    "response": "The offered price of the seller is 1250, and the buyer's is 1150 dollars.",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 1250, and the buyer's is 1125 dollars."
+  },
+  {
+    "index": 391,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 190, and the buyer\\'s is 95 dollars.'}",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 190, and the buyer's is 95 dollars."
+  },
+  {
+    "index": 392,
+    "response": "The offered price of the seller is 200, and the buyer's is 180 dollars.",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 200, and the buyer's is 180 dollars."
+  },
+  {
+    "index": 393,
+    "response": "The offered price of the seller is 3, and the buyer's is 1 dollars.",
+    "input_prompt": "They were bargaining over a phone. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2, and the buyer's is 1 dollars."
+  },
+  {
+    "index": 394,
+    "response": "The offered price of the seller is 500, and the buyer's is 380 dollars.",
+    "input_prompt": "They were bargaining over a phone. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 745, and the buyer's is 372 dollars."
+  },
+  {
+    "index": 395,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 32000, the buyer\\'s is 22400 dollars'}",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 30600, and the buyer's is 21420 dollars."
+  },
+  {
+    "index": 396,
+    "response": "{'role': 'assistant', 'content': 'The offered price is 2400, the buyer\\'s price is 2160, the seller\\'s price is 2160, the difference is 240'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2495, and the buyer's is 1746 dollars."
+  },
+  {
+    "index": 397,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 150, and the buyer\\'s is 90 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 160, and the buyer's is 80 dollars."
+  },
+  {
+    "index": 398,
+    "response": "{'role': 'assistant', 'content': 'The offered price is 10800, the buyer\\'s price is 7696, the seller\\'s price is 10800, the difference is 7696'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 10995, and the buyer's is 7696 dollars."
+  },
+  {
+    "index": 399,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 50, and the buyer\\'s is 25 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 50, and the buyer's is 25 dollars."
+  },
+  {
+    "index": 400,
+    "response": "The offered price of the seller is 120, and the buyer's is 60 dollars.",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 120, and the buyer's is 84 dollars."
+  },
+  {
+    "index": 401,
+    "response": "The offered price of the seller is 150, and the buyer's is 135 dollars.",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 150, and the buyer's is 135 dollars."
+  },
+  {
+    "index": 402,
+    "response": "The offered price of the seller is 480, and the buyer's is 432 dollars.",
+    "input_prompt": "They were bargaining over a phone. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 480, and the buyer's is 432 dollars."
+  },
+  {
+    "index": 403,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 15, and the buyer\\'s is 7 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 15, and the buyer's is 7 dollars."
+  },
+  {
+    "index": 404,
+    "response": "The offered price of the seller is 5900, and the buyer's is 2950 dollars.",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 5900, and the buyer's is 4130 dollars."
+  },
+  {
+    "index": 405,
+    "response": "Sure, I've analyzed the dialog parties.",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 8500, and the buyer's is 7650 dollars."
+  },
+  {
+    "index": 406,
+    "response": "The offered price of the seller is 289, and the buyer's is 202 dollars.",
+    "input_prompt": "They were bargaining over a phone. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 480, and the buyer's is 240 dollars."
+  },
+  {
+    "index": 407,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 50, and the buyer\\'s is 25 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 50, and the buyer's is 35 dollars."
+  },
+  {
+    "index": 408,
+    "response": "Sure, I've analyzed the dialog parties.",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 1825, and the buyer's is 1277 dollars."
+  },
+  {
+    "index": 409,
+    "response": "The offered price of the seller is 125, and the buyer's is 75 dollars.",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 120, and the buyer's is 60 dollars."
+  },
+  {
+    "index": 410,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 3000, and the buyer\\'s is 1500 dollars.'}",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 3500, and the buyer's is 2450 dollars."
+  },
+  {
+    "index": 411,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 8500, the buyer\\'s is 7650 dollars'}",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 8500, and the buyer's is 4250 dollars."
+  },
+  {
+    "index": 412,
+    "response": "The offered price of the seller is 1800, and the buyer's is 900 dollars.",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 1825, and the buyer's is 912 dollars."
+  },
+  {
+    "index": 413,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 3200, the buyer\\'s is 2880 dollars.'}",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 5900, and the buyer's is 2950 dollars."
+  },
+  {
+    "index": 414,
+    "response": "The offered price of the seller is 9000, and the buyer's is 8100 dollars.",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 8500, and the buyer's is 5950 dollars."
+  },
+  {
+    "index": 415,
+    "response": "{'role': 'assistant', 'content': 'The offered price is 280, the buyer\\'s price is 252, the seller\\'s price is 280'}",
+    "input_prompt": "They were bargaining over a phone. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 285, and the buyer's is 256 dollars."
+  },
+  {
+    "index": 416,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 150, and the buyer\\'s is 135 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 160, and the buyer's is 144 dollars."
+  },
+  {
+    "index": 417,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 2800, and the buyer\\'s is 1960 dollars'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 3992, and the buyer's is 1996 dollars."
+  },
+  {
+    "index": 418,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 80, and the buyer\\'s is 72 dollars.'}",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 120, and the buyer's is 60 dollars."
+  },
+  {
+    "index": 419,
+    "response": "{'role': 'assistant', 'content': 'The offered price is 125, the buyer\\'s price is 115'}",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 150, and the buyer's is 105 dollars."
+  },
+  {
+    "index": 420,
+    "response": "{'role': 'assistant', 'content': 'The offered price is 125, and the buyer\\'s is 115 dollars'}",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 150, and the buyer's is 105 dollars."
+  },
+  {
+    "index": 421,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 3992, and the buyer\\'s is 2794 dollars'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 3992, and the buyer's is 2794 dollars."
+  },
+  {
+    "index": 422,
+    "response": "{'role': 'assistant', 'content': 'The offered price is 2695, the buyer\\'s price is 2425, the seller\\'s price is 2695, the difference is 70'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2695, and the buyer's is 2425 dollars."
+  },
+  {
+    "index": 423,
+    "response": "The offered price of the seller is 160, and the buyer's is 112 dollars.",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 160, and the buyer's is 112 dollars."
+  },
+  {
+    "index": 424,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 50, and the buyer\\'s is 30 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 50, and the buyer's is 45 dollars."
+  },
+  {
+    "index": 425,
+    "response": "Sure, I've analyzed the dialog parties.",
+    "input_prompt": "They were bargaining over a phone. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 285, and the buyer's is 199 dollars."
+  },
+  {
+    "index": 426,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 2200, the buyer\\'s is 1980 dollars.'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2450, and the buyer's is 1225 dollars."
+  },
+  {
+    "index": 427,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 150, and the buyer\\'s is 75 dollars.'}",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 150, and the buyer's is 75 dollars."
+  },
+  {
+    "index": 428,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 120, and the buyer\\'s is 60 dollars.'}",
+    "input_prompt": "They were bargaining over a bike. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 120, and the buyer's is 108 dollars."
+  },
+  {
+    "index": 429,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 3992, and the buyer\\'s is 3592 dollars'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 3992, and the buyer's is 3592 dollars."
+  },
+  {
+    "index": 430,
+    "response": "{'role': 'assistant', 'content': 'The offered price is 10, and the buyer\\'s is 5 dollars.'}",
+    "input_prompt": "They were bargaining over a phone. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2, and the buyer's is 1 dollars."
+  },
+  {
+    "index": 431,
+    "response": "{'role': 'assistant', 'content': 'The offered price is 1895, the buyer\\'s price is 1705, the seller\\'s price is 1895'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 1825, and the buyer's is 1642 dollars."
+  },
+  {
+    "index": 432,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 3500, and the buyer\\'s is 3150 dollars'}",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 3500, and the buyer's is 3150 dollars."
+  },
+  {
+    "index": 433,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 10995, and the buyer\\'s is 5457 dollars.'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 10995, and the buyer's is 5497 dollars."
+  },
+  {
+    "index": 434,
+    "response": "The offered price of the seller is 15, and the buyer's is 9 dollars.",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 15, and the buyer's is 10 dollars."
+  },
+  {
+    "index": 435,
+    "response": "{'role': 'assistant', 'content': 'The offered price is 10995, the buyer\\'s price is 5987, the seller\\'s price is 10995'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 10995, and the buyer's is 9895 dollars."
+  },
+  {
+    "index": 436,
+    "response": "The offered price of the seller is 250, and the buyer's is 175 dollars.",
+    "input_prompt": "They were bargaining over a phone. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 285, and the buyer's is 142 dollars."
+  },
+  {
+    "index": 437,
+    "response": "The offered price of the seller is 50, and the buyer's is 25 dollars.",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 50, and the buyer's is 25 dollars."
+  },
+  {
+    "index": 438,
+    "response": "Sure, I've analyzed the dialog parties.",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 120, and the buyer's is 108 dollars."
+  },
+  {
+    "index": 439,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 2695, the buyer\\'s is 1886 dollars'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2695, and the buyer's is 1886 dollars."
+  },
+  {
+    "index": 440,
+    "response": "The offered price of the seller is 285, and the buyer's is 199 dollars.",
+    "input_prompt": "They were bargaining over a phone. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 285, and the buyer's is 142 dollars."
+  },
+  {
+    "index": 441,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 15, and the buyer\\'s is 7 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 15, and the buyer's is 13 dollars."
+  },
+  {
+    "index": 442,
+    "response": "Sure, I've analyzed the dialog parties.",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 2695, and the buyer's is 1347 dollars."
+  },
+  {
+    "index": 443,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 100, and the buyer\\'s is 90 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 120, and the buyer's is 84 dollars."
+  },
+  {
+    "index": 444,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 5900, the buyer\\'s is 2950 dollars'}",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 5900, and the buyer's is 5310 dollars."
+  },
+  {
+    "index": 445,
+    "response": "Sure, I've analyzed the dialog parties.",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 5900, and the buyer's is 5310 dollars."
+  },
+  {
+    "index": 446,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 15, and the buyer\\'s is 13 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 15, and the buyer's is 13 dollars."
+  },
+  {
+    "index": 447,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 160, and the buyer\\'s is 144 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 160, and the buyer's is 144 dollars."
+  },
+  {
+    "index": 448,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 1825, the buyer\\'s is 1825, and the seller\\'s is 1825 dollars.'}",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 1825, and the buyer's is 912 dollars."
+  },
+  {
+    "index": 449,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 5900, the buyer\\'s is 2950 dollars'}",
+    "input_prompt": "They were bargaining over a car. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 5900, and the buyer's is 4130 dollars."
+  },
+  {
+    "index": 450,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 50, and the buyer\\'s is 35 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 50, and the buyer's is 45 dollars."
+  },
+  {
+    "index": 451,
+    "response": "Sure, I've analyzed the dialog parties.",
+    "input_prompt": "They were bargaining over a housing. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 10995, and the buyer's is 7696 dollars."
+  },
+  {
+    "index": 452,
+    "response": "{'role': 'assistant', 'content': 'The offered price of the seller is 50, and the buyer\\'s is 45 dollars.'}",
+    "input_prompt": "They were bargaining over a furniture. What are the offered prices each party has in mind?",
+    "ground_truth": "The offered price of the seller is 50, and the buyer's is 45 dollars."
+  }
+]
