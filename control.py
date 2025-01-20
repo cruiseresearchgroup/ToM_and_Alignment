@@ -26,7 +26,12 @@ from lit.utils.activation_utils import (
     get_pos_ids,
 )
 from lit.configs.steer_config import steer_config
-from lit.utils.ToM_steering_utils import get_steering_dataloaders, get_evaluation_chats_NegotiationToM, get_evaluation_chats_NegotiationToM_belief
+from lit.utils.ToM_steering_utils import (
+    get_steering_dataloaders, 
+    get_evaluation_chats_NegotiationToM_intention, 
+    get_evaluation_chats_NegotiationToM_belief,
+    get_evaluation_chats_NegotiationToM_desire
+)
 
 
 import sys
@@ -56,8 +61,15 @@ def get_results(args, model, tokenizer):
         with open(f"{FOLDER}/args.json", "w") as f:
             json.dump(vars(args), f, indent=2)
         print(f"Model is saved in {FOLDER}")
+    if args.steer_component=="Belief":
+        chats, golden_responses = get_evaluation_chats_NegotiationToM_belief(args.steer_label)
+    if args.steer_component=="Intention":
+        chats, golden_responses = get_evaluation_chats_NegotiationToM_intention(args.steer_label)
+    if args.steer_component=="Desire":
+        chats, golden_responses = get_evaluation_chats_NegotiationToM_desire(args.steer_label)
+    
     # chats, golden_responses = get_evaluation_chats_NegotiationToM('Show-Empathy')
-    chats, golden_responses = get_evaluation_chats_NegotiationToM_belief()
+    # chats, golden_responses = get_evaluation_chats_NegotiationToM_belief()
     alingned_results = []
     for idx, chat in enumerate(chats):
         print('*'*100)
@@ -89,6 +101,7 @@ def steer(args, decoder_model, tokenizer, **kwargs):
     assert args.qa_per_layer is False
     
     train_dataloader = get_steering_dataloaders(args, tokenizer)
+    
     target_model = get_target_model(args, device=kwargs["device"])
     module_read, module_write = get_modules(target_model, decoder_model, **vars(args))
     optimizer = torch.optim.Adam(target_model.parameters(), lr=args.lr)
@@ -117,7 +130,7 @@ def steer(args, decoder_model, tokenizer, **kwargs):
         optimizer.step()
         optimizer.zero_grad()
     plt.plot(losses)
-    plt.savefig(f"losses.png")
+    plt.savefig(f"steering_{args.steer_component}_{args.steer_label}.png")
     aligned_responses, _ = get_results(args, target_model.eval(), tokenizer)
     del target_model
     del decoder_model
@@ -125,7 +138,7 @@ def steer(args, decoder_model, tokenizer, **kwargs):
     target_model = get_target_model(args, device=kwargs["device"])
     nonaligned_responses, golden_responses = get_results(args, target_model.eval(), tokenizer)
     final_data = [{'aligned_respons':ar, 'nonaligned_resopnse':nar, 'golden_response':gr} for ar, nar, gr in zip(aligned_responses, nonaligned_responses, golden_responses)]
-    with open('./out/Belief_High_Water.jsonl', 'w') as fout:
+    with open(f'./out/steering_{args.steer_component}_{args.steer_label}.jsonl', 'w') as fout:
         json.dump(final_data, fout)
 
 

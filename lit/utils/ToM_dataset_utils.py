@@ -400,7 +400,38 @@ def get_NegotiationToM_dataset_for_steer_belief(train_config, tokenizer, train=T
         question = "What item does the assistant believe would have high priority for the user?"
         agent2_belief_high = item['agent2_belief_high']
         
-        answer = f"The assistant believes {agent2_belief_high} would have a high probability for the user."
+        answer = f"The assistant believes {agent2_belief_high} would have a high priority for the user."
+        QAs.append([
+                {"role": "user", "content": question},
+                {"role": "assistant", "content": answer}
+                ])
+
+    assert len(QAs)==len(read_prompts)
+    return ToMLatentQADataset(
+        tokenizer,
+        read_prompts,
+        QAs,
+        is_dialog=False
+    )
+
+def get_NegotiationToM_dataset_for_steer_desire(train_config, tokenizer, train=True):
+    data_path = train_config.train_qa if train else train_config.eval_qa
+    with open(data_path, 'rb') as fin:
+        data = json.load(fin)
+    read_prompts, QAs = [], []
+    for item in data:
+        temp = []
+        for uttrance in item['dialogue']:
+            if uttrance.split(': ')[0] == 'agent_2':
+                temp.append({"role": "assistant", "content": uttrance.split(': ')[1]})
+            elif uttrance.split(': ')[0] == 'agent_1':
+                temp.append({"role": "user", "content": uttrance.split(': ')[1]})
+        read_prompts.append(temp)
+        
+        question = "What item would have high priority for the assistant?"
+        agent2_desire_high = item["agent2_desire_high"]
+        
+        answer = f"{agent2_desire_high} would have a high priority for the assistant"
         QAs.append([
                 {"role": "user", "content": question},
                 {"role": "assistant", "content": answer}
@@ -469,10 +500,17 @@ def get_ToM_dataset(train_config, tokenizer, train=True):
         return get_FanToM_dataset(train_config, tokenizer, train)
     elif train_config.train_qa.find('NegotiationToM')!=-1:
         return get_NegotiationToM_dataset(train_config, tokenizer, train)
-        # return get_NegotiationToM_dataset_for_steer_intent(train_config, tokenizer, train)
-        # return get_NegotiationToM_dataset_for_steer_belief(train_config, tokenizer, train)
     elif train_config.train_qa.find('Job')!=-1:
         return get_JI_dataset(train_config, tokenizer, train)
     else:
         return Exception('There is NO such dataset!')
+
+def get_ToM_steer_dataset(train_config, tokenizer, train=True):
+    if train_config.steer_component=="Desire":
+        return get_NegotiationToM_dataset_for_steer_desire(train_config, tokenizer, train)
+    if train_config.steer_component=="Belief":
+        return get_NegotiationToM_dataset_for_steer_belief(train_config, tokenizer, train)
+    if train_config.steer_component=="Intention":
+        return get_NegotiationToM_dataset_for_steer_intent(train_config, tokenizer, train)
+    return Exception('Wrong config file!')
     

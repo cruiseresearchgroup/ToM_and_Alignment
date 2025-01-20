@@ -23,15 +23,15 @@ class train_config:
     eval_stimulus_completion: str = ""
     eval_stimulus: str = ""
     eval_control: str = ""
-    eval_qa: str = "./data/FANTOM/valid.json"
-    eval_every_n_steps: int = 1806
+    eval_qa: str = "./data/NegotiationToM/valid.json"
+    eval_every_n_steps: int = 334
     # Please change to a directory with ample space as model checkpoints are saved here
     # output_dir: str = "out/runs"
     output_dir: str = "/srv/scratch/CRUISE/Mehdi/out/runs"
     save_model: bool = True
     save_after_epoch: bool = True
     use_wandb: bool = True
-    run_name: str = "FANTOM Middle Llama-3 8B"
+    run_name: str = "NegotiationToM Intention 8B"
 
     # Patching args
     shift_position_ids: bool = True
@@ -61,4 +61,7 @@ class train_config:
     peft_method: str = "lora"
     use_peft: bool = True
     use_fsdp: bool = False
+    # Set to true if the model will be used for steering
+    is_steer: bool = False
+    steer_component: str = "Belief"
     

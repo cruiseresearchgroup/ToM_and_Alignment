@@ -83,7 +83,37 @@ def get_CaSiNo_dataset_steer(train_config, tokenizer, train=True):
         QAs
     )
 
-def get_NegotiationToM_dataset_for_steer(train_config, tokenizer, train=True):
+def get_NegotiationToM_dataset_for_steer_desire(steer_config, tokenizer, train=True):
+    data_path = 'data/NegotiationToM/valid.json'
+    with open(data_path, 'rb') as fin:
+        data = json.load(fin)
+    read_prompts, QAs = [], []
+    for item in data:
+        temp = []
+        for uttrance in item['dialogue']:
+            if uttrance.split(': ')[0] == 'agent_2':
+                temp.append({"role": "assistant", "content": uttrance.split(': ')[1]})
+            elif uttrance.split(': ')[0] == 'agent_1':
+                temp.append({"role": "user", "content": uttrance.split(': ')[1]})
+        read_prompts.append(temp)
+        
+        question = "What item would have high priority for the assistant?"
+        answer = f"{steer_config.steer_label} would have a high priority for the assistant"
+        
+        QAs.append([
+                {"role": "user", "content": question},
+                {"role": "assistant", "content": answer}
+                ])
+
+    assert len(QAs)==len(read_prompts)
+    return ToMLatentQADataset(
+        tokenizer,
+        read_prompts,
+        QAs,
+        is_dialog=False
+    )
+
+def get_NegotiationToM_dataset_for_steer_intent(steer_config, tokenizer, train=True):
     data_path = 'data/NegotiationToM/valid.json'
     with open(data_path, 'rb') as fin:
         data = json.load(fin)
@@ -99,7 +129,7 @@ def get_NegotiationToM_dataset_for_steer(train_config, tokenizer, train=True):
         
         question = "What is the intention of the assistant in the last utterance?"
         
-        answer = f"The intent of the assistant is [Promote-Coordination]"
+        answer = f"The intent of the assistant is [{steer_config.steer_label}]"
         QAs.append([
                 {"role": "user", "content": question},
                 {"role": "assistant", "content": answer}
@@ -114,7 +144,7 @@ def get_NegotiationToM_dataset_for_steer(train_config, tokenizer, train=True):
     )
 
 
-def get_NegotiationToM_dataset_for_steer_belief(train_config, tokenizer, train=True):
+def get_NegotiationToM_dataset_for_steer_belief(steer_config, tokenizer, train=True):
     data_path = 'data/NegotiationToM/valid.json'
     with open(data_path, 'rb') as fin:
         data = json.load(fin)
@@ -130,7 +160,8 @@ def get_NegotiationToM_dataset_for_steer_belief(train_config, tokenizer, train=T
         
         question = "What item does the assistant believe would have high priority for the user?"
         
-        answer = f"The assistant believes Water would have a high probability for the user."
+        answer = f"The assistant believes {steer_config.steer_label} would have a high priority for the user."
+        
         QAs.append([
                 {"role": "user", "content": question},
                 {"role": "assistant", "content": answer}
@@ -146,23 +177,16 @@ def get_NegotiationToM_dataset_for_steer_belief(train_config, tokenizer, train=T
 
 
 def get_ToM_dataset_steer(steer_config, tokenizer, train=True):
-    # if train_config.train_qa.find('CaSiNo')!=-1:
-    # return get_NegotiationToM_dataset_for_steer(steer_config, tokenizer, train)
-    return get_NegotiationToM_dataset_for_steer_belief(steer_config, tokenizer, train)
-    # return get_CaSiNo_dataset_steer(steer_config, tokenizer, train)
-    # elif train_config.train_qa.find('BARGAIN')!=-1:
-    #     return get_bargain_dataset(train_config, tokenizer, train)
-    # elif train_config.train_qa.find('FANTOM')!=-1:
-    #     return get_FanToM_dataset(train_config, tokenizer, train)
-    # elif train_config.train_qa.find('NegotiationToM')!=-1:
-    #     return get_NegotiationToM_dataset(train_config, tokenizer, train)
-    # else:
-    #     return Exception('There is NO such dataset!')
-    
+    if steer_config.steer_component=="Desire":
+        return get_NegotiationToM_dataset_for_steer_desire(steer_config, tokenizer, train)
+    if steer_config.steer_component=="Belief":
+        return get_NegotiationToM_dataset_for_steer_belief(steer_config, tokenizer, train)
+    if steer_config.steer_component=="Intention":
+        return get_NegotiationToM_dataset_for_steer_intent(steer_config, tokenizer, train)
 
 
-def get_steering_dataloaders(train_config, tokenizer):
-    dataset_train = get_ToM_dataset_steer(train_config, tokenizer, train=True)
+def get_steering_dataloaders(steer_config, tokenizer):
+    dataset_train = get_ToM_dataset_steer(steer_config, tokenizer, train=True)
     # dataset_train = get_dataset(train_config, tokenizer, train=True)
     train_dataloader = torch.utils.data.DataLoader(
         dataset_train,
@@ -173,14 +197,16 @@ def get_steering_dataloaders(train_config, tokenizer):
             get_verb_mask=None,
             mask_all_but_last=True,
             nudge_persona=False,
-            modify_chat_template=train_config.modify_chat_template,
+            modify_chat_template=steer_config.modify_chat_template,
         ),
-        batch_sampler=get_batch_sampler(dataset_train, train_config, "train"),
+        batch_sampler=get_batch_sampler(dataset_train, steer_config, "train"),
     )
 
     return train_dataloader
 
-def get_evaluation_chats_NegotiationToM(intention):
+
+
+def get_evaluation_chats_NegotiationToM_intention(intention):
     with open('data/NegotiationToM/test.json', 'r') as fin: 
         data = json.load(fin)
     chats, golden_response = [], []
@@ -209,13 +235,13 @@ def get_evaluation_chats_NegotiationToM(intention):
                     golden_response.append(item['dialogue'][idx].split(': ')[1])
     return chats, golden_response
 
-def get_evaluation_chats_NegotiationToM_belief(high=None):
+def get_evaluation_chats_NegotiationToM_desire(steer_label):
     with open('data/NegotiationToM/test.json', 'r') as fin: 
         data = json.load(fin)
     chats, golden_response = [], []
     for item in data:
         temp = []
-        if (item['agent1_belief_high']=="Water") and (len(item['dialogue'])>2) and (item['dialogue'][-1].startswith('agent_1')):
+        if (item['agent1_desire_high']==steer_label) and (len(item['dialogue'])>2) and (item['dialogue'][-1].startswith('agent_1')):
             chat_sample = item['dialogue']
             for utterance in chat_sample[:-1]:
                 if utterance.split(': ')[0] == 'agent_1':
@@ -224,7 +250,33 @@ def get_evaluation_chats_NegotiationToM_belief(high=None):
                     temp.append({"role": "user", "content": utterance.split(': ')[1]})
             chats.append(temp)
             golden_response.append(chat_sample[-1].split(': ')[1])
-        elif (item['agent2_belief_high']=="Water") and (len(item['dialogue'])>2) and (item['dialogue'][-1].startswith('agent_2')):
+        elif (item['agent2_desire_high']==steer_label) and (len(item['dialogue'])>2) and (item['dialogue'][-1].startswith('agent_2')):
+            chat_sample = item['dialogue']
+            for utterance in chat_sample[:-1]:
+                if utterance.split(': ')[0] == 'agent_2':
+                    temp.append({"role": "assistant", "content": utterance.split(': ')[1]})
+                elif utterance.split(': ')[0] == 'agent_1':
+                    temp.append({"role": "user", "content": utterance.split(': ')[1]})
+            chats.append(temp)
+            golden_response.append(chat_sample[-1].split(': ')[1])
+    return chats, golden_response
+    
+def get_evaluation_chats_NegotiationToM_belief(steer_label):
+    with open('data/NegotiationToM/test.json', 'r') as fin: 
+        data = json.load(fin)
+    chats, golden_response = [], []
+    for item in data:
+        temp = []
+        if (item['agent1_belief_high']==steer_label) and (len(item['dialogue'])>2) and (item['dialogue'][-1].startswith('agent_1')):
+            chat_sample = item['dialogue']
+            for utterance in chat_sample[:-1]:
+                if utterance.split(': ')[0] == 'agent_1':
+                    temp.append({"role": "assistant", "content": utterance.split(': ')[1]})
+                elif utterance.split(': ')[0] == 'agent_2':
+                    temp.append({"role": "user", "content": utterance.split(': ')[1]})
+            chats.append(temp)
+            golden_response.append(chat_sample[-1].split(': ')[1])
+        elif (item['agent2_belief_high']==steer_label) and (len(item['dialogue'])>2) and (item['dialogue'][-1].startswith('agent_2')):
             chat_sample = item['dialogue']
             for utterance in chat_sample[:-1]:
                 if utterance.split(': ')[0] == 'agent_2':

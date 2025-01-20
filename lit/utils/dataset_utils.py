@@ -515,8 +515,10 @@ def get_dataset(train_config, tokenizer, train=True):
 
 
 def get_dataloaders(train_config, tokenizer):
-    dataset_train = get_ToM_dataset(train_config, tokenizer, train=True)
-    # dataset_train = get_dataset(train_config, tokenizer, train=True)
+    if not train_config.is_steer:
+        dataset_train = get_ToM_dataset(train_config, tokenizer, train=True)
+    if train_config.is_steer:
+        dataset_train = get_ToM_steer_dataset(train_config, tokenizer, train=True)
     train_dataloader = torch.utils.data.DataLoader(
         dataset_train,
         num_workers=train_config.num_workers_dataloader,

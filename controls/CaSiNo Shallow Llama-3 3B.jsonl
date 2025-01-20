@@ -1,182 +1,602 @@
 [
   {
     "index": 0,
-    "response": "For the user: The priority for Food, Water and Firewood are respectively Medium, Low and High. For the assistant: The priority for Food, Water and Firewood are respectively High, Medium and Low.",
+    "response": "For the first dialog: The priority for User, Food and Water are respectively High, Medium and Low. For the second dialog: The priority for User, Food and Water are respectively High, Medium and Low.",
     "input_prompt": "How much priority does the assistant and the user assign to different items?",
-    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Medium, Low and High. For the assistant: The priority for Food, Water and Firewood are respectively Medium, Low and High."
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively High, Low and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Medium, High and Low."
   },
   {
     "index": 1,
-    "response": "For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Firewood are respectively High, Medium and Low.",
+    "response": "For the user: The priority for Food, Water and Firewood are respectively Medium, High and Low. For the assistant: The priority for Food, Water and Firewood are respectively Low, Medium and High.",
     "input_prompt": "How much priority does the assistant and the user assign to different items?",
-    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Firewood are respectively High, Low and Medium."
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Low, Medium and High. For the assistant: The priority for Food, Water and Firewood are respectively Low, Medium and High."
   },
   {
     "index": 2,
-    "response": "For the user: The priority for Food, Water and Firewood are respectively High, Low and Medium. For the assistant: The priority for Food, Water and Firewood are respectively High, Medium and Low.",
+    "response": "For the question about the priority, the answer is: For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Low, High and Medium.",
     "input_prompt": "How much priority does the assistant and the user assign to different items?",
-    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively High, Medium and Low. For the assistant: The priority for Food, Water and Firewood are respectively High, Low and Medium."
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Low, Medium and High. For the assistant: The priority for Food, Water and Firewood are respectively Medium, High and Low."
   },
   {
     "index": 3,
-    "response": "For the user: The priority for Food, Water and Firewood are respectively Medium, Low and High. For the assistant: The priority for Food, Water and Firewood are respectively High, Medium and Low.",
+    "response": "For the user: The priority for Food, Water and Firewood are respectively High, Low and Medium. For the assistant: The priority for Food, Water and Firewood are respectively High, Low and Medium.",
     "input_prompt": "How much priority does the assistant and the user assign to different items?",
-    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Firewood are respectively High, Medium and Low."
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively High, Low and Medium. For the assistant: The priority for Food, Water and Firewood are respectively High, Low and Medium."
   },
   {
     "index": 4,
-    "response": "For the user: The priority for Food, Water and Firewood are respectively High, Medium and Low. For the assistant: The priority for Food, Water and Firewood are respectively High, Medium and Low.",
+    "response": "For the user: The priority for Food, Water and Firewood are respectively Low, Medium and High. For the assistant: The priority for Food, Water and Firewood are respectively Low, Medium and High.",
     "input_prompt": "How much priority does the assistant and the user assign to different items?",
-    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Medium, High and Low. For the assistant: The priority for Food, Water and Firewood are respectively High, Low and Medium."
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Low, Medium and High. For the assistant: The priority for Food, Water and Firewood are respectively Medium, Low and High."
   },
   {
     "index": 5,
-    "response": "For the first request: The priority for the user is High, and for the assistant it is Low. For the second request: The priority for the user is High, and for the assistant it is Low.",
+    "response": "For the user: The priority for Food, Water and Firewood are respectively Medium, Low and High. For the assistant: The priority for Food, Water and Firewood are respectively High, Medium and Low.",
     "input_prompt": "How much priority does the assistant and the user assign to different items?",
-    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Low, Medium and High. For the assistant: The priority for Food, Water and Firewood are respectively Low, High and Medium."
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Medium, Low and High. For the assistant: The priority for Food, Water and Firewood are respectively High, Medium and Low."
   },
   {
     "index": 6,
     "response": "For the user: The priority for Food, Water and Firewood are respectively High, Low and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Medium, High and Low.",
     "input_prompt": "How much priority does the assistant and the user assign to different items?",
-    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively High, Medium and Low. For the assistant: The priority for Food, Water and Firewood are respectively Medium, High and Low."
-  },
-  {
-    "index": 7,
-    "response": "For the user: The priority for Food, Water and Firewood are respectively High, Low and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Medium, High and Low.",
-    "input_prompt": "How much priority does the assistant and the user assign to different items?",
-    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Medium, High and Low."
-  },
-  {
-    "index": 8,
-    "response": "For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Firewood are respectively High, Low and Medium.",
-    "input_prompt": "How much priority does the assistant and the user assign to different items?",
-    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively High, Low and Medium. For the assistant: The priority for Food, Water and Firewood are respectively High, Low and Medium."
-  },
-  {
-    "index": 9,
-    "response": "For the user: The priority for Food, Water and Firewood are respectively Medium, Low and High. For the assistant: The priority for Food, Water and Firewood are respectively Low, High and Medium.",
-    "input_prompt": "How much priority does the assistant and the user assign to different items?",
-    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Medium, Low and High. For the assistant: The priority for Food, Water and Firewood are respectively Low, Medium and High."
-  },
-  {
-    "index": 10,
-    "response": "For the user: The priority for Food, Water and Firewood are respectively Medium, High and Low. For the assistant: The priority for Food, Water and Firewood are respectively Medium, Low and High.",
-    "input_prompt": "How much priority does the assistant and the user assign to different items?",
-    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Medium, High and Low. For the assistant: The priority for Food, Water and Firewood are respectively Medium, Low and High."
-  },
-  {
-    "index": 11,
-    "response": "For the user: The priority for Food, Water and Firewood are respectively High, Medium and Low. For the assistant: The priority for Food, Water and Firewood are respectively Low, High and Medium.",
-    "input_prompt": "How much priority does the assistant and the user assign to different items?",
-    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively High, Medium and Low. For the assistant: The priority for Food, Water and Firewood are respectively Low, Medium and High."
-  },
-  {
-    "index": 12,
-    "response": "For the user: The priority for Food, Water and Firewood are respectively Low, Medium and High. For the assistant: The priority for Food, Water and Firewood are respectively High, Medium and Low.",
-    "input_prompt": "How much priority does the assistant and the user assign to different items?",
-    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Medium, Low and High. For the assistant: The priority for Food, Water and Firewood are respectively Medium, High and Low."
-  },
-  {
-    "index": 13,
-    "response": "For the user: The priority for Food, Water and Firewood are respectively Medium, High and Low. For the assistant: The priority for Food, Water and Firewood are respectively Low, High and Medium.",
-    "input_prompt": "How much priority does the assistant and the user assign to different items?",
     "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Medium, High and Low. For the assistant: The priority for Food, Water and Firewood are respectively Medium, High and Low."
   },
   {
-    "index": 14,
-    "response": "For the user: The priority for Food, Water and Firewood are respectively High, Low and Medium. For the assistant: The priority for Food, Water and Firewood are respectively High, Low and Medium.",
+    "index": 7,
+    "response": "For the first dialog: The priority for User and Assistant are respectively Food, Water and Firewood. For the second dialog: The priority for User and Assistant are respectively Food, Water and Firewood. For the third dialog: The priority for User and Assistant are respectively Food, Water and Firewood.",
     "input_prompt": "How much priority does the assistant and the user assign to different items?",
     "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively High, Low and Medium. For the assistant: The priority for Food, Water and Firewood are respectively High, Medium and Low."
   },
   {
-    "index": 15,
-    "response": "For the user: The priority for Food, Water and Firewood are respectively Low, Medium and High. For the assistant: The priority for Food, Water and Firewood are respectively Medium, Low and High.",
+    "index": 8,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively Low, Medium and High. For the assistant: The priority for Food, Water and Firewood are respectively High, Medium and Low.",
     "input_prompt": "How much priority does the assistant and the user assign to different items?",
-    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Medium, Low and High. For the assistant: The priority for Food, Water and Firewood are respectively Medium, Low and High."
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Medium, Low and High. For the assistant: The priority for Food, Water and Firewood are respectively High, Low and Medium."
+  },
+  {
+    "index": 9,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Firewood are respectively High, Medium and Low.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Medium, Low and High. For the assistant: The priority for Food, Water and Firewood are respectively High, Medium and Low."
+  },
+  {
+    "index": 10,
+    "response": "For the user: The priority for Food, Water and Wood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Wood are respectively Low, High and Medium.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Medium, High and Low. For the assistant: The priority for Food, Water and Firewood are respectively Low, High and Medium."
+  },
+  {
+    "index": 11,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively High, Medium and Low. For the assistant: The priority for Food, Water and Firewood are respectively High, Medium and Low.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively High, Medium and Low. For the assistant: The priority for Food, Water and Firewood are respectively Low, High and Medium."
+  },
+  {
+    "index": 12,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively High, Low and Medium. For the assistant: The priority for Food, Water and Firewood are respectively High, Medium and Low.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Low, Medium and High. For the assistant: The priority for Food, Water and Firewood are respectively High, Medium and Low."
+  },
+  {
+    "index": 13,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively High, Low and Medium. For the assistant: The priority for Food, Water and Firewood are respectively High, Low and Medium.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively High, Medium and Low. For the assistant: The priority for Food, Water and Firewood are respectively High, Low and Medium."
+  },
+  {
+    "index": 14,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively High, Medium and Low. For the assistant: The priority for Food, Water and Firewood are respectively Low, Medium and High.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively High, Medium and Low. For the assistant: The priority for Food, Water and Firewood are respectively Low, Medium and High."
+  },
+  {
+    "index": 15,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Medium, Low and High.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively High, Medium and Low. For the assistant: The priority for Food, Water and Firewood are respectively Medium, Low and High."
   },
   {
     "index": 16,
-    "response": "For the user: The priority for Food, Water and Firewood are respectively High, Low and Medium. For the assistant: The priority for Food, Water and Firewood are respectively High, Medium and Low. For the system: The priority for Food, Water and Firewood are respectively High, Low and Medium.",
+    "response": "For the user: The priority for Food, Water and Firewood are respectively Low, Medium and High. For the assistant: The priority for Food, Water and Firewood are respectively High, Low and Medium.",
     "input_prompt": "How much priority does the assistant and the user assign to different items?",
-    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively High, Low and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Low, Medium and High."
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Low, Medium and High. For the assistant: The priority for Food, Water and Firewood are respectively Medium, Low and High."
   },
   {
     "index": 17,
-    "response": "For the user: The priority for Food, Water and Firewood are respectively Medium, High and Low. For the assistant: The priority for Food, Water and Firewood are respectively Low, High and Medium.",
+    "response": "For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Low, High and Medium.",
     "input_prompt": "How much priority does the assistant and the user assign to different items?",
-    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Medium, High and Low. For the assistant: The priority for Food, Water and Firewood are respectively Low, High and Medium."
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Low, High and Medium."
   },
   {
     "index": 18,
     "response": "For the user: The priority for Food, Water and Firewood are respectively High, Low and Medium. For the assistant: The priority for Food, Water and Firewood are respectively High, Medium and Low.",
     "input_prompt": "How much priority does the assistant and the user assign to different items?",
-    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively High, Medium and Low. For the assistant: The priority for Food, Water and Firewood are respectively High, Medium and Low."
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively High, Low and Medium. For the assistant: The priority for Food, Water and Firewood are respectively High, Medium and Low."
   },
   {
     "index": 19,
-    "response": "For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Firewood are respectively High, Low and Medium.",
+    "response": "For the user: The priority for Food, Water and Firewood are respectively Medium, High and Low. For the assistant: The priority for Food, Water and Firewood are respectively High, Medium and Low.",
     "input_prompt": "How much priority does the assistant and the user assign to different items?",
-    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Medium, High and Low. For the assistant: The priority for Food, Water and Firewood are respectively High, Low and Medium."
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Firewood are respectively High, Medium and Low."
   },
   {
     "index": 20,
-    "response": "For the user: The priority for Food, Water and Firewood are respectively Medium, Low and High. For the assistant: The priority for Food, Water and Firewood are respectively Low, High and Medium.",
+    "response": "For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Firewood are respectively High, Low and Medium.",
     "input_prompt": "How much priority does the assistant and the user assign to different items?",
-    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Medium, Low and High. For the assistant: The priority for Food, Water and Firewood are respectively Low, Medium and High."
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Firewood are respectively High, Medium and Low."
   },
   {
     "index": 21,
-    "response": "For the user: The priority for Food, Water and Firewood are respectively Low, Medium and High. For the assistant: The priority for Food, Water and Firewood are respectively High, Medium and Low.",
+    "response": "For the user: The priority for Food, Water and Firewood are respectively High, Low and Medium. For the assistant: The priority for Food, Water and Firewood are respectively High, Low and Medium.",
     "input_prompt": "How much priority does the assistant and the user assign to different items?",
-    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Low, Medium and High. For the assistant: The priority for Food, Water and Firewood are respectively High, Medium and Low."
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Medium, High and Low. For the assistant: The priority for Food, Water and Firewood are respectively Medium, Low and High."
   },
   {
     "index": 22,
-    "response": "For the user: The priority for Food, Water and Firewood are respectively Medium, Low and High. For the assistant: The priority for Food, Water and Firewood are respectively High, Low and Medium.",
+    "response": "For the user: The priority for Food, Water and Firewood are respectively High, Low and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Low, High and Medium.",
     "input_prompt": "How much priority does the assistant and the user assign to different items?",
-    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Medium, Low and High. For the assistant: The priority for Food, Water and Firewood are respectively High, Medium and Low."
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively High, Medium and Low. For the assistant: The priority for Food, Water and Firewood are respectively Medium, High and Low."
   },
   {
     "index": 23,
-    "response": "For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Low, High and Medium.",
+    "response": "For the user: The priority for Food, Water and Firewood are respectively Low, Medium and High. For the assistant: The priority for Food, Water and Firewood are respectively Medium, High and Low.",
     "input_prompt": "How much priority does the assistant and the user assign to different items?",
-    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Medium, High and Low. For the assistant: The priority for Food, Water and Firewood are respectively Low, High and Medium."
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Low, Medium and High. For the assistant: The priority for Food, Water and Firewood are respectively Medium, High and Low."
   },
   {
     "index": 24,
-    "response": "For the user: The priority for Food, Water and Firewood are respectively High, Low and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Low, High and Medium.",
+    "response": "For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Low, High and Medium.",
     "input_prompt": "How much priority does the assistant and the user assign to different items?",
-    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively High, Low and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Low, High and Medium."
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Low, High and Medium."
   },
   {
     "index": 25,
-    "response": "For the user: The priority for Food, Water and Firewood are respectively High, Low and Medium. For the assistant: The priority for Food, Water and Firewood are respectively High, Low and Medium.",
+    "response": "For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Medium, High and Low.",
     "input_prompt": "How much priority does the assistant and the user assign to different items?",
-    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Medium, High and Low. For the assistant: The priority for Food, Water and Firewood are respectively High, Low and Medium."
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Medium, High and Low."
   },
   {
     "index": 26,
     "response": "For the user: The priority for Food, Water and Firewood are respectively High, Low and Medium. For the assistant: The priority for Food, Water and Firewood are respectively High, Low and Medium.",
     "input_prompt": "How much priority does the assistant and the user assign to different items?",
-    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively High, Low and Medium. For the assistant: The priority for Food, Water and Firewood are respectively High, Low and Medium."
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively High, Low and Medium. For the assistant: The priority for Food, Water and Firewood are respectively High, Medium and Low."
   },
   {
     "index": 27,
-    "response": "For the user: The priority for Food, Water and Firewood are respectively High, Low and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Low, High and Medium.",
+    "response": "For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Low, High and Medium.",
     "input_prompt": "How much priority does the assistant and the user assign to different items?",
-    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Medium, High and Low. For the assistant: The priority for Food, Water and Firewood are respectively High, Low and Medium."
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Low, High and Medium."
   },
   {
     "index": 28,
-    "response": "For the user: The priority for Food, Water and Firewood are respectively Medium, Low and High. For the assistant: The priority for Food, Water and Firewood are respectively Low, Medium and High.",
+    "response": "For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Low, Medium and High.",
     "input_prompt": "How much priority does the assistant and the user assign to different items?",
-    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Medium, Low and High. For the assistant: The priority for Food, Water and Firewood are respectively Low, Medium and High."
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Medium, High and Low. For the assistant: The priority for Food, Water and Firewood are respectively Low, Medium and High."
   },
   {
     "index": 29,
     "response": "For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Low, High and Medium.",
     "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Low, High and Medium."
+  },
+  {
+    "index": 30,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively High, Medium and Low. For the assistant: The priority for Food, Water and Firewood are respectively Low, Medium and High.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively High, Medium and Low. For the assistant: The priority for Food, Water and Firewood are respectively Low, High and Medium."
+  },
+  {
+    "index": 31,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Firewood are respectively High, Low and Medium.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Firewood are respectively High, Low and Medium."
+  },
+  {
+    "index": 32,
+    "response": "For the first dialog: The priority for the user is Food, Water and then Firewood. For the assistant: The priority for the user is Food, Water and then Firewood. The priority for the assistant is Food, Water and then Firewood. For the second dialog: The priority for the user is Food, Water and then Firewood. The priority for the assistant is Food, Water and then Firewood.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Medium, Low and High."
+  },
+  {
+    "index": 33,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Low, Medium and High.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Medium, Low and High."
+  },
+  {
+    "index": 34,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively Medium, Low and High. For the assistant: The priority for Food, Water and Firewood are respectively Low, High and Medium.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Low, Medium and High. For the assistant: The priority for Food, Water and Firewood are respectively Medium, High and Low."
+  },
+  {
+    "index": 35,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Low, High and Medium.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Low, High and Medium."
+  },
+  {
+    "index": 36,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively High, Low and Medium. For the assistant: The priority for Food, Water and Firewood are respectively High, Low and Medium.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively High, Low and Medium. For the assistant: The priority for Food, Water and Firewood are respectively High, Low and Medium."
+  },
+  {
+    "index": 37,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Medium, High and Low.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Medium, High and Low."
+  },
+  {
+    "index": 38,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively High, Medium and Low. For the assistant: The priority for Food, Water and Firewood are respectively Low, High and Medium.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively High, Medium and Low. For the assistant: The priority for Food, Water and Firewood are respectively High, Low and Medium."
+  },
+  {
+    "index": 39,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively High, Medium and Low. For the assistant: The priority for Food, Water and Firewood are respectively High, Medium and Low.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively High, Medium and Low. For the assistant: The priority for Food, Water and Firewood are respectively High, Medium and Low."
+  },
+  {
+    "index": 40,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Firewood are respectively High, Low and Medium.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Medium, High and Low. For the assistant: The priority for Food, Water and Firewood are respectively High, Low and Medium."
+  },
+  {
+    "index": 41,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively High, Medium and Low. For the assistant: The priority for Food, Water and Firewood are respectively High, Medium and Low.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively High, Medium and Low. For the assistant: The priority for Food, Water and Firewood are respectively High, Low and Medium."
+  },
+  {
+    "index": 42,
+    "response": "For the subject 'priority', the answer is 'low'. For the subject 'type', the answer is 'user'.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively High, Low and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Low, High and Medium."
+  },
+  {
+    "index": 43,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively High, Medium and Low. For the assistant: The priority for Food, Water and Firewood are respectively High, Medium and Low.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively High, Medium and Low. For the assistant: The priority for Food, Water and Firewood are respectively Low, Medium and High."
+  },
+  {
+    "index": 44,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Low, Medium and High.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Medium, Low and High."
+  },
+  {
+    "index": 45,
+    "response": "For the first dialog: The priority for User: Food, Water and Firewood. The priority for Assistant: Food, Water and Firewood. For the second dialog: The priority for User: Food, Water and Firewood. The priority for Assistant: Food, Water and Firewood.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively High, Low and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Medium, Low and High."
+  },
+  {
+    "index": 46,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively Medium, High and Low. For the assistant: The priority for Food, Water and Firewood are respectively Medium, High and Low.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Medium, High and Low. For the assistant: The priority for Food, Water and Firewood are respectively Medium, High and Low."
+  },
+  {
+    "index": 47,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Medium, High and Low.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Medium, High and Low. For the assistant: The priority for Food, Water and Firewood are respectively Low, High and Medium."
+  },
+  {
+    "index": 48,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Firewood are respectively High, Low and Medium.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Medium, High and Low. For the assistant: The priority for Food, Water and Firewood are respectively High, Low and Medium."
+  },
+  {
+    "index": 49,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively High, Low and Medium. For the assistant: The priority for Food, Water and Firewood are respectively High, Medium and Low.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Medium, High and Low. For the assistant: The priority for Food, Water and Firewood are respectively High, Medium and Low."
+  },
+  {
+    "index": 50,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively High, Medium and Low. For the assistant: The priority for Food, Water and Firewood are respectively Low, Medium and High.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively High, Medium and Low. For the assistant: The priority for Food, Water and Firewood are respectively Low, Medium and High."
+  },
+  {
+    "index": 51,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively Medium, High and Low. For the assistant: The priority for Food, Water and Firewood are respectively Medium, High and Low.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Medium, High and Low. For the assistant: The priority for Food, Water and Firewood are respectively Medium, High and Low."
+  },
+  {
+    "index": 52,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Low, High and Medium.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Medium, High and Low."
+  },
+  {
+    "index": 53,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively High, Medium and Low. For the assistant: The priority for Food, Water and Firewood are respectively Low, Medium and High.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Medium, Low and High. For the assistant: The priority for Food, Water and Firewood are respectively Low, Medium and High."
+  },
+  {
+    "index": 54,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively High, Low and Medium. For the assistant: The priority for Food, Water and Firewood are respectively High, Medium and Low.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively High, Low and Medium. For the assistant: The priority for Food, Water and Firewood are respectively High, Medium and Low."
+  },
+  {
+    "index": 55,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively Low, Medium and High. For the assistant: The priority for Food, Water and Firewood are respectively Low, Medium and High.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Low, Medium and High. For the assistant: The priority for Food, Water and Firewood are respectively Medium, Low and High."
+  },
+  {
+    "index": 56,
+    "response": "For the first request: The priority for the user is Food (High), Water (Low), Firewood (Low). For the assistant: The priority for the assistant is Food (High), Water (Medium), Firewood (Low). For the second request: The priority for the user is Food (High), Water (Medium), Firewood (Low). For the assistant: The priority for the assistant is Food (High), Water (Medium), Firewood (Low).",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively High, Medium and Low. For the assistant: The priority for Food, Water and Firewood are respectively High, Medium and Low."
+  },
+  {
+    "index": 57,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively High, Low and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Low, Medium and High.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively High, Low and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Low, Medium and High."
+  },
+  {
+    "index": 58,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively High, Low and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Low, Medium and High.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively High, Medium and Low. For the assistant: The priority for Food, Water and Firewood are respectively Low, Medium and High."
+  },
+  {
+    "index": 59,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively High, Low and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Low, High and Medium.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively High, Medium and Low. For the assistant: The priority for Food, Water and Firewood are respectively Low, High and Medium."
+  },
+  {
+    "index": 60,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Medium, High and Low.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Low, Medium and High. For the assistant: The priority for Food, Water and Firewood are respectively Medium, High and Low."
+  },
+  {
+    "index": 61,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively Medium, High and Low. For the assistant: The priority for Food, Water and Firewood are respectively Low, High and Medium.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Medium, High and Low. For the assistant: The priority for Food, Water and Firewood are respectively Low, Medium and High."
+  },
+  {
+    "index": 62,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively High, Low and Medium. For the assistant: The priority for Food, Water and Firewood are respectively High, Low and Medium.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively High, Low and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Medium, Low and High."
+  },
+  {
+    "index": 63,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively Medium, High and Low. For the assistant: The priority for Food, Water and Firewood are respectively Low, Medium and High.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Low, Medium and High. For the assistant: The priority for Food, Water and Firewood are respectively Low, Medium and High."
+  },
+  {
+    "index": 64,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively High, Low and Medium. For the assistant: The priority for Food, Water and Firewood are respectively High, Medium and Low.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively High, Medium and Low. For the assistant: The priority for Food, Water and Firewood are respectively High, Medium and Low."
+  },
+  {
+    "index": 65,
+    "response": "For the first dialog: The priority for the user and the assistant are respectively Food, Water and Firewood. For the second dialog: The priority for the user and the assistant are respectively Food, Water and Firewood.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Firewood are respectively High, Low and Medium."
+  },
+  {
+    "index": 66,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Medium, High and Low.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Medium, High and Low."
+  },
+  {
+    "index": 67,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively Medium, Low and High. For the assistant: The priority for Food, Water and Firewood are respectively Medium, Low and High.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Medium, Low and High. For the assistant: The priority for Food, Water and Firewood are respectively Medium, Low and High."
+  },
+  {
+    "index": 68,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively High, Medium and Low. For the assistant: The priority for Food, Water and Firewood are respectively High, Medium and Low.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Medium, High and Low. For the assistant: The priority for Food, Water and Firewood are respectively High, Medium and Low."
+  },
+  {
+    "index": 69,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Low, High and Medium.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Low, High and Medium."
+  },
+  {
+    "index": 70,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively High, Low and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Medium, Low and High.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Medium, Low and High. For the assistant: The priority for Food, Water and Firewood are respectively Medium, Low and High."
+  },
+  {
+    "index": 71,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively Low, Medium and High. For the assistant: The priority for Food, Water and Firewood are respectively High, Low and Medium.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Low, Medium and High. For the assistant: The priority for Food, Water and Firewood are respectively High, Low and Medium."
+  },
+  {
+    "index": 72,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively Medium, High and Low. For the assistant: The priority for Food, Water and Firewood are respectively High, Medium and Low.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Low, Medium and High. For the assistant: The priority for Food, Water and Firewood are respectively High, Medium and Low."
+  },
+  {
+    "index": 73,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively Medium, High and Low. For the assistant: The priority for Food, Water and Firewood are respectively Medium, Low and High.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Medium, High and Low. For the assistant: The priority for Food, Water and Firewood are respectively High, Low and Medium."
+  },
+  {
+    "index": 74,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively High, Medium and Low. For the assistant: The priority for Food, Water and Firewood are respectively High, Low and Medium.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively High, Medium and Low. For the assistant: The priority for Food, Water and Firewood are respectively Low, High and Medium."
+  },
+  {
+    "index": 75,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively High, Low and Medium. For the assistant: The priority for Food, Water and Firewood are respectively High, Low and Medium.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively High, Medium and Low. For the assistant: The priority for Food, Water and Firewood are respectively Medium, High and Low."
+  },
+  {
+    "index": 76,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively High, Low and Medium. For the assistant: The priority for Food, Water and Firewood are respectively High, Medium and Low.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively High, Low and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Low, High and Medium."
+  },
+  {
+    "index": 77,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively Low, Medium and High. For the assistant: The priority for Food, Water and Firewood are respectively High, Medium and Low.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Low, Medium and High. For the assistant: The priority for Food, Water and Firewood are respectively High, Low and Medium."
+  },
+  {
+    "index": 78,
+    "response": "For the 'role' key: The value is 'user' for the 'content' key. For the 'content' key: The value is 'priorities' for the 'role' key.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively High, Medium and Low. For the assistant: The priority for Food, Water and Firewood are respectively Low, Medium and High."
+  },
+  {
+    "index": 79,
+    "response": "For the dialog party: 'assistant' and 'user' respectively. For the dialog turn: The priority for the user is High, The priority for the assistant is Low. For the message party: The priority for the user is Low, The priority for the assistant is High.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Medium, Low and High. For the assistant: The priority for Food, Water and Firewood are respectively Low, High and Medium."
+  },
+  {
+    "index": 80,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively High, Low and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Low, High and Medium.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively High, Low and Medium. For the assistant: The priority for Food, Water and Firewood are respectively High, Medium and Low."
+  },
+  {
+    "index": 81,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively High, Low and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Low, High and Medium.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively High, Low and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Medium, High and Low."
+  },
+  {
+    "index": 82,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively Low, Medium and High. For the assistant: The priority for Food, Water and Firewood are respectively Low, Medium and High.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
     "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Low, Medium and High. For the assistant: The priority for Food, Water and Firewood are respectively Low, High and Medium."
+  },
+  {
+    "index": 83,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Firewood are respectively High, Low and Medium.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Firewood are respectively High, Medium and Low."
+  },
+  {
+    "index": 84,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively High, Low and Medium. For the assistant: The priority for Food, Water and Firewood are respectively High, Low and Medium.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively High, Medium and Low. For the assistant: The priority for Food, Water and Firewood are respectively High, Medium and Low."
+  },
+  {
+    "index": 85,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Firewood are respectively High, Low and Medium.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Medium, High and Low. For the assistant: The priority for Food, Water and Firewood are respectively Medium, High and Low."
+  },
+  {
+    "index": 86,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively High, Low and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Low, Medium and High.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Medium, Low and High. For the assistant: The priority for Food, Water and Firewood are respectively Low, Medium and High."
+  },
+  {
+    "index": 87,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Low, Medium and High.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Medium, High and Low. For the assistant: The priority for Food, Water and Firewood are respectively Medium, Low and High."
+  },
+  {
+    "index": 88,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively High, Low and Medium. For the assistant: The priority for Food, Water and Firewood are respectively High, Low and Medium.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively High, Low and Medium. For the assistant: The priority for Food, Water and Firewood are respectively High, Low and Medium."
+  },
+  {
+    "index": 89,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Firewood are respectively High, Low and Medium.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Firewood are respectively High, Medium and Low."
+  },
+  {
+    "index": 90,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Firewood are respectively High, Medium and Low.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Medium, High and Low. For the assistant: The priority for Food, Water and Firewood are respectively High, Medium and Low."
+  },
+  {
+    "index": 91,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Low, Medium and High.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Medium, High and Low. For the assistant: The priority for Food, Water and Firewood are respectively Low, Medium and High."
+  },
+  {
+    "index": 92,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively High, Low and Medium. For the assistant: The priority for Food, Water and Firewood are respectively High, Medium and Low.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively High, Low and Medium. For the assistant: The priority for Food, Water and Firewood are respectively High, Medium and Low."
+  },
+  {
+    "index": 93,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively High, Low and Medium. For the assistant: The priority for Food, Water and Firewood are respectively High, Low and Medium.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively High, Low and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Medium, High and Low."
+  },
+  {
+    "index": 94,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Firewood are respectively High, Low and Medium.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the assistant: The priority for Food, Water and Firewood are respectively High, Low and Medium."
+  },
+  {
+    "index": 95,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively Low, Medium and High. For the assistant: The priority for Food, Water and Firewood are respectively Low, Medium and High.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Medium, High and Low. For the assistant: The priority for Food, Water and Firewood are respectively Medium, Low and High."
+  },
+  {
+    "index": 96,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively High, Low and Medium. For the assistant: The priority for Food, Water and Firewood are respectively Low, Medium and High.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Medium, Low and High. For the assistant: The priority for Food, Water and Firewood are respectively Low, Medium and High."
+  },
+  {
+    "index": 97,
+    "response": "For the assistant: The priority for Food, Water and Firewood are respectively Low, High and Medium. For the user: The priority for Food, Water and Firewood are respectively Low, High and Medium.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Medium, High and Low. For the assistant: The priority for Food, Water and Firewood are respectively Low, High and Medium."
+  },
+  {
+    "index": 98,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively Medium, High and Low. For the assistant: The priority for Food, Water and Firewood are respectively Low, High and Medium.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Medium, High and Low. For the assistant: The priority for Food, Water and Firewood are respectively Medium, High and Low."
+  },
+  {
+    "index": 99,
+    "response": "For the user: The priority for Food, Water and Firewood are respectively Medium, High and Low. For the assistant: The priority for Food, Water and Firewood are respectively Low, High and Medium.",
+    "input_prompt": "How much priority does the assistant and the user assign to different items?",
+    "ground_truth": "For the user: The priority for Food, Water and Firewood are respectively Medium, High and Low. For the assistant: The priority for Food, Water and Firewood are respectively Medium, High and Low."
   }
 ]
