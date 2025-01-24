@@ -55,7 +55,7 @@ class steer_config:
     save_model: bool = False
     # Added this part for modifying the ToM component
     steer_component: str = "Intention"
-    steer_label: str = "Promote-Coordination"
+    steer_label: str = "Show-Empathy"
 
     def __post_init__(self):
         mlp_modules = ["gate_proj", "up_proj", "down_proj", "lm_head"]
