@@ -316,7 +316,7 @@ def get_NegotiationToM_text(train_config, tokenizer, train=True):
     data_path = train_config.train_qa if train else train_config.eval_qa
     with open(data_path, 'rb') as fin:
         data = json.load(fin)
-    print(data[0])
+    # print(data[0])
     read_prompts, QAs = [], []
     for item in data:
         temp = []

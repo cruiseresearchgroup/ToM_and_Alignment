@@ -1,8 +1,0 @@
-aiohttp
-fire
-matplotlib
-numpy==1.26.0
-peft==0.10.0
-transformers>=4.46.2
-tqdm
-wandb
