@@ -27,11 +27,11 @@ class train_config:
     eval_every_n_steps: int = 334
     # Please change to a directory with ample space as model checkpoints are saved here
     # output_dir: str = "out/runs"
-    output_dir: str = "/srv/scratch/CRUISE/Mehdi/out/runs"
+    output_dir: str = "/srv/scratch/CRUISE/Mehdi/out/runs-2"
     save_model: bool = True
     save_after_epoch: bool = True
     use_wandb: bool = True
-    run_name: str = "NegotiationToM Intention 8B"
+    run_name: str = "NegotiationToM Intention 3B"
 
     # Patching args
     shift_position_ids: bool = True
@@ -62,6 +62,6 @@ class train_config:
     use_peft: bool = True
     use_fsdp: bool = False
     # Set to true if the model will be used for steering
-    is_steer: bool = False
+    is_steer: bool = True
     steer_component: str = "Belief"
     
