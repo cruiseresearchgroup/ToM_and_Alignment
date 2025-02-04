@@ -43,7 +43,7 @@ class steer_config:
     modify_chat_template: bool = True
     shift_position_ids: bool = True
 
-    lr: float = 1e-4
+    lr: float = 5e-5
     seed: int = 42
     batch_size_training: int = 1
     samples: int = 50
