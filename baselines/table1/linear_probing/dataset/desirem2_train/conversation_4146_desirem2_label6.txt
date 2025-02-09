@@ -1,0 +1,31 @@
+### Human: Hello! I want to make a purchase of some essential needs for me and my family.
+
+### Assistant: Hello, the trip sounds like it will be a lot of fun.  What is the most important essential package for you and your family?  I know we didnt bring a lot of food so I am looking for more of that than anything else.
+
+### Human: Yes! Hope for lot of fun. Is there any special deal can you offer for maximum order.
+
+### Assistant: What item are you looking for the most of?  
+
+### Human: Water and food is on high need than the firewood. Expect for the best combo for food and water.
+
+### Assistant: I brought plenty of water.  I think I could give you all 3 water. Food is what I need the most of so wonder if I took 2 packages of food and left you 1?
+
+### Human: It's better to give 2 packages on both 
+
+### Assistant: 2 packages of both of what?  Water and food?
+
+### Human: I mean water and food
+
+### Assistant: Is food something you need the most of or is it water?
+
+### Human: I need 2 packages of both food and water on each
+
+### Assistant: Food is a hard one to give 2 packes of since I dont have very much and need to feed my family.  We do have plenty of water though.  Would you be willing to take 3 packages of water and only get 1 package of food?
+
+### Human: Is any other item is left with you to add 
+
+### Assistant: I would be willing to give you 3 water, 1 food, and 1 firewood which we be 5 packages for you.  I would take 2 food and 2 firewood which would be 4 packages for me
+
+### Human: Someone have to be compromise and I agreed to the above said one.
+
+### Assistant: Submit-Deal

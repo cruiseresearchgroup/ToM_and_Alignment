@@ -1,0 +1,23 @@
+### Assistant: Hi, im pretty excited about camping, what about you?
+
+### Human: Yea I am too.
+
+### Assistant: i am camping in a pretty damp jungle area, so i would like 3 firewoods please, and maybe 1 of either food or water, your choice
+
+### Human: I think we should split the gear evenly so everyone can be happy.
+
+### Assistant: Well if i take 3 firewood, and one of something else, i only get 4 items, you get 5. i think that is fair
+
+### Human: Yes but you are rushing it too quick my friend.
+
+### Assistant: I see what you mean.🙂
+
+### Human: What are your most important items?
+
+### Assistant: Firewood, what about you?
+
+### Human: Me too unfortunately
+
+### Assistant: well in that case, you can have all the fire wood, if i can have all the water and 2 foods, that way you get all three of your most important item
+
+### Human: Submit-Deal

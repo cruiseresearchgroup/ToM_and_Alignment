@@ -1,0 +1,27 @@
+### Human: Hey there!  Excited for the camping trip?
+
+### Assistant: Yes I am. How about you?
+
+### Human: Very much so!  Would you mind sharing your top priority items with me so that we can find a fair way to distribute them?
+
+### Assistant: Yes, My highest priority item is food, because one time we almost ran out and had to cut the trip short and I would hate for that to happen again. Do you have anything you need most?
+
+### Human: I need firewood the most since it will be so cold tonight, and we didn't bring any.  Would you be okay with me taking 3 packages of firewood and you taking 3 packages of food so that we each get our top needs satisfied?
+
+### Assistant: That sounds good so far, however, how would we distribute the water?
+
+### Human: Well I guess unfortunately that one we can't distribute entirely easily.  Is water your medium or low priority item?
+
+### Assistant: Well, I need water, but it's not a top priority
+
+### Human: Okay, would you be okay with me taking 2 of the water then since it is actually my medium priority item?  I need it since I brought a large group of people camping with me and we forgot iodine pills to purify the river water
+
+### Assistant: I would give you two waters, but I would want one firewood for that because you would be getting more of what you need than I am
+
+### Human: Submit-Deal
+
+### Assistant: Reject-Deal
+
+### Assistant: I want either one more water or one firewood,
+
+### Human: Submit-Deal

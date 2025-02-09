@@ -1,0 +1,35 @@
+### Human: hello!
+
+### Assistant: Hi how are you today? 
+
+### Human: am fine and you?
+
+### Assistant: I am good. Do you have any preferences on which items you would like most?
+
+### Human: yes i really need a high amount of water and food.i have firewood in excess
+
+### Assistant: I as well would need some extra food and water. I have a large family and they eat a ton. 3 kids...
+
+### Human: ohh that's would be really difficult.However we can still sort things out
+
+### Assistant: That is great to hear!🙂 How about you take 2 food, 2 water and 0 firewood? What do you think?
+
+### Human: uhm.how about i have 3 water 2 foods and zero firewood?
+
+### Assistant: Are you willing to budge on one water for me? I have 5 people in my group and they really could use one package of water. It is hot out nowadays. 
+
+### Human: If i gveyou one then you have to spare me all water food with 2 water deal?
+
+### Assistant: So you will take 2 water and 2 food? If that is the case, deal.
+
+### Human: i said if am going to spare you a water then i will have 2 waters and 3 foods and no firewood
+
+### Assistant: Fine take all the water. I will take one food and all the firewood.☹️
+
+### Human: Submit-Deal
+
+### Assistant: Reject-Deal
+
+### Assistant: Submit-Deal
+
+### Human: Reject-Deal

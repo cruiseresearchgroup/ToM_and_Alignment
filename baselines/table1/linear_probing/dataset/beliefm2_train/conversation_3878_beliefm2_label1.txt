@@ -1,0 +1,23 @@
+### Assistant: Hi there fellow camper!
+
+### Human: Howdy 🙂 How are things?
+
+### Assistant: I can't complain since I have a fun trip coming up! How about you?
+
+### Human: I'm pretty decent.  I just had a bit of a problem with my blood sugar level but otherwise I'm doing fine.
+
+### Assistant: Oh no! I hope you are okay! 
+
+### Human: Yeah, I'm okay now.  It's just that I need to have a lot of food around to be able to manage it properly.  Like on this camping trip.
+
+### Assistant: I totally understand! I am in need of food too, but it sounds like you really need it so I am hapy to give you all of the food if I can have all of the firewood?
+
+### Human: What is your need for water?  I could use some of that, too.
+
+### Assistant: I am pretty desperate for water! I tend to get thrisy when camping. Can I have 2 of the water?
+
+### Human: I could live with that but I'd need to get one firewood.  I don't feel comfortable going with so little water but then also not having any firewood, since that's potentially useful for both food and water.
+
+### Assistant: Submit-Deal
+
+### Human: Reject-Deal

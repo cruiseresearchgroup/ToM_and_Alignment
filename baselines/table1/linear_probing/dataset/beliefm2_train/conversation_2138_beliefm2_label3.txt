@@ -1,0 +1,23 @@
+### Assistant: Hi! What are your preferences for the packages?
+
+### Human: Hello its good to speak with you today🙂. My first priority is firewood, second is water. How about you?
+
+### Assistant: Same here so it looks like we're in the same boat. I would really like to take all 3 firewood, as I'm going to a high altitude. I would be willing to give you 2 waters though. Does that work?
+
+### Human: Well if you take 3 firewood, give me 3 waters. We'll split the food since we have the same priority.
+
+### Assistant: That doesn't work for me. Let's try to come to an agreement where we both get a bit of all three items.
+
+### Human: Okay. Why don't we each get two of everything and then split the rest.
+
+### Assistant: Sorry I'm not sure I understand, since there are only three packages available of each item. Do you mean we each get one firewood, one water, one food, and negotiate the rest afterwards?
+
+### Human: No. We each get 2 firewood, 2 water and 2 food (total of 6). There would be 1 of each left (total of 9 overall). We would split the remaining 3 - 1 water, 1 firewood and 1 food.
+
+### Assistant: But if we each get two firewood that means there are four available. Am I missing something? I didn't have any coffee this morning.
+
+### Human: I'm sorry you are correct. We would get 1 of each.
+
+### Assistant: Ok no problem! I was wonderinf if I was going crazy haha. Ok so it sounds like we'll have to duke it out over the firewood. I'm going to a high altitude where there's not a lot of brush to collect, so that's why I want it. How about you?
+
+### Human: You can have the remaining firewood and food if you give me the remaining water.

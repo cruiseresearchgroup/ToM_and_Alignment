@@ -1,0 +1,23 @@
+### Human: Hi there! Curious as to what's on your mind regarding each item. I have my own preferences, but will share after you.
+
+### Assistant: Hello, well I really need food. Have a lot of extra people.
+
+### Human: Awesome - same, I also need a ton of food. Will firewood be of interest to you as well? I'll be happy to compensate in this way
+
+### Assistant: Firewood is not overly interesting to me, but water is somewhat enticing.
+
+### Human: Ok, great - I can give you all of my waters in exchange for a majority of the food and half of firewood
+
+### Assistant: Half of firewood? There are 3 so one of us has to get more. I would need more of that. 
+
+### Human: Yep, I know there's three and no way to split evenly lol - can you give me a justifiable reason as to why you deserve more over me? Please convince me.
+
+### Assistant: Well, food is the most important and you're getting that so I'm gonna need more of the others.
+
+### Human: What are your thoughts on the amount of water you need?
+
+### Assistant: I would need 2 out of 3 as well.
+
+### Human: Interesting - you're essentially saying that you need the majority of two of the three items. Hmm...
+
+### Assistant: Yes, thats all. I need 1/3 food, 2/3 water, and 2/3 firewood.

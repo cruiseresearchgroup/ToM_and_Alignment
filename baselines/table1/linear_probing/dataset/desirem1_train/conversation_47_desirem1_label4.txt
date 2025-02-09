@@ -1,0 +1,23 @@
+### Assistant: Hello, I hope you are well.  I have a metabolic issue that requires me to eat a lot of food.  So I would like all 3 of the food items.  What is your preference?
+
+### Human: Hi, I'm well. That sounds like a serious issue, I would be willing to give up all of the food for all of the water and then some firewood to make up for the food I won't have. I'll be camping in the desert with little water and extremely cold at night. Thoughts?
+
+### Assistant: So lets see, i need a little water.  How about I get 1 water and 1 firewood
+
+### Human: Could I have all of the firewood then and then you can have one the waters along with the food? I need to make sure I have enough to stay warm at night.
+
+### Assistant: Can I have one firewood? I have to stay warm?
+
+### Human: I guess I can give up one firewood in exchange for one food. There's really no resources where I'm camping and if I don't have enough I'm out of luck.
+
+### Assistant: I would rather keep the food and give up the firewood. So how about I get 3 water, 1 food, and no firewood.
+
+### Human: Sorry water is absolutely my priority. How about this, 3 water for me and 1 firewood, and then 2 firewood for you and 3 food. That way you have more resources overall to address to your metabolic issue. 
+
+### Assistant: How about 2 Food for me, 1 water, and 1 firewood
+
+### Human: I need water over food. If you're going to take what I need most I need more resources overall to make up for it.
+
+### Assistant: Ok, I will accept your deal of 3 food for, 2 firewood, and no water?
+
+### Human: Submit-Deal

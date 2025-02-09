@@ -1,0 +1,31 @@
+### Assistant: How about I get 2 food packages, 2 firewood packages, and 2 water packages?
+
+### Human: I disagree with that offer.  That gives you way more than me.
+
+### Assistant: Okay. I agree 🙂 How do you think we should share it?
+
+### Human: I would like 2 foods, 2 firewood and 1 water. 🙂
+
+### Assistant: I do have my 9 year old daughter with me and I need to make sure she has enough food. Could you get by with 1 food?
+
+### Human: No I really need 2 foods because I have a disease that make my immunity lowered when I don't eat right.
+
+### Assistant: I completely understand! We both need to stay safe. I can get by with 1 water because I have a water filter with me. I can always go to the stream to get more.
+
+### Human: Okay then I agree to take 2 water then.  How about the firewood?.  I have been sick lately and really need to stay warm.  I really need 2 firewood.
+
+### Assistant: I am worried about my daughter being warm at night. I would be okay probably but I want her to be warm.
+
+### Human: Well then if you take 2 firewood, then I want 2 food. Is that alright?
+
+### Assistant: The two firewood would make me feel better. And I can make do with 1 water. And you can have the 2 food because of your illness. Does that work for you?
+
+### Human: Yes that sounds like a deal.
+
+### Assistant: Let me make sure - - I get 1 food, 2 firewood and 1 water. You get 2 food, 1 firewood, and 2 water. Is that it?
+
+### Human: yes that is it🙂
+
+### Assistant: Submit-Deal
+
+### Human: Reject-Deal

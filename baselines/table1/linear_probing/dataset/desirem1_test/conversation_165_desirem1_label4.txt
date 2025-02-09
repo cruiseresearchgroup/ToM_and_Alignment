@@ -1,0 +1,23 @@
+### Assistant: Oh my, it's a bit hotter out here then I expected. I hope that I brought enough water for this camping trip.
+
+### Human: Hi! Are you excited?
+
+### Assistant: Yes, I am but I do have my worries. How about you? 
+
+### Human: Me too! im bringing my 5 month old baby with me and im worried im not gonna be able to find purified water for his formula!
+
+### Assistant: Ah, Baby's first camping trip. 🙂 But that is a bit of a big worry. 
+
+### Human: Yea so I was hoping i could get 3 of the waters if possible and 1 firewood and you can have the rest!
+
+### Assistant: I really wish I could take you up on that offer but I could really use some of that water as well. Perhaps, I can get one water while I'll give you some extra food.
+
+### Human: okay so how about i take 2 waters 1 firewood and 2 food?
+
+### Assistant: Are you sure that's enough firewood for you and the baby? I know that babies can easily get very sick from dropping temperatures.
+
+### Human:  would you mind then if i take 2 waters 2 firewood and 1 food? does that work for you?
+
+### Assistant: That sounds like a deal to me. Please be careful with your baby on your trip.🙂
+
+### Human: Submit-Deal

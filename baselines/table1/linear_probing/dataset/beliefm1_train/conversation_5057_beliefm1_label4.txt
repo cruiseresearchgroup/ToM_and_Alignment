@@ -1,0 +1,23 @@
+### Assistant: Hello, can you please get the deal done?
+
+### Human: Sure. I think we can come to a good agreement!
+
+### Assistant: YEah, good to hear that from you
+
+### Human: I think that while firewood is very important, I can make a workaround for my needs
+
+### Assistant: I am someone that needs enough water to survive as well
+
+### Human: So water is the most important to you?
+
+### Assistant: It's very important, considering the firewood and food, I should be able to solve myself out.
+
+### Human: OK. I definitely think we can come to a mutually agreeable deal 
+
+### Assistant: Yes. I am very happy to be able to deal with you in such understanding way.
+
+### Human: So, I think its time for us to make a deal!
+
+### Assistant: Okay then, so let's finish this.
+
+### Human: Submit-Deal

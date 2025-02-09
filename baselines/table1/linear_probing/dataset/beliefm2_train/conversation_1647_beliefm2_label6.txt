@@ -1,0 +1,23 @@
+### Human: Hi 
+
+### Assistant: Hi.  How are you today. 
+
+### Human: good thanks
+
+### Assistant: Me Too.  How about I get 2 water and 2 food and 1 firewood?  You can have the rest.
+
+### Human: I was thinking the same for myself. I am really sensitive to the heat so water is essential for me so that I don't pass out
+
+### Assistant: I understand that completely, but I have kidney disease so I need the extra water for my kidneys to function properly.
+
+### Human: I think we need to assign more value to the water so we can get an even value. Whoever gets the two waters should get one food and one firewood. that seems only fair
+
+### Assistant: I agree that the water has higher value.  I'll take 2 waters and the one food and one firewood.  Do you agree with that since I have the medical condition?
+
+### Human: I'll give you an option to consider. You can use the firewood to boil water at the campsite to make it useable. So either option works for me. To be clear we are deciding between option A 2 water, 1 food and 1 firewood and option b 1 water 2 food and 2 firewood. I am ok with either
+
+### Assistant: I really need the extra water, so I'll take option A.  🙂
+
+### Human: ok I'll take B and we have a deal
+
+### Assistant: Submit-Deal

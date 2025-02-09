@@ -1,0 +1,23 @@
+### Human: Hello how are you doing? Did you forget anything for the trip?
+
+### Assistant: not really but we could use some more water, we forgot how hot it was here
+
+### Human: It is the middle of summer and I am hot as well 🙂
+
+### Assistant: we packed all this food but not extra water, I really hate carrying this
+
+### Human: Humm, I totally forgot my axe and I really need some firewood, I could get by with 1 water if 2 would do enough for you 🙂
+
+### Assistant: we really don't have much extra firewood but i guess i could spare 1, i was hoping to reade some of this food, my back is killing me from lugging it around🙂🙂🙂
+
+### Human: My ideal split of the extras would have been 2 firewood, 2 water and 1 food but I think we can come to an agreement. 🙂
+
+### Assistant: i could see myself trading a firewood and a food for 2 waters, everyone knows water is cheaper then food🙂
+
+### Human: How about you get 1 firewood, 3 waters and I get the rest? Sound good to you?
+
+### Assistant: You know i should ask for more, but i don't want to come across as greedy, so OK🙂
+
+### Human: THat works for me if it works for you🙂
+
+### Assistant: Submit-Deal

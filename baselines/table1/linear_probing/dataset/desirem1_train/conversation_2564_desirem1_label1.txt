@@ -1,0 +1,23 @@
+### Assistant: Hi there, i was hoping to obtain 3 additional packages of food for my camping trip. At the last minute my teenage son decided to bring a couple of buddy's along on the trip and I didnt pack enough food. I thought they could go fishing and catch more food but they havent been able to catch a single fish. I would also need a little extra water as well. How are you doing with your supplies.
+
+### Human: Hello, we'll we will see about that. I really need firewood most and foremost.
+
+### Assistant: that sounds pretty good. We did bring a propane grill for cooking so I can spare some extra firewood. 
+
+### Human: Thats awesome! Looking forward to working out a deal for you.
+
+### Assistant: If you will give me three food packages I will give you three firewood bundles and we just need to work out the water
+
+### Human: That sounds great to me. I would love that idea. How badly do you need water?
+
+### Assistant: Well I did pack some other juices and sodas so I would be willing to compromise on water
+
+### Human: Sounds great. If I could have 2, that would be great.
+
+### Assistant: As long as I get three food bundles and one water I guess that is acceptable. 
+
+### Human: Sounds great to me! We have a deal! 
+
+### Assistant: That sounds good. Thanks for working with me.
+
+### Human: Nice dealing with you!

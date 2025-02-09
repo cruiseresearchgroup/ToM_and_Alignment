@@ -1,0 +1,23 @@
+### Assistant: Hi, I am going on a camping trip this weekend with my family and I was wondering if you could spare 3 waters and 3 food items? 
+
+### Human: I am okay giving up the food items, but I need water for my family to hike and camp with.  I would also like the 3 firewood since we will be using it for fires to cook our food.
+
+### Assistant: I hear you, but I heard it is going to be really hot were we are going and I can't afford to give up any water. I have small kids and really need some extra water to use. Also, we like to have a fire at night so I can't give you all my wood. What do you like to do on your camping trips
+
+### Human: I also have small kids with me who go through water like crazy.  We love to venture out and go on hikes.  We also enjoy spending time by the campfire at night to cook our dinner and make smores.  That is where we really have the best family time.  I will need the firewood for that.  
+
+### Assistant: Well I will give you 2 firewoods and 2 waters for 3 foods and 1 firewood. Sounds like we both have similar interests when we go camping.
+
+### Human: That sounds perfect.  It sounds like you have a lot of little mouths to feed.  What do you do camping>
+
+### Assistant: We also like to hike and have a fire each night. How long are you camping for?
+
+### Human: We will be camping for a long weekend, so 4 nights.  How about you?
+
+### Assistant: we are going for a week so the more food we can get the better.
+
+### Human: Sounds good.  Enjoy your trip!
+
+### Assistant: thanks you to! thanks for the food and one piece of fire wood.
+
+### Human: Submit-Deal

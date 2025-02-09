@@ -1,0 +1,23 @@
+### Assistant: Hello there. I
+
+### Human: Hello!
+
+### Assistant: I'm interested in making a deal with you on the packages.
+
+### Human: I think that I have some opinions about what might work best for me and be fair for us both. What is the most important to you out of the three items available?
+
+### Assistant: I need water the most. What do you prefer?
+
+### Human: Water is also important to me, but I think that a large amount of firewood and food could also benefit me as well.
+
+### Assistant: I see. I don't need firewood that much. Would you like to take all of it so I can get more of the food and water?
+
+### Human: I would still need a bit of food, but yes the firewood would help me
+
+### Assistant: 🙂 Great! Take all the firewood then. Then I'll take a greater share of the food and water.
+
+### Human: No, I will still need more food. 
+
+### Assistant: You drive a hard bargain. 😮
+
+### Human: Submit-Deal

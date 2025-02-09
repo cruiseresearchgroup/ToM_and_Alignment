@@ -1,0 +1,23 @@
+### Assistant: I'm starving, can you spare an extra food package?
+
+### Human: I want somewhat more food package for my camping.
+
+### Assistant: I need more food also, can I give you some firewood?
+
+### Human: I am also starving, because of my health issue.
+
+### Assistant: I also have a health issue, suspect a bladder infection. Would you consider 2 packages of firewood for an extra bottle of water?
+
+### Human: No, i would consider you for the extra package of firewood and water. But i need extra food package.
+
+### Assistant: All of your firewood and water for one extra package of food?
+
+### Human: No.. It is not a good deal. 
+
+### Assistant: What would you need for all of your water?
+
+### Human: I will give you some water and firewood. But not all the extra package.
+
+### Assistant: Would you give me one bottle of water and one firewood in exchange for one package of food?
+
+### Human: Submit-Deal

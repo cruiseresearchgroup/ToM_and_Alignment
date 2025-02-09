@@ -1,0 +1,23 @@
+### Human: Howdy! Looking for firewood, water and food--really trying to get 3 packages of each, want to make sure my family has enough supplies for camping. I don't want anyone injured or our vacation cut short.
+
+### Assistant: Ok.  I am looking to have one package of water and on package of food.
+
+### Human: Is there any way you could let us have 3 packages of each? I'm just trying to make sure my family has enough, we don't get to get out in the woods that often. It's really important to us.
+
+### Assistant: Well, I need 1 package of each.
+
+### Human: One package of each might be doable--I thought you said you only needed one package of water and food? Can I get 3 packages of firewood at least? That's easily the most important to us, I don't want anyone getting a cold weather injury.
+
+### Assistant: I think that one package of water, one package of food and 0 packages of firewood would be ok for me.
+
+### Human: Alright, I think that's agreeable to me too. I really appreciate it, that means a lot to me and my family.
+
+### Assistant: How many family members do you have? 
+
+### Human: Me, my wife and our two kids.
+
+### Assistant: I could use 1 package of firewood if your family has other heating options like a butane food cooker.
+
+### Human: I'm sorry, we really don't have any other options. I could really use 3 packages of firewood--I just can't risk a cold weather injury. Plus I promised everyone we'd be doing things the old fashioned way.
+
+### Assistant: Ok, thqt is a deal.

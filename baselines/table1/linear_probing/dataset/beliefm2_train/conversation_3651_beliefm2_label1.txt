@@ -1,0 +1,23 @@
+### Human: Hi there.  I'm really looking forward to this camping trip!  Hope we can make a deal over these extra supplies.  🙂  I was hoping to do some hiking and swimming away from my campsite, so having some extra fresh water would be really helpful to me.
+
+### Assistant: Hello there.  I too am looking forward to this trip.  Definitely need to decompress. 
+
+### Human: Sounds like it'll be great for both of us.  Is there anything extra you need?
+
+### Assistant: My favorite thing to do around the campfire is to sing songs.  I also like to do extra hiking as well.  I especially need firewood. 
+
+### Human: Well, I could see fit to give you the extra firewood (If I can hear a few of your songs!) if you don't mind letting me take the water.
+
+### Assistant: Hahaha, once you hear my singing you might hope the opposite.  I can do that with the firewood and water, but I really would prefer two of the remaining foods. 
+
+### Human: I could also use the extra food, so can we resolve it amicably?  Coin flip maybe?
+
+### Assistant: That's a good idea.  I'll trust you to do the coin flip.  
+
+### Human: Sure.  🙂  I'll grab a coin.
+
+### Assistant: Calling tails.  
+
+### Human: Looks like 2 to you!  So it's 3 water and 1 food to me then, 3 firewood and 2 food to you?
+
+### Assistant: I appreciate your honesty!  Sounds good to me.

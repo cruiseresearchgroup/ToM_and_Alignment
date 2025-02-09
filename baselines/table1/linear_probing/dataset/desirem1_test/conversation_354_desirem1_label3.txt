@@ -1,0 +1,23 @@
+### Assistant: hello
+
+### Human: Hi, I was wondering where you were.  I need firewood, you can have two of everything else.
+
+### Assistant: I'm planning my camping trip now.  It's looking like I'm going to need some food.  
+
+### Human: How about this, I'll give you three food and one water?  I really need the firewood for cooking.
+
+### Assistant: How about we trade three firewood for 3 food?  that way we both get what we need the most
+
+### Human: That's good, but we still need to split the water.  I'll need water, because I'm fishing anf it gets hot.
+
+### Assistant: Ok so we have a deal on the 3 for 3 firewood for food?  Where are you going to be fishing at?
+
+### Human: Lake tenkiller, some nice bass there.  Are you going into the hills?
+
+### Assistant: I'm heading for the mountains.  I can use one package of water for the hike up and back.  YOu could take the other two packages to quench your thirst while reeling in some monster bass!
+
+### Human: Cool.  I'll take three firewood and two water, you get three food and one water.  Do we have a deal?
+
+### Assistant: Sounds like we have a deal to make the most out of our camping trips!  Do I submit it?
+
+### Human: Wait while I do it'll prompti you when you answer questions.

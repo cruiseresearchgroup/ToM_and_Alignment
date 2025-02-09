@@ -1,0 +1,23 @@
+### Assistant: hello my friend i will like to ask for 3 food 1 firewood and 1 water.is that okay for you and which do you prefer?
+
+### Human: I would really like to take some extra food myself. I need to bring my family, and my kids eat so much these days. I'm willing to give some extra firewood for it.
+
+### Assistant: can i take 2 food while you take 1 ?because i have a lot of people to feed here as well.
+
+### Human: If we do that, could I have 3 water?
+
+### Assistant: yes you can have all the water we have a large lake near us here.we have all the water we need.we would not be needing the water
+
+### Human: Excellent. So it looks like I would take 1 food and 3 water. Should we split the firewood so we each have enough?
+
+### Assistant: yes that is correct can i take 2 firewood while you take 1?I have a lot of people to keep warm
+
+### Human: ok, that works for me.
+
+### Assistant: Okay so we have a deal i take 2 food 2 firewood while you take 1 food 1 firewood and 3 water.I think we made a good deal what do you think?
+
+### Human: yes, that is what we have agreed to.
+
+### Assistant: okay thats great am so glad we could come to a conclusion
+
+### Human: Submit-Deal

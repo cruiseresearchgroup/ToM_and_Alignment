@@ -1,0 +1,27 @@
+### Human: Hi! How are you today?
+
+### Assistant: I'm doing well! How are you?
+
+### Human: I am doing quite well myself. Why are you camping today?
+
+### Assistant: Well my sister and her husband are celebrating their anniversary this weekend so we volunteered to watch her daughters. We decided it would be fun to take her kids and ours camping! What about you? 🙂
+
+### Human: That is really nice of you! I hope they have fun! My family had this trip planned for quite awhile. We have an extra person with us because my son begged me for his friend to come. I couldn't say no. 🙂
+
+### Assistant: I have definitely been there before! With taking all the kids I'm worried about them getting dehydrated. I also have a 7 month old that needs water to make her bottles! I was hoping to get 3 extra packaged of water for sure. 
+
+### Human: That is one of my fears as well. Does you seven month old breast feed? I am hoping for the water as well. I would love to give them to you if I had extra. Is there anything else you need?
+
+### Assistant: No they don't ☹️ She is starting to eat a few solid food items. So if I had some extra food that would help. I think if I had 2 waters, 2 food, and 1 firewood to be able to cook and keep things clean I would have enough. 
+
+### Human: I can give you 2 waters, but I would need all the food because my group is bigger. You can have two firewood.
+
+### Assistant: I would need at least 1 food. 
+
+### Human: I could give you one food, but I would need to have 2 waters to make my food last by making soup.
+
+### Assistant: How about I get 2 waters and 3 firewood?
+
+### Human: I think I can give you two waters, and 2 firewood.
+
+### Assistant: Submit-Deal

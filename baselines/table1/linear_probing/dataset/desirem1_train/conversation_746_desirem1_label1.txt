@@ -1,0 +1,23 @@
+### Human: Hello, fellow camper.🙂
+
+### Assistant: Hi, there. Quite a trip we have lined up.
+
+### Human: Yes, it is.  What items would you like to have?
+
+### Assistant: I hear it might rain. We would need to keep fire longer to dry off our clothes. Firewood would come in very handy.
+
+### Human: Well, I would like 2 firewood, 2 food, and 2 water.
+
+### Assistant: Are some of them more important to you than others? I'm really concerned about having firewood. Food is not as important.
+
+### Human: I'm not really that concerned about water, especially as it might be wet weather.
+
+### Assistant: What's your take on food? We heed it to maintain energy while hiking, but I think we'll not do as much of that. We'll mostly stay by the camp site.
+
+### Human: I tend to get low blood sugar, and need to eat if I start feeling faint.  How about I take 2 firewood, 2 food, and 1 water?
+
+### Assistant: How about you take 1 firewood, 3 food, 1 water instead?  You will still get 5 out of 9 items we have.
+
+### Human: That would work for me.
+
+### Assistant: Sounds good.

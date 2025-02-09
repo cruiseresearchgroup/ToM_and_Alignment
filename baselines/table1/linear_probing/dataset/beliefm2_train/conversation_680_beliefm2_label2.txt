@@ -1,0 +1,23 @@
+### Human: I need the food and water.  You can have all the firewood.
+
+### Assistant: hello how are you?  I need the food the most because I ran off and left mine sitting on my kitchen counter.  I think we can agree upon you having 2 water but I need 2 food
+
+### Human: I'm going hiking, and I really need food, it works up an appetite.
+
+### Assistant: Well I didn''t bring any with me so I really need two.  I am willing to give you 2 waters.🙂
+
+### Human: I also need the water, because it's not safe to drink from streams here.  
+
+### Assistant: You are right, my water is dirty also but I am willing to let you have all three water. I would rather eat, so I would like 2 food.
+
+### Human: Well, if I have to catch fish to eat, I'll need the firewood to cook them.
+
+### Assistant: ok, so what at I get 2 firewood and you get 1 so you can cook your fish.
+
+### Human: I'll really need 2 firewood if we do this.
+
+### Assistant: I need the firewood also because this campsite is bare and the little bit of wood I did have a raccoon came and stole it.☹️
+
+### Human: Okay, how about I get 1 food, three water, and 1 firewood?
+
+### Assistant: okay that works for me

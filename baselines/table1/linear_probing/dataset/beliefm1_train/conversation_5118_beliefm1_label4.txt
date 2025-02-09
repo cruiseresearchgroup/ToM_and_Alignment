@@ -1,0 +1,31 @@
+### Assistant: Hey how's it going?
+
+### Human: Not bad, yourself?
+
+### Assistant: Pretty good. The kids are looking forward to this weekend's camping trip. 
+
+### Human: I see, thankfully I do not have any.
+
+### Assistant: yeah we got a lot of things planned for them at the campgrounds. they're going to be pretty busy
+
+### Human: So what is your main focus this trip?
+
+### Assistant: one of my kids is on medication so we are going to need to pack a lot of water. so if could spare that it would be appreciated.
+
+### Human: Well sadly I plan to go hiking a lot so I will need lots of water, but perhaps we can come to a reasonable agreement if I have to shorten my hikes.
+
+### Assistant: ok what do you have in mind?
+
+### Human: Well if I gave you a majority of the water, I would like 1 water, 3 firewood and 1 food.
+
+### Assistant: so I would have 2 water, 2 food and 1 firewood? My kids were looking forward to making s'mores. If I could get 2 water, 2 firewood and one food, that would be great!
+
+### Human: You would get 2 water and 2 food, I would get 1 water and 1 food for hiking and 3 firewood for having to stay out longer in the dark to complete my hiking goals.
+
+### Assistant: doesn't really seem fair for you to get all the firewood. I would like to have at least one because then we're completely in the dark.
+
+### Human: You get lots of water and food for your children, I am cutting back on my goals by giving up energy which means I have spend more time outside hiking.  I do need to stay warm
+
+### Assistant: yes which is why you have two firewood. I think it is fair for me to get at least one. If food is so important to you then I'll give you two food. but we would be in the dark
+
+### Human: I suppose that's fair enough.

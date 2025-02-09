@@ -1,0 +1,23 @@
+### Human: Hello, what is your preference for supplies?  I would prefer to have as much extra firewood as possible, but am relatively indifferent to the rest.
+
+### Assistant: yes we have to supply more how much you want
+
+### Human: I would like 3 firewood, and 2 food.  You can have 1 food and all of the water.
+
+### Assistant: oh okay I will send you what are the materials you have
+
+### Human: I already have a good supply of fresh water from the lake I will be camping by, and can hunt for some food but not all.  What are you in need of?
+
+### Assistant: oh that's great, what type of quality you have from us
+
+### Human: I have high quality water?  I'm not sure if I understand that question to be honest.
+
+### Assistant: oh okay, you understand correctly, when you take the material from us
+
+### Human: Okay, sounds good then.  I believe we have a deal then.
+
+### Assistant: yes, we have a good deal. you want water from us
+
+### Human: No, I want firewood and food.  No water.  I want 3 firewood and 2 food.
+
+### Assistant: okay, that's great deal we can finalize a deal

@@ -1,0 +1,23 @@
+### Human: Hi
+
+### Assistant: How are you doing?
+
+### Human: I'm great. Are you ready to go camping?
+
+### Assistant: Yes I am ready. But I am low on some item and I don't mind trading with you. Do you?
+
+### Human: No that sounds good. What are your preferences?
+
+### Assistant: I am so low on Food and I have two kids with me. The highest amount of item I have is Firewood. Do you mind taking some in exchange for Food?
+
+### Human: That matches up well with my needs. How about you take all the food and I'll take all the firewood. or we can go 2 & 1 if that better suits your needs
+
+### Assistant: Thanks for making this easy for me. I don't want you also to run low on supplies so soon. I will give you two firewood while I take 1 and half food. How about that?
+
+### Human: That would be great but I don't think they let us break bundles in half. How does this sound... You get 2 food, 1 water and 1 firewood. I get 1 food, 2 water and 2 firewood. Sound 
+
+### Assistant: You should understand that water is also essential for the kids. Likewise firewood to keep them warm. What about 2 foods for me, 2 firewood for you. And we all are happy and enjoy our camping?
+
+### Human: here's what I propose to get a deal, you get, 2 food, 2 water, and one firewood. I get 1 food, one water and two firewood
+
+### Assistant: I think that is okay by me. I don't want to stress the conversation. You have been helpful enough.

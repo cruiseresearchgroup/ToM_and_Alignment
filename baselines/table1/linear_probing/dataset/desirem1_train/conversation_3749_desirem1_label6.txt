@@ -1,0 +1,23 @@
+### Assistant: Hello, how are you doing🙂
+
+### Human: I'm great, how are you?
+
+### Assistant: I have been feeling sick, but glad to be here
+
+### Human: I'm sorry you've been sick!  So which item is most important to you?
+
+### Assistant: I would like the firewood to help me stay warm
+
+### Human: I can see how that would be helpful.  No one likes to be cold.  I would really like the water, I have a baby to feed and need it for his bottles.
+
+### Assistant: How old is your baby :
+
+### Human: 4 months old
+
+### Assistant: That is a fun age and must be fulfilling to you 🙂
+
+### Human: yes for sure! 🙂 he's my fifth baby.  What if we exchange the water and the firewood?
+
+### Assistant: That sounds good to me. How about 3 firewood and 2 food for me and 3 water and 1 food for you?
+
+### Human: Okay I am happy with that deal!  You need more food to nourish yourself back to good health, after all.

@@ -1,0 +1,23 @@
+### Human: Hello there how are you? 🙂
+
+### Assistant: Hi, I am doing well no complaints here. How are you doing today?
+
+### Human: Pretty good as well, ill kick this off so you can know that i have a medical condition that makes me need a larger amount of water to stay hydrated
+
+### Assistant: I completely understand you have a medical condition. How much water would you require? I have a family of 5 and water runs out quick for us with young kids.
+
+### Human: Oh no this will be difficult,☹️ We have a large family as well with a breast feeding wife so food is important to us as well
+
+### Assistant: This really is difficult my friend, I have a new born breast feeding as well! Unreal. How about you take the 2 packages of water since you have a med condition? And I get 3 firewood?
+
+### Human: Im not sure about the firewood what about the food?
+
+### Assistant: My family likes to have fires and cook on the fire pit around the clock. The food is not as big of a deal. Remember I am giving you 2 cases of water.🙂
+
+### Human: Ok so 2 waters for me 3 food for me and you get all the firewood?
+
+### Assistant: Deal🙂
+
+### Human: Great  well im glad we made a quick deal. 🙂
+
+### Assistant: Submit-Deal

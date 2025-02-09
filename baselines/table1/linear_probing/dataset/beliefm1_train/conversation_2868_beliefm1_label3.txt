@@ -1,0 +1,23 @@
+### Assistant: Hi there.  I'm looking forward to this camping trip but I tend to get a little cold at night.  I'm hoping we can make a deal for some of the extra firewood.
+
+### Human: Hello, it sounds like we can work something out. I find it hard to hunt or fish, so I am looking for some extra food
+
+### Assistant: Sounds like something we can split equitably then.  My metabolism is kind of slow so I don't usually need to eat that much. 🙂
+
+### Human: Well that's good!
+
+### Assistant: I agree.  So could I trade you the extra food for the firewood?  And we'll have to figure out what to do with this spare water, I suppose.
+
+### Human: Ok, I am more than happy to give you 3 firefood for 3 food?
+
+### Assistant: I'm perfectly happy with that.  Do you have suggestions on how to split the water between us?
+
+### Human: Well one of us can get 2 and the other can get 1, since there are 3 we can't evenly split it
+
+### Assistant: Right.  Would you be okay if we just flip a coin, if it's just of equal importance to the both of us?
+
+### Human: Yes that would be fine, you can flip it and I will trust you. I choose tails
+
+### Assistant: Looks like 2 to you then.  So I'll receive 3 firewood, 1 water, and 0 food.  You'll receive 3 water, 2 food, 0 firewood?
+
+### Human: Yes, I get 3 food, 2 water, 0 firewood. And you get 0 food, 1 water, 3 firewood. It's a deal

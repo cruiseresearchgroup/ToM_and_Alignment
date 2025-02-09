@@ -1,0 +1,23 @@
+### Assistant: I need all three of the firewood and three water.  You can have all the food.
+
+### Human: 😮 May I ask why? I do need food, but I need some firewood as well.
+
+### Assistant: I need firewood to cook the fish I plan to catch.  I don't really need more food, but I can use a little water too, since it's warm.
+
+### Human: I need firewood, because I have a medical condition that causes my veins to close if I get too cold at night. I don't mind sharing the water.
+
+### Assistant: Can you get by with one firewood?  If I give it up, I'll need some food, since I won't have enough to cook all the fish.
+
+### Human: I could give you 1 firewood, 2 waters, and 1 food. 
+
+### Assistant: If you make it two food, we have a deal.
+
+### Human: I would rather let you have the third water than other food. I don't like fish. ☹️
+
+### Assistant: Okay, you can have two firewood and and two food, I'll take the rest.
+
+### Human: Ok. That seems fair enough to me.
+
+### Assistant: Looks like we have a deal!
+
+### Human: Submit-Deal

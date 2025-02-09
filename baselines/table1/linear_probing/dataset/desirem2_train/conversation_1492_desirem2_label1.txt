@@ -1,0 +1,27 @@
+### Assistant: Hi I would like to trade you food for some water 🙂
+
+### Human: How many food would you like to trade for water?
+
+### Assistant: How about 2 Water for 3 food?
+
+### Human: That sounds like a good deal but I could use some firewood as well. Would you throw one of those in as well?
+
+### Assistant: That doesn't seem very fair ☹️. That would be 3 food and 1 firewood for 2 water. That is 4 items exchange for 2.
+
+### Human: Ok what if I throw in 3 waters in exchange for 3 food and 1 firewood? So it is a 4 - 3 exchange instead.
+
+### Assistant: Actually I changed my mind , lets just do 3 food for 3 water?
+
+### Human: Well that is a little promising but I would really like some firewood as it makes me nice and warm and keeps the camp going 🙂.
+
+### Assistant: I can do 2 firewood for 3 water if that is better for you?
+
+### Human: Actually that does sound a lot better I would be willing to do that. So 2 firewood for 3 water?
+
+### Assistant: Yea but what about the food?
+
+### Human: Oh right, how about you get 3 waters , 2 food and 0 firewood. And I'll get 3 firewood and 1 food?
+
+### Assistant: That sounds like a good deal to me 🙂
+
+### Human: Submit-Deal

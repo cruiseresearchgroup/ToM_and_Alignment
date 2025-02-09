@@ -1,0 +1,31 @@
+### Assistant: I'm very interested in firewood and food. What items are you most interested in?
+
+### Human: i am interested in firewood and fooad as well.what if i take 2 firewood and 1 food while you take 1 firewood and 2 food?let me know what you think
+
+### Assistant: I really could use two of the firewood even more than the food. it's supposed to be pretty cool when we're going, and i need to make sure i can always keep the fire going. 
+
+### Human: same here for me too.you can even have all the water as well.but i need to keep my family warm and give them food as well
+
+### Assistant: I'm in the same boat. So you're saying for me to take 1 firewood, 2 food and 3 water?
+
+### Human: yes while i take 2 firewood 1 food.i would be okay with that
+
+### Assistant: Could we switch the firewood and food part? You can have 2 food and 1 firewood and I'll take 2 firewood and only 1 food?
+
+### Human: No i need the firewood as well.it is really important to me,please understand
+
+### Assistant: The problem is that i need the firewood as well. what if i give you one of the waters. could i get 2 of the firewood then/
+
+### Human: if i gave you 2 firewoof then i take 1 firewood 2 food 2 water
+
+### Assistant: Could I get 2 of either the food or the water? I want to make sure that my family can stay energized and hydrated. You can pick which one you want two of.
+
+### Human: okay you get 1 firewood 2 food 2 water and i get 2 firewood 1 food 1 water.please let me know what you think
+
+### Assistant: I think I'd rather go back to the 2 firewood. that's the most important thing to me. We have a baby, and I need to make sure she stays warm. I would have liked 2 of either the food or water though. And you take two of the other.
+
+### Human: okay you take 2 firewood 1 food 2 water while i take 1 firewood 2 food 1 water
+
+### Assistant: that sounds good!
+
+### Human: Submit-Deal

@@ -1,0 +1,23 @@
+### Human: Hello.  Great to see a fellow camper and hiker here this weekend.  How are you doing?
+
+### Assistant: I'm doing well. I love camping and hiking.
+
+### Human: yeah.  My whole family likes it.  My wife, kids and mother-in-law are all here to.  They are getting trail maps for the hike.  I am trying to sort out what to do about the food and water we loss when the airline moss two of our bags with the supplies for the long weekend here.
+
+### Assistant: Will I can negotiate higher amounts of water.
+
+### Human: I really need food, water and some fire wood.  With the family I really need 3 food and 2 water.  Can you accomodate that?
+
+### Assistant: I can give 3 packages of water and 2 packages of Firewood.
+
+### Human: No that is no good for me I need some food how about 1 food, 3 water and 1 wood for me and 2 food and 2 wood for you?🙂
+
+### Assistant: I give more water than food.  
+
+### Human: With the offer you get 2 food and I get 1.
+
+### Assistant: Ok I think I can do that.  So just to clarify 1 package of food, 3 packages of water, and 1 package of Firewood for you.
+
+### Human: Yes.  That deal is acceptable.
+
+### Assistant: Ok that's great. Deal!

@@ -1,0 +1,27 @@
+### Assistant: What are your priorities with the packages? Because I would be camping with my family I would really need the extra water, and probably also some firewood.
+
+### Human: well that is the same as me as I have small children and need extra of all three items
+
+### Assistant: Is there an item you would like over the others?
+
+### Human: well maybe the water as we will need to cook with it as well
+
+### Assistant: I also would need water, but I also really enjoy campfires too, which I would want extra wood for.
+
+### Human: Not willing to give up much wood! How are you feeling about the food?
+
+### Assistant: I don't think I would need too much extra food. More concerned about running out of water, or having extra wood. Do you have a suggested split for the packages?
+
+### Human: how about I get 4 firewoods and 4 waters and you get 4 food items?
+
+### Assistant: No I am not okay with that deal. We will need to split it up more evenly
+
+### Human: What is your best offer for me to think about?
+
+### Assistant: So we only get 3 items of each not 4. So my offer would be that you get 2 waters, I get 1. I'll take 3 firewood, and you can have 2 food, and I have 1
+
+### Human: That sounds fair so lets enter it to submit! Thanks for working with me!
+
+### Assistant: your welcome
+
+### Human: Submit-Deal

@@ -1,0 +1,23 @@
+### Assistant: Hi there! I am really looking forward to camping! I am in need of water, if you have some to spare.
+
+### Human: Yeah, we tried to be as prepared as we could.  We packed plenty of water, and thought we would drink the ice water after it melts, so we can spare some for sure.
+
+### Assistant: That was smart of you! If you have some food to apre too, that would be great!
+
+### Human: Ah, not sure how we are on snacks; I would have to check.  We usually stay up way late eating and talking.  Maybe we could make a trade for some extra firewood to keep the fire going all night?
+
+### Assistant: I love snacking too! I get cold very easily, so I don't need any firewood. You can have all of the firewood.
+
+### Human: Oh!  In that case, I'm sure I can dig out some extra food--you don't mind that it's mostly junkfood, right? 🙂
+
+### Assistant: I only want junk food! 🙂
+
+### Human: Excellent.  I'll get out the water bottles and search through the food--make sure I don't give away too many of my wife's favorites.  Ha.
+
+### Assistant: Fantastic! It has been a pleasure chatting with you today! 
+
+### Human: For sure--hope you enjoy your trip.  Stop by our fire if you want to hang out! 🙂
+
+### Assistant: Great! So I will take all of your water and then give you all of my firewood. How shall we split the food?
+
+### Human: Well, simply let me know how much you think you'll need.  I have to keep some (like I said, wifey-poo) of course.  Just trying to have a good trip.

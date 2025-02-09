@@ -1,0 +1,23 @@
+### Human: I get to go camping this weekend. 🙂
+
+### Assistant: Awesome! I do too! 🙂 I'm excited but kind of nervous too!
+
+### Human: Don't be nervous. What can go wrong?
+
+### Assistant: Well, I haven't gone camping in a number of years, and unfortunately my health has declined a bit. This might actually be my last trip for a while, and I'm afraid of something going wrong. 
+
+### Human: I'm headed to the mountains. How about you?
+
+### Assistant: It's in Upstate New York, near a gorgeous lake. I like it because it's secluded and very peaceful. 
+
+### Human: Sounds good. I'll be doing quite of a bit of cooking over an open fire during my trip.
+
+### Assistant: Wow. That sounds great! There's nothing like campfire cooking on a chilly night! I'll doing a lot of that too, but I also want to enjoy swimming as much as I can🙂 
+
+### Human: understood, I can give you 1 firewood, 2 food, and 2 water to make your trip better.
+
+### Assistant: Hm. I''ll definitely take you up on the water, thanks for that. The thing is, I have low blood pressure, and I have trouble regulating my body temperature so I am frequently cold. How about if I take two firewood, and the two waters. It sounds like you are going to do a lot of cooking, so you can take two of the food.  
+
+### Human: Will you take two firewood, 1 food, and 1 water?
+
+### Assistant: I don't want to take too much food, I want you to be able to enjoy all the cooking you are going to do🙂! But I would like two waters--I'd be afraid of dehydrating on my trip. I'd even throw in the extra food! that would give you all three! you could really do some cooking then!

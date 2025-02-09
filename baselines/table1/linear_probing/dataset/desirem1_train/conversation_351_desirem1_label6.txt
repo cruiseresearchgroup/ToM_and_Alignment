@@ -1,0 +1,23 @@
+### Assistant: Hello!  I've been super thirsty and as a result I was wondering if I could get all 3 packages of water?
+
+### Human: I like to hike and will need additional water. Can I take one package and you can have the other two? 
+
+### Assistant: That sounds good to me.  Do you have any kind of preference for firewood or food?
+
+### Human: I would need additional food to sustain my energy for my hikes. Do you mind if I take two packages of the food? What are your thoughts? 
+
+### Assistant: That sounds good to me.
+
+### Human: Do you want any of the firewood? Would you be okay if I got two packages of the firewood? 
+
+### Assistant: It's been pretty cold at night.  Do you think you would be able to carry the two packages of firewood?
+
+### Human: I should be fine, thank you. 🙂 It will be a little bit of work hauling all of my gear and supplies but after I set up camp, it will be smooth sailing. 
+
+### Assistant: I'm thinking that we will be able to work out that deal.  I do have the water and that's my main thing I needed.
+
+### Human: That's great, I'm glad we came to an agreement. 
+
+### Assistant: Everything looks good.  I'm glad we both got what we wanted.
+
+### Human: Submit-Deal

@@ -1,0 +1,35 @@
+### Assistant: This is my fun trip for this year and preparing will help me be more self sufficient in the future.
+
+### Human: Oh, how nice for you!
+
+### Assistant: I would like to invite some friends you know to participate in the camping.
+
+### Human: How many are you thinking about?
+
+### Assistant: I was thinking 3 people this time around.
+
+### Human: You're going to need lots of supplies then
+
+### Assistant: They would be happy with the experience and I can be more altruistic this way.
+
+### Human: I think maybe your biggest need will be water.
+
+### Assistant: Yes, I agree that water would be the number one priority and it would help to be able to offer everyone a refreshing drink before letting them know how long the hike is.
+
+### Human: So, I sugget you take the 3 pack of water and I will take the 3 pack of food and the 3 pack of firewood.
+
+### Assistant: let me think about that for a second
+
+### Human: That's pretty generous of me I think!
+
+### Assistant: How about I take the 3 pack of water and you can have the 2 packs of food and firewood you.?
+
+### Human: I'll take one water and 3 packs of food and 2 firewood.
+
+### Assistant: Can you do 2 packs of food an empty stomach would not make it to far, especially on this trail. 
+
+### Human: No, sorry, I can't do it!
+
+### Assistant: How about 1 firewood then.
+
+### Human: No, I'm really cold especially at night.  You and your three buds can huddle together if cold!

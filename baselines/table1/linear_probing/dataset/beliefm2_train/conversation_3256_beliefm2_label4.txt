@@ -1,0 +1,31 @@
+### Assistant: hi are you going camping this weekend like i am??
+
+### Human: Hi....
+
+### Assistant: i am going camping and i really need 3 packages of water i bought my dogs with me and im afraid they will dehydrate in this heat😮
+
+### Human: I also like to camping and i need 3 packages of water.
+
+### Assistant: hmm maybe we can come up with a compromise? why do you need 3 packages?
+
+### Human: Because i need more water because of my health issues.
+
+### Assistant: ahh i see. well is there a stream where you are camping? i am camping in the heat with my dogs and wont have any acceess to water . can i have two and you take one so we can move on and discuss the other things
+
+### Human: No that is not enough for me. I already told you because of health issue i need 3 packages of water.☹️
+
+### Assistant: well if i dont get at lesattwo for my dogs im afraid i will walk away and it will be worse for us
+
+### Human: It would be worse for both of us. So we need to an agreement sometime soon.
+
+### Assistant: if you take all the water i will need all the firewood and two food. deal?
+
+### Human: okay. Shall we share the items. I take 1 package
+
+### Assistant: Submit-Deal
+
+### Human: Reject-Deal
+
+### Human: I take 1 water package and 2 food and firewood
+
+### Assistant: Submit-Deal

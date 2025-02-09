@@ -1,0 +1,23 @@
+### Assistant: hello my dear friend can you kindly spare 3 water 1 food and 1 firewood for me.hope it is okay by you?
+
+### Human: What do you need most?
+
+### Assistant: i need water the most  followed by food what about you?
+
+### Human: I actually think water is a priority for my family as well. 
+
+### Assistant: okay so what do we suggest we do.can i take 2 water while you take 1 and you can have 2 firewood as well.What do you think
+
+### Human: I can give 1 package of water and 2 packages of food and firewood 🙂
+
+### Assistant: okay so i get 1 water 2 food 2 firewood while you get 2 water 1 food and 1 firewood?
+
+### Human: Yes, that is correct. 
+
+### Assistant: but can i spare 1 more water for me so my family do not starve
+
+### Human: That is a very tough decision for me. My son suffers from dehydration quite often so I will definitely need the water.
+
+### Assistant: okay i have to go withthe first option.Am glad we finally agreed on a deal
+
+### Human: Submit-Deal

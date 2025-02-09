@@ -1,0 +1,23 @@
+### Human: I have a medical condition that causes my veins to close up when I get too cold. I will thus need the 3 firewood.
+
+### Assistant: ☹️Oh, that sounds awful. Are you sure you need all three packages of firewood?
+
+### Human: I might be able to get by with just two... I'm on a diet though, so I don't need as much food.
+
+### Assistant: That's a relief. I actually have a friend joining me and they don't have their own food supply. I don't have enough for two people.
+
+### Human: You can all the food if you need it.🙂
+
+### Assistant: Thanks!🙂 Do you need any water packages?
+
+### Human: Yes. Since the days are on the warmer side, I'm a afraid of getting dehydrated. I would love to have all of it...
+
+### Assistant: Ah, that doesn't work for me. I would need to have at least one water because one of mine has a leak (and I have an extra person joining me).
+
+### Human: I guess you can have one. That gives me 2 firewood and 2 waters, and you 1 firewood, 1 water, and 3 food. Right?
+
+### Assistant: Yes that would work for me. But I would also let you have all the firewood if I got 2 waters and all the food. 
+
+### Human: Submit-Deal
+
+### Assistant: Reject-Deal

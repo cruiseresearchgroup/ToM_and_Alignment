@@ -1,0 +1,23 @@
+### Human: Howdy Howdy partner. I sure do love me some camping, dont you?🙂
+
+### Assistant: I love camping, im super excited
+
+### Human: So do I! I am looking to gather some more supplies for my super duper exciting camping trip. I see you are as well. What sort of items are you looking for the most?
+
+### Assistant: I get scared at night so i was really hoping for some extra firewood, how about you, what is important to you?
+
+### Human: Ahh, I am an excellent chef! And to cook I will also need fire to make some delicious meals to keep me cozy and warm. Extra firewood and food is important to have for me. What do you feel about additional food and water?
+
+### Assistant: I dont really need water, it seems like we both need the same things, so how about one gets onew firewood and two foods and the other one gets two firewoods and one food? then we can decide on the water
+
+### Human: That does sound quite reasonable. Because you are scared at night, I think having additional light and warmth from fire will be good for you. What do you think?
+
+### Assistant: That is very generous of you, so how about i get two firewoods and one food and one water, and you get the rest? That way you will get 5 items since you are helping me out with my fire.
+
+### Human: Because I am such an inspired chef, I think it would be beneficial if I took 3 additional food packages. That way I can make sure I have enough supplies to practice making some really complex outdoor meals. Would such a deal be possible? 😮
+
+### Assistant: I am ok with that if i get two waters, just incase i have to put out the fire 🙂
+
+### Human: That sounds good. So you will get two firewoods and two waters. That sounds excellent to me 🙂 you seem like a great person, my friend
+
+### Assistant: Submit-Deal

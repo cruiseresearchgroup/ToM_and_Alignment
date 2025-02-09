@@ -1,0 +1,27 @@
+### Human: HI. I'd love to get 2 additional packs of firewood. The weather forecast was for much warmer weather here and I just didn't bring enough with me. I also left my additional sweatshirt at home. I'd be happy to give you one additional water and two of food.  🙂🙂
+
+### Assistant: Well I had a really great day fishing today and I would like to have some extra firewood so I can cook all of this fish.  How about I take the 3 packages of firewood and you can keep 2 additional food packages in return.
+
+### Human: You really did have a good day didn't you! Sounds like fun. How many fish can one person eat? If I don't have the extra firewood I'm going to be really cold tonight. ☹️
+
+### Assistant: I am here with my family and we love to eat fish.🙂  Maybe if you spend tonight sleeping in your car or camper I can keep the fire wood. In exchange I will give you the 2 additional food packages and all 3 of the water packages. It's only for 1 night.
+
+### Human: Why would you want to give up all that water? You're going to need extra water for your family to drink. All the sodium in the fish is going to make you all thirsty!
+
+### Assistant: Your right,😮  I didn't think about that. But will probably only need 1 extra package of water so, in exchange I will offer you 1 package of firewood.
+
+### Human: I know this isn't your problem, but I'm a student and I had to come up here to take photos of the night sky for my astronomy class. I slept really late today as I have to sit up all night to get the different stars, and possibly even the space station if it's clear enough out. I have to sit by a fire to stay warm so I can get these pictures to hand in to my professor tomorrow.
+
+### Assistant: You know that is very impressive.  I admire your determination and effort you put into your class.  You must be very passionate about astronomy.
+
+### Human: I am. My favorite personality is Neil DeGrasse Tyson. He's amazing, funny and incredibly smart. I'm hoping to get an internship at the Planetarium in my senior year 🙂
+
+### Assistant: That's amazing!!!  So here is the deal...I'll give you the 2 firewood packages so you can sleep under the stars tonight.  In return I'll have to keep 2 water packages and 2 food packages since I won't be able to cook all of this fish and I still have a family to feed.  
+
+### Human: I'm glad you understand my problem. But I really need those 3 firewood packages. I'd be happy to give you 2 water packages and all the food in exchange.
+
+### Assistant: Initially you were willing to take the 2 packages of firewood. If you have all three I won't be able to cook any of this fish and it will all go to waste. ☹️
+
+### Human: Didn't you bring any firewood at all with you?
+
+### Assistant: Yes, but the firewood I have will be used to keep us warm tonight.  Like you mentioned before it will be a bit chilly tonight.

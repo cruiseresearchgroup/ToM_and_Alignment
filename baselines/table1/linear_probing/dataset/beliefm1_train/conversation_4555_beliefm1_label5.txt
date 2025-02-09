@@ -1,0 +1,27 @@
+### Assistant: Hello, great to see a fellow camper.  Planing on doing any hikes.  My family and mother-in-law are down getting some new trail maps.  We are looking forward to the long camping weekend.  Our bad luck was the airline loss two of our bags that had our food and water.  So i am hoping to get some more.🙂
+
+### Human: Hello! Thats terrible that the airline lost your bags! I'm planning on have a large group of friends with me so we need lots of snacks with us. We are scared of fires so we don't want to make campfires.
+
+### Assistant: Well maybe we can work something out between us.  Our food and water was in the bags they loss so I really need those.  Do you think you could make do with 1 food and some water?
+
+### Human: I really need 2 foods. I can do with 1 water or if you are in a giving mood then maybe I can have 2 waters? 🙂
+
+### Assistant: Looks like we both really need the food.  If you get 2 food I would need 1 food, 2 water and 3 firewood. 
+
+### Human: Since you will get all the fire would do you think I could have 2 foods and 2 waters. You would get 1 food, 1 water, and 3 firewood. 🙂 You seem like you are a great outdoor person that I would think you would be able to catch some fish to cook with the firewood. 🙂
+
+### Assistant: No that does work well for me.  If I only have 1 food I need 2 waters and the firewood to make up for the loss of food.
+
+### Human: What about I have all the food, and you can have everything else? I would think that seems pretty fair.
+
+### Assistant: Sorry, I understand where you are coming from but I really need at least one food.  
+
+### Human: I'm sorry. I would really appreciate having all the foods, because this camping trip is a get togther with my 5 friends one of whom is her birthday and recently lost her mom. So we need lots of snacks to help her celebrate her birthday and support her during this hard time.
+
+### Assistant: No I can't do without a food for me.  We can wrap this up if you take 2 food and a water. 🙂🙂
+
+### Human: How about I get 2 food, 1 water, and 1 firewood then?
+
+### Assistant: Ok. I cab agree to that.  
+
+### Human: Ok. Thank you!

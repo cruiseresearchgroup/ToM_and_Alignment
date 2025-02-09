@@ -1,0 +1,31 @@
+### Human: Hey, So I'm really hoping to get some extra supplies, so how about 3 Water, 2 Firewood, and 1 Food package for me?
+
+### Assistant: Well, I need water too. I propose i take 3 food, 2 water and 1 firewood.
+
+### Human: Hmm, I'd really like at least 2 water, got any other offers?
+
+### Assistant: No i don't. I believe i presented the best offer.
+
+### Human: That's not too great for me. would you be willing to swap some food for firewood?
+
+### Assistant: Are you ready to give up the one food so that i can give up he 1 firewood for you?
+
+### Human: The offer you gave leaves me with no food currently.
+
+### Assistant: That is what i am saying. I can then take 2 food 2 water and 1 firewood. That is my best offer.
+
+### Human: How about this. you get 3 Water, 0 Food, and 2 firewood. That leaves me with 0 Water, 3 Food, and 1 Firewood. Not perfect, but leaves us both equally unhappy 🙂
+
+### Assistant: No. I really need that food more than any thing else. Your first offer was better. I cannot give up food for anything.
+
+### Human: Okay, I need water so, how about swapping, for me 3 water, 0 food and 1 firewood, for you 3 food, 0 water, and 2 firewood.
+
+### Assistant: Submit-Deal
+
+### Human: Reject-Deal
+
+### Human: Submit-Deal
+
+### Assistant: Reject-Deal
+
+### Assistant: Submit-Deal

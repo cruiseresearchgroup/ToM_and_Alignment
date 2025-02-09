@@ -1,0 +1,23 @@
+### Assistant: Hello. How are you?
+
+### Human: I am good. I am pretty excited for the trip this weekend. what about you?
+
+### Assistant: Very excited. It will be fun.
+
+### Human: Yes, Hopefully the weather holds up. So I was thinking, i am bringning my two kids along with me, and they will need food, so I was thinking i could take the three foods, and either one of the firewood or water, up to you.
+
+### Assistant: I would also like a little extra food for my kids. Maybe we can split it somehow?
+
+### Human: Ok, I am willing to give you one food, in exchange for two firewoods, that would mean you get 3 waters, 1 food and 1 firewood. you get 5 items, while i get 4.
+
+### Assistant: If I only get 1 food, than I would like 2 firewood. So you get 2 food, 1 firewood, and 1 water.
+
+### Human: No i do not need water, as i am camping near a potable stream. I would like 2 firewood. It is only fair that i get two firewood, since you are getting more supplies (5), i think i should be able to choose what 4 i should get.
+
+### Assistant: No, if you get 2 food, it's only fair that I get 2 firewood. 
+
+### Human: Then i will take 3 waters, and 2 food.
+
+### Assistant: Okay I will take all the firewood and 1 food.
+
+### Human: Submit-Deal

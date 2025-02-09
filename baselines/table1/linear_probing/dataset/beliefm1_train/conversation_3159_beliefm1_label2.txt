@@ -1,0 +1,23 @@
+### Assistant: i would like to have 3 food 3 firewoos and 3 water
+
+### Human: That is everything.  I don't think that is fair.  How about we split it up.
+
+### Assistant: ok how about we each get half 
+
+### Human: There are nine items. So we can't split it completely in half.  we will Need to decide how to make it fair. 
+
+### Assistant: i would like to get the extra water just in case i run out  i wouldnt mind giving up something
+
+### Human: I would like the extra firewood because I stay up late at night😮
+
+### Assistant: Is that right I would get the extra water and you would get my firewood? I think that would be fair
+
+### Human: Yes.  Now we just need to decide how to split the food.  How about I take two since you have the extra water. 
+
+### Assistant: I would think thats not fair, since you have eallready got the extra firewood 
+
+### Human: You have extra food though.
+
+### Assistant: i can give you i package of extra food but what am i getting in return?
+
+### Human: The extra water.  There is nothing else to offer.

@@ -1,0 +1,23 @@
+### Human: Hello! I am excited for my trip, how about you?
+
+### Assistant: I am also very excited. Thank you for asking!
+
+### Human: I am in need of some water the most, what is your highest priority item?
+
+### Assistant: Water too
+
+### Human: OK, what is the item that is the next most important to you?
+
+### Assistant: Well, I need food for energy. So that is the next most important thing for me. 
+
+### Human: OK, how about you take 2 water and 1 food and I firewood?
+
+### Assistant: Could I have 2 water and 2 food instead? There are 9 items. Obviously, one person will get 4 and the other 5. If I am getting 4, I would prefer 2 food items. 
+
+### Human: I really will need 2 of either the water or the food, you can decide if you would like.
+
+### Assistant: Then can I get 2 water, 1 food, and 2 firewood?
+
+### Human: Sure, that sounds good!
+
+### Assistant: Okay, then we have a deal.

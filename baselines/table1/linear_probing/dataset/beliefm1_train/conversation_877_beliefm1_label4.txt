@@ -1,0 +1,27 @@
+### Human: hello how are you
+
+### Assistant: i'm good thank you, How are you doing today?
+
+### Human: I am good, let's plan our camping trips. I am diabetes, so water is very important to me. what about you?
+
+### Assistant: I need water too
+
+### Human: what is the next thing you need the most/?
+
+### Assistant: firewood to keep the body warm 
+
+### Human: so water, firewood and food for you, and water food and firewood for me. what do you suggest
+
+### Assistant: I'm not much of a food fan knowing that without firewood you die of hypothermia if wet, one can survive without food/ with little food for months
+
+### Human: so let's do this quick, how about 2 water for you, 1 water for me, 0 food for you, 3 food for me
+
+### Assistant: good excellent choice
+
+### Human: so how do you want to divide the firewood
+
+### Assistant: take 2 firewood if you wish
+
+### Human: sure, deal
+
+### Assistant: Submit-Deal

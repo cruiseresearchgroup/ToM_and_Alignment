@@ -1,0 +1,39 @@
+### Human: hi are you getting ready for your camping trip too?
+
+### Assistant: I am! I am looking forward to it so much since I haven't been able to go on any vacation due to Covid. I'm going camping with my husband and kids. Where do you plan to be camping?
+
+### Human: we are going up to the mountain near the lake and it just me and my boyfriend glad to get out as well
+
+### Assistant: That's awesome! My son is in Boy Scouts and he's looking forward to practicing his campfire making skills during this trip. My husband agrees it would be awesome to have him practice his skills so we're planning to cook our meals over a campfire.
+
+### Human: that sounds great I want to cook a romantic camping meal for me and my boyfriend, hope it will work as i have planned
+
+### Assistant: I also want to do a lot of hiking while we are camping since the kids have been cooped up in the house for so long. They are so restless now since they don't have their usual things like PE classes, soccer, and hockey. My end goal is to tire them out lol. Besides a nice meal, what other things do you plan to be doing while camping?
+
+### Human: we want to explore the animals in the area birds and just enjoy all the nice views.
+
+### Assistant: Cool, that sounds very nice and relaxing 🙂. It kinda sounds like my husband, he likes to do things like these with no concrete plan and just decides on the spot what he wants to do. The only problem with it is that he dumps all the planning on me so I have to make sure I have extra of ANY possible idea he has.
+
+### Human: Yes we always get stuck making the plans so can I have 2 firewood and you get 2 food and 2 water? Please respond a little faster with your messages that would be very nice
+
+### Assistant: Unfortunately, I need the firewood to make campfires. Since you are planning to cook a romantic camping meal, don't you need food?
+
+### Human: well then give me 1 firewood 2 food and 2 water?, then you have 2 firewood so your boy can practice
+
+### Assistant: Submit-Deal
+
+### Human: Reject-Deal
+
+### Human: Submit-Deal
+
+### Assistant: Reject-Deal
+
+### Assistant: What I don't understand is that you requested I respond quicker to your messages, yet you do not respond with much detail or discussion.
+
+### Human: i want my share as well I give you 2 wood 2 water  and one food 
+
+### Assistant: But why should I share with you? You requested that I respond quicker to you yet all I know is that you will be camping with only 1 other person :(. All you plan to be doing is leisurely looking at bird-watching. Will you be really using all of the items? 
+
+### Human: Yes I would and i am willing to share and give you enough wood for your kid, but it gets cold and I would like to stay warm at night i bring some of my food but the lake is most likely not that clean to drink water from. you want to practice fire making once it burns it burns. 
+
+### Assistant: Submit-Deal

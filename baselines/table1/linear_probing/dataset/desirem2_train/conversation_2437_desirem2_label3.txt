@@ -1,0 +1,23 @@
+### Assistant: Hi, how are you?
+
+### Human: Hi! I am great!
+
+### Assistant: I'd like to get 3 of the firewood and 2 food
+
+### Human: Okay. I would like three firewood too. We need to negotiate. Maybe one of us can have one and the other person can have the other
+
+### Assistant: I think I'm really going to be stuck on the 3 firewood. I don't know if I can budge there. What about the food and water?
+
+### Human: Okay. If you want the three firewood, I can take all the food and water. Would that work?
+
+### Assistant: I can let you have all the water. How about either 3 firewood and 1 food for me or 2 firewood and 2 food for me?
+
+### Human: 2 firewoods and 2 foods is okay
+
+### Assistant: ok, I'll send that as the deal
+
+### Human: okay so I will take 1 firewood 1 food and three waters
+
+### Assistant: Yes
+
+### Human: sounds like a plan

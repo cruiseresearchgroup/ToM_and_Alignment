@@ -1,0 +1,23 @@
+### Human: Hey, would you like to take more firewood in exchange I'll get more food? Just in case I get lost and would need to ration out my portions. 
+
+### Assistant: I understand where you're coming from. I would really need the most water. 
+
+### Human: I am willing to give you the most water if I am able to have the most food.
+
+### Assistant: Well I need some food because what if I get lost as well? 
+
+### Human: I understand that, but walking away with the most food and the most water would essentially leave me for dead lol. Do you prefer water or food? 
+
+### Assistant: I prefer to have the most water as I have a medical condition that requires me to stay extremely hydrated at all times. If I get too dehydrated, it's extremely bad for me. How about I get 3 water and 1 food, and 2 firewood?
+
+### Human: I'll give you the 3 water, 1 firewood. How about I get 3 food and 2 firewood? I'll need the fire to cook my food.
+
+### Assistant: I would need firewood to cook my food as well. I would like the 3 water, 1 food, and 1 firewood, what about that? 
+
+### Human: Since the value of water exceeds both food & firewood, I think it's fair for me to receive the extra dose of firewood. My offer to you is: you get 3 water, 1 food,  0 firewood.  I would get 0 water, 2 food, 3 firewood.
+
+### Assistant: Okay you have a deal.
+
+### Human: Great. I'll send it over 
+
+### Assistant: Submit-Deal

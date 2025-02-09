@@ -1,0 +1,23 @@
+### Assistant: HI 🙂I would like all the food and 1 wood, you can have the rest
+
+### Human: I need 2 woods first 
+
+### Assistant: That is fine since there are 3 wood and I want 1. 
+
+### Human: Then it is good deal.  I need two wood, 1 food, and 1 water.
+
+### Assistant: I really need all the food, I have a lot of people to feed
+
+### Human: I will provide you the food, but I am asking only one for my people.
+
+### Assistant: I am giving you all the water,  how come you need the food? 
+
+### Human: The main reason is to prevent us from cold.  Please provide three wood and three water.  If this is okay, then I will provide you three food.
+
+### Assistant: Food doesn't prevent cold. Thank you for giving me all the food but I need 1 wood to cook the additional food. You still end up with more items in the  end  
+
+### Human: Okay I accept the deal.
+
+### Assistant: 🙂awesome thank you
+
+### Human: Sorry, I thought that I can manage with two woods, but the temperature is very loo and many people need to save their life.  Please change the deal and provide us 3 wood.

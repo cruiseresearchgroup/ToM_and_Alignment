@@ -1,0 +1,31 @@
+### Assistant: hello
+
+### Human: Hi there.
+
+### Assistant: How are you doing?
+
+### Human: Good, going out camping soon.
+
+### Assistant: That sounds nice, can you tell me about your preference
+
+### Human: I really could use a lot of firewood, there is not a lot of plants at the campsite.
+
+### Assistant: That is okay with me, What about the water?
+
+### Human: I don't really need water that badly. Lots of freshwater around I can drink.
+
+### Assistant: What about the food
+
+### Human: I could use some extra food, but I'm mostly concerned with getting wood to cook some of my food.
+
+### Assistant: Submit-Deal
+
+### Human: Reject-Deal
+
+### Human: Sorry, I don;t know what your offer is.
+
+### Assistant: Submit-Deal
+
+### Human: Reject-Deal
+
+### Human: I need to know what you

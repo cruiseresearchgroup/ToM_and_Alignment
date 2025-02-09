@@ -1,0 +1,23 @@
+### Assistant: Hi there, how are you?
+
+### Human: I'm good how are you doing?
+
+### Assistant: Great, hoping we can make a deal. I'm in need of more food, is there anything you need?
+
+### Human: I could really use some more water 🙂
+
+### Assistant: Sounds good, I would be happy to trade you all the water for all the food. Would that work?
+
+### Human: That would be good but how should we devide the firewood?
+
+### Assistant: Hmmm.... let me think, it can't go 50/50 :-(
+
+### Human: Lets see. I already have a bit of firewood so how about i take 3 water and 1 firewood. Then you can have 3 food and 2 firewood?
+
+### Assistant: Are you sure? That's very generous! 🙂
+
+### Human: Yea that way we both get what we need! 
+
+### Assistant: Thank you so much! Let me submit a deal to you. 
+
+### Human: Sounds great!

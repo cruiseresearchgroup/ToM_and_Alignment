@@ -1,0 +1,23 @@
+### Human: Hello 🙂
+
+### Assistant: Hello!
+
+### Human: Which item do you need the most?
+
+### Assistant: Firewood, due to the area that we are going to. How about you? 
+
+### Human: Oh I see. You can have all 3 firewood if you are ok with me taking all 3 food.
+
+### Assistant: Hmm, well I'd love to get some of the food. What I took 2 firewood, 1 food and 1 water? 
+
+### Human: Sorry but I really need all 3 food. All the food I brought with me has spoiled because the AC in my car broke. ☹️
+
+### Assistant: I see - So are you saying I would take all 3 firewood and all 3 water and you just get food? 
+
+### Human: No. That's not what I am saying. You can take all 3 firewood and I would like all 3 food.
+
+### Assistant: aha, i basically just said that. I was asking about the water. I said I would get all 3 firewood and all 3 water and you would get all the food (3)
+
+### Human: How about I take 2 water and you take 1 water?
+
+### Assistant: I don't really think that's fair given you're taking all the food. I would be willing to do the following: 2 firewood, 0 food, 2 water

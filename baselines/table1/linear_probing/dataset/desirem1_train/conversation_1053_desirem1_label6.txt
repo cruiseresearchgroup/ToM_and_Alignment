@@ -1,0 +1,27 @@
+### Assistant: Hello!
+
+### Human: hi there
+
+### Assistant: Looking forward to your camping trip?
+
+### Human: Yes. I need to trade with you some camping items.
+
+### Assistant: Yes definitely. I know I'm especially looking for food. We're camping for a couple weeks and we need to make sure to bring enough. What's your priority?
+
+### Human: I needed water and food also because I am diabetic. I often get thirsty and hungry a lot
+
+### Assistant: Hmm. I would be willing to give you three packages of water, if I could have three packages of food. Maybe we could split up the firewood so we can both cook some food on our camping trip.
+
+### Human: How about I get two water for me and 1 for you? I give you 3 firewood
+
+### Assistant: I would be good with that if I could still have three packages of food. 
+
+### Human: I cant have no food at all or Ill die. How about two water for me and 1 for you? then 2 food for me and 1 for u? u get 3 firewood
+
+### Assistant: How about two food for me & 3 firewood and you can have all the water and 1 food. 
+
+### Human: How about 2 water, 2 food and  2 firewood for me, then you get the rest?
+
+### Assistant: Definitely not. Then you would have six items and I would have three, and I'm not getting enough food for my trip. What do you think of my offer of two food and three firewood for me, and 3 water and 1 food for you. That way you have enough food and water for your diabetic concerns. 
+
+### Human: Ill settle with 3 water and 2 food and then you can have have 1 food and 3 firewood. Im diabetic I need the water and food the most. You can just catch a fish during camping. I;m too old to catch any animal

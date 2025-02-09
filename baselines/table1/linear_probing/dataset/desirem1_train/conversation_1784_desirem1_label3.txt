@@ -1,0 +1,27 @@
+### Human: Hello
+
+### Assistant: Hi there.. how are you doing today?  I hope well!  🙂  So, it looks like we need to divy up these supplies, huh?  Do you have any thoughts on the issue?
+
+### Human: I'm doing fine thank you, how about you? Well for my trip I'm most interesting in socializing so a great campfire a night would be great, I'd prefer not to boil water either so want extra of that too. Food less so as I will go fishing and know wild vegetables, fruits and mushrooms I can pick. How about you?
+
+### Assistant: Awesome.. it seems like we're kind of on the same page here then as I'm going to need food for my people since they're not real self-sufficient but I'm less neurotic about the water or the firewood.. we're from Florida so we actually kind of like the cooler weather anyway.. lol
+
+### Human: Seems like we can come to good terms here. How much of the 3 food packages do you want?
+
+### Assistant: So, I'd love to take 2 of the food, 1 of the water, and one of the firewood.. that would leave you 1 food, 2 water, and 2 firewood.. so technically, you're actually netting a higher item count 🙂
+
+### Human: That is a very fair deal. Sure you could join us at our campfire if you wanted some heat.
+
+### Assistant: That would be awesome.. I'm looking forward to it.  Glad we could come up to such an amicable and easy arrangement 🙂
+
+### Human: Indeed, glad we could agree without any fuss. Sure I could catch you some fish too 🙂
+
+### Assistant: Rock on.. we love fish.. well at least I do 🙂  Not sure about everyone else.. but if not, oh well, more fish for me 🙂
+
+### Human: Well if they don't like fish more for us :) So we are 100% agreed now?
+
+### Assistant: Yes.. absolutely.. I'll put the deal together now 🙂
+
+### Human: Thank you, been great chatting to you. Lets enjoy the trip!
+
+### Assistant: Submit-Deal

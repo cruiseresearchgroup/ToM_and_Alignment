@@ -1,0 +1,23 @@
+### Assistant: Can you spare some water? I need to take medication and I have run out.
+
+### Human: Hi there, that sounds important. Yes, we can make sure you get some water. How does 1 package sound?
+
+### Assistant: I'd rather have 2, can give you all of my food for all of your water?
+
+### Human: I actually got really dehydrated on my last camping trip, so don't want to be completely without water. How about 2 for you, 1 for me?
+
+### Assistant: That is good, is it possible that I could get some firewood as well? I may be suffering from hypothermia.
+
+### Human: Oh wow! I don't want you to be that cold! :o  If I can have 3 food, I'd be happy for you to have 2 firewood.
+
+### Assistant: That would be great, I'm not real hungry, so I can spare some food.
+
+### Human: That sounds fair to me! So we've got 2 water and 2 firewood for you, 3 food and 1 each water and firewood for me.
+
+### Assistant: Yes, you're very kind. I desperately need some more water and firewood.
+
+### Human: I'm glad we were able to work out something for both of us! I hope you have a great camping trip!
+
+### Assistant: Submit-Deal
+
+### Human: Reject-Deal

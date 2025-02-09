@@ -1,0 +1,23 @@
+### Human: Hi there, how are you doing today?
+
+### Assistant: I am doing well, thanks! 
+
+### Human: That's good to hear. I am going camping this weekend and need some extra supplies. What about you?
+
+### Assistant: That's great! I also have a comping trip planned. We will be having an all night dance party. I could definitely use some extra supplies. What are you in need of the most?
+
+### Human: That sounds like fun. I am pretty good at hunting and fishing, so I really don't need the extra food. I would like some extra firewood however. That would help cook the food and keep animals and insects away at night
+
+### Assistant: Ugh ☹️ I too could really use the firewood. We need that campfire going all night to be able to socialize. How about water? Do you have enough? Do you need more?
+
+### Human: I have an idea. I could give you 3 firewood and you give me 3 water and 3 food. 
+
+### Assistant: That would be great but I could find myself in need of some extra water. Don't want t get dehydrated from all the dancing! Could I trade you one of the firewood for 2 of the water?
+
+### Human: I see. How about you get 2 firewood 1 water 1 food. And I get 1 firewod 2 water 2 food?
+
+### Assistant: I think that sounds fair. So I would get 2 firewood, 1 water and 1 food. You could get 1 firewood, 2 water, 2 food. Is that correct?
+
+### Human: Yes, sounds like a deal!
+
+### Assistant: Wonderful! 🙂

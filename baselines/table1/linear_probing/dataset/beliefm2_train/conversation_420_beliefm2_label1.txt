@@ -1,0 +1,35 @@
+### Assistant: Hello How are you? 🙂
+
+### Human: Hello there I'm well. How about yourself?
+
+### Assistant: I'm good. I'm excited for the camping trip. I have been planning this for a few weeks. I'm excited to get out into the woods.
+
+### Human: Oh great! I love getting out into nature.
+
+### Assistant: Do you have any preferences in regards to the firewood, food, and water? I would like us both to get what we need.
+
+### Human: I get really cold at night so I'd like to have extra firewood. 
+
+### Assistant: Same. Plus I am planning on keeping a fire long into the night. Eating alot of food also helps keep you warm while sleeping. Perhaps I could offer you some extra food in return for some extra firewood?
+
+### Human: Hmm I will have to think about this offer. How do you feel about the water packages?
+
+### Assistant: I am a water junkie day to day but the place I am camping as a stream and I'm taking my water filter system, so I could offer you extra water in this case.
+
+### Human: That is very considerate of you. 🙂
+
+### Assistant: Submit-Deal
+
+### Human: Reject-Deal
+
+### Human: I see the proposed deal. Unfortunately, if you are going to take all the firewood. I will need more food and water.
+
+### Assistant: that is totally understandable. Let me see what I can do 🙂
+
+### Human: Submit-Deal
+
+### Assistant: Reject-Deal
+
+### Assistant: Submit-Deal
+
+### Human: Reject-Deal

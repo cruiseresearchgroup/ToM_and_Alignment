@@ -1,0 +1,27 @@
+### Assistant: Hello, what do you expect from me?
+
+### Human: Hi! I'm really excited for the camping trip, but I guess can we talk about it first? I don't think we're supposed to rush into a decision.
+
+### Assistant: Okay, What did you thing about the camping trip?
+
+### Human: I'm excited to go on it! I haven't gone it yet, that's why we're talking about supplies now.
+
+### Assistant: Yeah, What did think about water? 
+
+### Human: I think water is great! I don't need very much for this trip, but water is delicious.
+
+### Assistant: Okay, but water is important to me because I have health issues. So I drink more water for save my health.
+
+### Human: Okay! You can have all the water. I want all the food.
+
+### Assistant: yeah sure, I will share with you all the food. What is about firewood?
+
+### Human: You can have two if I can have one if you're okay with that.
+
+### Assistant: My place is so cold, so I want all the firewood for save my children from cold.
+
+### Human: Submit-Deal
+
+### Assistant: Reject-Deal
+
+### Assistant: I want at least 2 packages of  firewood

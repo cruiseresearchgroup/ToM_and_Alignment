@@ -1,0 +1,23 @@
+### Human: Hello🙂
+
+### Assistant: Hi! I'm going camping soon with my family at a lake! We're looking forward to it so much since we haven't been able to get out due to Covid. Are you going camping too?
+
+### Human: Yes! I am also going with my family. My husband and I are essential workers but his hours all got cut. I got laid off from my job for part of the time.
+
+### Assistant: oh man that sucks ☹️! I know Congress is currently debating all of the unemployment stuff too. Where do you plan to be going camping?
+
+### Human: We didn't get unemployment or a stimulus check. ☹️ We are planning a trip to Missouri, Lake of the Ozarks. Our younger children have been cooped up so long we are hoping to let them get some sun and swimming in!
+
+### Assistant: That sounds nice, maybe everyone just needs some fun to stay positive about everything. We're going camping along a lake and plan to do a lot of fishing. My husband got these filtration thingies so that we can drink the lake water but I don't really trust them. This will be my kid's first ever camping trip so we're super excited to make it fun for him.
+
+### Human: We have 7 people in our family,.. the youngest two kids have hardly been anywhere because of working. I think our camping area has those old fashioned hand pumps.☹️
+
+### Assistant: Your two youngest kids are working? How old is everyone? If there's a lot of people, it will be easier to split up the duties and get things done. My son's 3 years old so as much as he's eager to help, there's not much he can do lol.
+
+### Human: Ha Ha...no my too youngest have hardly been anywhere because of us adults working,  I have teens (17, 15), tweens (13) and littles (10, 7). We 3 boys and 3 girls. We have a 21 year old but he's in a band so h can't go. They all pitch in anytime. They eat a lot so they have to cook from scratch at home. Awww 3 is so adorable...that's when they are sure they can do and will work so hard! 
+
+### Assistant: Home cooking's the best, yumyums! We're planning on doing a lot of fishing since my son's been in love with fishing toys and is currently in love with eating fish (he hasn't gotten tired of eating it every night for dinner). We're thinking of cooking what we catch every night. Do you have any activities planned for your camping trip?
+
+### Human: Fishing is so fun! 🙂 We really don't have a plan... so many people, so many opinions. If you'll be fishing and eating your catch, you'll probably need more firewood than food. And with the filters, you will need some extra water, especially for your little guy. So would you agree that you take 2 firewood packages, 1 food package and 1 extra water. 
+
+### Assistant: Submit-Deal

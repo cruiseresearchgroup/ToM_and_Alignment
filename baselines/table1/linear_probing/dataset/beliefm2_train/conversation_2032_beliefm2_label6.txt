@@ -1,0 +1,23 @@
+### Assistant: Isn't it lovely to go camping? But it's kinda hot out here. I hope that I brought enough water and food.
+
+### Human: It’s very nice here. We will need sufficient water. 
+
+### Assistant: Oh, do you have heat sensitivity too? 
+
+### Human: No, but out here we all will be sensitive to the heat. Especially if we stay here as long as we intended too. 
+
+### Assistant: How long do you intend to stay out here and camp? Cause I'll be here for a few days.
+
+### Human: That’s good to know. I’ll be here for 5 days.  Perhaps we should ration the water accordingly. 
+
+### Assistant: I agree. But I would gladly trade some extra firewood for some extra water if think you have enough water.
+
+### Human: I will need the extra firewood to cook meals and keep warm. 
+
+### Assistant: Then I think we can help each other out then. Cause I don't I need all of my firewood and don't want to haul it with me
+
+### Human: That makes sense.  I can give you a package of water for at least one and half of the firewood. 
+
+### Assistant: How about an even 2 packages of water for two packages of firewood?
+
+### Human: I don’t think that is fair. Water at this point is more valuable.

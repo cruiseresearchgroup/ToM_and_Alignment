@@ -1,0 +1,23 @@
+### Human: hello
+
+### Assistant: Hello I need more firewood to cook food and make fires. Would you be able to give me 3 packages of firewood?
+
+### Human: i will give 1 pack of fire wood, 2 pack of water, 3 pack of food
+
+### Assistant: How about 2 packs of firewood, and 1 pack of water, and 2 packs of food?
+
+### Human: sorry i will give 2 pack of firewood, 1 pack of water, 1 pack of food 
+
+### Assistant: Ok I accept that deal
+
+### Human: ok thank you have a good day
+
+### Assistant: Can you accept that deal through here? 
+
+### Human: yes i will accept that deal
+
+### Assistant: OK please and thank you
+
+### Human: yes accepted
+
+### Assistant: Submit-Deal

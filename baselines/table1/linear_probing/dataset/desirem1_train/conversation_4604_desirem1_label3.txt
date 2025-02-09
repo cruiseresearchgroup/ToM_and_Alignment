@@ -1,0 +1,23 @@
+### Human: Hello. How are things?
+
+### Assistant: hello, I'm fine how are you?🙂
+
+### Human: Things are okay. I got my ribs broken the other day. But I'm looking forward to a camping trip with my boy 🙂.
+
+### Assistant: Oh... Well what do you need for the trip. Maybe we can share something.
+
+### Human: I really am looking for 3 firewood and 3 water. What are you looking for?
+
+### Assistant: In that case, I would like 3 firewood, 3 water and 3 food.
+
+### Human: Of course, I cannot do that☹️. What do you need most and what do you need less of?
+
+### Assistant: I need firewood the most.
+
+### Human: Same. What do you need second most?
+
+### Assistant: water
+
+### Human: Same. I'll give you two firewood, if you give me one. And you give me two water and you take the rest. The food we can split.
+
+### Assistant: so I'll be 2 firewood, 1 water, 2 food?

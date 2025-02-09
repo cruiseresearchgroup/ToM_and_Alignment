@@ -1,0 +1,23 @@
+### Assistant: Hello, how are you doing today?
+
+### Human: Good. How you doing buddy? 🙂
+
+### Assistant: I'm doing pretty good. I plan on camping with the family this weekend, how about you?
+
+### Human: Nice. Same, it's over 100 degrees where I live. 🙂
+
+### Assistant: Yikes! It's a bit colder up here, that's why I would like to bring some extra firewood to stay warm at night.
+
+### Human: Oh, I see what you did there. No problem I have plenty of firewood for you buddy. 🙂
+
+### Assistant: Great! What extra supplies would you like to bring?
+
+### Human: Since it's hot there, I get thirsty and dry real quick. 😡
+
+### Assistant: Oh ok, well I plan on bringing some juice, beer and other drinks. So I could spare some extra water. And I am pretty good at fishing, so I won't need much food either
+
+### Human: How nice of you. I certain we can work something out. 🙂
+
+### Assistant: How about I get 3 firewood 0 water 2 food, and you get 0 firewood 3 water 1 food?
+
+### Human: Submit-Deal

@@ -1,0 +1,27 @@
+### Human: I need all thefirewood and food, you can have all the water.
+
+### Assistant: Sorry, that can't work for me. Is there a reason you need all the firewood and food?
+
+### Human: I have health issues, and I need to keep warm at night.  And I don't know how much fish I can catch.
+
+### Assistant: Okay, that makes sense. But I also need to keep warm.
+
+### Human: I think I can get by with 2 firewood, and give you 1.
+
+### Assistant: Hmm, I think I need firewood more than anything else. Would you take 1 firewood and 2 food?
+
+### Human: If I do that, I will need all the food, since I won't be able to cook much fish.
+
+### Assistant: I see. I do need at least 1 food package because I will be spending lots of calories working. But I can give you all the water.
+
+### Human: How about this, you get one firewood and one food, and I get all the water?
+
+### Assistant: No, sorry. How about you get one firewood, two food and all the water?
+
+### Human: I really need the two food if I only have one firewood.
+
+### Assistant: Yes, you can have two food and one firewood. Deal?
+
+### Human: Let me have one water, and we have a deal.
+
+### Assistant: Submit-Deal

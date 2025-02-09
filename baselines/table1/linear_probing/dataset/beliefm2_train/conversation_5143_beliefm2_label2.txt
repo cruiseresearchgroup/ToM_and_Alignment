@@ -1,0 +1,27 @@
+### Assistant: Hello, how are you doing on this fine day?
+
+### Human: Hello, I am doing awesome today. I am so glad I was able to get way and come camping. My bother just called me and said he is going to be coming. It was a surprise for him to be able to come🙂 How are you?
+
+### Assistant: I am well; I love going camping. I really enjoyed my time in Boy Scouts and look forward to practicing what I learned to good use
+
+### Human: That is awesome. I brought extra firewood if you need some. My brother forgot to pick up the water when he left town and now is 15 mins away. Do you have any you give?🙂🙂
+
+### Assistant: I would love some extra firewood; however I need some extra food too. I have diabetes and it's important that I have more food for later
+
+### Human: O wow.☹️ I'm sorry to here that. I can give you all my firewood and a food if you can give me all your water. 
+
+### Assistant: can you add one more food to it if that's ok?
+
+### Human: I really need that extra food for me and my bother. we have one to spare
+
+### Assistant: so what is the whole deal here? 
+
+### Human: you get 3 firewood I get 3 waters and now food I will give you 1 if that is ok🙂
+
+### Assistant: and I have to give you more food or not?
+
+### Human: Ok I will give you 2 foods. 🙂
+
+### Assistant: great; I really appreciate that. I hope you and your brother have a good time camping!
+
+### Human: Submit-Deal

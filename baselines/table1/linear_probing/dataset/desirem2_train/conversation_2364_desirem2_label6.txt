@@ -1,0 +1,23 @@
+### Assistant: Hello. I really need the extra water so that I can remain safe while camping. I get dehydrated. 
+
+### Human: I'm traveling with kids and it's going to be really hot during day time. Want to make sure that everyone is safe. How about you let me keep two waters and all of the extra food. You can have all of the firewood.
+
+### Assistant: I understand that you have kids, but I require extra water to avoid dehydrating and cramping. How about I keep 2 waters, 2 firewoods and one food. 
+
+### Human: How many people are you traveling with? Do you really need this much water? Let me keep two waters.
+
+### Assistant: Yes. I need a lot of water to stay hydrated. I am traveling with two other people. 
+
+### Human: If you are keeping two waters can I get two of firewood and two of food?
+
+### Assistant: You can definitely have two food. Will you be cooking a lot? I cook a lot which is why I wanted two of the firewood. 🙂
+
+### Human: Yes, as I said I'm traveling with family so we will be doing a lot of cooking and sitting at the fire pit in the evening. That's why I need two firewood
+
+### Assistant: Ok. I understand. I will let you have 2 firewood and 2 food. I will take the two waters, 1 firewood and 1 food. 
+
+### Human: Sounds great!
+
+### Assistant: You have a deal. Thanks. 
+
+### Human: Submit-Deal

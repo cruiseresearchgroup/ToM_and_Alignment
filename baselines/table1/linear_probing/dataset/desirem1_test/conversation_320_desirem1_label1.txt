@@ -1,0 +1,27 @@
+### Human: Hello.  What are your preferences for extra items for your camping trip?
+
+### Assistant: hello
+
+### Human: Do you have a preference for any extra items for your camping trip?
+
+### Assistant: yes. i need 2 pack of firewood, 2 pack of water and 1 pack of food
+
+### Human: I need 3 packs of firewood, 2 packs of food and 3 packs of water.  My husband and I are diabetic, so we're cold-natured, need regular meals and hydration.
+
+### Assistant: but i don't have back up for firewood. i need at least 2 pack of firewood. then only it will be better for me
+
+### Human: If I can have the 3 packs of food and 3 packs of water, then you can have 2 packs of firewood.
+
+### Assistant: oh god. without food and water how can i survive in the camping trip?
+
+### Human: This is true. Although we're negotiating for extra provisions.  I understand your situation, though.  I can use 1 pack of firewood, 2 pack of water and just 1 pack of food.
+
+### Assistant: okay fine. now it is suitable for both of us
+
+### Human: That sounds good.  Thank you for being fair and agreeable.  
+
+### Assistant: thank you for your time
+
+### Human: Thank you as well. 🙂
+
+### Assistant: Submit-Deal

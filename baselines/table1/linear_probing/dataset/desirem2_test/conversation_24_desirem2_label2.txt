@@ -1,0 +1,23 @@
+### Assistant: Hi there. How are you?
+
+### Human: hi i am good how about yourself🙂
+
+### Assistant: Pretty good. Ready for this camping trip!
+
+### Human: as ready as I can be hiking with 3 teenage boys..lol how about you?
+
+### Assistant: Haha, yeah I can't wait to go. I really need lots of food and a bit of firewood. What do you need?
+
+### Human: Food as well teenage boys you know they eat a lot of food, and then a bit of firewood  but i am sure we will agree on something
+
+### Assistant: Right...hmm. What do you say to 2 food, 1 firewood for me?
+
+### Human: i am good with that how many waters do you want can i have 2?
+
+### Assistant: Sure we can do that 🙂
+
+### Human: ok so i get 1 food 2 firewood and 2 water? sound fair?
+
+### Assistant: Absolutely that sounds great!
+
+### Human: Submit-Deal

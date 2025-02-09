@@ -1,0 +1,23 @@
+### Assistant: Kindly understand our need as we are struggling with hunger now.
+
+### Human: At the same from my side. We need foods because my child is hunger
+
+### Assistant: We with our kids undergone fasting in the recent days, so we are hungry to the peak
+
+### Human: What did you expect from me? Because same position is here also
+
+### Assistant: I would like to share water with you as we already have it in some quantity
+
+### Human: I am ready to give 1 amount of food for you. But I want some quantity of water and firewood for me.
+
+### Assistant: I would take 3 packages of food and just 1 package of water. Is it okay for you?
+
+### Human: No, I don't take this. Because food is important for my child and me.
+
+### Assistant: Try to understand our situation. We had food a week back. We were drinking only water for the whole week. We are dying of hunger. Kindly understand our situation.
+
+### Human: Even me too facing the same, but i am ready to share one food with you. You can offer me more water to safe myself without dying. Both will be happy
+
+### Assistant: Okay I shall give you 1 package of food and 2 packages of water. Is that okay for you now?
+
+### Human: Okay.

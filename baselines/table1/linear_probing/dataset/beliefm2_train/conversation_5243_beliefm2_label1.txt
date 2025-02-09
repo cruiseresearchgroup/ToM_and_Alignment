@@ -1,0 +1,23 @@
+### Assistant: Hello there!  How are you doing?
+
+### Human: Hello. I am doing great. Excited for my camping trip. How are you?
+
+### Assistant: Oh I hear you!  I'm super excited too!  Just kind of getting some last minute packing done! 
+
+### Human: I hope it will be a good time.
+
+### Assistant: Me too!  Well I'll just start by saying I am placing firewood very high on my priority list.  We will be doing a lot of fishing so I feel like I may need some extra firewood for all the cooking I will be doing.
+
+### Human: Great. I'm bringing water and I may need more in order to keep myself hydrated at all times. I'm a big guy.
+
+### Assistant: Ok that is a good idea!  Hydration is important!  I think we will have plenty to drink so I have water at the bottom of my priority.
+
+### Human: How about we strike a deal? I could use some more water packages.
+
+### Assistant: Ok what are you thinking?
+
+### Human: Food is pretty low on my priority list. I'm willing to give up some of that.
+
+### Assistant: Ok so how about you take all 3 water packages and I take all 3 firewood and I'll give you 2 food to my 1.  Or would you rather each take some of everything?
+
+### Human: Submit-Deal

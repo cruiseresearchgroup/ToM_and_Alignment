@@ -1,0 +1,23 @@
+### Human: Hii, If any experience about the camp? and what are the important thinks to take that camp.
+
+### Assistant: Hello, I have some experience with the camp
+
+### Human: Please give me some instruction and how to handle the critical situation. Because this is my first camp in my experiences... 
+
+### Assistant: I need 2 firewood because the place I camp is not ideal for gathering it. I would also like 2 water because it gets hot there in the summer time. You can have the rest of the supplies
+
+### Human: Why you prefering food is lowest creteria in that camp packages? If any other packages instead of food packages is available from your side?
+
+### Assistant: I need 2 firewood and 2 water because that's my most pressing need
+
+### Human: Sorry, I want 1 firewood, 1 water and 3 food. If you agree for this deal.
+
+### Assistant: So you get 1 firewood, 1 water, and 3 food? and I get 2 firewood and 2 water?
+
+### Human: Sorry, I'm misspelled of water package 1 water instead of 2 water. Actually i want 1 firewood, 2 water and 3 food.
+
+### Assistant: I need 2 firewood and 2 water. I cant give you the extra water
+
+### Human: Are you agree for my requirement of this camp?
+
+### Assistant: No, I don't agree with that deal

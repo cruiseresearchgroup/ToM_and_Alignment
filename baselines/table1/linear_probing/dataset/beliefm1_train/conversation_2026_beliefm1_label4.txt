@@ -1,0 +1,23 @@
+### Assistant: Hello, I think that I should get all of the water packages, 2 firewood and you can have all of the food.🙂
+
+### Human: Hi there, i appreciate your initial offer. 
+
+### Assistant: What is your offer on the additional packages?
+
+### Human: I would be willing to give you all of the firewood (3) and two of the water (2) while I get the rest
+
+### Assistant: Ok great, are you going to be ok with getting your own water and firewood during the trip?
+
+### Human: I think that I will be able to, so I'd like to offer you those extras.🙂
+
+### Assistant: Thank you, it would have been difficult for me to get more firewood and I appreciate the additional water. So I get 3 firewood, 2 water and 0 food.
+
+### Human: Yes, I think that deal will be the most helpful to both of us. I appreciate the food, which is important to me.
+
+### Assistant: You are welcome. Thank you for being so understanding, the extra packages are really going to come in handy for me!🙂
+
+### Human: Perfect, I will submit the deal after just a few more messages. You were great to work with!
+
+### Assistant: I agree and thanks, you also!
+
+### Human: Submit-Deal

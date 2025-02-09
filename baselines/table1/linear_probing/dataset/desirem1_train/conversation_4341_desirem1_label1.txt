@@ -1,0 +1,27 @@
+### Human: hello.i am going on a trip with my family can i have 2 firewood while you get 1 and 2 food.let me know your thought
+
+### Assistant: Hi, Hope you are doing good. My preference over the other was low when compared to wood.
+
+### Human: okay so can i take 2 firewood 1 food 2 water .while you take 1 firewood 2 food and 1 water
+
+### Assistant: but for my friends, they need firewood, the most. I said when comparing wood, other preference was low. it means, i too wood at the most. ☹️
+
+### Human: okay you can take 2 wood 1 food.can i take 1 wood 2food and 3 water.let me knoe if it is okay
+
+### Assistant: think of my proposal to u. "for you ,1 wood, 2 food, 2 water". "for me, 2 wood, 1 water, 1 food". If the proposal is not acceptable, let me know of some other possibilities.
+
+### Human: i like your proposal but can i suggest 3 water for me ?
+
+### Assistant: i need minimum amount water to drink☹️, That is why am asking ? Think of my situation and  give 1 water alone.
+
+### Human: okay then i will accept your proposal.i will atek 1 wood 2 food and 2 water .i guess my family will appreciate this 
+
+### Assistant: that's so nice of you to understand my situation. Don't submit the deal until we clearly discuss about the packages one more time. Is that okay for you ?
+
+### Human: okay so i am glad we could negotiate easily 
+
+### Assistant: yeah, to get clear about the deal, we can discuss about the same thing twice, that isn't a problem.🙂. Your family can manage with the amount of water and food ?
+
+### Human: yes i am okay with the deal.i take 1 wood 2 food 2water  and you take 1water 2 wood 1 food
+
+### Assistant: that's so nice of you. Am very happy for accepting this deal. For me 2 wood, 1 water and 1 food. For you, 1 wood , water and 2 food. Is that correct ? after confirming this, we can submit the deal.

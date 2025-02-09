@@ -1,0 +1,27 @@
+### Assistant: Hi! how are you doing? I hope you are getting things packed for the camping.
+
+### Human: Hi there! I am doing well. I am getting things ready and so excited! How are you doing?
+
+### Assistant: I'm great! and almost done with packing. and exited about the camping too. Waiting to explore and learn during the trip.
+
+### Human: That sounds great! What do you prefer with the additional packages for camping?
+
+### Assistant: Yes I do! I was to ask you that in this conversation, will you be Okay with any agreement?
+
+### Human: Let's see what we are both thinking and negotiate from there. What are your first thoughts on the additional camping packages?
+
+### Assistant: I need all the food packing and some basic needs for the camping, may I know about your first though on which you need additional package?
+
+### Human: I will need food packaging as well, so unfortunately I cannot agree on you taking it all. I will need 2 of the food packages, 1 of the firewood, and 2 of the water as I want to ensure to feed/hydrate my family of 5.. Does this work for you?
+
+### Assistant: I can't agree to this, as I have to feed my family with 7, so I would be needing 3 food packages and 2 water and 2 firewood. will this be agreed by you?
+
+### Human: No, that will not work. That does not leave me with hardly anything to feed my family of 5 😮. I will not agree to you taking 3 food packages. I can agree to me taking 2 packages of food, 2 of firewood, and 1 of water.
+
+### Assistant: In that case I can consider this 2 food packages and 2 water for me and the rest for you. will you agree to this?
+
+### Human: Hey, I think I can agree to that! I will take 1 food package, 1 water, and 3 firewood. I can agree to that! 🙂 I hope you have a wonderful time camping!
+
+### Assistant: Submit-Deal
+
+### Human: Reject-Deal

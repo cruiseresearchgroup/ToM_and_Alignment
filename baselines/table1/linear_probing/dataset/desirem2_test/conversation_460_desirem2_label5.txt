@@ -1,0 +1,23 @@
+### Human: Hey friend. I need more food because the activities my group has chosen require a lot of energy hence a lot of food.
+
+### Assistant: Hey friend. I would be willing to give you food for you activities in exchange for the water. I'm camping in a desert and there's no water sources out here.
+
+### Human: That is fine. So I take all the food you take all the water. Is that fine?
+
+### Assistant: Sounds good to me, and then we can split the firewood amongst us. 
+
+### Human: Yea. You are a good partner. Can I take 2 firewood I give you one
+
+### Assistant: I'd personally like 2 firewood because I don't have any extra food and will need to cook what I find. Firewood can help me cook and keep warm at night. What do you think?
+
+### Human: It is also very cold here and I have a condition triggered by cold weather. But we need to compromise.
+
+### Assistant: Hm. If I give you two firewood can I then have one of the food? That way you can keep warm, and I'll have some food to compensate for less firewood to keep warm and cook with. 
+
+### Human: No. Let me give you two firewood. I need as much food as I can find.
+
+### Assistant: Okay, that sounds fair to me! I understand you need food for your group! 🙂
+
+### Human: I am glad to have you as my partner. have fun .
+
+### Assistant: Submit-Deal

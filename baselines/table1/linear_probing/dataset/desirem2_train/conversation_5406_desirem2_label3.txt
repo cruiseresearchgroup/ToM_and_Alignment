@@ -1,0 +1,23 @@
+### Assistant: HI! Are you excited to go on this trip?
+
+### Human: I am
+
+### Assistant: Me too! Is this your first time?
+
+### Human: I have been camping before, but it has been a while. You?
+
+### Assistant: Same for me!!
+
+### Human: What sort of extra supplies are you looking for?
+
+### Assistant: I would really appreciate if I am able to take 2 of the food packages since I am a vegan and its hard to find options in the woods and if i can have 2 or 3 of the waters because i have a baby coming with me and i need it for his formula! 
+
+### Human: I think I can help with that, but in exchange, can I have 3 firewood bundles? I hate to take from the forest and risk damaging the natural wildlife habitat.
+
+### Assistant: yes of course!
+
+### Human: great!
+
+### Assistant: So we have agreed i get 2 foods and 3 waters and you get 1 food and 3 firewood? does that sound good?
+
+### Human: I thought you just wanted 2 waters?

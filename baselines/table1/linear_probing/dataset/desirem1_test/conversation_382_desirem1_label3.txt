@@ -1,0 +1,23 @@
+### Human: Hi there! Ready to go camping? 
+
+### Assistant: Yes I am
+
+### Human: Great! I'll be going to the Catskills, in NY. Where are you planning on going?
+
+### Assistant: Antarctica! I am going to need as much firewood as I can get.
+
+### Human: Ha, woah that's exotic! I'll need some firewood as well, but maybe not as much as you! I'm planning on going hiking a lot, and will need some extra water, as, again, ill be hiking a lot
+
+### Assistant: I will offer 3 water to you! You will maybe need more food with that much exercise? How about 2 food? I really need that extra firewood. Remember that the Catskills probably has some extra wood around.
+
+### Human: That works for me, you can have the firewood then!
+
+### Assistant: Alright that sounds great. 
+
+### Human: Great! so, for you, 2 wood, 1 food, me 3 water 2 food
+
+### Assistant: 3 wood is what i thought the deal was
+
+### Human: yes, sorry, I meant to type 3 haha
+
+### Assistant: Submit-Deal

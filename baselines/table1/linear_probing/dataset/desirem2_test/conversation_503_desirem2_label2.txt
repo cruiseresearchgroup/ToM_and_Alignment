@@ -1,0 +1,27 @@
+### Human: Hello!  I am gearing up to go camping this weekend?  Are you also planning to go camping?
+
+### Assistant: Hello .  . yes, we're going to Joshua Tree NP to do some rock climbing.  What are your preferences for extra supplies?🙂
+
+### Human: Nice!  I'm going to go in the Allegheny mountains in Pennsylvania?  My main priority is food because we will be doing a lot of hiking and will need to refuel our bodies.
+
+### Assistant: I see.  I would most prefer the water--we are in a hot, desert climate without much natural water sources.I also need food, however, as we are in a large group with lots of college students--big appetites!  I would like to take the waters, one food package, and one firewood.
+
+### Human: Let's start with the food first.  Would you be interested in keeping all of the waters and I would keep all of the food packages?
+
+### Assistant: That is possible, but the problem is that I don't think I would have enough food.  We would have to do some hunting probably to have enough food.  I would be willing to give up all the food but I would need to take two firewood  to help cook the game.  The nights in the desert can be cold, too, so I think the firewood would help.
+
+### Human: How about I keep 2 food packages and you keep 1 package?  Does that sound workable?
+
+### Assistant: It is workable if you throw in at least 1 firewood.🙂
+
+### Human: So you want me to take 2 firewood and you get 1 firewood ?
+
+### Assistant: Yes, I can give up two firewood and two food for 3 waters packs, 1 food, and 1 firewood.
+
+### Human: Would I be able to get a water pack and you keep two? I'm not sure if I can make it without atny water?
+
+### Assistant: Sorry, that won't work for me☹️ I am running out of time.  I ask you to reconsider this last offer.  If we don't come to an agreement we will both suffer.
+
+### Human: It's only fair if I get 1 too.  
+
+### Assistant: You might consider that fairness is not just about even distribution, but need.  You haven't expressed any reasons for why you should take the water, or the firewood, for that matter. There are plenty of water sources in the Pennsylvania mountains and rural areas.  My last offer stands, or I will have to walk away.

@@ -1,0 +1,23 @@
+### Human: What is your highest preference item? 🙂
+
+### Assistant: Firewood is my greatest need. What is yours? 🙂
+
+### Human: I also need firewood! We'll have to figure out a fair way to split the firewood. What about your second priority item?
+
+### Assistant: Yikes! Okay we should be able to work a fair deal. My next item is food...
+
+### Human: Okay! I need water second.
+
+### Assistant: Oh perfect! I don't need water so I'd be willing to give you all 3 🙂 so long as I get 3 water... ?
+
+### Human: I'm open to something like that...we need to split the firewood 2 to 1 though.
+
+### Assistant: I meant firewood not water. Okay that works. 2 firewood for me and 3 food. 3 water and 1 firewood for you?
+
+### Human: How about you give me 1 food as well since there is an uneven firewood split?
+
+### Assistant: I can work with that. Either way there are 9 items so it could never be split evenly. 🙂
+
+### Human: I know! ☹️ So are you okay with the following trade: 1 firewood, 3 water, 1 food for me. 2 firewood, 2 food for you. Sound good? 🙂
+
+### Assistant: Submit-Deal

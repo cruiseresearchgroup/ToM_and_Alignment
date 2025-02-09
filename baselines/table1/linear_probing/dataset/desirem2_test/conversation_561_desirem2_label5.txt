@@ -1,0 +1,23 @@
+### Assistant: hello, how are the preparations coming along?
+
+### Human: Hi There, I'm doing okay with my preparations but I am worried that I don't have enough food or water for the next few days.
+
+### Assistant: I also worried about those two items, especially water.
+
+### Human: Yes, they say it supposed to be really hot the next few days.
+
+### Assistant: yes, how do you suggest we share these resources?
+
+### Human: Tell me, how stocked up are you on food and firewood?
+
+### Assistant: I have firewood, what I need mainly is water, then food
+
+### Human: Ah, I see. I have plenty of firewood as well but mostly need food and some water.
+
+### Assistant: so let me suggest a split, I get two water and two food, you get one food, one water and three firewood
+
+### Human: I really don't need that much firewood. How about You get two water, one food and one firewood. And I'll take two food, one water and two firewood.
+
+### Assistant: not bad, but do you mind giving me two wood then? 
+
+### Human: Sure, you can have two of the firewoods. 🙂

@@ -1,0 +1,23 @@
+### Assistant: Hello, fellow camper.  Are you ready for our camping trip?
+
+### Human: I am ready to go camping. I understand there might be some disagreement around the additional supplies we each can choose from?
+
+### Assistant: There could be.  However, I think that if we are both reasonable, we should be able to come to an agreement.
+
+### Human: I think so too. I have a medical condition - type 1 diabetes - that makes it important to bring extra water and food. I'd like to request more of those two items.
+
+### Assistant: I don't have a problem with you having extra water.  I'll give you all the water, if I can have all of the firewood.
+
+### Human: I think that's more than fair. That only brings up the food to be divided. One of us is going to have to take less.
+
+### Assistant: I'd be fine with taking less food.  So, I would get 3 firewood, 1 food, and 0 water.  Is that correct?
+
+### Human: And I would get 0 firewood, 2 food and 3 water. That seems right to me.
+
+### Assistant: That
+
+### Human: It looks like we have to continue this conversation beyond a certain point before we come to a deal, so - what is your most cherished camping memory?
+
+### Assistant: My most cherished camping memory is of the camping trips that the church I used to go to planned.  One memory is when my son was driving a boat and was doing circles.  Somehow, a wave came over the front of the boat and soaked a friend of ours.
+
+### Human: Ha! That sounds wonderful. When I was young my mother and I hiked 75 miles on the Pacific Crest Trail over 13 days. It was an incredible bonding experience that really raised my level of confidence in what I could accomplish.

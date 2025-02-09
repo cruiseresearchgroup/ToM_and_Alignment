@@ -1,0 +1,23 @@
+### Human: What are your preferences for water?
+
+### Assistant: Water is not something I want to haul on my camping trip.  I would like to haul extra wood though.  
+
+### Human: I would actually prefer more water
+
+### Assistant: That is great.  Looks like we are on our way to making a deal.  How do you feel about wood?  
+
+### Human: I would prefer less wood so that's great
+
+### Assistant: I do not like camping and find comfort in food, so I would like to take all the extra food that I can.  
+
+### Human: I think that can be negoiated then i tend to eat less on camping trips
+
+### Assistant: Great!  So looks like all the water goes to you.  I will take all the food if that is ok and we can split the wood.  
+
+### Human: Well i would need one food and one wood
+
+### Assistant: OK.  I think that will work out for me.  You get 3 water, 1 wood and 1 food.  I will take the rest.
+
+### Human: Great that's an agreement for me
+
+### Assistant: Submit-Deal

@@ -1,0 +1,23 @@
+### Human: Hi, how are you today
+
+### Assistant: Super.  So happy I can fly.
+
+### Human: Thats great. Do you have any extra firewood you could trade by any chance?
+
+### Assistant: Sure, I want to make sure I have one firewood at a minimum. 
+
+### Human: What would you want in return?
+
+### Assistant: I like to eat.  I think extra food is good.  Are you willing to let me have all three food packs? 🙂
+
+### Human: I would want to keep at least one packet of food for myself, unless you want to just swap 3 firewoods for 3 packets of food, to keep it simple?
+
+### Assistant: I like your plan.  It is simple. I will agree to that.
+
+### Human: So all that is left is water, i guess i should atleast drink alot of it if i wont eat much haha 🙂
+
+### Assistant: For sure, and you will need some way to put out the fire. 😮
+
+### Human: Haha good point, you worked with me on the firewood so i am ok with you getting two waters and i will get one, deal?
+
+### Assistant: I think that is generous of you.  Thank you and I agree.

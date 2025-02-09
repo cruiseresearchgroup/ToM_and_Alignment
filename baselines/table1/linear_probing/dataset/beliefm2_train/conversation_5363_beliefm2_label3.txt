@@ -1,0 +1,23 @@
+### Human: Hi, I'd like to take all of the firewood and food. you can have water 🙂
+
+### Assistant: Hi! I’d like one of those firewood’s and 2 of the food. You are free to take water 
+
+### Human: I feel too cold and hungry. I'd like to take all of the firewood and 2 of the food. you can have 1 food and water. 
+
+### Assistant: I’m going to need at least one firewood. I’m in a bikini so I’m freezing and I really wanna make some pancakes!
+
+### Human: ok.. then I'd like to take 2 of the firewood , 2 foods and 2 packages of water. 
+
+### Assistant: How about I take I firewood, 2 water. I don’t need the food
+
+### Human: I like that.You have a deal. 
+
+### Assistant: Cool. How are you enjoying camping?
+
+### Human: Yes. What about you?
+
+### Assistant: Loving it! I always see a TURK-ey 🙂
+
+### Human: I feel thirsty. Can you give me one more water package 🙂
+
+### Assistant: Submit-Deal

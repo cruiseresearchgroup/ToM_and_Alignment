@@ -1,0 +1,23 @@
+### Human: What supplies would you like?
+
+### Assistant: Hi there, how are you?
+
+### Human: I am fine thanks. 
+
+### Assistant: Cool. This is going to be my kid's first camping trip so they're looking forward to building a campfire, making s'mores and telling ghost stories. I'd like to keep 3 firewood if possible. Are there supplies that you would like?
+
+### Human: I would like some firewood too as I get cold easily. You can keep all of the food for your children if you will give me at least 1 firewood and all of the water
+
+### Assistant: That sounds fair. So the deal will be 2 firewood and 3 food for me and 1 firewood and 3 water for you?
+
+### Human: Yes. Maybe we should negotiate more. 
+
+### Assistant: No worries. I completely understand.
+
+### Human: What would be your ideal preference?\
+
+### Assistant: 3 firewood would have been optimal but I see your point about being cold and don't want to be that insensitive. So I am good with the 2 firewood.
+
+### Human: Okay I think that is fair. 
+
+### Assistant: Submit-Deal

@@ -1,0 +1,27 @@
+### Human: What are your preference what would you need most?
+
+### Assistant: I need to keep the fire burning so i need firewood most. What about you?
+
+### Human: I dont need the firewood as much. 
+
+### Assistant: That is great for me. I guess i will take all three.🙂
+
+### Human: sure what other preferences would you like 
+
+### Assistant: I need a lot of water too. Thank you for understanding.
+
+### Human: no sorry i dont think so. i need some extra water because i only need a little food
+
+### Assistant: Okay then. I can give up one for you. Will that be okay?
+
+### Human: no i think i need 2 waters
+
+### Assistant: That will be very difficult for me. I have a condition that requires water all the time.
+
+### Human: Same thing here. Also i only need 1 food so can i get 2 waters
+
+### Assistant: Let me see the best offer for us then. I hope you will be okay.
+
+### Human: Submit-Deal
+
+### Assistant: Reject-Deal

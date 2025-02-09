@@ -1,0 +1,35 @@
+### Human: hello
+
+### Assistant: Hello there
+
+### Human: how is your day going?
+
+### Assistant: So far so good.  What are your plans for your camping trip?
+
+### Human: yes i guess you too. i will need more supplies like 3 foods, 2 firewood and1 water
+
+### Assistant: I have not really camped before so I am looking for as many supplies as possible.  What about I get 3 food, 3 firewood, and 1 water. 
+
+### Human: funnny you but no. so what else will i be left with if i give you those. okay let say i get 2 food, 2 firewood and 1 water.
+
+### Assistant: I am really bad at cooking so will probably need an extra good just because I'll ruin one of the 3.  Plus Im bringing 2 dogs they can eat the bad food I make 😮  I dont plan on hiking much so how bought I keep all 3 foods, and you keep all 3 waters and we can split the firewood.  2 for me, 1 for you. Great deal!
+
+### Human: i too i am bad at cooking and i will spend a longer time in the woods so i will need atleast 2 foods, 2 firewood and 1 water
+
+### Assistant: But I have more mouths to feed here so I will give you one of the foods, but then need 2 firewood and then take back 1 of the waters.  
+
+### Human: your dogs could probably hunt for something for you guys. and i would be in the would for a very long time 
+
+### Assistant: My dogs are like 12 and 15 pounds.  Hopefully they don't get eaten themselves. What about 2 foods, 2 firewood and 1 water for me.  😮
+
+### Human: hmmmmm not possible. i need the same exact thing. what about i get 2 foods, 1 firewood and 2 water☹️
+
+### Assistant: If you take 2 foods, 1 firewood, and 1 water that's a deal.  Otherwise I need the 2 foods, 1 firewood, and 2 water.  
+
+### Human: so let me get the remaining firewood then. making 2 foods, 2 firewood and 1 water🙂. or should i be going
+
+### Assistant: You can have 2 firewood OR 2 food.  I prefer you take firewood as I need at least 2 food. Each of us gets 2 of something. 
+
+### Human: okay so that means i get 2 food, 1 firewood and 2 water. right?
+
+### Assistant: Sure lets do that

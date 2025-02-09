@@ -1,0 +1,23 @@
+### Human: Hi, how are you?
+
+### Assistant: Hi, I'm good! Looking to get a bunch of food and firewood for this trip 🙂
+
+### Human: Nice! I'll give you all the food if I can have the firewood and water
+
+### Assistant: I can part with the water, but I'd at least like some extra firewood to cook my food
+
+### Human: OK, how about we split each of them? I'm thinking you could get 2 food, 1 firewood and 1 water
+
+### Assistant: I'd rather get the entirety of the food and 2 firewood if possible.
+
+### Human: I can't do that unfortunately. Seems like we both have those 2 as our top priorities! I can give you all the food but I'd need all the firewood and 2 waters
+
+### Assistant: Which do you need more, firewood or water?
+
+### Human: Firewood
+
+### Assistant: Okay, so you will get 3 firewood 2 water. I will get 3 food 1 water. is that fine?
+
+### Human: yep that works!
+
+### Assistant: Submit-Deal

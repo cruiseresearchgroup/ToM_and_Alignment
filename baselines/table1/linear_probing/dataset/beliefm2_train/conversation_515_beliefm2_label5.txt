@@ -1,0 +1,23 @@
+### Assistant: What is most important to you between food, water, and firewood?
+
+### Human: Hi, food is the most important to me right now. I plan on hiking a lot, so I'll need to refuel. What about you?
+
+### Assistant: Water is most important to me. However, food is a close second.
+
+### Human: Water is a close second for me, so we have different specific needs. 
+
+### Assistant: Yes. Have you considered how useful water may be to you if food is your highest priority? 
+
+### Human: Water is a bit useful, but food is the priority. Is food going to be a priority to you?
+
+### Assistant: Yes it is. Firewood should be higher on your list since food is the most important to you. You need to be able to cook
+
+### Human: Water is second because we plan to hike, so the food would be packages that don't necessarily need a lot of firewood. We also plan to sleep early. 
+
+### Assistant: Yes but how will you stay warm in the night? It may also scare away predators in the night time.
+
+### Human: We will have plenty of blankets and a nice tent with sleeping bags. 
+
+### Assistant: Submit-Deal
+
+### Human: Reject-Deal

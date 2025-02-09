@@ -1,0 +1,75 @@
+### Assistant: Hi! Ready for camping?! 🙂🙂🙂
+
+### Human: Hello. Of course I am ready. I've been excited for months now.
+
+### Assistant: Me too! I know how you feel! What are you bringing?
+
+### Human: I'm bringing water, firewood, and food. How about you?
+
+### Assistant: Yes, me also. I need some things more than others, and I need to do some trading. 🙂
+
+### Human: I need water and firewood mostly. What do you need?
+
+### Assistant: Firewood for sure! I don't need water really. I sterilize well and stream water.
+
+### Human: Are you willing to make a trade with me?
+
+### Assistant: Yes, please. Would you like to have all of my water? 🙂
+
+### Human: Yes. I will give you 1 food package for it.
+
+### Assistant: How about your firewood? Do you need all of it?
+
+### Human: I need firewood. I will give you 1 firewood, and 1 food package for your water packages. How does that sound?
+
+### Assistant: I really need more than 1 firewood. I go through it really quickly, especially with sanitizing my water.
+
+### Human: I need firewood to keep me warm at night and to cook my food.
+
+### Assistant: Okay, so if you need more than 1 firewood, I'll take 2 food, and 2 water?
+
+### Human: I thought you didn't need water? I give you 1 food, 1 firewood for your 3 water packages. How does that sound?
+
+### Assistant: I just want to make sure the trade is fair. There are 3 of each, so how about this.. for you 1 firewood, 1 food, 3 water and for me 2 firewood, 2 food, 0 water.
+
+### Human: Submit-Deal
+
+### Assistant: Reject-Deal
+
+### Assistant: Submit-Deal
+
+### Human: Reject-Deal
+
+### Human: Submit-Deal
+
+### Assistant: Reject-Deal
+
+### Assistant: That's a pretty unfair deal. I guess we can't make an agreement?
+
+### Human: How about this deal?
+
+### Assistant: Submit-Deal
+
+### Human: Reject-Deal
+
+### Human: Submit-Deal
+
+### Assistant: Reject-Deal
+
+### Assistant: No sorry. I'd rather walk.
+
+### Human: It is a 3 for 3 deal. I give you 1 firewood, 2 food. You give me 3 waters.
+
+### Assistant: But in the end you have 7 items and I have 2.
+
+### Human: Can you do math? I'm giving you 3 items. You give me 3 items. It's a fair deal.
+
+### Assistant: I can. With my deal I have 2 firewood and 2 food, and 0 water, which equals 4. You have 1 firewood, 1 food, and 3 water. That equals 5. How do you like my math?
+
+### Human: I will trade you my 2 Food + 1 Firewood for 3 of your Waters. Accept this or I will walk away.
+
+### Assistant: You don't understand how this works. I can help you. We have to split 9 items. You can have 5, I will take 4.
+
+### Human: Show me your deal
+
+### Assistant: Submit-Deal

@@ -1,0 +1,23 @@
+### Assistant: Hello!
+
+### Human: Hello, I'm excited for the camping trip! I am unfortunately low on water
+
+### Assistant: I'm excited too! I am an avid fisherman so I can't wait to catch plenty of fish for us to eat.
+
+### Human: Do you need extra firewood to cook the fish? I have a bunch.
+
+### Assistant: I do need a little firewood to cook the fish. However, it's so hot outside that I may get dehydrated. 
+
+### Human: Ah, so you want some extra water too? I have a lot of lemonade mix for the kids so I'll need water for them.
+
+### Assistant: I tend to get dehydrated quickly so if I don't have enough to drink I won't be able to provide everyone with food.
+
+### Human: Well, we have extra food too. How about I take 2 water, 1 food, and give the res (1 water, 2 food, 3 firewood) to you?
+
+### Assistant: That's super thoughtful of you. However, I really need two waters so I can provide for everyone. Once we have enough food and fire we can always go get water from the stream and boil it for the kids.
+
+### Human: Of course there is no garuntee you will catch anything, if you want 2 waters I'd prefer to take all the food just in case
+
+### Assistant: I would certainly give you all of the food if I could have 2 waters and 1 firewood.
+
+### Human: Submit-Deal

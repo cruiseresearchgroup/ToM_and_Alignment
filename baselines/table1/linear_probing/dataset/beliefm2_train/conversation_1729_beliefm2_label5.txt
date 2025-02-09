@@ -1,0 +1,23 @@
+### Human: Hello. How are you? I'm so glad I could get to camp out. I have been looking forward to this.
+
+### Assistant: Hi! Me too! I have a feeling this camping trip will be the best ever! 🙂
+
+### Human: Yea It will be awesome. Some friends of mine just called me and said they will be joining me for this evening. They will be bringing food so I can give you some if you need it. 
+
+### Assistant: That is the best news! My two teenage sons are coming, so I need all the food that I can get. How are you on firewood?
+
+### Human: Thats awesome 🙂. I am sure this will be a great time. Im ok on firewood. I do need some water I don't have very much at all. I left the package on the underside of the cart at the supermarket.
+
+### Assistant: Oh no! We have some water, but not a bunch. If I could keep maybe one, you could have the other two.
+
+### Human: Thanks🙂. I can give you two foods if you want. If you can spare some firewood?🙂
+
+### Assistant: If water is your number one priority, I will give you all of it if I can have all the food. 🙂
+
+### Human: That sounds good to me its going to help a lot snice I forget. Also snice my friends are bringing food I can give you all of it. I do need a small fire for the smore they want to cook. 🙂
+
+### Assistant: Awesome! 🙂 Would you be okay with one of the firewoods? I forgot to bring a sweater, so I don't want to get too chilly. 🙂
+
+### Human: Sure that sounds great.
+
+### Assistant: Submit-Deal

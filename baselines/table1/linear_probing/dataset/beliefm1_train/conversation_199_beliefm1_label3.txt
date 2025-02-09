@@ -1,0 +1,23 @@
+### Assistant: Hi, how are you?
+
+### Human: I am doing very well. Have you planned your camping trip?
+
+### Assistant: A bit and you? I'm looking forward to figuring out a deal that helps us both!
+
+### Human: That's great. 🙂 We are planning to prepare food over a fire.
+
+### Assistant: Nice! What are your highest priority items?
+
+### Human: We need a moderate amount of everything and I think we can work something out successfully.
+
+### Assistant: got it, OK I'll start then. I'd like at least 2 firewood
+
+### Human: Okay. we brought some of our own food so I don't need much of that either.
+
+### Assistant: do you want more water then? perhaps 2?
+
+### Human: Yes 🙂 
+
+### Assistant: ok great. I think I can do that, I'd like to have 2 food then if you're OK with that
+
+### Human: Submit-Deal

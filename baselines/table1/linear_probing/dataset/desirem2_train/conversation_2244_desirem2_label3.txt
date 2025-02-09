@@ -1,0 +1,35 @@
+### Human: Hello. I am all packed for my camping trip and am excited to get going!
+
+### Assistant: I am excited too. I hope it will be fun.
+
+### Human: I am a little worried I won't have enough firewood. Are you short on any supplies?
+
+### Assistant: Yes. I need extra packages of firewood too and water.
+
+### Human: Well, I am sure we can come up with a way to divide the supplies so we are both comfortable!
+
+### Assistant: I will need at least 2 firewood. Will that be okay? I can give up 2 food for you.
+
+### Human: That sounds good. 
+
+### Assistant: Okay. Thank you. I knew we could find something working for us.
+
+### Human: Now just the water, can I take 2 of the water since I only will get one of the firewood?
+
+### Assistant: I am requesting 2 waters too. I am with my kids and they like playing with water so i know they will waste a lot
+
+### Human: OK, I can live with that!
+
+### Assistant: Thank you so much for understanding. Now i am not worried. Do we have a deal?
+
+### Human: Submit-Deal
+
+### Assistant: Reject-Deal
+
+### Assistant: This is not what we had agreed.☹️
+
+### Human: Submit-Deal
+
+### Assistant: Reject-Deal
+
+### Assistant: Submit-Deal

@@ -1,0 +1,27 @@
+### Assistant: hello
+
+### Human: Hello how are you, I was wondering if its okay with you, If i can get 3 waters, 2 firewoods, and 1 food? what are your thoughts?
+
+### Assistant: i cant afford to give you all 3 waters because i would need some for myself
+
+### Human: I completely understand, I have a large family coming along, I really need the extra supplies, as for the food and firewood are you okay with the amount? 
+
+### Assistant: i am an avid water drinker. i can afford to give you 2 water for three firewood though
+
+### Human: I have alot of children, and those little rascals can chug water like there is no tomorrow, will you allow me to get the 3 waters and you can have 2 firewood and and 3 foods, what do you think?
+
+### Assistant: i need the firewood because i tend to catch a cold easily and also scared of the dark. i can give you 2 water and 2 food for 3 firewood and i food
+
+### Human: will you allow me to get 3 waters and you can have the 3 firewood and 2 foods? 🙂
+
+### Assistant: yes i can agree to that, thats a good compromise
+
+### Human: yay, thank you so much! to very I am getting 3 waters, 0 firewood, and 1 food?
+
+### Assistant: i will be getting 3 firewood, 0 water and 2 food
+
+### Human: perfect! submitting deal, thank you so much for understanding
+
+### Assistant: i am glad we were able to reach an agreement
+
+### Human: Submit-Deal

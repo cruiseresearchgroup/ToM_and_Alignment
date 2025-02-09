@@ -1,0 +1,23 @@
+### Human: hi 
+
+### Assistant: hello
+
+### Human: i need a lot of packages from you
+
+### Assistant: I do too.
+
+### Human: Can you give me your offer?
+
+### Assistant: I would like 3 firewods 1 food and 1 water we stay up late and need extra firewood
+
+### Human: Oh thats expensive .There's too much cold out here and thats our major package for survival 
+
+### Assistant: Okay when we are not camping we work at night so we are use to being up at night so we like extra firewood just to sit around campfire and chat
+
+### Human: Yours is still better.You using it for cht but we seriously need it for survival.But i can give you a firewood and a pakage of water in exchange for two firewoods.What do you think?
+
+### Assistant: Well how about I get two firewood and you can have all the water.
+
+### Human: hummmm...let me have two food and and 3 water in exchange of 2 firewood
+
+### Assistant: Okay I will go for that and hope this satisfies you.

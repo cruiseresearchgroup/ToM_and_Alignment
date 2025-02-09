@@ -1,0 +1,23 @@
+### Human: So I was thinking I'd take 2 waters and only 1 of the firewood and food.
+
+### Assistant: Would you be open to doing that the other way around?
+
+### Human: I don't know.  I really don't think I have enough water to cover all the hiking.  I could definitely use extra.  
+
+### Assistant: Yeah, I'm in the same boat, I'm one of those types that is overly cautious and like having as much water as possible, just in case.
+
+### Human: Hm.  Well what about firewood?  How are you with that?  
+
+### Assistant: I could do with or without a fire, it's not a top priority like food and water
+
+### Human: Well I have trouble with starting fires, so the extra firewood would be beneficial to me...I know I'll need a fire going each night.  So what if I took all 3 firewood and then you could have the majority of the water?
+
+### Assistant: so you would get 1 water, 1 food and 3 firewood?
+
+### Human: I would be interested in negotiating for a little more food in that case, but yes, otherwise that is what I am proposing. 🙂
+
+### Assistant: well, that would put you at 6 items and me at 3
+
+### Human: Well you didn't really need the firewood right?  I, on the other hand, could use all of it.  If I'm willing to take only 1 food package, are you good with the deal?
+
+### Assistant: Submit-Deal

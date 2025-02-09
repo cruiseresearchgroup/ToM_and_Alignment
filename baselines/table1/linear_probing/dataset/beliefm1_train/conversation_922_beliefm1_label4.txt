@@ -1,0 +1,23 @@
+### Assistant: Hi partner, how are you doing? What are you looking for today?
+
+### Human: Im doing good, how about yourself.
+
+### Assistant: Doing well...looking for more water for camping, since it will be hot.
+
+### Human: I hear ya. I was hoping to get some water as well, but I really need some extra food.
+
+### Assistant: I can spare some food. How are ya on firewood?
+
+### Human: I'm good on firewood, I can take it or leave it
+
+### Assistant: well, I will give you my 3 food for 3 waters
+
+### Human: That could work, May I take 2 firewood as well?
+
+### Assistant: sure
+
+### Human: Then We have a deal my friend
+
+### Assistant: Absolutely
+
+### Human: Submit-Deal

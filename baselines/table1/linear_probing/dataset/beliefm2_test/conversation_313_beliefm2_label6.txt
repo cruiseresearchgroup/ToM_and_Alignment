@@ -1,0 +1,23 @@
+### Human: Hello, fello camper.🙂
+
+### Assistant: Hi there! Are you having fun camping yet? 🙂
+
+### Human: Yes.  However, I could really use some more water.
+
+### Assistant: I'm in the same boat, unfortunately. I have a medical condition that requires me to stay really hydrated. Why do you need extra water right now?
+
+### Human: I had hoped to do some hiking, and I tend to get dehydrated really easily.
+
+### Assistant: What else do you need a little more of on this trip? Maybe we can find a way to get this shared as equitably as possible. 🙂
+
+### Human: I'd like some firewood.  I really don't need any extra food, as long as I have plenty of water.
+
+### Assistant: Okay, I'm happy to give you ALL of the firewood, and I'll take the food, if that works for you. Will you let me have two of the waters?
+
+### Human: I had hoped for more water, but you said that you have a medical condition.  Hopefully, the weather will be cool for hiking.  At least there are lots of trees, and lots of shade.
+
+### Assistant: Great! I love to hike and I'm hoping to do a few hundred miles of the Appalachian Trail next year. Do you have a favorite hiking spot?
+
+### Human: No, I don't really have a favorite hiking spot.  Nothing too steep, though.
+
+### Assistant: Submit-Deal

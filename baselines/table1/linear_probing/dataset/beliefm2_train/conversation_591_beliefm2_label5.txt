@@ -1,0 +1,23 @@
+### Assistant: hey, I have a huge group of people camping with me, so of priority to me is food and water
+
+### Human: What! That's too bad because i may need all packages of water. I came with kids who like playing with dirt.
+
+### Assistant: what about I give you two of the water then, so I take three food and one water and some wood?
+
+### Human: I will need at least one food too.
+
+### Assistant: what about I give you all the water, can I have all the food and some wood?
+
+### Human: If that is the case then you can do with one firewood because i need to keep my kids warm. I hope you understand.
+
+### Assistant: that is fine
+
+### Human: I am not sure though whether the food i have will last.
+
+### Assistant: you already have five items and I have four, you still want more?
+
+### Human: It is difficult being me right now. I could use more if it is possible.
+
+### Assistant: I think that is the best deal I can offer you right now.
+
+### Human: Submit-Deal

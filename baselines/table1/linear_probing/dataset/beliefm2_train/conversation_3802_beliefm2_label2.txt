@@ -1,0 +1,23 @@
+### Human: Hello, how are you?! I am requesting the following supplies, to be submitted. I'd like to submit to you that I am a larger person so need extra supplies, not a selfish person! 🙂
+
+### Assistant: That's great to hear! I'm also not a selfish person so hopefully we can come to an agreement. While I'm not a larger person, I do get hypoglycemia and low blood sugar so I'd like to request getting the 3 extra food supplies and offering you the 3 extra water supplies. Are you interested in that kind of deal?
+
+### Human: I'd hate for you to have any issues on your camping trip! I'm not interested in walking away with no extra food but am willing to talk. Are you interested at all in the firewood?
+
+### Assistant: Ok, I am open to discussions. Yes, I'm interested in the firewood. Are you at all interest in the water?
+
+### Human: Yes, I could do 3 water, you get 2 food, and I take 2 firewood since I'm really a little paranoid about wild animals and want extra to keep fire going all night. 
+
+### Assistant: Two food sounds good, but if you are getting 3 water I would want to take 2 firewood. I would be worried about not having enough supplies if I took any less.
+
+### Human: I can live with the food and water we have here. But I'd really like to take 2 firewood. Since you will have 2 food, you can save me from, at least, the worry about myself turning into food. We can finish this up if you could settle for just one firewood. 
+
+### Assistant: I can't be happy with you getting 3 water, 2 firewood and 1 food for a total of 6 supplies while I only get 2 food and 1 firewood for a total of 3 supplies. I will walk away before agreeing to that. I'm willing to take 3 food and 1 firewood or I can also agree to 2 food and 2 firewood. Either way you are still leaving with more supplies than I am. If neither of these are good, maybe we should renegotiate using the waters. Let me know what you think?
+
+### Human: Ok, that is a reasonable answer, I don't want us both to end up empty handed. Let me ask, what type of place are you camping in? In other words, what is the terrain that you are planning on setting up camp?
+
+### Assistant: I'm going to be camping in desert terrain. There won't be trees for cover or resources nearby so it's important I bring everything that I need.
+
+### Human: I think I can live with that then. You get 2 food, 0 water, and 2 firewood. I get 1 Food, 3 water, and 1 firewood. Are you in agreement with this?
+
+### Assistant: Yes I can agree to that! 2 food, 2 firewood and 0 water for me. 1 food, 3 water and 1 firewood for you.  I have already made water arrangements for my trip so I'm not very concerned about the water. I think we have finally come to an agreement!

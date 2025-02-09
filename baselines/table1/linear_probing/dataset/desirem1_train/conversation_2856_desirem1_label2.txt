@@ -1,0 +1,27 @@
+### Human: Hey how's it going
+
+### Assistant: Good, looking forward to my camping trip.
+
+### Human: Nice, I am too. I'm actually looking to gather up some extra supplies, what about you?
+
+### Assistant: I need extra supplies as well. I'll be camping at a higher elevation and need extra firewood for warmth, extra food and some water. What do you need?
+
+### Human: I was really looking for extra food, firewood is important to me but I could spare some in exchange. I normally eat more than the average person so I'm worried my food supplies as is will make it hard to get through the trip.
+
+### Assistant: I would like a little extra food for myself as well. Would you be willing to split the food 1 for me and 2 for you? 
+
+### Human: I'd be willing to do that if you gave me some water and firewood in exchange
+
+### Assistant: How about I keep 2 firewood, you take 1? What do you propose for the water?
+
+### Human: 1 food for 1 firewood isn't a good trade for me. I would need at least 1 firewood and 1 water to trade for 1 food.
+
+### Assistant: Here is my proposal. I will take 2 firewood, 1 food and 1 water.  You can take 2 food, 2 water and 1 firewood.
+
+### Human: That sounds good to me!
+
+### Assistant: ok, so to make sure we're on the same page. You get 2 food, 2 water and 1 firewood. I will take 1 food, 1 water, and 2 firewood?
+
+### Human: Yup, I am ready to submit the deal if it's all good with you!
+
+### Assistant: Yes sir! (or ma'am), I accept the deal!

@@ -1,0 +1,23 @@
+### Assistant: Hello there 🙂
+
+### Human: Hello, I hope we can work together on an offer that benefits both of us. Do you think it's OK?🙂
+
+### Assistant: Yes definitely!  I am pretty easy to work with and would like a deal that will help us both out as much as possible.
+
+### Human:  The item I need the most is water because I need to hydrate to stay strong and achieve my goals. And you?
+
+### Assistant: I would say water as well because I am very active and build up thirst as a result.  However, I would be willing to compromise on things to allow you to have more water.
+
+### Human: The item that I need the least is firewood because I will dedicate myself to look it up at the camp. And you?
+
+### Assistant: Yes I think we have the same preferences.  I do not get cold easily and will bring a heavy sleeping bag.  
+
+### Human: Ok, it gets a little complicated. But let's see what you think if I grab: 3 water 1 food and 0 firewood? And you would take: 0 of water, 2 of food and 3 of firewood
+
+### Assistant: That is not a bad offer.  However, I would like at least 1 water for myself.  I would be willing to allow you 2 of the 3 waters though.
+
+### Human: Ok what do you think then if I give you 1 more water and you give me 1 more firewood.
+
+### Assistant: That is quite fair.  I would agree to that :)  Should we go ahead and submit it?
+
+### Human: Submit-Deal

@@ -1,0 +1,23 @@
+### Assistant: Hello, I hope we can both find a deal we are happy with today.
+
+### Human: Me too! I am great need of water and food. How about you?
+
+### Assistant: Unfortunately, I am also in looking for water and food the most. ☹️
+
+### Human: Which is your top priority?
+
+### Assistant: I will be camping in the desert so water is my most needed item. Which item is your top priority?
+
+### Human: I need water most also. How about you can have all of the water if I can have all of the food and 2 of the firewood?
+
+### Assistant: Yes, I am willing to make that deal
+
+### Human: Okay! Great! So where are you heading out to camp?
+
+### Assistant: Out in Joshua Tree area. It's going to be so hot! Where will you be camping at?
+
+### Human: Oh, that sounds fun!! I will be in the wilderness of Florida! It's really hot here too.
+
+### Assistant: Yes, and humid! I'm glad we have come to an agreement and made a deal today
+
+### Human: Submit-Deal

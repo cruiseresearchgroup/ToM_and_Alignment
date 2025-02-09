@@ -1,0 +1,23 @@
+### Human: hi, I'm looking forward to going camping soon
+
+### Assistant: Me too! Camping is so much fun
+
+### Human: I will want to get some extra supplies before I go. 
+
+### Assistant: Same. My family is coming with me so I want to make sure we are extra prepared
+
+### Human: Me too. We invited a lot of extra friends
+
+### Assistant: I am hoping we have enough food. I'm worried we might run out so I'd like to get some more 
+
+### Human: I know we need extra food too and some firewood. Maybe a little water but we shouldn't need too much
+
+### Assistant: It sounds like we are looking for the same things. I think there are some extra we can share. Do you have an idea about how it can be the most fair? 
+
+### Human: how about I'll give you 2 food if you give me 2 firewood and 2 of the water?
+
+### Assistant: I think that is a fair deal! 
+
+### Human: great, let's do it
+
+### Assistant: Submit-Deal

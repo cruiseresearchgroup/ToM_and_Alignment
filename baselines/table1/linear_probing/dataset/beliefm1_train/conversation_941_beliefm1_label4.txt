@@ -1,0 +1,27 @@
+### Human: Hello, excited for a camping trip?? 🙂
+
+### Assistant: Yes! I think it will be so much fun, and nice to get away. 🙂
+
+### Human: For sure.. I am just busy planning and getting supplies - do not want to forget anything. 😮
+
+### Assistant: Most definitely! I have been making a list for a week. I am worried that my disability will make it difficult for me to get supplies once I get there, so I want to make sure I have all I need before we leave! 
+
+### Human: Oh yes, you want to be prepared. I am most worried about water because I get dehydrated easy and start getting ill - would be bad to have an emergency situation due to this.. What are your biggest concerns?
+
+### Assistant: Water and firewood are my biggest concerns. My spinal cord injury will make it difficult to find both in the wilderness. You definitely need to have enough water if it makes you ill! How about I take one water and you can take two, but I'd like all the firewood. If I have to find water, I will not have the energy to gather wood as well. What do you think?
+
+### Human: Hmm. I think I can do that. Now what about food?
+
+### Assistant: Since there is not an even number of extra food, I think that we should try to split it fairly. When I can drink a lot of water, I don't eat as much. Are you a big eater?
+
+### Human: I need to eat often but not big portions. However I do get grumpy if I do not snack every so often. I would like to have 2 food?
+
+### Assistant: I would be happy to let you have two of the food! I was thinking I would just need one. 
+
+### Human: great, so I would take 2 water and 2 food, the rest is yours?
+
+### Assistant: That seems fair to me, I would get one water, three wood, and one food. You would get the two water and two food. Does that sound like a good plan for you?
+
+### Human: yes
+
+### Assistant: Submit-Deal

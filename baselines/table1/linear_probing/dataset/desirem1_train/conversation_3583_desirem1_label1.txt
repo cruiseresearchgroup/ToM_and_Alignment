@@ -1,0 +1,31 @@
+### Human: I'm hoping to get some firewood, would you be willing to give me two packages?
+
+### Assistant: I was hoping to get more firewood, I needed more firewood than other things.
+
+### Human: Let's try this. What do you need least?
+
+### Assistant: I need food the least. 🙂 
+
+### Human: Would you be willing to give me two packages of food?
+
+### Assistant: Yes, I am willing to give you two packages of food. 
+
+### Human: Ok, I don't really need much water. What do you suggest we do about that?
+
+### Assistant: I actually needed more water because of my kidney issues. 
+
+### Human: I would be willing to give you two packages of water
+
+### Assistant: That sounds good, thank you for giving more packages of water. I really need them. 🙂 
+
+### Human: Ok, now what would you consider to be reasonable for firewood
+
+### Assistant: I was hoping to get two packages of firewood to have for emergencies. 
+
+### Human: The thing is, my elderly mum is with us and she would do much better in the evenings with the warmth
+
+### Assistant: If you give me 3 packages of water I am willing to give you 2 packages of firewood. 
+
+### Human: deal!
+
+### Assistant: Okay, thank you.

@@ -1,0 +1,27 @@
+### Assistant: hello
+
+### Human: Hello
+
+### Assistant: for my additional package I select my priorities and package
+
+### Human: Which priorities and package do you select specifically?
+
+### Assistant: my first priority is firewood I want 1 package
+
+### Human: I respect your choice for firewood. I will take two firewood, if that's okay?
+
+### Assistant: I want two additional package of water because for my medical purpose
+
+### Human: I only need one water, so that is fine. I do not get dehydrated easily. Your medical purpose is more important.
+
+### Assistant: thank you for your kindness, and I need one food package because I basically eat less
+
+### Human: No problem! I will take two food because of my large size.
+
+### Assistant: This deal is make me happy and I agreed this deal and what about you?
+
+### Human: I agree with this deal! It makes me happy as well.
+
+### Assistant: thank you for accept this deal! this deal is make us our trip better
+
+### Human: Submit-Deal

@@ -1,0 +1,23 @@
+### Human: It's been so cold these last few days, I'm worried that I didn't bring enough wood for the next few nights.
+
+### Assistant: That is unfortunate. How about I give you are my firewood for all your food?
+
+### Human: That is a very generous offer but I think I need to keep some food to be safe. Do you need any water?
+
+### Assistant: I can use water, yes. You could have all the firewood, one food ration. Then I could take the water rations and two food rations. 
+
+### Human: Actually, I'd like to keep some water as well in case it gets so cold that the lakes and other water sources freeze.
+
+### Assistant: Well, I need as much food as possible. You seem to want firewood. How about you suggest something.
+
+### Human: That's a good idea.Let me think. How about 3 Firewood, 1 Food and 2 waters for me.
+
+### Assistant: That will not work for me at all. 
+
+### Human: I see. Then how does 2 Firewood, 1 food and 1 water for me sound? You'll be getting 1, Wood 2 Foods and 1 Water
+
+### Assistant: Your calculations are incorrect. There are 3 firewood, 3 food, and 3 water. You are missing a water. I will return to my original offer since you need firewood the most and I need food the most. I take all the food, you take all the wood. And then you can take 1 water as you just suggested. 
+
+### Human: That will work fine with me. Please enjoy your food and two waters.
+
+### Assistant: Thank you, you as well.

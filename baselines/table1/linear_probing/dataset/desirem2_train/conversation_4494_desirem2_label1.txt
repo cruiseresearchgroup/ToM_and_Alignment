@@ -1,0 +1,23 @@
+### Assistant: Hi, this is my first time camping and I want to make sure I have enough stuff.  I would like three food, three firewood, and two water.  What do you think?
+
+### Human: I have been camping a few times and pretty much know what I need to be comfortable and healthy.  Warmth and hydration are important for me.  So, I am thinking 2 firewood, 2 water and 0 food.
+
+### Assistant: Since I have never been camping before, why do you think you need 2 firewood?
+
+### Human: Unfortunately, I have arthritis so being sure to keep warm and the dampness away in the evening, heat is important for me.
+
+### Assistant: Ok.  I am worried about animals and bugs so I would prefer 2 firewood.  But I am happy with the 3 food🙂
+
+### Human: Ok, how about we shift a bit as I hear you on the bugs and animals.  I think I can get by with one firewood and use extra covers and meds.  But, will need plenty of water and some food.  How about I take 1 firewood, 2 water and 2 food.
+
+### Assistant: Ok, although I was thinking that I could probably find some firewood, but would prefer more water so I don't get dehydrated and can use it to wash and cook.  How about I take 1 firewood, 2 water, and 1 food
+
+### Human: Good thought on finding your own firewood.  I appreciate the offer of 2 firewood.  I can cut back on water for washing/cooking.  So how about I take 2 firewood, 1 water and 2 food
+
+### Assistant: ok that sounds fine🙂
+
+### Human: Great, thanks for understanding and working with me....and enjoy your first time camping🙂
+
+### Assistant: no problem🙂
+
+### Human: Submit-Deal

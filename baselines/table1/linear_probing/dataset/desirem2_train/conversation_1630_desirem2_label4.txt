@@ -1,0 +1,31 @@
+### Human: Hi. Water is very important to me. 
+
+### Assistant: Hello, I don't really need water
+
+### Human: What is it that you need?
+
+### Assistant: I need food and firewood
+
+### Human: I need water and then firewood
+
+### Assistant: You can have all the water if I can have all the extra food
+
+### Human: OK, but first tell me why you need extra food
+
+### Assistant: I have 10 people in my group
+
+### Human: I see. I need more water because I came across some people who were lost and they are very dehydrated.
+
+### Assistant: I need 2 firewood because it gets below freezing at night
+
+### Human: Oh I wouldn't want for you to freeze☹️ It also gets cold where I am, so I need 2 firewood as well.
+
+### Assistant: IF I can't get 2 pieces of firewood, I will walk away
+
+### Human: oh that is too bad. I feel the same way.😮
+
+### Assistant: Sorry we could not come to a agreement, I am walking away
+
+### Human: OK. I am sorry it has to come to this. I really need the firewood as much as you do to keep warm as it is very cold where I am for this time of the year.
+
+### Assistant: Submit-Deal

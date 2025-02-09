@@ -1,0 +1,39 @@
+### Assistant: Hi, how's your day going? 🙂
+
+### Human: I'm well, how are you?🙂
+
+### Assistant: I'm alright. Before we get into negotiating, what are your preferences?
+
+### Human: My priorities are food and water.
+
+### Assistant: Okay. Mine is firewood and food. 
+
+### Human: Okay. I don't need much firewood. Is there a reason you need extra food?
+
+### Assistant: Mine is more so for snacks and to make some s'mores for my family - we need all the necessary ingredients for that as you can imagine.
+
+### Human: We have 3 kids as well and have the same concerns. I'd be happy to give you 2 firewood for making s'mores.
+
+### Assistant: Well, I was actually thinking of giving you all the food in exchange for all the firewood?
+
+### Human: That would work. 🙂 What would you like to do with the water?
+
+### Assistant: Whoops, my apologies. I meant all the water. We have other drinks and some water from home.
+
+### Human: Sorry, I can't give up all the water. I don't want the kids getting dehydrated. ☹️
+
+### Assistant: No, I meant I take all the firewood, you take all the water.
+
+### Human: So confused... what about the food?
+
+### Assistant: That's a good point, my apologies. can I take 2 firewood, 2 food, 0 water?
+
+### Human: Could you take 3 firewood and 1 food?
+
+### Assistant: Sure. What do you think about the water though?
+
+### Human: If you don't need it, we could certainly use it.
+
+### Assistant: Sure. 3 firewood + 1 food + 0 water for me.
+
+### Human: Submit-Deal

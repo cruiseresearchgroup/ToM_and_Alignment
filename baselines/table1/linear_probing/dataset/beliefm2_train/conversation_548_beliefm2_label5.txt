@@ -1,0 +1,23 @@
+### Human: Hello
+
+### Assistant: I have a large family and need a lot of food and water.
+
+### Human: What is your top priority? 
+
+### Assistant: I would like 3 food and 3 waters. You can have the firewood.🙂
+
+### Human: That is not fair. You can have 3 waters if I can have 3 food. 
+
+### Assistant: That isn't really fair either. Why do you need so much food?
+
+### Human: How is it not fair? It's three of each for both of us. You wanted 6 of the 9 items. I need the food because I am diabetic and low blood sugar can kill me.
+
+### Assistant: ☹️ I also need some food to feed my children. How about if I get two food, and two waters. That will give you one of each.
+
+### Human: Absolutely not. How do you think that's fair? I'll take two food, two firewood and you can have the rest.
+
+### Assistant: I was only speaking of food and water. I hadn't discussed firewood. I really don't need any since it's so hot out. But with 5 children I'm not sure if one package of food will be enoguh.
+
+### Human: I tried to be patient. My offer is 2 food, 2 firewood, and you can have the rest. That leaves you with 5 items and I only get 4. You can accept this, or I will walk away.
+
+### Assistant: 😮

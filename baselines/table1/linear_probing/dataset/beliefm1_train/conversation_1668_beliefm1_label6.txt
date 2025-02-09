@@ -1,0 +1,27 @@
+### Assistant: Hello, are you looking forward to the camping trip?
+
+### Human: Yes, It is one of my favorite things to do.
+
+### Assistant: I think it will be fun for the whole group.  What do you like about camping?
+
+### Human: I like being out in nature. And doing some hiking.🙂
+
+### Assistant: How far do you think you can hike in a day?
+
+### Human: 20 miles if I get an early start.
+
+### Assistant: Do you like to hike alone or with friends on a camping trip?
+
+### Human: I usually hike with my wife.
+
+### Assistant: Will you check the weather before you go camping?
+
+### Human: Yes, but you never know what might happen with the weather.
+
+### Assistant: How would you like to divide the packages?
+
+### Human: I get hungry when hiking, so food and water are most important to me.🙂
+
+### Assistant: Submit-Deal
+
+### Human: Reject-Deal

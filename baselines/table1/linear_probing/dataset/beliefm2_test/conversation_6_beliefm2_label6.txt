@@ -1,0 +1,27 @@
+### Human: Hi we would like you to consider giving us all of the rations for the trip.
+
+### Assistant: hello, that could be a good idea, but I think I need more rations
+
+### Human: How important are they to you? We would like to get a good mix, preferably more food.
+
+### Assistant: I need more food and water, you see I am diabetic, I need to eat many small meals
+
+### Human: 😡 I can let the firewood and water lax if you provide us food.
+
+### Assistant: let me have two food and three parts of water, I can let you have all the firewood and one fpart food
+
+### Human: We do have a fire to start, but we are very hungry. Diabetics can eat less food because of the small meals. Don't lie to me.
+
+### Assistant: 😡my type of diabetes needs many meals otherwise my insulin levels will be low
+
+### Human: I am diabetic also.
+
+### Assistant: your type maybe needs wild fruits which you can easily gather🙂
+
+### Human: Submit-Deal
+
+### Assistant: Reject-Deal
+
+### Assistant: Submit-Deal
+
+### Human: Reject-Deal

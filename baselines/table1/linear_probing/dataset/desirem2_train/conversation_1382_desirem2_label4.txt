@@ -1,0 +1,23 @@
+### Human: I am looking forward to this camping trip but I am concerned with not having enough water.
+
+### Assistant: Oh, I can understand, I'm worried about food 😡.
+
+### Human: I could agree to let you have more food in exchange for me having more water.
+
+### Assistant: That sounds like a fair plan. I wish they had consulted us before sending everyone the same basic package, don't you? 
+
+### Human: That would have been really helpful.  🙂 As far as the firewood, I could use more of that also. I tend to get cold easily.
+
+### Assistant: I'm flexible on that, though I made the mistake of bringing a summer sleeping back to the mountains. A bit chilly, lol.
+
+### Human: So how does 2 waters for me and 1 for you, 2 firewoods for me and 1 for you, and 2 foods for you and 1 for me sound?
+
+### Assistant: Hmm, if you get 2 firewoods, then I'll need all 3 foods as I'll have to search around for extra wood. Plus I was hoping to give some treats to my dog and they didn't include any in the supplies!
+
+### Human: I realize with the odd number of extra supplies, there is no way to distribute equally.  I can't give up any extra food incase of emergency. Sorry.
+
+### Assistant: Then I'll definitely need 2 food, 2 firewood, and just one water.
+
+### Human: I really need the extra water as I get dehydrated easily and I told you already about being cold.  I'm not trying to be disagreeable. These are things I really have to have.
+
+### Assistant: I understand, but it is the same here. If dehydration is your biggest worry I can do 3 foods for me, and all three waters for you, with 2 wood for me.

@@ -1,0 +1,23 @@
+### Assistant: Hello, I would like to make a deal with you. I really need water and food most.
+
+### Human: Hello, hopefully we can come to an agreement. Can we share a portion of all 3?
+
+### Assistant: Yes, I was thinking I could take two water, two food, and one firewood.
+
+### Human: What is more important to you food or water? and why
+
+### Assistant: Water, because I need to drink more than I eat.
+
+### Human: I am a bit on the older side, I do not eat much food, water is important to me as well
+
+### Assistant: I see, and how important is the firewood to you?
+
+### Human: Well being on the older side, it may be difficult for me to chop and collect firewood, it is most important to me
+
+### Assistant: Alright, do you have an offer you want to make to me?
+
+### Human: I could take all 3 firewood if you perhaps want all the food?
+
+### Assistant: I need water most, so how about I take 2 water, all the food, and let you have all the firewood?
+
+### Human: Can you throw in 1 food for me?

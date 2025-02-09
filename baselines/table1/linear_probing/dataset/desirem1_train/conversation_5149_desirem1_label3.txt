@@ -1,0 +1,23 @@
+### Human: Hi there, good to connect with you. How are you today?
+
+### Assistant: I am good, thank you.  What are your preferences? I really need the extra food packages.  We are doing a lot of hiking and mountain biking and there are no grocery stores for at least 50 miles.🙂
+
+### Human: Oh wow that is quite a lot of hiking! I think we will be hanging out a lot overnight and so I am looking for more firewood if possible. My kids can't hike very far and want to do more with smores and marshmellows. 
+
+### Assistant: I can work with that.  I am willing to give you all of the firewood.  We are in a hot climate and won't need too much.  Being in a hot climate and with a lot of exercise, I am hoping to take the three water packages. 
+
+### Human: Thank you for that. I'm happy to give you the food packages as well as we shouldn't need extras. Being around the fire, we are going to be hot as well and dehydrated. I say let's try and split the waters. 
+
+### Assistant: We are going to be in an area where there is little potable water.  I don't have a water filter either.  The extra water will be very important for our group.  
+
+### Human: I understand. We will have a big group (about 10 people) so we are trying to have as much water as possible as well. If anyone gets dehydrated it'd be the end of the trip and hard to get everyone back to base. What's the fewest amount of bottles you're willing to accept?
+
+### Assistant: 😮Two packages is the lowest I would accept.  There is one exception to that.  If you were willing to give up 2 firewood, then I would be willing to take 1 water.  I think I could trade some extra firewood for water at the campsite.
+
+### Human: I understand. I am not willing to give up any firewood, but I'd be willing to do a trade of 1 food for 1 water. So 3 firewood for us, 1 water for us, and 1 food for us.  
+
+### Assistant: Sorry, that won't work for me. ☹️ My counteroffer is I will take three waters and two food packages and give you all of the firewood and 1 food.  I am running out of time, and if we don't agree, we will both lose out, so please consider this last offer.🙂
+
+### Human: Okay I can live with that. 
+
+### Assistant: Great! Let's finalize then . . .

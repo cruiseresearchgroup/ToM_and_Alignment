@@ -1,0 +1,27 @@
+### Assistant: Hello! I'm looking forward to making a deal. Let's find something that works for us both.
+
+### Human: Hello there.  I am absolutely interested in coming to an agreement as well.  it's pleasant to meet you!
+
+### Assistant: Nice to meet you too. So what do you need most?
+
+### Human: So, I'm a chef.  My largest concern is getting a nice, hot, fire.  In order to do that I'll need firewood the most.  What are you looking for the most?
+
+### Assistant: That's awesome! I am most definitely NOT a chef, but I'm going to be doing a lot of hiking, so I'll need a lot of water to stay hydrated. And a bit of extra food to keep us all full.
+
+### Human: Fair enough.  I'm also going to need a bit of water, but I'm sure we can come to an agreement fair for both of us.  As far as food goes, I only require very little, my pantry already is pretty stocked there.
+
+### Assistant: Well, if I take 2 waters and you take 1, will you let me have all of the food?
+
+### Human: I think that's asking a bit too much, because I still would like some food.  I'd be willing to take all the firewood, one water, and one food, if that sounds passable to you.
+
+### Assistant: Well, if I'm splitting the food and water with you, I'd like a single firewood. I'm no chef, but it'll be freezing cold overnight, and I just need a little extra to keep warm.
+
+### Human: I must insist on the Firewood, that's the most important thing to me - you should have enough from your default package for a nice fire.  I could use more water, but I'm letting you take the lions share of that, so I think one food isn't too unfair for that.
+
+### Assistant: Okay, that's fair. You put in the deal, and I'll gladly accept.
+
+### Human: Alrighty.  Hope you have fun on your hiking!  Make sure you stay hydrated.  Going to push it through now.
+
+### Assistant: Sounds good, you have fun, too! And good luck cooking up all that food, chef!
+
+### Human: Submit-Deal

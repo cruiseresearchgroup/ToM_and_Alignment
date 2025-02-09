@@ -1,0 +1,23 @@
+### Human: hi how are you?
+
+### Assistant: Im good thanks, and you? 🙂
+
+### Human: I'm good. Just preparing to go on a camping trip
+
+### Assistant: Same with me, good time of year
+
+### Human: Yeah I'm hoping to relax with my family and enjoy the outdoors 
+
+### Assistant: Same, i do ask though as i have a medical condition if i can have all the water, it is really hard for me to stay hydrated
+
+### Human: oh that is tough. I am also looking for water. I need it to cook our food and it is going to be extra hot and I need to keep my family hydrated
+
+### Assistant: May i atleast have 2? I can get siezures if i dont get enough hydration
+
+### Human: would you trade 2 water for 3 firewood and 1 food?
+
+### Assistant: I would need 2 food then
+
+### Human: ok
+
+### Assistant: Submit-Deal

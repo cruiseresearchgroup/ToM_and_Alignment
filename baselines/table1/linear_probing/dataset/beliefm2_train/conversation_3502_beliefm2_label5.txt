@@ -1,0 +1,23 @@
+### Assistant: Hi
+
+### Human: Hi 🙂
+
+### Assistant: How are you?
+
+### Human: I'm good. How are you?
+
+### Assistant: Im great too.
+
+### Human: I would like to take two of the food packages, one of the water and one of the firewood. 
+
+### Assistant: I see that you do but there could be more negotiaitons
+
+### Human: What is your preference?
+
+### Assistant: Three for food
+
+### Human: I understand that you need that but I think we could compromise as I'm sure we both need food to make our camping trip easier.
+
+### Assistant: Thats true I agree with you on that we can do what you said earlier
+
+### Human: That works. Thanks for negotiating with me.

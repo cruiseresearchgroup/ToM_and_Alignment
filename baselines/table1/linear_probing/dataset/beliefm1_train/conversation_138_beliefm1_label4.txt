@@ -1,0 +1,23 @@
+### Assistant: Hi
+
+### Human: hello how are you? 
+
+### Assistant: I am good thank you
+
+### Human: I was hoping we could agree on the importance of food while camping. I would like all 3 packages, if thats okay with you?
+
+### Assistant: Well it is not okay I feel food is less important
+
+### Human: I was thinking that, while camping there are so many uncertainties, from wild life, loss of food, spoiling, what if we are stuck at the camp for whatever reason, having the food available brings a peace of mind, what do you think?
+
+### Assistant: Well I still think 1 or two packages will do. Probably 3 packages each for water and firewood sounds like a better idea what do you think?
+
+### Human: do you think we can comprise with 2 food and 2 waters? maybe middle ground would make both of us a bit more comfortable making a deal?
+
+### Assistant: Okay it sounds like a good idea
+
+### Human: thank you so much, for firewood what would make you the happiest?
+
+### Assistant: I thought we agreed on 2 packages extra for each item?
+
+### Human: awesome! 2 for all 3 categories, submitting now, thank you so much. have a wonderful day

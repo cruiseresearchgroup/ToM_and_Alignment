@@ -1,0 +1,23 @@
+### Human: Hi! I am interesting in claiming all 3 of the water, as well as 2 firewood and 1 food. Does this work for you?
+
+### Assistant: No I need more firewood
+
+### Human: Okay, can I ask why the firewood is important for you? 🙂
+
+### Assistant: You can find more wood in the forest but I'm going somewhere where there's not a loot of trees ☹️
+
+### Human: That makes sense. What if you took 2 firewood in exchange for 1 additional food?
+
+### Assistant: you can have 3 food
+
+### Human: Alright🙂 From what I understand, that means that you would take 3 firewood, and I would take 3 water and 3 food. Is this your understanding as well?
+
+### Assistant: Can we split the water? You can have 2
+
+### Human: I would prefer to have all 3 water, but I think I can make an exception since you have offered me all 3 food 🙂 Just to confirm, this means that you get 3 firewood and 1 water and I get 2 water and 3 food. Correct?
+
+### Assistant: Yes 🙂 Do you want to make a deal?
+
+### Human: Sure 🙂
+
+### Assistant: Thanks good negotiating with you! 😮

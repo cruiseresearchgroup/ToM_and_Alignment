@@ -1,0 +1,23 @@
+### Human: Hi! What sort of packages are you looking for today?
+
+### Assistant: Hi there! I am looking to have 3 packages of firewood, 2 packages of food, and 1 package of water please. 
+
+### Human: Oh we have similar priorities 🙂I am also interested in getting firewood, because I have a condition that makes me very cold, colder than the average person, so I need to make sure I have enough for the trip. Why do you want food
+
+### Assistant: That make sense. I need firewood though too because I have an autoimmune disease. When it flares up - when it gets too cold - I get very sick and have to go to the hospital. I need to make sure I have enough for the trip as well. I need food to keep my metabolism up so I can make sure my disease stays in check. Why do you want food?
+
+### Human: That makes sense . I have a friend coming with me on the camping trip, and she also needs to eat, so I'd like to get an extra package of food if possible. 
+
+### Assistant: Okay that would be fine. If I can have 3 packages of firewood, you can have 2 packages of food. Does that work?
+
+### Human: That does not work for me. I need at least one package of firewood. I'm sure you understand, because it seems like we have medical conditions with similar effects. You can take all of the water if I can get 2 packages of food and 1 of firewood. Does that work?
+
+### Assistant: I do understand. That will work for me. 
+
+### Human: Could you tell me about why you want water? 
+
+### Assistant: I want water so I can keep hydrated during this camping trip. It's important for me to drink bottled water vs. getting water out at camping as it may flare up my disease. 
+
+### Human: Oh interesting! I have a device that allows me to drink pond/stream water by cleaning it, so water isn't as important to me.
+
+### Assistant: Submit-Deal

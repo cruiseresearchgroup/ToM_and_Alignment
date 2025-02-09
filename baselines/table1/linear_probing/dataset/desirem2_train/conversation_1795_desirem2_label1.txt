@@ -1,0 +1,23 @@
+### Human: hello ,how are you
+
+### Assistant: hi, i'm doing good! i really need food quite a bit because my kids are with me on this camping trip
+
+### Human: okk i will give please explain how many pack you need 
+
+### Assistant: that's so kind of you! could I please have 3? which item do you really need, I can give you 3 of it
+
+### Human: okk i want 3 pack of firewood , 1 pack of food and 1 pack of water
+
+### Assistant: could i have 1 firewood, if you'd like 1 pack food?
+
+### Human: ok i will give 
+
+### Assistant: sounds great, i'm glad we negotiated
+
+### Human: i am also
+
+### Assistant: thanks for being so clear
+
+### Human: accepted deal
+
+### Assistant: Submit-Deal

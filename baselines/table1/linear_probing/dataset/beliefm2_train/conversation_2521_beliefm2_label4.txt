@@ -1,0 +1,23 @@
+### Assistant: Hello! I would like to have all three extra water packages. I have medication I need to take while camping and I would need the water to take the pills properly.
+
+### Human: Hi there! I hope you're having a good day. My top priority is firewood. I was hoping to have all three bundles if possible, as I'm going camping in the mountains. I'm more than happy to let you have extra water. What is your second priority?
+
+### Assistant: I'm ok with letting go of two extra bundles of the firewood, if you'd be willing to let me have just one of them?
+
+### Human: Are you willing to bend on that at all? I could let you have 2 water and 2 food in exchange for me getting all three extra firewood. I'm flexible though. 
+
+### Assistant: Ok after thinking I'd be willing to give you all 3 firewood if I can have all three water and 2 food. I don't know how to fish or hunt so the food package may help me more than the firewood as well.
+
+### Human: Certainly! I actually do know how to fish or hunt. I know I can make do with just one pack of food. I've had survival training as well. 
+
+### Assistant: Ok that's great! 🙂
+
+### Human: So let's just review this before we agree on things. You get 0 firewood, 3 water, and 2 food. I get 3 firewood, 0 water, and 1 food for our respective trips. Is that what you want me to offer?
+
+### Assistant: Yes, I was just going to confirm this as well. ME = 0 firewood, 3 water, and 2 food. YOU= 3 firewood, 0 water, and 1 food. I agree to this if you do as well. 
+
+### Human: That sounds perfect. I'll make sure to offer that then. Thanks for your help.
+
+### Assistant: Sounds good! Thank you as well. 🙂
+
+### Human: Submit-Deal

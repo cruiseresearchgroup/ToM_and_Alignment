@@ -1,0 +1,27 @@
+### Assistant: HI!! Hows it going? are you as into camping as I am?
+
+### Human: I love to camp. I love a good campfire at night to make smores and sing around. 🙂
+
+### Assistant: I know thats right-  I used to really look forward to starting the fire, and cooking on the open flame-
+
+### Human: We just got back yesterday from a 5 day trip to the lake. We had a campfire almost every night. We took lots of water to drink also. I would like to have at least 2 waters and 2 firewood.
+
+### Assistant: Thats dope- The thing is, we plan to cook with the firewood, so I really need what I have.  I was thinking I would need at least 2 or 3 myself.  Water isn't as much of an issue- we have a filter, and tablets if that breaks.
+
+### Human: I understand needing it to cook with. It does take a lot of food when you go camping to fulfill those calories you burn when hiking.
+
+### Assistant: True that- what is it you are going to be doing? What do you really think you need?
+
+### Human: Well, I could probably live with 1 Firewood just for the evening. I would like at least 2 water. How much food do you think you would eat? Are you a pretty hungry person? 🙂
+
+### Assistant: I am a former chef- I am always snackin on something- I could maybe live with 1 food and 1 water, but I need a lot of firewood going into this trip...
+
+### Human: Where do you like to camp? Will you be in the woods with more firewood?
+
+### Assistant: We are going to medicine bow national park, most of our trip is going to be a site in the snowy region, which is above the timberline.  We are making a base camp, then taking day trips to different climbing, and hiking attractions.
+
+### Human: We will be near the water, but there are lots of trees around and I can get more firewood. I would be fine with 1 firewood, 2 waters, and 2 food to keep me happy. 🙂
+
+### Assistant: Submit-Deal
+
+### Human: Reject-Deal

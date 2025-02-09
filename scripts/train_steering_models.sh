@@ -27,7 +27,7 @@ export HF_HOME=/srv/scratch/CRUISE/Mehdi/HF
 ################################################################################
 
 # Parameters to change
-new_run_name="NegotiationToM Belief 8B"
+new_run_name="NegotiationToM Belief 3B"
 new_target_model_name="meta-llama/Llama-3.2-3B-Instruct"
 new_eval_every_n_steps=334
 new_train_qa="./data/NegotiationToM/train.json"

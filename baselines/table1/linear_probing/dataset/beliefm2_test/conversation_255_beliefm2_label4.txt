@@ -1,0 +1,23 @@
+### Human: Hello there
+
+### Assistant: Hello. How are you?
+
+### Human: Great and yourself? Ready for this camping trip and take a break from modern civilization?
+
+### Assistant: I'm doing well. Yes. This camping trip is badly needed!
+
+### Human: Indeed we have planned to do a lot of hiking and seeing the nature that is giving to us by god it will be a great wonderful time to serve with others and deepen our faith in the lord savior 
+
+### Assistant: Awesome. I couldn't agree more. I feel that camping and hiking are both such spiritual experiences. It's such a perfect time to connect with our lord and savior. I love serving others as well.🙂
+
+### Human: :) Yes and you know what we are experiencing some difficulty as some people who said initially they were not going to be able to come and at the last minute are saying that they are coming so we are short on the most important items which are food and was wondering if we could speak about sharing items but due to the people who joined late if I can get food and water you can have more wood as none of us know how to really go into the wild and we do not want to turn away our last minute guests, it would be of tremendous help   
+
+### Assistant: I'm more than willing to help you to the best of my ability. I understand and appreciate the difficult situation you find yourself in. How many packages of food and water do you think you will need for your additional guests? How much wood do you need since you are saying you don't need much?
+
+### Human: Thanks for your understanding well I think if possible then to meet the situation then how bout 3 food and 2 water then you get all the wood ? That way you can have awesome campfires lasting through the night, we will be going to sleep extra early to wake up very early so we do not need all that wood, as much as we need food to replenish our energy and be ready for another day of long walks to see as much as we can from nature 🙂
+
+### Assistant: I agree with you that campfires are awesome and I do find them to be be quite useful. I'm not as early of a riser as you are unfortunately! 🙂 I'm willing to accept your offer on food as long as you could please consider my needs for water. I am a very active hiker. While I don't need much food for my hikes I do require a lot of water. I once went on a hiking trip when I was new to the activity and ran out of water. I got lost and almost dehydrated! Ever since then it's been very important to me to have as much water as possible. What would it take in order for me to get as much water as possible keeping in mind that I'm willing to give you 3 food. 
+
+### Human: Thank you for the food and I understand we do have to think about water being by far the most important thing in life since it bascially is right 🙂 and well how about then we go do two waters for you and one wood then so then we can have that wood for just in case and we can all be happy ?? thanks for your understanding
+
+### Assistant: Yes. Water is the most important thing in life. Thank you for offering me two waters and one wood. However, this would mean that you would be receiving 3 food, 1 water, and 2 wood. That seems too unbalanced to me. It's important for me to also let you know that wood is very crucial for me. When I was a newbie I didn't bring any wood because I figured I'm fine since I'm not scared of the dark. That night a bear snuck on me when I was sleeping. Thankfully I was able to scare it away with noise. However, ever since then I've brought a lot of wood with me so no bears can sneak up on me. I would like to counter your offer with 3 waters, 2 wood, and 0 food. This means you get 1 wood and 3 food. Does this offer work for you?

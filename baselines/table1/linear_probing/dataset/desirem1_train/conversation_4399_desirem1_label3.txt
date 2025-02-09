@@ -1,0 +1,23 @@
+### Human: Hey there how are you?
+
+### Assistant: I am fine friend. I need a lot of firewood though. It is freezing
+
+### Human: I definitely need firewood as well. We didn't anticipate it being as freezing cold as it is at night. There isn't much around us. We've also been using a lot of water, which we could use more of since we've been looking for firewood.
+
+### Assistant: Your needs are like mine. I have a condition that require  me to shower quite often. It is a shame but if I do not shower for 3 hours I will stink.  
+
+### Human: Well fortunately if you are camping that won't be too bad. You'll blend in with the wilderness.
+
+### Assistant: My friends will run away. I will not be comfortable either. So how do we split what we have?
+
+### Human: If they're true friends, they won't. I'll take 2 firewood, 2 water, 3 food.
+
+### Assistant: That is very unfair ☹️
+
+### Human: 2 firewood, 1 water, 3 food?
+
+### Assistant: I am willing to give you 2 firewood, 1 water and 1 food.
+
+### Human: I'll do 3 firewood, 1 water, 1 food.
+
+### Assistant: I am not giving up on firewood at all. That is the most I can offer. otherwise I will see myself out

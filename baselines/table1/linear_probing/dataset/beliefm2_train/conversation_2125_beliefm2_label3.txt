@@ -1,0 +1,23 @@
+### Assistant: Hello - I am going camping and would like to bring additional food so that I can have variety in m diet
+
+### Human: I would also like some additional food for my camping trip. How are you feeling about extra firewood?
+
+### Assistant: I think I could be amenable to extra firewood. 
+
+### Human: Okay, I will gladly offer all 3 packages of firewood and 2 packages of water for all 3 packages of food. What do you think?
+
+### Assistant: So you are proposing that you will keep all 3 food and 1 water, while I will get all 3 firewood and 2 water?
+
+### Human: Yes, that is my proposal 🙂
+
+### Assistant: Hmmm I like that proposal but I fear we may have reached a good solution too quickly. 
+
+### Human: I agree. I thought for sure you would want some extra food lol. I do a lot of HIIT training, even in the woods, so I don't need much firewood but I get really hungry.
+
+### Assistant: You are right the woods are a great place to get more firewood. Not that i think of it I will be camping on the beach so I will be able to catch fish but might need more wood
+
+### Human: Well, it would appear that we have an agreement so are we ready to submit our deal?
+
+### Assistant: looks like it
+
+### Human: Submit-Deal

@@ -1,0 +1,23 @@
+### Assistant: Hi! I prefer to acquire firewood for cooking and water for hiking long trails.
+
+### Human: Hello! I really need water myself--I didn't bring enough to go hiking, and it's going to be hotter than I planned for. And I really wanted to go on a long hike ☹️ How about this: I get all the water, and you can have all the firewood? I don't need firewood so much, really.
+
+### Assistant: I really like hiking also, as i have a habit of running a lot. So i would give extra firewood and food for extra water.
+
+### Human: Okay, how about this: you get all the firewood and one water, and I get two water?
+
+### Assistant: For two water I will give all food and one firewood
+
+### Human: No, thanks. I really need water a lot, and I don't want firewood all that much.
+
+### Assistant: Okay, I like your previous deal! 
+
+### Human: Cool! So, 3 firewood for you and 1 water, 2 water for me; how should we split the food?
+
+### Assistant: I keep all food.
+
+### Human: Okay, that doesn't work for me, because that means you get 7 items and I get 2.
+
+### Assistant: Okay, well I'll give 1 food
+
+### Human: Give me 2 food and we'll have a deal.

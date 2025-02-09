@@ -1,0 +1,23 @@
+### Human: Hello. I have a large family going camping - there's 17 of us! How big is your group?
+
+### Assistant: Wow that is a large group.  I assume that is more than just your immediate family.  I will be bringing my husband and five children.  
+
+### Human: I see! We don't have a great need for firewood. Water isn't a big deal, either. We're going to need quite a bit of food.
+
+### Assistant: Yes, sure sounds like it!  I will gladly let you have 2 extra packages of food and only take one for myself.  How would you feel about that?
+
+### Human: We might make that work. If I gave you all the firewood, could you let us have 2 of the food packages and 2 waters? Hopefully that's fair for you, your hubby, and the 5 kids.
+
+### Assistant: That sounds good to me.  Do you go camping frequently?  
+
+### Human: Yeah, we try to get out with nature at least monthly! Been harder lately with the pandemic and all.
+
+### Assistant: I hear you.  We like to go camping a lot too but my youngest is only 15 months old so it has been harder this past year.
+
+### Human: I see. So let's recap what we talked about a bit. I'll send you 3 firewood packages. I also send 1 food and 1 water. The rest will be for our big fam!
+
+### Assistant: Yes, great, thank you!
+
+### Human: OK, sounds good. I'll arrange the amounts now if that's okay with your bunch.
+
+### Assistant: Submit-Deal

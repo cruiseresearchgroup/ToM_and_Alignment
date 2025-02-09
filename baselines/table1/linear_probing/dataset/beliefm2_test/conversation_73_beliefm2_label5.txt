@@ -1,0 +1,23 @@
+### Assistant: Hello
+
+### Human: Hello
+
+### Assistant: I am in desperate need of extra camping supplies
+
+### Human: What do you need most?
+
+### Assistant: I need food and water badly
+
+### Human: I need firewood urgently too.
+
+### Assistant: My family will freeze without firewood, I can only spare one log
+
+### Human: Then you will have to compromise. We will split
+
+### Assistant: You can have 1 food, 1 water, and one firewood
+
+### Human: No. That is not okay with me. You will have 2 food one water and one firewood
+
+### Assistant: I am about to walk, you are being so unfair
+
+### Human: I am not unfair. That is a good deal.

@@ -1,0 +1,23 @@
+### Assistant: Hello! I would like make a deal with you on firewood, water and food! Are you interested in any items ?
+
+### Human: Yes, I'd definitely be interested. How are you doing?
+
+### Assistant: Not bad, not bad. How are you. What's on your mind for camping? 
+
+### Human: I'm doing well. We're desperately needing wood. We didn't realize how cold it would be as it is our first time here. There is none around our area so we are really concerned about staying warm especially at night. We also forgot a bag of food, so that's another need for us.
+
+### Assistant: True. Turns out i'm dealing with similar situation, we didn't expect weather to be as cold, so extra wood is on my mind as well. Everyone might need to go to bed earlier and cook food that cooks short time since we low on wood !
+
+### Human: Yes, that's very true. I would be willing to give up water for more firewood.
+
+### Assistant: I like that. I could help you out. I'd be interested in giving you some extra food for extra water. We like to go far from campsite to hike and get up to high elevation, so i need to pack extra water just in case. We go during day, when it's warmest and need extra food in case we come back at nigh time or get lost! Not ideal. 
+
+### Human: You can never be too prepared. We stay closer to camp as we have little ones with us on this trip.
+
+### Assistant: are you interested in taking 1 firewood, all 3 foods and 1 water ? And then what's left would be to us ? 
+
+### Human: I would do 2 firewood, 3 foods and 0 water.
+
+### Assistant: Well it's important for both of us to get that wood ! 
+
+### Human: Submit-Deal

@@ -1,0 +1,27 @@
+### Human: Hi, I brought some water with me. How much do you need? 
+
+### Assistant: I want 2 liters of water
+
+### Human: Okay, you can take two and I will take one. 
+
+### Assistant: Okay that's great
+
+### Human: Can I take all three bundles of firewood so I can boil some of the water? 
+
+### Assistant: Sorry, I want some firewood, I planned to enjoy this chill climate using firewood
+
+### Human: Alright. If you take one firewood can I also have two packages of food? 
+
+### Assistant: That doesn't work for me, May I ask why do you need two packages of food?
+
+### Human: I did not bring enough food for my last day and there are not very many resources where I am camping ☹️
+
+### Assistant: Okay, If it is the case then you need food. How about you take all 3 food and I will take all firewood
+
+### Human: That works with me. Can you list everything you are taking so we can make sure we are on the same page? 
+
+### Assistant: I will take 3 firewood, 1 food, 2 water. You will get 0 firewood, 2 food and 1 water. Is everything correct
+
+### Human: Sure, sounds like a deal!
+
+### Assistant: That's great 🙂 shall we end the deal?

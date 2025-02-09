@@ -1,0 +1,23 @@
+### Assistant: hello, how are you
+
+### Human: Hi! I'm good. Just trying to pack up a few more things for my camping trip. How about you??
+
+### Assistant: yeah good , tell me what you want?
+
+### Human: I need water the most. What do you need the most of?
+
+### Assistant: i am also need most of  water
+
+### Human: Ok. How are you on firewood and food?
+
+### Assistant: i want 2 pack of water, 1 pack food and 1 pack of firewood
+
+### Human: I really, really need 2 water ☹️
+
+### Assistant: i am also need water ☹️
+
+### Human: Ok. I can go with your original deal. You take 2 water, 1 firewood, 1 food? Does that work?
+
+### Assistant: ok thank you 
+
+### Human: Submit-Deal

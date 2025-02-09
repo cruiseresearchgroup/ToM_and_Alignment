@@ -1,0 +1,23 @@
+### Assistant: i can give you one firewood if you let me have all the food and water. is that ok with you?
+
+### Human: Hello! No, I don't think that's going to work for me. I can give you two food and two waters if you give me all three firewood. Tell me - do you like s'mores? 🙂
+
+### Assistant: i do, you can have all the firewood, please let me have all the water and food then
+
+### Human: We're having a s'mores party at our campground with the firewood! You'd be welcome to come. Would you be willing to spare one extra water?
+
+### Assistant: that is fine, one water and 3 firewood 
+
+### Human: Three firewood and one water for all the food and two waters? Is that correct? 😮 Tell me, what are you going to do with the food?
+
+### Assistant: yes it is, i have guests and i did not have any food in the house, though i still need more water
+
+### Human: Since I'm feeling generous, would you like to have one more water package? 🙂 I can get by with just one. 
+
+### Assistant: that's really helpful, thanks a lot, all the food and water, right?
+
+### Human: Yes! 🙂 Of course. All the food and water for all the firewood, correct?
+
+### Assistant: yeah, you are awesome .🙂
+
+### Human: Submit-Deal

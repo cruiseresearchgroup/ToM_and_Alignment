@@ -1,0 +1,23 @@
+### Assistant: Hello!, how are you doing?
+
+### Human: I'm good - and you?
+
+### Assistant: 🙂 super!, ... so you are going camping too?
+
+### Human: Yep - I'm hoping you can help me out here.  I've just finished my last round of chemo and really need to flush my systm out.  I'd love it if I could take all 3 waters and 1 firewood.  You can have the rest.
+
+### Assistant: oh, I'm sorry to hear about that... I think I can help with the water, but you need firewood as well?
+
+### Human: Well, just one would be beneficial.  I don't regulate my body heat as much as I used to.
+
+### Assistant: The reason I am asking, is because it gets very cold in the desert at night...and I may need that... but if all you need is one, I don't see why we couldn't make a deal
+
+### Human: that would be amazing - I know it does get cold so I definitely don't want you to be cold either.  I don't need any of the food - not much of an appetite right now anyway.
+
+### Assistant: Once again, really sad to hear about your condition☹️..., but perhaps being in the great outdoors would be beneficial for your immune system?😮... So you need 3 water and 1 firewood?
+
+### Human: Yes, that would be great for me - would that work for you?
+
+### Assistant: Yep, I mostly need the firewood, but I can do with 2 packages... So let's make it happen!🙂
+
+### Human: Submit-Deal

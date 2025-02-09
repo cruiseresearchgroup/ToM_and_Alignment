@@ -1,0 +1,47 @@
+### Human: Hi . How is your camping trip going?
+
+### Assistant: The trip is great, how about you?
+
+### Human: It is great too. However i am feeling very cold i need a lot of firewood to light a fire.
+
+### Assistant: We have -10 degrees temperatures at night where I am camping!!
+
+### Human: It is even worse here and I am not feeling well
+
+### Assistant: I am just going to walk away from the deal,  my family can't freeze
+
+### Human: You can take 1 firewood then
+
+### Assistant: C-ya, thanks anyways
+
+### Human: I am glad you accepted. I really need it.
+
+### Assistant: I will take all the food and water then
+
+### Human: That will be very unfair of you. How am i going to survive without water or food?
+
+### Assistant: You have food and water, this is just extra supplies
+
+### Human: I know but with my condition i may not make it, especially without more water.😮
+
+### Assistant: you can make water by boiling water with all that extra firewood you got
+
+### Human: Submit-Deal
+
+### Assistant: Reject-Deal
+
+### Assistant: you said I could have some firewood
+
+### Human: Submit-Deal
+
+### Assistant: Reject-Deal
+
+### Assistant: Submit-Deal
+
+### Human: Reject-Deal
+
+### Human: Let me take 2 firewood, 2 water and you take the rest. You will have more than me overall
+
+### Assistant: ok
+
+### Human: Submit-Deal

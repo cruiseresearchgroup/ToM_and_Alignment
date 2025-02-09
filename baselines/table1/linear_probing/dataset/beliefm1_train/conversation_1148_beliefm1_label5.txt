@@ -1,0 +1,23 @@
+### Assistant: Hey, Nice getting to interact with you. I would need additional packages of food as I'm camping with Family and my kids tend to get hungry often.
+
+### Human: I also have a family I am camping with several small childern and my wife who is pregnant. I need plenty of firewood and water.
+
+### Assistant: I get it, in that case and to be a fair deal. I will have 2 of food, 1 of water and firewood each.
+
+### Human: That seems fair however I would like to have plenty of food also. I think it would be fair to have 2 firewood, 1 food and 2 water 
+
+### Assistant: I ain't sure if you want 1 or 2 packages of food
+
+### Human: I would like 2 packages of food
+
+### Assistant: As you need 2 of firewood, I think we can have a fair deal like 1-2 of food and firewood or 2-1 of food and firewood.
+
+### Human: Ok Im thinking I need plenty of food to for my small children. I have a rather large family so there is more of a need. 
+
+### Assistant: Can I have 2 of firewood in that case, as I have food that needs to be cooked and would be a great help.
+
+### Human: Can I have 2 firewood 2 food and 1 water I think this would be enough
+
+### Assistant: I have a Family too, I can compromise on either only one of Firewood or Food, please give a thought.
+
+### Human: Submit-Deal

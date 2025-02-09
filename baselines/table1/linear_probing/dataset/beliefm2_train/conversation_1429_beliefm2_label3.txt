@@ -1,0 +1,27 @@
+### Human: hello
+
+### Assistant: Hey, how are you?
+
+### Human: I am doing good. Thanks. Which item do you need the most?
+
+### Assistant: I was thinking firewood, because the most fun I have camping is roasting marshmellows and hanging out around there. How about you?
+
+### Human: Oh hmm. I really need extra firewood because I forgot to bring a sleeping bag. I will be freezing to death at night. ☹️
+
+### Assistant: Okay, well tell me what you need the least of, if you don't mind.
+
+### Human: You can have all of the water if you let me have all of the firewood.
+
+### Assistant: hmm, here's what I'm willing to do. I will take all the water, one firewood and one food.
+
+### Human: That doesn't sound fair to me.
+
+### Assistant: Ok, what would you counter offer with?
+
+### Human: I would like all 3 packages of firewood and 1 package of food. You can have the rest.
+
+### Assistant: Well, I would like at least one firewood, it is the thing I most need.
+
+### Human: But you need firewood for leisure, whereas I need firewood for survival.
+
+### Assistant: Well it will keep us warm at night, too. I am very keen on at least one firewood for myself.

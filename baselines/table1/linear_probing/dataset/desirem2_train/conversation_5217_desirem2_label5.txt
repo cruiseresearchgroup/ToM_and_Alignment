@@ -1,0 +1,23 @@
+### Human: Hey, I was thinking that I could take all of the food items, and 2 of the firewood items. My friend has low blood sugar and they need the food in case they crash, and the warmth of the fire to maintain at evening.
+
+### Assistant: Water is my highest priority, what is yours? Is it food?
+
+### Human: Yes, food is my highest. It's necessary for my friend to keep extra around just in case he crashes. Why is water your highest priority?
+
+### Assistant: I need the water to drink - I don't trust the water I might find at the campsite.
+
+### Human: Did you bring any water to start?
+
+### Assistant: Yes! Did you bring any food to start?
+
+### Human: I did, but my friend only feels comfortable with extra around, God forbid, if something happens this could save his life. So I'm thinking, I take all three food packages, two firewood packages and leave all three water and one firewood for you. 
+
+### Assistant: I think that it is fair that you get three food and I get three water, but why should you get two firewood to my one?
+
+### Human: The food is not for me, I'm not allowed to touch it. t\The only real benefit I'm getting here is firewood. ☹️
+
+### Assistant: OK,that sounds good. So you get three Food, I get three Water, and we split the Firewood, you get two and I get one.
+
+### Human: That works, thank you for your understanding.
+
+### Assistant: Submit-Deal

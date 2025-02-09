@@ -1,0 +1,27 @@
+### Assistant: Hello, how are you? Excited to go camping?
+
+### Human: Yes, it's my first time going. How about you?
+
+### Assistant: Great! Same! What kind of things are you interested in?
+
+### Human: Right now I am must excited to go camping but I like to read as well. How about you? 🙂
+
+### Assistant: Thats really nice! I love both of those as well! As for this trip, I have extra people. really need to eat.
+
+### Human: I understand. I'm worried about firewood since it's cold and rained recently.
+
+### Assistant: Awesome!  I think we can make a deal with that.
+
+### Human: Well, how would you feel about getting all the food and I get all the firewood?
+
+### Assistant: I would feel great! 
+
+### Human: And what about water? I was hoping to get an extra bottle or two if possible?
+
+### Assistant: I get 2, you get 1?
+
+### Human: That's fine. Hope you have a great trip.
+
+### Assistant: Sounds great! Same to you! 
+
+### Human: Submit-Deal

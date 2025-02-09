@@ -1,0 +1,35 @@
+### Human: Hello, I am wondering what your preferences are as to how much water, food, and firewood you would like? 
+
+### Assistant: Hello, I like fire, so my number one preference is firewood. 🙂
+
+### Human: I also like fire 🙂. Do you have any need for food? 
+
+### Assistant: I am not that interested in food. I don't really have any desire for it. Do have a preference for food?
+
+### Human: I do need food, it is important to me. 
+
+### Assistant: Okay, would you say you like food or fire more?
+
+### Human: I like fire more, it is very important to me and then food is next in line. What do you think about water? 
+
+### Assistant: I like water. It is good, but not as good as fire. I think I am starting to understand where we are.  :)🙂🙂
+
+### Human: I like to have fire more than food and then water. Fire is the most important to me because I like to keep a fire burning all night long. I get scared of the dark :o :o and the fire makes it so that I am happy :) and content. 
+
+### Assistant: That is very reasonable. What about if you have some of all three? You could have 3 food, 1 water, and 1 firewood.
+
+### Human: I like having 3 of the food. However, I feel that having 2 firewood would be better for keeping my fire burning all night long 🙂 
+
+### Assistant: I could see that maybe you take all the food and I take all the water. How does that sound? Then the only thing we have to discuss is the firewood, right?
+
+### Human: Submit-Deal
+
+### Assistant: Reject-Deal
+
+### Assistant: I have an idea. Do you have a coin? You flip the coin and if I guess correctly I get the 2 firewood. If I don't then you get the 2 firewood?
+
+### Human: Sure that works for me. I have flipped the coin. 🙂 
+
+### Assistant: Ok, I guess tails 🙂
+
+### Human: you are correct. You can have the two firewood.

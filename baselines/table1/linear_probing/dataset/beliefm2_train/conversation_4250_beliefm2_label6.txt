@@ -1,0 +1,35 @@
+### Assistant: Hello
+
+### Human: hi
+
+### Assistant: I do need water, food and firewood for camping.
+
+### Human: Cool, let's see if we can workout a deal.
+
+### Assistant: I do really need water the most because my body is big and get dehydrate faster than normal.
+
+### Human: I can spare one if you i could get firewood. i really need some.
+
+### Assistant: Can I get 3 of water and food and 1 of firewood?
+
+### Human: I can't give you 3, I at least 2 myself due to my heavy equpiment, but could use etra firewood because I brought my light sleeping bag. Can I get 1 water and 2 firewoods?
+
+### Assistant: You can have 1 water and 2 firewoods. I can have 3 water, 3 food, and 1 firewood.
+
+### Human: How about I get 2 water,2 firewood, and 1 food?
+
+### Assistant: 1 water will not be enough for my body.
+
+### Human: Ok, I can settle with 1 water,2 firewood, and 2 food?
+
+### Assistant: I wish I could get 3 water and 3 food and 1 firewood is fine for me. However, I do understand you would need it as well so please let me have at least 2 water and 2 food and 1 firewood. Many Thanks.
+
+### Human: If I can get the extra food we have a deal, I would love to have a extra meal.
+
+### Assistant: What is your preference? We could work it out. My need is water and food.
+
+### Human: I need the firewood.
+
+### Assistant: Let's work on this deal you will have 2 firewood, 1 food and 1 water.
+
+### Human: Sounds good, I can settle with that.

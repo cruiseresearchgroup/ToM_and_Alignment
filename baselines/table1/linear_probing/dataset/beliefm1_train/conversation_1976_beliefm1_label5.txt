@@ -1,0 +1,23 @@
+### Human: Hello! Hope all is well
+
+### Assistant: Hello How you doing?
+
+### Human: Great! So since water is so heavy and the least desirable but needed, I will take most of the water and the wood. you can have the food and less of the other stuff. 
+
+### Assistant: Okay I'll take food need much more and you?
+
+### Human: I will take the water and the wood. I do think the wood is important too. Keep us warm, we can cook and boil water. SInce we are taking more food more firewood is a must too🙂
+
+### Assistant: Yeah Thank you very much both we take wood to share.
+
+### Human: do you think we need some extra water too. Water is life 🙂 so I definitely think that's a must as well. I will carry all of the extra water to sweeten the deal
+
+### Assistant: 🙂 Yes then how much we expect the priority items need.
+
+### Human: I will take 1 food 2 firewood and 3 waters, you take 2 food, 1 fire wood and 0 water. Deal?
+
+### Assistant: Deal with ok but I need 1 water.
+
+### Human: Right I should have said 1 for you. Not sure why I typed 3 for me.
+
+### Assistant: 🙂Okay

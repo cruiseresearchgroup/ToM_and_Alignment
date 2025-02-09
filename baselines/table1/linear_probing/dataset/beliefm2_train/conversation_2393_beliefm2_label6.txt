@@ -1,0 +1,23 @@
+### Assistant: Hi, I really need water to stay hydrated during my camping trip because my food supplies are low. Do you have any to spare?
+
+### Human: Hi.  I can't do that right now.
+
+### Assistant: Is there anything that you might need? 
+
+### Human: I would be interested in firewood.  Can I ask you, what are your primary concerns on this trip?
+
+### Assistant: My primary concerns are staying hydrated, I have been feeling sick and throwing up from being so high up in the mountains. 
+
+### Human: Oh, so sorry to hear that.  I can understand why water would be important to you.  I am worried about being too cold at night. My sleeping bag is not rated well for cold weather (I packed the wring one).
+
+### Assistant: Oh I understand that for sure. I am not used to the cold weather either which is not helping. Would you be interested in a trade for water in exchange for firewood? 
+
+### Human: Well, I am worried about staying hydrated as well.
+
+### Assistant: Do you have food? I have been trying to hunt but have not really found any animals nearby to hunt.
+
+### Human: I do actually!  I can give you 3 foods. Would that work?
+
+### Assistant: Sure, I can do that.
+
+### Human: So if I give you 3 woods, can you give me 3 firewoods and 2 waters?

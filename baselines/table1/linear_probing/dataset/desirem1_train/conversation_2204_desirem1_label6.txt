@@ -1,0 +1,23 @@
+### Human: I definitely need some wood, water and food.
+
+### Assistant: Hey what sup. There's no need to rush.
+
+### Human: OK. :0
+
+### Assistant: Is that your priority order?
+
+### Human: Well I need 2 packs of water, 2 pack of food and 1 pack of wood, since I have a butane lighter
+
+### Assistant: That deal is quite unfair for me.
+
+### Human: I am not sure why there is no ammo packs to hunt for Elk and Buffalo. 🙂
+
+### Assistant: There is a way to evenly split the camping gear if you want a fair deal.
+
+### Human: OK. How about 1 pack of water for me and 1 pack of food and 1 pack of firewood for me.
+
+### Assistant: Ok if you want that deal, I'm fine with it.
+
+### Human: OK. 
+
+### Assistant: Submit-Deal

@@ -1,0 +1,23 @@
+### Human: hi
+
+### Assistant: Hi how is it going?
+
+### Human: It took a while to load but good.
+
+### Assistant: Let's talk about how we can split the camping supplies
+
+### Human: Ok I think we should split evenly
+
+### Assistant: yes we should come to a fair deal, what are your priority items?
+
+### Human: Food is highest, firewood is medium, and water lowest. You?
+
+### Assistant: I have food, water and firewood.
+
+### Human: Ok so whoever gets more wood should get something else higher
+
+### Assistant: How bout this deal, me - 3 water, 2 firewood, you 3 food, 1 firewood
+
+### Human: Sounds alright
+
+### Assistant: Submit-Deal

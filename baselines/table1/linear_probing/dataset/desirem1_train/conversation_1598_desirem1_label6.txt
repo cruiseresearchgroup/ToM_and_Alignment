@@ -1,0 +1,23 @@
+### Human: Hello!
+
+### Assistant: Hi! I was hoping to get 3 packages of firewood, 2 packages of water and 1 package of firewood.  Can you spare them?🙂
+
+### Human: I can do 2 packages of firewood, 1 package of water, and 1 package of food. 🙂
+
+### Assistant: Thanks for that offer.  (I actually meant to say 3 packages of food, not firewood. That was a typo, sorry.)  I do really need more food because I get light headed if I go too long without eating. I just don't think I would enjoy myself if I didn't have enough food.  Would you consider 3 packages of food?
+
+### Human: I can consider 2 packages of food, but I can't go any higher than that.
+
+### Assistant: I appreciate that. 🙂.  I'm also concerned about the water.  I'm afraid I might get dehydrated since I don't have quite enough water at the moment.  I'd like to ask you for 2 packages.🙂
+
+### Human: Unfortunately, I cannot do 2 package as I desperately need it for my own survival. I have to stand my ground on 1 package.
+
+### Assistant: I understand, thanks.  How are you on firewood? I hear it gets cold here at night.  Can you spare 1 package?
+
+### Human: I can give you 2 packages of my firewood. I don't need too much of it where I am.
+
+### Assistant: Oh, that's great!  I'm looking forward to the cozy nights.  Can we get back to the food packages again though?  I know how I get when I don't have enough food available and I'm really light on food.  If I get light headed, I will feel awful and the camping trip will just be ruined.  Is 2 packages the absolute best you can do? I would really appreciate it if you would reconsider. 🙂🙂
+
+### Human: Yes, I need to keep one package of food for myself, I'm so sorry. I can't budge on that. So where I'm standing right now, it's 2 packages of food, 2 packages of firewood, and 1 package of water.
+
+### Assistant: OK. I understand your needs and I appreciate your help with everything. Have a great camping trip!

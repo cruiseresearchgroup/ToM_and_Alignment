@@ -1,0 +1,23 @@
+### Assistant: Hello, how are you today?
+
+### Human: I am doing good. How about yourself?
+
+### Assistant: I am great, i am really excited about going camping, how about you?
+
+### Human: Yeah, I want to make sure i am prepared. What do you think are the bests options?
+
+### Assistant: Well i would really like to have extra firewood since i am afraid of the dark and i don't need extra water so i was hoping you would want to trade that
+
+### Human: Yes, I think that sounds like a good option. I personally could use more food. I like to eat. 
+
+### Assistant: how do you propose we split the food then?
+
+### Human: Well I don't mind either way about the food. I'll recommend giving you 2 firewood 1 food and 1 water. 
+
+### Assistant: how about you get 3 waters and 2 foods? Does that work better?
+
+### Human: yes how much firewood. I need at least 1 to cook the food.
+
+### Assistant: you should have enough firewood in the basic supplies to cook the food i think, with three waters and 2 foods you get 5 items and i get 4
+
+### Human: Submit-Deal

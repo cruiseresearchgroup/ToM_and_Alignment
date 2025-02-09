@@ -1,0 +1,23 @@
+### Human: Hello, I would like 3 water and 3 firewood packages. You can have 3 food packages.
+
+### Assistant: Hello, i need 2 water , 1 food and 1 firewood packages
+
+### Human: I need prefer water the most since my mouth is dry a lot. I need 3 water, 1 firewood ,and 0 food packages
+
+### Assistant: yeah you are right, but water is essential for all !☹️, you must consider that too
+
+### Human: I agree water is needed. I can do 2 water 2 firewood and 0 food
+
+### Assistant: you consider me giving one of your water package and collect food package, if you are lucky you can get liquid foods too🙂
+
+### Human: I don't like food. my stomach is always full. I only drink water since im thirsty most of the time.
+
+### Assistant: yeah i can understand buddy, but the fact is we can share some items. you are not getting food packages and getting packages alone which you preferred. Try some food packages too
+
+### Human: Okay I agree what about this deal. I get 2 water, 1 firewood ,and 1 food package.
+
+### Assistant: sounds good. but how much firewood will i get ? because i don't need it much
+
+### Human: Do you want to trade firewood for food?
+
+### Assistant: yeah, am trying to make trade but not for firewood, for water !☹️

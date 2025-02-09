@@ -1,0 +1,23 @@
+### Assistant: Hello, I'd like to get all of the water, an extra firewood and 2 of the food
+
+### Human: Hi there.  That hardly leaves me with anything and doesn't really work for me.  I was hoping to make a campsite feast and get the extra food.  If we can do that, I'd be happy to give you all the water and that extra firewood.
+
+### Assistant: I am a big guy, so I will need some more food, how about you give me an extra food while you hold on to two
+
+### Human: I can't give you all the water if you take one of the food, I'm very sorry.  I could take 2 of the food and 2 of the water if we do it that way.  I really need cooking supplies if I want this trip to be productive for me - it's why I was coming.
+
+### Assistant: That wouldn't work for me, I will be going hiking during camping, so I need all of the water I can get
+
+### Human: Well then maybe we can just do a trade, the water to you and the food to me.  And if I got two of the firewood, I'd have plenty of time to just boil and purify some riverwater instead
+
+### Assistant: That does not seem entirely fare but I need more water so I will take this deal
+
+### Human: It's honestly not that fair to me either, but sometimes we just end up with slightly conflicting priorities in life.  🙂  I think making the best of the situation is the way forward.
+
+### Assistant: Yeah, That's true,🙂, so do we have a deal?
+
+### Human: Yup, the food to me, the water to you, and 2 of the firewood to me, 1 to you is as I understand it!
+
+### Assistant: That's correct, a deal it is then
+
+### Human: Submit-Deal

@@ -1,0 +1,23 @@
+### Human: Hi I really need the additional wood and food for health reasons.  I have a long term issue with maintaining body temperature and have to keep my blood sugar levels up.
+
+### Assistant: That sounds rough. I'd be willing to work with you on a deal and making sure your blood sugar and body temperature don't get to dangerous levels.
+
+### Human: 🙂 I appreciate that.  How about I get one less food and an additional water.  I really don't like the cold.
+
+### Assistant: I don't mind the cold too much. I'd really be appreciative if I could get extra water. I have a hard time in the mountains if I'm not hydrated fully. I'm from the flat plains and the elevation makes me sick if I'm not careful.
+
+### Human: I can handle less water but I really need the food and wood.  I am willing to give you two waters but I don't think it would be a good idea to go without water.
+
+### Assistant: I wouldn't feel right sending you out without any water even though I would love all 3. l can make do with 1 food and make sure you have enough to take care of your blood sugar. Could you spare 1 wood possibly? I'm rarely cold but if I run out of water I'll try boiling some to get by and building a fire without good wood won't be easy if I'm already getting dehydrated while camping. I hope you understand.
+
+### Human: Would it work if I had two wood, two food, and one water?  I don't drink a lot.🙂🙂
+
+### Assistant: I think I can make that work for me. Since this is important and we both have health worries make sure and think about it before we make an agreement. Your priorities were food then wood, right? I'd hate for us to make a hasty decision and regret it once were actually out there camping.
+
+### Human: I completely understand.  It's not fun being out there in the wilderness and coming up short.  Our health is also of the utmost importance.  Nobody will have fun if we get sick.
+
+### Assistant: You needed wood and food most. I need water the most and the other two just to make sure I stay healthy. After double checking I think that that agreement works out perfectly. That would mean two waters, one food, and one wood for me then. 🙂
+
+### Human: Thank you so much for understanding my health challenges.  I will submit the deal.🙂
+
+### Assistant: No worries. I appreciate you working with me on my needs as well.

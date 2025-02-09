@@ -1,0 +1,23 @@
+### Human: Hello how are you doing today?
+
+### Assistant: hello, doing great, how is the camping trip going?
+
+### Human: I am getting ready for it. I was just thinking about the area I am going to, and depending on location you might need more of some supplies.
+
+### Assistant: what do you think you may need more?
+
+### Human: Well I am going to an area with less trees than normal. Usually I camp in the forest where you have firewood all around you. But this trip it might be hard to find.
+
+### Assistant: what a coincidence, I will need more wood and lots of food. its very cold during the night
+
+### Human: I don't think food will be an issue for me. Water would be harder to find but I think it should be a fun trip.
+
+### Assistant: Water is no big deal for me, so you can have that, and can have the food and some wood?
+
+### Human: Yeah I think we can work something out, how about I take 3 waters and just 1 food and firewood? Does that sound ok?
+
+### Assistant: I want three food and two firewood and I am good
+
+### Human: Ok I am fine with that exchange
+
+### Assistant: Submit-Deal

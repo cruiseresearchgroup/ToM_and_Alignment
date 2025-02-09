@@ -1,0 +1,35 @@
+### Human: Hello, what are your preferences for food, water, and firewood?
+
+### Assistant: Hey, nice getting to interact with you. I would like to have additional packages of firewood and water
+
+### Human: Okay, I would like to have additional packages of food and water.
+
+### Assistant: I would take 2 packages of firewood and 1 each of water and food. Let me know your thoughts.
+
+### Human: I actually need 2 packages of firewood for making more fires when camping.
+
+### Assistant: I can't take cold and would badly need to have more firewood.
+
+### Human: I need more firewood to keep my food going.
+
+### Assistant: I get it, in that case I'' take additional packages of food.
+
+### Human: I don't think so, because I need additional packages of food in case there is an emergency.
+
+### Assistant: I was under the impression you don't have the need for additional firewood as you mentioned you need additional of food and water. Let me know how many packages of item you need.
+
+### Human: You're right, I meant to say that I need additional food and water.
+
+### Assistant: So, let me know how much exactly do you want of each item
+
+### Human: I would like 2 packages of food and 2 packages of water.
+
+### Assistant: In that case, I can take 2 packages of firewood. So , it would be a fair deal. I can share with you in case you have the need.
+
+### Human: Okay, that is a fair deal then. It is settled.
+
+### Assistant: Thank you. Have a nice day ahead!
+
+### Human: Thank you. Have a nice day ahead too!
+
+### Assistant: Submit-Deal

@@ -1,0 +1,23 @@
+### Assistant: Hi. I'm most interested in water. What's your highest priority?
+
+### Human: I really need water too. I have a young baby and will do a lot of washing.
+
+### Assistant: Okay. I'm not especially worried about food. What's your lowest priority?
+
+### Human: I have enough food too. Can I take 2 water, 1 firewood and 2 food?
+
+### Assistant: How about two water, 1 firewood and 1 food, since we both value water the most?
+
+### Human: Is that what you want or what you are offering?
+
+### Assistant: That's what I'm offering to you, but I think it's a fair deal, so I'd accept it myself, too.
+
+### Human: Fair enough.
+
+### Assistant: If that sounds good, just tell me which bundle you want.
+
+### Human: As you suggested, I will take 2 water 1 food and 1 firewood
+
+### Assistant: Awesome
+
+### Human: Submit-Deal

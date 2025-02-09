@@ -1,0 +1,23 @@
+### Human: hello. is it possible to get these additional items. 
+
+### Assistant: Hi, how you doing buddy? 🙂
+
+### Human: I'm doing well. How are you?
+
+### Assistant: Good. Just mturking. 🙂
+
+### Human: Cool. same here. 
+
+### Assistant: Which items do you need? 
+
+### Human: I would need water. what about you?
+
+### Assistant: No problem I'm sure we can work something out. Food is what I need. 🙂
+
+### Human: Cool. I can do that no problem.🙂
+
+### Assistant: Awesome! 🙂
+
+### Human: Submit-Deal
+
+### Assistant: Reject-Deal

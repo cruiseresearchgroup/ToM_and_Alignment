@@ -1,0 +1,23 @@
+### Human: hi
+
+### Assistant: Hello! How are you doing? Are you excited to go camping?
+
+### Human: i am doing fine, I am also excited to go camping
+
+### Assistant: Great! Where are you going?
+
+### Human: to New Jersey
+
+### Assistant: So what are you going to need the most of? If I know correct, New Jersey is near the ocean (the shore, etc).
+
+### Human: yes, I will need alot of food and some water. I need food to survive and water to drink
+
+### Assistant: My highest priority is also water. If I get two water and one food, are you okay with two food and one water?
+
+### Human: if so, then i will need all the firewood
+
+### Assistant: How about two firewood for you and one for me?
+
+### Human: can I get 1 more food then? my child needs the food
+
+### Assistant: Submit-Deal

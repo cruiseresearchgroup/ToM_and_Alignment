@@ -1,0 +1,23 @@
+### Assistant: Hello, I'm themain person of my family. My family consists of five members including me and we stated a weekend  trip . we do not have more food. Can you share 3 food packages with me?
+
+### Human: I also need a lot of food. We're going camping in a desert environment and there's little resources. We're going to have to find a way to split the food and other resources amongst us. 
+
+### Assistant: Thanks for letting us know your situation. In this situation, we have to share the available resources between us.Kindly tell what is your highest and lowest priority pckage?
+
+### Human: Food is my highest priority. I'm less concerned with firewood, as I can find some along the way. How about you/
+
+### Assistant: i'm also in the same situation. Food is first priority secondly water and the last priority is firewood.
+
+### Human: Okay, I'm willing to give you 2 food packages if I can have 3 water packages. And then we can figure out firewood. 
+
+### Assistant: That's great deal . I accept 2 pack of food 🙂. in this case, I need at least  2 firewood. Then only, we both can meet our requirements.
+
+### Human: Okay that sounds good to me
+
+### Assistant: Thanks for the understanding. If you don't mind, can you share only one water. Because, my children need some water.
+
+### Human: If you would like me to share one water then I would like two firewood. I'm in a desert and there's no other water available to me. 
+
+### Assistant: Okay. great. I accept 2 pack of food, 1 water and 1 firewood thank you.
+
+### Human: Submit-Deal

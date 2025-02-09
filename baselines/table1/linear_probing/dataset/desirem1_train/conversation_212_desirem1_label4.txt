@@ -1,0 +1,27 @@
+### Assistant: Hi, I would like two firewoods and two food. You can take everything else. Does that work for you?
+
+### Human: That might work. What reasons do you have for needing those?
+
+### Assistant: I want to make smores and a nice dinner
+
+### Human: I feel like I might need more firewood, I'm staying in the desert and it gets cold at night.
+
+### Assistant: I could do one firewood and all the food?
+
+### Human: And I would get all the water?
+
+### Assistant: How about you get two firewoods and two water, and I take the rest?
+
+### Human: No I think I need all the water. I'm in the desert and there's absolutely no water supply. 
+
+### Assistant: so you want two firewoods and three waters and I get everything else? 
+
+### Human: That sounds good to me!
+
+### Assistant: I really need at least two firewoods to cook with though, or one water. How can we make this work?
+
+### Human: I could give you two firewood, if I could still have my three waters and then 1 food.
+
+### Assistant: Okay lets do that. 
+
+### Human: Submit-Deal

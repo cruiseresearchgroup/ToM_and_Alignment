@@ -1,0 +1,27 @@
+### Assistant: Hello. I hope you are doing well. So what items are you looking for?
+
+### Human: We are doing good. Hope you are well and healthy! I really need the food. I have 4 boys with me and they eat like an elephant!
+
+### Assistant: I understand that. I am very similar to your boys. I am always hungry no matter how much I eat. It's a curse, really. I don't know about you, but I can tell when I'm hungry because I feel lightheaded and weak.
+
+### Human: Yes. Couldn't agree more! Which item do you prefer most?
+
+### Assistant: I really would prefer food as well. I want to have the energy and ability to really enjoy this camping trip. How do you feel about firewood and food as well?
+
+### Human: I prefer water than firewood. I just don't like going to the river to get water. besides, I think our campsite is far from the river. How about you?
+
+### Assistant: I don't mind filtering water even though it doesn't always taste great. I do like firewood so I can cook some actual meals instead of having to eat granola bars the whole time. I love the feeling of a nice fire, too.
+
+### Human: Firewood is nice and We can roast marshmallow. The boys will like it!
+
+### Assistant: So how do you think we should split this? We both want food, but I think I really like firewood and you really like water.
+
+### Human: I am Ok with 1 food and 3 water. how about that? 
+
+### Assistant: So I would get 2 food and 3 firewood? I like that deal.
+
+### Human: If it is possible, can you give me 1 firewood? Just so we can make smores.. The kids will be really grateful! 🙂
+
+### Assistant: I can do that if I could have a water, just at least to get me through the night.
+
+### Human: well, I really prefer water. And you already have more food...

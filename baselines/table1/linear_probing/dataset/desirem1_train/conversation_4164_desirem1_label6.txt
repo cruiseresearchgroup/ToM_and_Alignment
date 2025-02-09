@@ -1,0 +1,23 @@
+### Assistant: Good morning
+
+### Human: Hi, how goes it?
+
+### Assistant: It's going alright. What do you need the most to trade?
+
+### Human: well, I run and could use some extra water. How about you?
+
+### Assistant: That's a good reason! I don't run, but could use some water. 
+
+### Human: How much were you thinking? I could also use some food, but really don't have much need for firewood.
+
+### Assistant: How about we split? 2 water for you, and 1 for us, that way we can go on a fun hike. In exchange, could we also have all the firewood? We want to have a community fire and you're more than welcome!
+
+### Human: So 2 waters for me, 1 for you, and all the fire wood. How about the food? Perhaps 1 for me and 2 for you? Sound reasonable?
+
+### Assistant: That sounds good to me!
+
+### Human: Ok, by the way are you here with family or friends? 
+
+### Assistant: With a few friends. It's my birthday soon and we decided to go camping!
+
+### Human: 🙂 Happy birthday! a little early. Let me toss you our agreement

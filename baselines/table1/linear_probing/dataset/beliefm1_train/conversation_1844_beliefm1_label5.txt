@@ -1,0 +1,23 @@
+### Assistant: Hello.  I really would like two packages of extra food, one water, and one firewood.  How does this sound to you?
+
+### Human: Hello. I would like 3 packages of water, 2 firewood, and 1 food. 
+
+### Assistant: I would really like one of the waters.  Could we come to a deal with you getting 2 waters, 2 firewood and 1 food?
+
+### Human: I am agreeable to that. I can compromise by giving you a water.
+
+### Assistant: Thanks. I thought extra food was the most important when camping
+
+### Human: Well in my case I wanted water most because I bring more food. And I like the firewood for cooking and I love campfires 🙂
+
+### Assistant: Campfires are great, I only need a small one though.
+
+### Human: Good. Then it seems we can help each other out for mutual benefit
+
+### Assistant: Exactly, it is so nice when negotiations go smoothly.
+
+### Human: I agree. Thank you for being reasonable. 
+
+### Assistant: Thank you!  Have a great camping trip 🙂
+
+### Human: Submit-Deal

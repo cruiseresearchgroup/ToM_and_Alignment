@@ -1,0 +1,27 @@
+### Human: Hello! I'll be camping soon and need to get my hands on some supplies. The food is what I need the most.
+
+### Assistant: I'm glad you are joining the camp! I will be bringing my girl scout troop for some badge earning opportunities.
+
+### Human: Oh my. A whole troop of girl scouts will probably be bringing lots of food with them to share, and plenty of people around to collect firewood. It is going to be just me and my son on this camping trip, his first time.
+
+### Assistant: We were planning on getting our outdoor cooking badge by making  a big meal over the campfire tonight. I wll need plenty of firewood for that, but I can manage with only one food.
+
+### Human: A lot of the firewood in my area is wet, so I'll need some extra packages of it as well. You're going to have a lot of people and a big fire, so it would be smart to keep a lot of water on hand to drink/in case the fire gets out of hand.
+
+### Assistant: All my girls have brought canteens. I must have enough firewood if they will earn their badge. You can have one, but I won't be able to make due without 2.
+
+### Human: I could manage with one firewood and two foods, but if you have canteens for everyone, may I then have all three waters? I had planned to collect water from the river, but I'm worried I may get sick.
+
+### Assistant: you pointed out that we will need more!  😮 i will take 2 waters
+
+### Human: I didn't know you had supplied everyone with water before the trip. I was merely trying to look out for your needs, but you said you didn't need them!
+
+### Assistant: I am giving you a lot of food. You are being unreasonable and backtracking. You are getting some of everything with my offers, and there are only two of you.
+
+### Human: You said you only needed one food package and two bundles of firewood for your group together tonight and had plenty of everything else. You're the one insisting you need more now. This is my son's first camping trip and we're bound to lose supplies and waste them. Your group is trained and prepared.
+
+### Assistant: I am not going to give you all the water. I am not backing down on this. What if our fire gets out of hand like you said. I will need at least one or we will not make a deal.
+
+### Human: How about this then. I'll give you one food, one water and two firewood.
+
+### Assistant: Submit-Deal

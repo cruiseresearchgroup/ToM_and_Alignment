@@ -1,0 +1,23 @@
+### Assistant: hello my friend i will like to suggest to you if i can get 2 food 1 firewood and 1 water.let me know what you think
+
+### Human: Hello 🙂 We are camping in the desert near Joshua Tree NP. While your offer is fair, I am hoping to take three waters. I could give you another food package in return.🙂
+
+### Assistant: okay but i will be needing water too i you give me 2 water 2 food and 1 firewood ?
+
+### Human: Sorry that won't work. 🙂 I prefer your first offer to that one. My greatest need is water and firewood.  I can offer to give you the three food and 1 firewood.  That is better than your first offer, as far as I can tell. 
+
+### Assistant: okay so i take 3 food 1 firewood 1 water while you take 3 water 2 firewood and 2 water.please is this okay by you?
+
+### Human: Yes you can take three food and one firewood.  I need the water and firewood.  We will be doing a lot of hiking with a large group and it will be in the 90's with full sun.  We also need the firewood to keep warm as the desert gets cold at night.
+
+### Assistant: okay can you spare 1 water for me as well while you take 2?
+
+### Human: No, I can't spare it.  It is dangerous to hike in the anza-borrego desert without ample water.  There are no convenience stores or natural water sources to rely on either. 🙂
+
+### Assistant: okay that is fine so i take 3 food 1 firewood while you take 2 firewood and 3 water .i hope we have come to a conclusion?
+
+### Human: Yes, I am ready to finalize. You?
+
+### Assistant: yes i am gals we could negotiate .i have agreed to the offer
+
+### Human: Submit-Deal

@@ -1,0 +1,23 @@
+### Human: Hi would like to take some additional water packages and some food.
+
+### Assistant: Hello, I hope you are doing well. I see that you would like some additional water and food packages. I also would like to get additional food water packages.
+
+### Human: I'm doing well Thanks. And I hope you are doing good as well. I do not carry any additional packages in my hand and I have very less food package for the trip.
+
+### Assistant: I forgot to mention I also would like have additional firewood for my camping trip
+
+### Human: Water packages are my essential need and a additional food package and some firewood for camping is necessary
+
+### Assistant: I see 🙂 What do you think about this? I get 2 food, 3 firewood, and 1 water. You get 1 food, 0 firewood, and 2 water
+
+### Human: I would like to take 3 water 2 food and 1 firewood, so you can get 0 water 1 food and 2 firewood.
+
+### Assistant: I am sorry but I cannot accept that. I need water as well for my camping trip and would like more food as well. 
+
+### Human: I can understand, but I need water and food for my camping trip, and sure I need firewood as well
+
+### Assistant: Okay, I understand. How about this new deal since it seems you want more water than me I will comprise and give you more water than me as long as you give me more food. I will also compromise on firewood as well and give you more. So basically it would look like for me: 3 food, 1 firewood, 1 water. And for you it would be 1 food, 2 firewood, 2 water
+
+### Human: I can't accept the deal! I'm sorry! ☹️ I can compromise with water for you and firewood but not with food, so I goes like 2 water 2 food and 1 firewood for me and 1 water 1 food and 2 firewood for you
+
+### Assistant: So you're willing to compromise on water and firewood? Okay, what about this? Me: 1 food, 2 firewood, 2 water You: 2 Food 1 firefood, 1 water

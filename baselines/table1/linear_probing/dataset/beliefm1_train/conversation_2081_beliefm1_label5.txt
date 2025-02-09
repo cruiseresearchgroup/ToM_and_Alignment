@@ -1,0 +1,23 @@
+### Human: Hello
+
+### Assistant: Hi Howard you
+
+### Human: Not quite fine over here
+
+### Assistant: oh what’s wrong sorryto hear that
+
+### Human: It is very cold out here and i need a lot of firewood packages
+
+### Assistant: I understand I have an always hungry toddler
+
+### Human: Wow...what a different world
+
+### Assistant: You got that right I can give you 2 firewood if you give me two food
+
+### Human: What abou you give me two firewoods and i give you 1 food and 1 water?
+
+### Assistant: two firewood 1 food and two water my little boy does not know how to ration water 
+
+### Human: ok no problem deal?
+
+### Assistant: Submit-Deal

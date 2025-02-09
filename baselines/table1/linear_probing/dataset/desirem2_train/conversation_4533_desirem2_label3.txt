@@ -1,0 +1,23 @@
+### Assistant: Hi there, I really need some water because I don't have enough to get by
+
+### Human: Good afternoon. Ok, water is a medium need for me. I have some to get by. I really need firewood. It's cold.
+
+### Assistant: I'd be willing to give up all the firewood in exchange for the water. I also am low on Food and would need at least 2.
+
+### Human: That doesn't sound like something I can agree to. Do you have any other ideas?
+
+### Assistant: I can keep 2 of the firewood then and offer you 2 of the food. I'd take the water, 2 firewood and 1 water
+
+### Human: I would do 3 firewood, 2 water and 2 food.
+
+### Assistant: I can't do that. Truth is I need the firewood and I was hoping you didn't need it. I propose I keep 1 firewood, 3 waters and 2 food and you take the rest?
+
+### Human: I would do this instead: 3 firewood, 1 water and 2 food.
+
+### Assistant: That's not going to be a fair offer, you'll need to do better than that or I don't think we can come to an agreement
+
+### Human: 3 firewood, 1 water, 0 food
+
+### Assistant: so I'll get 2 water, 3 food and 0 firewood?
+
+### Human: Incorrect.

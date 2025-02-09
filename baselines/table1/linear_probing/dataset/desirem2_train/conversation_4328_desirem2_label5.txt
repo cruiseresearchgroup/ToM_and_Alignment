@@ -1,0 +1,31 @@
+### Human: Hi'
+
+### Assistant: Hello I would like to take 3 extra food packages and 3 extra water package and 1 extra firewood packages because we had some unexpected guest join us on our camping trip.🙂
+
+### Human: I need 3 food packages as it is required to feed children who visited unexpectedly. Instead you can take water and firewood
+
+### Assistant: No that doesn't work for me. I also have children with me. 4 children in total.  how about i take 2 food packages and 2 water packages and you take 1 food 1 water and 3 firewood packages.
+
+### Human: I too have the same issue. I am also asking for children only , better you could accept 1 food , 2 water and 3 firewood, I hope this deal will work out for you
+
+### Assistant: I need at least 2 food packages and at least 1 water. I can live with out any extra firewood.
+
+### Human: Please do understand my situation its very very critical to give 2 food packages to you.Instead you can take 3 waters and firewood too.
+
+### Assistant: No that will not work for me given that I have 4 growing children of different ages who eat like adults. I need at least 2 food packages and 1 water. That gives you 1 food package and 2 waters and 3 firewoods.
+
+### Human: I too have children who eat like adults they too can't able to withstand hunger so you please show some mercy and give me 3 food packages and take all water and firewood
+
+### Assistant: No I need extra food too. I cannot let my children starve and you cant let your children go thirsty. So if you cant agree to share the food i will walk away from the deal.
+
+### Human: There is no point in walk away. This deal should be done mutually and beneficial for both. So its better I will take 2 food packages, you can take 1 food package, 2 water and 3 fire wood .Hope this will definitely work for you.
+
+### Assistant: No i absolutely need 2 food packages and 1 water. How about we do it like this... You take 1 food package, 2 waters and 2 firewoods. Does that work for you?
+
+### Human: Sorry to bother you, I don't need anything other than food package. So better you could give me 2 food package and take 3 water and fire wood. Please consider this deal.
+
+### Assistant: No i absolutely need 2 food packages. So if you cannot agree to take 1 food 2 water and 2 firewood i will walk away.  If you have children with you would would also need water which you are not asking for. 
+
+### Human: Yes I too have children so only I am considering 2 food package, 1 water is enough for me and I dont need any firewood. So please accept this deal
+
+### Assistant: 😡 I am walking away if i cannot get 2 food packages 1 water and 1 firewood. That leaves you with 1 food 2 waters and 2 firewoods. This is a good deal for you concidering that you havent been asking for water for your children until i mentioned that you need water for you children. Do you agree??

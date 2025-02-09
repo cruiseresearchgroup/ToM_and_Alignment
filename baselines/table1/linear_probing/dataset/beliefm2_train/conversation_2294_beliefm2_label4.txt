@@ -1,0 +1,23 @@
+### Assistant: hello
+
+### Human: Hello I hope we can work together to find an offer that satisfies both of us.
+
+### Assistant: yes we can
+
+### Human: Ok, could you tell me which item you need more and which one you need less?
+
+### Assistant: i will be needing more of water 
+
+### Human: Okay, what I need most is food because I need nutrients, could you tell me what is the least you need?🙂
+
+### Assistant: 2 water 1 firewood and 1 food
+
+### Human: Can you explain yourself better? What you need the least is food?
+
+### Assistant: i mean i will be needing 3 water 2 firewood and 1 food
+
+### Human: I can't give you that since it wouldn't be fair to me, I'll give you a better offer. I get 3 food 1 water 0 firewood and you get 0 Food 2 water and 3 firewood and 2 fire
+
+### Assistant: no am not accepting that 2 water 2 firewood and 1 food
+
+### Human: I need you to understand that if we don't have an agreement it doesn't work. What you ask for is not fair. Since you are having more than me, you have calculated correctly and you will realize that what I offer you is the most fair for both🙂

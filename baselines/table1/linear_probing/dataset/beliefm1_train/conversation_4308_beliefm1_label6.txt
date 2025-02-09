@@ -1,0 +1,23 @@
+### Human: I would like to have 2 food packages so that i can give them to my friends.
+
+### Assistant: I can agree to 2 food packages if I can have all three waters and 2 of the firewood. I want to have extra water for my dog.
+
+### Human: You can have 1 water and 1 firewood because i need atleast one water for myself and 1 firewood for me. Do you agree for this deal?
+
+### Assistant: I do not. What do you have planned for the weekend?
+
+### Human: Please agree for the deal.   I will be going out with my friends this weekend.
+
+### Assistant: Thats really cool. I'm afraid I can't agree to the deal. ☹️ I really need as much extra water and firewood as I can get because I forgot enough water for my dog and he really needs it. I can agree to 2 waters,1 food, and 2 firewood for me.
+
+### Human: I think this deal sounds alright  to me.😮. But i have to think some more time whether this deal is ok. 
+
+### Assistant: Alright 🙂 What did you have planned for your firewood? Mine will be to keep my feet toasty. 🙂
+
+### Human: I have planned to use my firewood for cooking vegetables.
+
+### Assistant: That is a good use. So can we agree on 2 waters, 1 food, 2 firewood to me?
+
+### Human: Ok i think i agree to your deal. Thanks for the cooperation.
+
+### Assistant: Submit-Deal

@@ -1,0 +1,23 @@
+### Human: Hai!🙂
+
+### Assistant: Hello, I wanted to see if you might be able to spare a few extra supplies 
+
+### Human: Yes. I want few more extra supplies.
+
+### Assistant: Well what are you low on? I myself really need firewood badly, it got wet when some of my water leaked out
+
+### Human: I myself really need water badly,because I have it already.I need both firewood and food the most.
+
+### Assistant: if you can give me 2 water and 2 firewood, you can have 1 water , 1 firewood, and 2 food
+
+### Human: Hey I can give you completely 3 water because I need 3 firewood to keep my surroundings warm and I need 3 food because I have 2 older people with me.
+
+### Assistant: no way can I give you a total of 6 items for 3 items. If you can give me 3 firewood and 1 water you can have 2 water and 3 food
+
+### Human: I need 3 firewood and 2 food.you take all the three water.
+
+### Assistant: if you make it 2 firewood and 2 water you can have the rest, that is the best i can do, that way you get 1 firewood, 1 water and 3 food
+
+### Human: okay I accept the deal.
+
+### Assistant: Submit-Deal

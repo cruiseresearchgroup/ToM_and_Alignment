@@ -1,0 +1,23 @@
+### Human: Hello I'm looking for food water and firewood 
+
+### Assistant: hi
+
+### Human: Nice to meet you. I'm really interested in 2 extra foods as I have a medical conditon that means I have to eat every 1 hours.  WOuld you be willing to give me 2 foods for 2 water?
+
+### Assistant: well am interested in extra water only 
+
+### Human: OK. Maybe I could take the 3 foods and you can have all 3 water?
+
+### Assistant: no i will take 2 water 1 food and 1 firewood
+
+### Human: that sound good. 🙂 So I'll have 2 foods, 1 water and 2 firewood You'll get 2 water 1 food and 1 firewood. Is that right and acceptable to you?
+
+### Assistant: yes am satisfied with it, cause the weather here is really hot
+
+### Human: I think we're almost ready to end this negotiation. Where are you camping at?
+
+### Assistant: at dry tortugas national park and you?
+
+### Human: Yosemite. Have a great time! 🙂
+
+### Assistant: Submit-Deal

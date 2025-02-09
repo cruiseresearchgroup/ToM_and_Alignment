@@ -1,0 +1,23 @@
+### Human: Hi, it is nice to be going camping. I do not have a very good sleeping bag and I can get cold at night. It would be nice to have extra firewood. I dont eat much so I do not need much extra food. Would you be willing to give me two packages of firewood for a package of food?
+
+### Assistant: I enjoy camping as well. However, my campsite seems to be a bit chilly at night. I'd be willing to part with some firewood, yet I'd need quite a bit of food to compensate. I also have a stream nearby so water is plentiful if you need that as well.
+
+### Human: I may be able to do something with regards to food. Do you have enough water?
+
+### Assistant: I have more water than I need. How is your water supply?
+
+### Human: I could use some more water as I get dehydrated easily. Since you have enough, I could give you and extra package of food for your water.
+
+### Assistant: That sounds like a deal, what would you like to do as far as the firewood goes?
+
+### Human: I really need to keep warm with my not so good sleeping bag.☹️ I would be willing to do this. I get two packages of firewood and three packages of water and I will give you two packages of food and one package of firewood. You have plenty of water so you will not miss that.. 
+
+### Assistant: This sounds good to me, unless you would be able to part with three packages of food?
+
+### Human: No, I would like to keep one for me just in case I need it. If it sounds good to you can we finalize the agreement and move on. I think we have something that helps us both.🙂
+
+### Assistant: That works for me 🙂
+
+### Human: Great! Thank you
+
+### Assistant: Submit-Deal

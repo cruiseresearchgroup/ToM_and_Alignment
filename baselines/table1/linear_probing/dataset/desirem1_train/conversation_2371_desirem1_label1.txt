@@ -1,0 +1,27 @@
+### Human: I think the weather for me is going to be pretty cold. can I have all of the firewood, and I'll give you some of the food and water?
+
+### Assistant: The only way I could possible make that work is if I got all of the water and 2 of the foods. If I don't have the firewood, I'm going to need to bring more food and water because I won't be able to cook/boil as much ☹️
+
+### Human: would one firewood help?
+
+### Assistant: So I would get 1 firewood, 3 waters, and 1 food?
+
+### Human: Could we do it where you get 1 firewood, 2 waters and 1 food?
+
+### Assistant: No I don't feel like thats going to be enough water for me with only 1 firewood. I can't risk not having enough water. My dad just had heart surgery and I have to make sure he doesn't get dehydrated. It could be very dangerous without it. ☹️
+
+### Human: i can't really go without water either. I have a baby and I need to make her formula.
+
+### Assistant: If I get 2 firewoods, 2 waters, and 1 food, I can probably make it work. 
+
+### Human: could I give you 1 firewood, 1 water and 2 food?
+
+### Assistant: I feel like this deal just keeps getting worse for me. I won't take less than 2 waters. 
+
+### Human: My last offer did have two waters.
+
+### Assistant: So how about I get 1 firewood, 2 waters, and 1 food. 
+
+### Human: That sounds good!!
+
+### Assistant: Submit-Deal

@@ -1,0 +1,23 @@
+### Human: Hello I would like to get firewood and food for my 10 kids. I want to make them a great meal. 
+
+### Assistant: Hello... I would like food to bring hiking. I am diabetic, and if my blood sugar levels fall, I can have a medical emergency.
+
+### Human: Oh no that sounds terrible. I will be willing to give you two of the food then If you give me two firewood and water
+
+### Assistant: Thank you. 🙂 So you want one food, two firewood, and how many waters?
+
+### Human: two waters please my bad for the wording
+
+### Assistant: How about one water? I will sweat a lot on my hike 
+
+### Human: But then you get more items than me. I'm already giving you your top thing give me some compromise. 
+
+### Assistant: What if you have all the firewood, and I get all of the water? You will receive more of a higher value item
+
+### Human: I'll take all the firewood and two waters and you can have all the food. I think that's a good deal for you. 
+
+### Assistant: I think that is fair 🙂
+
+### Human: Submit-Deal
+
+### Assistant: Reject-Deal

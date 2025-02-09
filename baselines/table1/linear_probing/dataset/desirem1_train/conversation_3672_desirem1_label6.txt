@@ -1,0 +1,23 @@
+### Assistant: I would like all 3 of the waters because we are planning a long hike and I'm worried my children won't have enough water in this heat. 
+
+### Human: okay awesome.  what are you willing to trade
+
+### Assistant: I don't need much food so you can take the food.
+
+### Human: oh nice okay 
+
+### Assistant: Do you have any preferences of what you need?
+
+### Human: i would prefer food and firewood is last on my list 
+
+### Assistant: Great what if you take all the food and we figure out how to split the firewood
+
+### Human: yeah of course.  that works for me.  ill give you plenty of water 
+
+### Assistant: Great - how many firewood do you need?
+
+### Human: 1 is fine.  id love 2 to three packages of food 
+
+### Assistant: So what if I get all 3 waters, and 2 firewood - you take 1 of the firewood and all 3 of the food? Does that sound good to you?
+
+### Human: yeah that is something i can most definetely get down with.  i like that arrangement

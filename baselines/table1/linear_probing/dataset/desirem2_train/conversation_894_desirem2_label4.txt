@@ -1,0 +1,27 @@
+### Human: Hi, looking forward to camping. Wondering if you could help me out. I really need extra water.🙂
+
+### Assistant: I also need water.  I can give you 2 waters for 2 foods.
+
+### Human: I can do that. Would you also be able to give me one firewood?
+
+### Assistant: Sure, I can spare that
+
+### Human: I really appreciate you being so kind. I have so much medication to take and have to make sure I take it with lots of water.
+
+### Assistant: Its ok
+
+### Human: Do you have help carrying all that extra firewood? Could be heavy?
+
+### Assistant: I do not, would you like to help
+
+### Human: I'll help by taking a second one off your hands lol 🙂
+
+### Assistant: sure, I can give you another one
+
+### Human: OK, so 2 water and firewood for me and 2 food for you?
+
+### Assistant: yes, that is correct
+
+### Human: great, thanks. Have a fun time!
+
+### Assistant: You too, you can enter it in.

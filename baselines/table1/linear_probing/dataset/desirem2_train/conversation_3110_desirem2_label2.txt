@@ -1,0 +1,23 @@
+### Human: Hello. I am so looking forward to this camp out. My friends Jill and Jim are coming up and I was not expecting them but It will be a good time for sure. .
+
+### Assistant: I am also very excited about the camp out with my friends/family
+
+### Human: That's awesome. Jill just called and said she was able to bring some extra water. So I have plenty if you need some. 🙂
+
+### Assistant: I don't need water, just food and firewood
+
+### Human: O no that's not good. I don't have much to spare of either☹️☹️
+
+### Assistant: We have a group of 10 people so we need all the food and firewood we can get
+
+### Human: O wow we are 3 so we can spare some. How abut 2 foods 1 firewood and 1 water for you?  I think that is really fair and will help you out alot.
+
+### Assistant: fair??? You have 3 people and I have 10😡😮☹️
+
+### Human: I still need 1 food for us 3. You are getting 2 foods.
+
+### Assistant: I need firewood badly, it gets below freezing at night!
+
+### Human: Well I need it too? So I can give you 2 firewood as well if I can get all the water.
+
+### Assistant: deal

@@ -1,0 +1,43 @@
+### Assistant: hai friend. i am in some trouble i need some help from you. can you help me?
+
+### Human: Hi there sorry your having trouble
+
+### Assistant: yes friend. i going to trip with my team.in my team old age sicked people and kid are there so i need some favor in extra package
+
+### Human: Well i am also going on a trip, in a very cold climate, unfortunately i have a medical condition where i need to stay hydrated and warm or i can have siezures
+
+### Assistant: i understand friend. i need 2 pack of water and 3 pack of food and 2 pack of fire wood. can you please help me 
+
+### Human: No way can you have everything, I will need 3 packs of firewood 2 backs of water then you can have all the food
+
+### Assistant: i have sicked people and kids so i must need food water fire wood. please help me friend
+
+### Human: I am sick and have a large family if we cant cooperate together we all get nothing
+
+### Assistant: mind your words mr. i am in some trouble that's why i ask you this help. its not good man
+
+### Human: Ok I am going to say this once before we both get nothing, I will get 3 Firewood, 2 Water and 0 Food. You will get 3 Food, 1 Water
+
+### Assistant: i am also need firewood friend because we are going to snow fall place so i need at least 1 pack of fire wood 
+
+### Human: Submit-Deal
+
+### Assistant: Reject-Deal
+
+### Assistant: wait friend  i need fire wood must. how we all are live in the place please understand my situation 
+
+### Human: If you want the firewood then im getting another water
+
+### Assistant: okay. 3 pack of water 2 pack of water and 1 pack of fire wood for mine. deal??
+
+### Human: Submit-Deal
+
+### Assistant: Reject-Deal
+
+### Assistant: wait man i need 1 fire wood i give 1 water to you i must need 1 fire wood
+
+### Human: Submit-Deal
+
+### Assistant: Reject-Deal
+
+### Assistant: Are you mad. what can i do with out water..

@@ -1,0 +1,23 @@
+### Assistant: Hello, how are you doing today?
+
+### Human: Hey there, I'm doing well! I'm excited to choose camping supplies.
+
+### Assistant: Me too🙂. I packed a lot of food so I have plenty to spare
+
+### Human: that's awesome. I think I need more food myself, but I have tons of water.
+
+### Assistant: I really am in need of firewood and would appreciate the extra water if you can spare some
+
+### Human: Would it be okay if I was to get 3 food packages, and spare you 3 water packages?
+
+### Assistant: That would be great 🙂. Would you be willing to take 1 firewood while I take 2?
+
+### Human: I think that works, I am definitely down for that
+
+### Assistant: That is fantastic. 
+
+### Human: I'm glad negotiating feels smooth and clear
+
+### Assistant: I know and out of all the other turkers I have negotiated with, you are by far the fastest.
+
+### Human: Great, I'm going to input our agreed amounts.

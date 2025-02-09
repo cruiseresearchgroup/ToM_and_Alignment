@@ -1,0 +1,27 @@
+### Human: Hi there! 🙂 I'm most interested in acquiring additional food packages because I plan on engaging in a lot of hiking which will require a lot of energy. So, could I offer you all of the water packages and I can have the rest?
+
+### Assistant: I also need more food. Can you please give me 2 food. I have more people than I initially budgeted for.
+
+### Human: I will need food for my party as well or else we'll starve out there. How about if I give you 1 food package and 1 water package, and I'll have the rest.
+
+### Assistant: That is not possible. I will give you 1 of food, water and firewood. I take the rest
+
+### Human: I appreciate your willingness to work with me. 🙂 With that in mind, I will give you 1 food, 1 water, and 1 firewood. I will have the rest.
+
+### Assistant: That is unfair☹️
+
+### Human: I'm sorry you feel that way. ☹️ What do you prefer between the firewood and water?
+
+### Assistant: Water. If I am giving you 2 food, I am taking 2 water and 2 firewood. or you can exchange yours for what I am taking.
+
+### Human: Well, if food is your biggest need I will be willing you give you 2 food, but then I will take just 1 food, 3 firewood and water and just live off the land. Would you prefer an option like that?
+
+### Assistant: We still need to share the other resources.
+
+### Human: Ok then I will take 2 food, 2 firewood, and 1 water. Deal?
+
+### Assistant: ☹️ Ok then as you say.
+
+### Human: Great! Pleasure finding a compromise with you! 🙂
+
+### Assistant: Seems like we have a deal.

@@ -1,0 +1,23 @@
+### Assistant: Hi there!  This is my first time camping so I would prefer 3 firewood, 2 food, and 1 water.  What are your thoughts?
+
+### Human: Welcome. If you gave me 3 food, 2 firewood and 2 water i will be Ok.
+
+### Assistant: Well I would really prefer the 3 firewood.  I am really worried about getting lyme disease from mosquitos so the fire would keep away the bugs.  Also, this is silly, but I am a little scared of the dark!  So the fire would make me feel better at night.😮
+
+### Human: You must be all by yourself. Ok, i will give you 2 firewood, you give me 3 food and 2 water. What about that?
+
+### Assistant: I appreciate your offer of 2 firewood.  Why do you need 3 food?
+
+### Human: I never walk alone🙂 I came along with my other.
+
+### Assistant: Oh ok so you would want extra food for the other person.  That makes sense.  Would you be willing to take 2 food and 1 water if I get 3 firewood?
+
+### Human: That will not be fair enough. Lets do this, you take 2 firewood and 1 water.
+
+### Assistant: I am happy with the 2 firewood and 1 water, but would then prefer 2 food also if that if ok.
+
+### Human: Come on, i am the one to get the 2 food and 2 water!
+
+### Assistant: Hmmm ok.  If you are getting 2 food and 2 water, then if would be fair for me to get the 3 firewood because I really am scared of the bugs.
+
+### Human: Submit-Deal

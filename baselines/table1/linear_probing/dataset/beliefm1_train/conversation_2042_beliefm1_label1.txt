@@ -1,0 +1,23 @@
+### Human: Hello fellow camper! 🙂 How are you today?
+
+### Assistant: I'm doing okay! Kind of a slow day on MTurk, how are you?
+
+### Human: I am doing quite well actually. What supplies do you need?
+
+### Assistant: Firewood would be great! 
+
+### Human: I agree that it would be great. I didn't bring an axe though. So it is hard for me to get anymore.
+
+### Assistant: Ah I see, do you have food then?
+
+### Human: I do have food. What exactly are you thinking?
+
+### Assistant: Well, what is it that you're looking for?
+
+### Human: I need extra firewood and a little food. Since I didn't bring my axe, as I mentioned earlier, it is hard for me to get extra wood. I would like some food because I have an extra guest.
+
+### Assistant: Okay, since firewood is a higher value item than food, I could trade you 2 firewood for 3 food in return?
+
+### Human: If you get all the food I would need all the water to barter with someone else.
+
+### Assistant: How about one food and two water then, in exchange for 2 firewood.

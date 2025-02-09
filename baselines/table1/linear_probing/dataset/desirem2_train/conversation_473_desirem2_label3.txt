@@ -1,0 +1,23 @@
+### Assistant: Hello! How are you today? Food is usually a pretty valuable resource, but I'm willing to let you have all of the food if I can have the wood and water.
+
+### Human: Hi there, I'm doing ok.  I accidentally spilled my water on my firewood. ☹️  I'm in a world of hurt right now. 
+
+### Assistant: Whoops! That's never good. At least the wood can dry out a bit! With as hot as it is lately, it should be dry in no time.
+
+### Human: Good point, but its really humid where I am.  How about we split each category.. You can have 2 of the food, 1 water and 1 firewood, leaving me with 2 firewood, 2 water and just 1 food.
+
+### Assistant: I have plenty of food, plus we brought our hunting equipment. I do agree that we should find a good way to split it, but since the site I'm camping at does not have a clean water source, I really need the water. How about I take two water and two firewood, then you can have all the food, one water, and one firewood?
+
+### Human: That really won't help me as I have plenty of food and no water or dry firewood.  How about I take 3 of the hardwood and just 1 water and you can have all of the food and 2 of water?
+
+### Assistant: I think we can reach an agreement on this :-) We both need water and firewood, and we both have plenty of food. I do not want you to go without, but I really don't want to cut myself short on supplies either. I think I can make do with just two waters. I'm hesitant about the firewood, though. Is there anywhere nearby that you might can collect some wood so I can possibly have one?
+
+### Human: I'm not sure, but I will agree to giving you 1 firewood, 2 waters and 2 of the food.  This way, we are splitting all of it, leaving me with 2 firewood, 1 water and 1 food.
+
+### Assistant: I think I can live with that deal. I accept your offer! 
+
+### Human: Thank you for the wonderful chat and I hope you have a fun time camping!
+
+### Assistant: I hope you have a great time on your trip as well! 
+
+### Human: Submit-Deal

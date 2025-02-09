@@ -1,0 +1,27 @@
+### Human: Hello
+
+### Assistant: Hello, there.
+
+### Human: would you be willing to trade some firewood for some water?
+
+### Assistant: I would prefer to acquire more firewood, as the night are very cold. I would be willing to trade water for firewood.
+
+### Human: how much water would you give me for firewood>
+
+### Assistant: I would be will to give up 3 waters for 2 firewoods. Also, I would give up 1 food along with the waters.
+
+### Human: how about 3 waters and 2 foods for 2 firewoods?
+
+### Assistant: That's quite a lot. Is there a reason you need more food?
+
+### Human: i get really hungry 🙂
+
+### Assistant: I can well understand that. I get hungry also. I would give up 4 waters and 1 food, but I cannot give up 2 foods.
+
+### Human: ok, i will give you 2 firewoods for 4 waters and 1 food
+
+### Assistant: Do you have any activities planned for during your camping trip?
+
+### Human: nope. do we have a deal? i give you 2 firewoods and you give me 4 waters and 1 food?
+
+### Assistant: Yes we do. I will submit it.

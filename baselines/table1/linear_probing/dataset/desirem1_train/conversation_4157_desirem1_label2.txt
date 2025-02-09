@@ -1,0 +1,23 @@
+### Assistant: Hi. What items are most important to you?
+
+### Human: Hello. My friend Dale just called and said Him and Jimmy are coming up for the night. I was expecting them at all. They are brining plenty of water but we are short on food.
+
+### Assistant: I see. That is great that your friends can come. I would love to help.🙂
+
+### Human: That's awesome maybe we could trade 3 waters for 3 food.🙂
+
+### Assistant: Actually,  I did not bring enough warm clothes and blankets and we need the extra firewood to keep us warm.
+
+### Human: I can spare some fire wood not a lot but some.
+
+### Assistant: oh no, but I really need all that I can get. I am willing to give all the water you need in exchange
+
+### Human: I do not need water at all we have plenty.
+
+### Assistant: I see. I don't need any water either as I have a stream at my camp
+
+### Human: O ok
+
+### Assistant: Submit-Deal
+
+### Human: Reject-Deal

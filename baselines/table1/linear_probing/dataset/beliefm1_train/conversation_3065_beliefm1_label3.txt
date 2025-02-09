@@ -1,0 +1,23 @@
+### Human: Hi there! Are you ready for your camping trip?
+
+### Assistant: I am, but I am really worried that I don't have enough supplies. If I could get some extra supplies, my worry would turn into excitement! 🙂
+
+### Human: Me too! It's going to be cold this weekend so I'm worried about having enough wood to make fires.
+
+### Assistant: I have the same worries ☹️  I wouldn't worry so much if it was just myself, but I have two small children, aged 5 and 7, plus elderly grandparents along with us.  I even have 3 dogs that are coming with us.  I'm afraid I'm going to run out of firewood and people will get cold.😮
+
+### Human: Wow, that's a lot of people. Are you worried about food too? That's a lot of mouths to feed. 
+
+### Assistant: I'm mostly worried about firewood and water, I can fish for extra food, but I really need the firewood and water.
+
+### Human: Well what if I let you have the firewood but I take all the food and water then?
+
+### Assistant: How about if you let me have all the firewood, plus one extra water and then you take all the food and leave me one water?d 
+
+### Human: Well then if you had water I would want at least 1 firewood for smores you know?🙂🙂
+
+### Assistant: You always have to have smores, but now you made me want smores so I want an extra food too? How about I take 2 of the three firewood, one water and one food.  That gives you one firewood, 2 water and 2 food.
+
+### Human: Sounds like a deal!
+
+### Assistant: ok! Let's do it! have fun camping!

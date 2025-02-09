@@ -1,0 +1,27 @@
+### Human: Hi! I'm super excited to go camping with my family, especially since we haven't been able to get out of the house due to Covid. Are you going camping too?
+
+### Assistant: Yes I am! I'm going camping way up north so it's going to be super super cold. Is it okay if I take all the firewood?
+
+### Human: Super cold up north? Its August right now. Are you going to be ok? Should you also take water and food?
+
+### Assistant: Even though it's August it can actually get pretty cold at night. Currently it's 70 where I live and that's at noon when it's the warmest! And no, I don't need as much water for example because my mom stockpiled it all during COVID. 
+
+### Human: So you plan to be sleeping outside instead of in a tent?We're planning on doing a lot of fishing and we want to cook the fish we catch over a campfire every night...
+
+### Assistant: I'll definitely be sleeping inside...but my family loves sitting around the campfire late into the night. We normally don't sleep a lot when camping haha. How about I take 2 Firewood, and you take 1. I can offer you more food to make up for the fish tho! 
+
+### Human: Mmmm... I dunno... I've packed food for "just in case" but we're really planning moreso to cook the fish we catch than pack more food. My husband wants to do this trail where we hike along the perimeter of the lake and set up camp every night
+
+### Assistant: Could you then offer a deal? I'm getting impatient and will leave soon. I'm thinking 2 firewood for me and 1 for you. And 2 food for you and 1 for me. If it makes you happy you can also have 2 water. 
+
+### Human: Sorry, I've got other things to do in addition to this negotiation. And I don't really have a grasp on how important these resources are you to you and why I should give in to your demands.
+
+### Assistant: Well then offer a counterdeal! I don't understand what you want me to do if you're not giving options lol
+
+### Human: Submit-Deal
+
+### Assistant: Reject-Deal
+
+### Assistant: Submit-Deal
+
+### Human: Reject-Deal

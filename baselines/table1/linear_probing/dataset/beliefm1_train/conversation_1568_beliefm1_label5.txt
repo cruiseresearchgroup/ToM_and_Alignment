@@ -1,0 +1,23 @@
+### Human: Hey how's it goin?
+
+### Assistant: Not bad, thanks.
+
+### Human: That's good .  You going camping?
+
+### Assistant: I am.  I assume you are as well.
+
+### Human: This is true. 🙂.  I'm heading out to Kofa National Wildlife resort in AZ, you?
+
+### Assistant: I would rather not say.  What is your main focus?
+
+### Human: Well, I'm gonna be out in the desert, so ... I might need some extra water..., and food too, since I'm taking my sisters kids w/ me...
+
+### Assistant: I will allow or the other, not both.
+
+### Human: how about I get all the water, and 1 food, and 2 extra firewood as well?
+
+### Assistant: How about no.  You can have all the water, I get 2 food and 3 firewood.
+
+### Human: I need at least 1 firewood, 3 water, and 1 food
+
+### Assistant: That's too bad.  You get all the water, I get my compensation for doing so.

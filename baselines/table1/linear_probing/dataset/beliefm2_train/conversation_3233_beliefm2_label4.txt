@@ -1,0 +1,27 @@
+### Human: Hello, I'm excited for our camping trip!
+
+### Assistant: Hey buddy, yes I'm so pumped for it.
+
+### Human: Okay so I'm planning this super cool backpacking expedition up the waterfall but I'm going to need all the additional water and food for everyone.
+
+### Assistant: All of the additional water and food? That doesn't seem very fair. ☹️
+
+### Human: Well I'll be splitting it with everyone on the trip as we go up. The people that choose to stay will still get all their basic supplies of food and water. The backpacking trip is going to take three days though, we're gonna need the resources😮
+
+### Assistant: I see. Which resource do you desire most?
+
+### Human: Well I was thinking you could get all the extra firewood and work on the group meal and bonfire for friday night
+
+### Assistant: I like the sound of getting the firewood, but I can't just accept no food or water.
+
+### Human: I'll give you one of the extra food so you have a little extra to cook for everyone but I'm really gonna need all that extra water, it's going to be really hot this weekend and the folks at the capsite get to sit in the shade all day
+
+### Assistant: Now we are making progress. But come on, I will need at least one water to make sure I'm hydrated. I wouldn't want to get heatstroke out in the woods.
+
+### Human: The basic supplies include water, the additional supplies are just extra. Plus I think there's a well nearby!
+
+### Assistant: Submit-Deal
+
+### Human: Reject-Deal
+
+### Human: Submit-Deal

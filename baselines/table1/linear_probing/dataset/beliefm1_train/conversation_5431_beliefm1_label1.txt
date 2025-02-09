@@ -1,0 +1,23 @@
+### Assistant: Hello how are you?
+
+### Human: Hey there, I am well thank you. How's it going?
+
+### Assistant: Doing good can I negotiate more Firewood from you?
+
+### Human: I'd be willing to consider tha negotiation. Could you tell me more about why you need more firewood?
+
+### Assistant: I would need it for cooking my food and also I tend to get cold at night.
+
+### Human: I totally understand 🙂 I really need food so I think we can work something out that is fair.
+
+### Assistant: Sounds good I know how to hunt and fish so that won't be a problem
+
+### Human: Perfect, let me know your offer 🙂 and lets see what we can agree on?
+
+### Assistant: So how about 3 packages of Firewood for me and 2 packages of food 2 packages water for you?
+
+### Human: You know, that is perfect for me. I will accept the offer 🙂
+
+### Assistant: Ok that sounds great.  Nice negotating with you!
+
+### Human: Submit-Deal

@@ -1,0 +1,23 @@
+### Human: hello, I need plenty of food, I have lots of friends we are camping together.
+
+### Assistant: bro i need aslo food, it is  my first priority
+
+### Human: what is is your second item in your priority list?
+
+### Assistant: firewood
+
+### Human: what/ we have same priority items, how do we split this to ensure equitably 
+
+### Assistant: 2 food , 1 firewood ,2 water for me is it ok?
+
+### Human: not fair at all☹️
+
+### Assistant: then what will do, 
+
+### Human: if you take two food, then I take all the wood and two two water and one food
+
+### Assistant: no then u have to give 3 food for me
+
+### Human: I can have two food then and one wood and you can have the rest of the items
+
+### Assistant: bro make it 3 food for me, u can take 3 fire wood  give me to water

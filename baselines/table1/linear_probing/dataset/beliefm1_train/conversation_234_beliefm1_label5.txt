@@ -1,0 +1,23 @@
+### Human: Hello, how are you? What packages are of most interest to you?
+
+### Assistant: I would really prefer to get all the food packages
+
+### Human: I would need to have atleast one food package. I have a health condition that requires I eat a little bit more plus I have a large family. What are your thoughts with the water? 
+
+### Assistant: I get that, I would like 2 packages of food at least, if that's the case. I would like some water because I would need to use it to cook the food.
+
+### Human: Would I be able to have one water and one food? 🙂
+
+### Assistant: why do you need the water?
+
+### Human: I have a large family and we drink a case a day. Why do you need all the water?
+
+### Assistant: I share my food with others and I need it for cooking. 
+
+### Human: How about you get 2 water, 2 food and I get all 3 firewood?
+
+### Assistant: that sounds like a really good idea actually
+
+### Human: Sounds like a plan I will submit the deal.
+
+### Assistant: awesome

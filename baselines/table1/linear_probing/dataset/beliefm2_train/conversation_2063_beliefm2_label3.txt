@@ -1,0 +1,27 @@
+### Assistant: Hello, Do you think I could have all firewood, water and food? I have 6 students do camping with me tonight.
+
+### Human: Sorry but my family and I (my partner and 3 children) are going on a hike so we would need more supplies. How about instead you take all the water and we take all the firewood and food?
+
+### Assistant: What is your priority for this supplies?
+
+### Human: I think we mostly need firewood, but we're also a bit short on food since the hike is nearly twice as long as we anticipated. What supplies do you need?
+
+### Assistant: We do need firewood the most and some of water and a bit of food.
+
+### Human: Sounds like a pickle we find ourselves in. How about this, I take all 3 packages of firewood and compromise by giving you all 3 packages of the water, and also give you 1 package of food. 
+
+### Assistant: How about you can have 1 water, 1 firewood, 1 food and we will have 2 firewood, 2 water and 2 food?
+
+### Human: I fear we may not come to an agreement as this rate ☹️ My hike will be up a very open mountain so if we are to start and maintain a fire we really need a lot of wood otherwise the winds will really just tear it down and we'll freeze. You said you were bringing 6 students so I think water and food is most important for you. So here's a good deal, how about we take all of the firewood and 1 package of food, and you take 2 packages of food and all the water?
+
+### Assistant: We must have firewood for our camping as our students need light from firewood to cook our food and do activity in the camp. 
+
+### Human: I'm willing to swap 1 of the firewood packages for 1 of the food packages then. Gonna need energy for that hike.
+
+### Assistant: How about we take 2 firewood and 3 water and you can have all food and 1 firewood?
+
+### Human: I'm afraid I need at least 2 firewood packages otherwise the winds won't let us even start the fire much less maintain one. How about we take 2 firewood, 1 food, and 1 water?
+
+### Assistant: okay. we would do this deal.
+
+### Human: Alright great, it's a deal then! 🙂

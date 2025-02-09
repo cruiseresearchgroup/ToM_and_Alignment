@@ -1,0 +1,23 @@
+### Assistant: Hello! I'm looking forward to making a trade with you that's good for both of us.
+
+### Human: Hi! sounds like a good plan.
+
+### Assistant: So for me, I'd really like to have all of the food. I'm bringing my whole family, and I'm going to do a lot of hiking, so we can't have anyone starving. We have really fast metabolisms. What do you want most of?
+
+### Human: I brought a lot of food for home but really needing water more than anything and a little food but not much. 
+
+### Assistant: Okay, so if I take 2 foods and you take 1 food, then I can take 1 water and you can take 2 waters. How's that?
+
+### Human: That sound fair to me. 
+
+### Assistant: Wonderful. And what about the firewood? I'd like at least 2 of those, since it'll be freezing cold here and I really need to keep warm.
+
+### Human: I am in the same boat with the firewood, not sure can stay warm with just 1.
+
+### Assistant: Okay, well if I give you 2 firewood, can I take all of the food? I definitely need food the most, and can sacrific that wood if you really need it.
+
+### Human: I am willing to do that as food I think I will be OK on. So I will have 2 waters and 2 firewood and you will have 1 of each of those and the the 3 food?
+
+### Assistant: That sounds like a good deal to me, and I'm happy with that if you are.
+
+### Human: Submit-Deal

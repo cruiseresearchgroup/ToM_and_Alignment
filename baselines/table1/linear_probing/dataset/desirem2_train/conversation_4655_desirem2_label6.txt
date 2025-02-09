@@ -1,0 +1,23 @@
+### Human: Hello how are you doing today?
+
+### Assistant: I'm good, how are you?
+
+### Human: I am alright, thinking about camping and the time we went camping by the beach in Indiana. You ever camped near a beach?
+
+### Assistant: Unfortunately no, but I would love to experience camping, I bet it's a lot of fun.
+
+### Human: It is but you really should not set up a tent on sand. One of my friends tried and it was not good. A lot of bugs in the sand and they didn't even use a tarp.
+
+### Assistant: I will take note of that, that's a good thing to consider. How about the things that are needed for camping, what do you think would be the best decision?
+
+### Human: Depends where you are camping. One trip I did during the summer was during extreme heat and most important thing was water. If you are camping in the woods firewood might be low because there is wood all around you.
+
+### Assistant: Yeah, that makes sense. I agree that the most important is water regardless of where you are camping because you don't know if there is water where you are going, and if there is you don't know if it is safe for drinking.
+
+### Human: I have done winter camping and there was fresh water you could drink as long as you boiled it, but firewood was hard to find as most on the ground was rotted.
+
+### Assistant: In situation like that, where you have idea of the situation, I think it is important to balance of what extra things that might be needed.
+
+### Human: Would you be open to letting me get 2 waters and I can take 1 of the food and firewood?
+
+### Assistant: I think that is a reasonable decision, I agree with your choices.

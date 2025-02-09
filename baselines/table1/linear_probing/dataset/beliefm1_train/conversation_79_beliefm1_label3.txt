@@ -1,0 +1,27 @@
+### Assistant: Hai! how was the camp proceeding?
+
+### Human: Hi! How are you? I'm excited to be camping with my family. Maybe a bit too excited because I forgot to bring a few things 🙂
+
+### Assistant: I am fine.  How about you and family?  May I know what are the things you forget.
+
+### Human: Well I seem to have forgotten to pack firewood. My children will be so upset that they can't sing around the fire at night.  I also think that I underestimated how much food I brought.  Is there any way that you could spare some things?
+
+### Assistant: I can understand your situation.  I can also spare you some things and I also need you to compensate by sparing some other things that will make our trip to be excited.
+
+### Human: What are the kind of things that you need?
+
+### Assistant: I thought that I will get woods in the camping area by cutting small branches of trees, but due to rain all trees are wet and it will not be used for firing.  
+
+### Human: OK how about we share. If you could spare 2 wood for me you can keep 1. Also 2 foods for me and one for you.  I will not need too much water so you can have 2 and I will have one. How does that sound?
+
+### Assistant: Not that much good.  I can spare you all the foods as we have enough.  I need firewood in more numbers.
+
+### Human: 2 wood for you and 1 for me, 0 food for you and 3 for me and 1 water for me and 0 for you
+
+### Assistant: I accepted with wood and food, but you mentioned that 1 water for you and 0 for me that how will be possible.  For me 2 water and 1 for you.
+
+### Human: I am sorry I mistyped.  I meant 2 water to water for me and 1 for you. Deal?
+
+### Assistant: Please I need 2 water for me as I am giving all the foods to you.
+
+### Human: Submit-Deal

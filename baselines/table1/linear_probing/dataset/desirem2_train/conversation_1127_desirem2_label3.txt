@@ -1,0 +1,27 @@
+### Assistant: Hi there, I am willing to give you my food packages for firewood.
+
+### Human: Hi! 🙂 Thanks. That's really nice of you. However, I will be staying up late playing music with my companion. We will need our firewood. How often do you go camping?
+
+### Assistant: Ah that sounds like a nice way to spend the evening. I definitely need some firewood, because I have kids, and they really want to make smores. It's a part of the experience.
+
+### Human: That sounds fun. Sadly I am unable to give you much of my firewood as it is the primary reason for our trip. ☹️. However, i could offer some extra food for the kids. Is there anything else you need aside from wood?
+
+### Assistant: We will definitely need water, as the kids will be running around. I'd be willing to give you a bundle of firewood, in exchange for water.
+
+### Human: Ok cool. I think I can give you some extra water. Do you need any extra food for the kids?
+
+### Assistant: They are rather hungry, especially after running around outside, I would take some food and water in exchange for a bundle of wood.
+
+### Human: That's reasonable. However if I'm going to give both food and water I will need 3 bundles of wood in order to justify sacrifcing our limited water and food
+
+### Assistant: Ah unfortunately, we do need some firewood for our campfire. I wouldn
+
+### Human: ☹️ Oh no! this is terrible. I'm so sorry. I was hoping we would be able to find a middle ground where we both could be happy. I could offer 1 bundle of food, 1 package of water and TWO packages of food. Does that sound appealing at all?
+
+### Assistant: Sorry, I am unsure that I understood your last message, as food is listed twice. I think I would need another bundle of water in order to give up two bundles of wood.
+
+### Human: Submit-Deal
+
+### Assistant: Reject-Deal
+
+### Assistant: I am sorry I am going to need a better deal. I wouldn't want to have to walk away completely. I would have to have another water.

@@ -1,0 +1,23 @@
+### Assistant: Hello, what are your preferences for extra supplies?  I am greatly in need of food and water.  We will be doing a lot of activity in a hot, dry climate.🙂
+
+### Human: I prefer firewood because I will get cold at night. I forgot blankets ☹️
+
+### Assistant: Would it work for you, then, to give me the three food and three water, and I can give you all of the firewood?
+
+### Human: No. Because I brought a water purifier but don't plan on hunting or fishing. So I'd be willing to give up all the water but I want 2 of the food.
+
+### Assistant: I see.  I also greatly need the extra food, as I indicated. Perhaps there are some convenience or grocery stores near your campground--you might then purchase extra food there and not have to carry it with you on your trip?  
+
+### Human: I believe there won't be any convenience stores around to buy food, And I plan on staying out longer than you so I will need more food to last me, Do you need food or water more?
+
+### Assistant: How do you know you are staying longer than me? I haven't even said how long I am staying! I am also with a big group.  ☹️☹️  I need food the most, and I would like to take at least 2 extra waters.  I could possibly give up one of the food packages if you could part with 2 firewood.  Without extra food, I would have to do some fishing and cook the fish.
+
+### Human: No. I won't part with any firewood because I can't stand being cold, and you can have 2 foods if you have a larger group if you give me 1 water. 🙂🙂
+
+### Assistant: Sorry, that's not going to work for me.  ☹️ You have a water purifier? Doesn't sound like extra water is necessary.  I am in a hot, dry climate.  I can give up all the firewood to you, if you can leave me the three packages of food.  I would also like 2 waters.  
+
+### Human: Sorry but I'm willing to give up all the water for 1 food at least. I already mentioned above that I don't plan on hunting or fishing and I plan on being out for a while. That's my final offer.
+
+### Assistant: Okay, I will leave you all the firewood and 1 food, and I will take two food and three water packages. I am willing to finalize that.☹️
+
+### Human: Submit-Deal

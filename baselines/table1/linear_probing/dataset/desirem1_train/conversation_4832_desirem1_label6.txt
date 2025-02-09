@@ -1,0 +1,27 @@
+### Human: How are you? this is embarrassing but my water somehow leaked, any chance you can spare some of yours?
+
+### Assistant: i may be able to spare some. do you have any extra firewood?
+
+### Human: I do. I could gave you 2 of my wood for 3 water. Although I kind of also need food, found a small puppy so kind of need a little extra food.
+
+### Assistant: i can't spare all three of the water. What if I give you one water?
+
+### Human: i could give you 3 of my firewood if you can do 2 water and 2 food, would that work?
+
+### Assistant: could we do it where I give you 1 water and 2 food? 
+
+### Human: I would you take all 3 firewood, for 2 water 1 food instead?
+
+### Assistant: so just to clarify, I would take all 3 firewood, and then I keep 1 water and 2 food? And you'd get 2 water and 1 food?
+
+### Human: yes that is correct . Sound like a deal?
+
+### Assistant: let me check one other thing - I really do need the water to stay hydrated. What if I only keep 2 firewood, and give you one firewood, 1 water, and 2 food?
+
+### Human: i do not need any fire wood but the other things I really need are water the most, since mine leaked. And food since I found a puppy and plan to share mine either way, but would be nice to have more.
+
+### Assistant: i guess we can do it where i keep all the firewood, and i give you 2 water and 1 food.
+
+### Human: that would be amazing!, hank you so much
+
+### Assistant: you're welcome.

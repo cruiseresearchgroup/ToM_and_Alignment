@@ -1,0 +1,23 @@
+### Human: Hello.. what material do you have? I would like to sort out a deal so we can both win
+
+### Assistant: Hi there. I really need a lot of food, a bit of water, and I don't need any firewood at all. What about you?
+
+### Human: I really need firewood, a bit of water, and I don't really need food. It seems like we can make a great deal and both leave with what we need 
+
+### Assistant: Oh that is perfect! How about 3 firewood, 2 waters, and 0 food for you then?
+
+### Human: How about 3 firewoods, 2 waters, and 1 food, just in case I can't find any food on my own.
+
+### Assistant: I can't really do that since I truly need a lot of food ☹️
+
+### Human: You're right. I realize that we have 3 each.. so it sounds fair. So you will have 3 foods, 1 water, and 0 firewood?
+
+### Assistant: yes! that sounds perfect to me!
+
+### Human: It sounds good to me as well. So our final deal will be 3 wood, 2 water, and 1 food for me, and 3 food, 1 water, and 0 firewood. 
+
+### Assistant: No no. 3 wood, 2 water, and 0 food your you! 
+
+### Human: Oops. Sorry 😮! Hahaha! I keep forgetting. 
+
+### Assistant: No worries hahaha. Thank you!

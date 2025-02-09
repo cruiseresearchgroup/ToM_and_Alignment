@@ -1,0 +1,23 @@
+### Human: hello. so what are you thinking about this whole situation?
+
+### Assistant: Hey, I think that this is nice, we get to go camping and get extra stuff. But definitely need more food and firewood
+
+### Human: Yeah, I think I'm okay with firewood, but I'd really like more food and water.
+
+### Assistant: That fine then. If you want you can have most of the water and I can have most of the firewood. Sounds good?
+
+### Human: That seems fine. How do you want to split the food? I grew up poor so I'm always afraid of starving 😮
+
+### Assistant: Oh, yea I get that. I have a family so I need some food too. But just to clarify, are the original plan was to get 3 firewood for me and 3 waters for u right? 
+
+### Human: Yeah, that is fine with me.
+
+### Assistant: In that case, I would be fine trading the extra food for a water. so you would get 2 waters and 2 foods 
+
+### Human: Hmm, that works for me. So basically, you get 1 food, 1 water, and 2 firewood? I get 2, 2, and 0. If that's right, I agree.
+
+### Assistant: Yea, so that about right, but i get 3 firewoods
+
+### Human: Oh, yeah, sorry, mistyped that. Okay, let's do it then. Was good talking.
+
+### Assistant: Submit-Deal

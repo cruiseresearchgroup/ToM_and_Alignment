@@ -1,0 +1,27 @@
+### Assistant: hi there
+
+### Human: Hello.  How are you?
+
+### Assistant: not too bad, looking forward to a good camping trip 🙂
+
+### Human: Yes!  This camping trip is going to be great!  I hope to make it very memorable.
+
+### Assistant: indeed.  anyways, I would like to divide the extra supplies equitably
+
+### Human: I think we can defintiely work together and come up with a great solution and both get what we need
+
+### Assistant: do you have a particular item preference?
+
+### Human: I do.  I have been looking everything over and feel this won't be to hard to come to an agreement
+
+### Assistant: Well my camp places a premium on water.  How would you feel about for me: 2 water, 1 food, 1 firewood?
+
+### Human: I think we're on the right track.  I am bring my 2 kids with me and they eat everything in sight.
+
+### Assistant: Would they be okay with 2 food?  Otherwise can give you an extra and I can take either an additional water or firewood 🙂
+
+### Human: I have a great offer.  How about I take 2 food, 2 firewood and 1 water and you will get the extra water your camp needs!!
+
+### Assistant: We place a premium on the water.  That's the same amount of water, do you mean we take 3?
+
+### Human: I do need some extra water.  So I will need to take 1, but our preference is food and we would need firewood to cook it on.  if you're OK with this, I will submit it.  Its a great deal I think and we'll both get what we need

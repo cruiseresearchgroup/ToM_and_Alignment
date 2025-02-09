@@ -1,0 +1,27 @@
+### Assistant: Hello there! 🙂
+
+### Human: Hi!
+
+### Assistant: I would like to make a deal with you. What are your preferences on the items you need most?
+
+### Human: Well, last time we went camping my daughter got dehydrated so I would really like extra water. How about you?
+
+### Assistant: My priority would also be water as well as food. My wife is currently pregnant and it is required of her to drink plenty of water and eat food often. She is constantly thirsty and hungry.
+
+### Human: Yes, water is important. I agree. We are having some underprivileged kids staying with us also so we need extra food too for them.
+
+### Assistant: I totally understand! I'm afraid for how the weather will be and that my wife and unborn baby will need some more nourishment than usual
+
+### Human: What do you think is more important for her? Water or food if you had to choose?
+
+### Assistant: I believe that water would be the most important. The doctor is always pushing for her to drink more water. We don't have as many mouths to feed so I feel that we won't need as much food as you.
+
+### Human: Are you thinking that you might need more firewood also? Will it be chilly where you are?
+
+### Assistant: Submit-Deal
+
+### Human: Reject-Deal
+
+### Human: I can give you more water if I can have all the wood.
+
+### Assistant: It won't be very chilly where I am so you can have all the wood. My priority is water and food.

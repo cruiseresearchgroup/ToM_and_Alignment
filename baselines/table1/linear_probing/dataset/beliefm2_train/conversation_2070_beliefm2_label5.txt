@@ -1,0 +1,27 @@
+### Assistant: Hi, I'd like to take all of the food and 2 of fire wood. You can have the rest.
+
+### Human: I really need food too so if I can have 2 packages of food you can have 1 package of firewood and all 3 of the water.
+
+### Assistant: 😮That does not work for me. May I have 3 packages of food and one package of water. You can have the rest.
+
+### Human: Sorry, but I definitely can't accept not having any food. I'll take 1 package of food, and all of the firewood and then you can have the water.
+
+### Assistant: Okay then shall I take 2 packages of food and all the packages of water?
+
+### Human: Yes, and I'll get 1 package of food and all of the firewood.
+
+### Assistant: Okay I think this might be a good deal. 
+
+### Human: Actually, I've just thought about it and I'd also like one package of water. I think it'd be fair being that you're getting 2 packages of food.
+
+### Assistant: Which means? Did you mean that I would take 2 packages of food and 2 packages of water? Then I will ask for one package of fire wood.
+
+### Human: Being that you're getting 2 of 3 of the item (food) that for me is the highest value, I think it's only fair that I get all 3 of the medium value items (firewood) and one of the low value item (water). That would give me 5 packages and you 4 packages, but 2 of 4 of your packages are the high value items.
+
+### Assistant: Okay then. I agree with you.. Shall we finalize our deal. I will take the 2 packages of food and 2 packages of water.r.🙂
+
+### Human: Yes, I find that an acceptable deal.
+
+### Assistant: Okay. Nice to meet you. Have a nice day🙂
+
+### Human: Submit-Deal

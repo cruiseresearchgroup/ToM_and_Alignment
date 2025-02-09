@@ -1,0 +1,23 @@
+### Human: Hey, how are you doing today? are you excited to go camping?
+
+### Assistant: I am good. How about you?  Yes, I love camping!
+
+### Human: I am doing great! camping is super enjoyable
+
+### Assistant: Do you bring enough stuff?
+
+### Human: I have some stuff, but I really need a decent amount of firewood. Gets really cold at night where we camp
+
+### Assistant: I am fine with the cold although I might need some to set up the fire. I have a baby with me so I might need to heat up the milk or food. 
+
+### Human: Oh, I see. How about 2 firewood for you and 2 food. I keep the rest
+
+### Assistant: I don't really need food. I can do it with 1 firewood so you can get the rest. But I really need water. We are going hiking and drink a lot.
+
+### Human: Ok, would you do 1 firewood, 2 water and 1 food then?
+
+### Assistant: Can I get 3 water and 1 firewood instead?
+
+### Human: so I get 2 firewood, and 3 food? Ok I will agree to that
+
+### Assistant: Great! Sounds like a deal! we have enough food for tonight so I think we will be good.

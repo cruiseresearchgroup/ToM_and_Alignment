@@ -1,0 +1,23 @@
+### Assistant: Hello!  I am getting ready to go on a camping trip and will need some extra supplies.  Are you also going camping or hiking?
+
+### Human: Yes I am going camping and hiking and would like to procure some additional provisions
+
+### Assistant: Fantastic!  It's really cold where I'm going to be camping at night.  
+
+### Human: Wow, hopefully you have the proper weight sleeping bag. I’m planning on doing a lot of hiking and it’s very warm where I’m going. It sounds like you need more firewood than I do. 
+
+### Assistant: I could use 2 packages of firewood.  That would be great if you could spare it. I can make it up to you with some extra water or food.
+
+### Human: I actually feel comfortable with allotting 2 firewood packages to you but I would like to secure 2 waters  because of all the physical  exertion from hiking and the ☀️ 
+
+### Assistant: Thank you!  I more than happy to let you have the 2 waters.  You are probably going to get pretty hungry from all of that hiking.
+
+### Human: Yes come to think of it, power bars are really helpful but I don’t want to seem greedy taking additional food
+
+### Assistant: Ok.  Do you mind if I take 2 packages of food? That will give us something to do if it rains when I'm camping.
+
+### Human: I’d rather give you more firewood quite honestly 
+
+### Assistant: Ok.  How about you take the 2 packages of food then and we'll have a deal.
+
+### Human: So I’m thinking you take all the firewood bc I am taking our sprinter camping van and then I’ll take two water and two food packages

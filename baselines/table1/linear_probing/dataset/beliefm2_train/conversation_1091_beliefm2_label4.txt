@@ -1,0 +1,23 @@
+### Human: hello, looking forward to camping🙂
+
+### Assistant: I am very excited too I have never been camping!
+
+### Human: wow, I thought everyone has camped once😮
+
+### Assistant: Not me!  I don't really love the outdoors too much 😮
+
+### Human: oh, okay, well will be hiking and could use all 3 waters
+
+### Assistant: Well I know that I can go without water for a little, but knowing how hot the weather is supposed to be this week I could really use the water, as well.  I would be okay with me taking a water and you taking two since you will be doing physical exercise.
+
+### Human: great, you can have all the food and i'll take all the firewood?
+
+### Assistant: Or, we could split those as well.  I was thinking about splitting the firewood two to one so that I could definitely stay warm.  I would want to stay up around the fire probably all night so I would much prefer having more of that.
+
+### Human: i would prefer 2 firewood and 1 food. we will be catching fish to eat
+
+### Assistant: Well the firewood is how we are going to make our food.
+
+### Human: ok, so I'll take 2 water, 1 firewood, and 2 food?
+
+### Assistant: Sounds good to me!  I am very happy we cam to an agreement

@@ -1,0 +1,23 @@
+### Assistant: Hello! I am looking forward to the camping trip but could use a few more supplies!
+
+### Human: hello, me too, i guess we can share
+
+### Assistant: Sounds good, I need food the most, what is your most needed item?
+
+### Human: my item is food too.
+
+### Assistant: Ok, other than food I could use some firewood. Maybe you could take 2 food and I could take 2 firewood?
+
+### Human: sure, but i will get what then?
+
+### Assistant: How about you take 2 food, 1 firewood, and 1 water?
+
+### Human: no it is not enough for me, i need more water
+
+### Assistant: How about you take 1 food, 1 firewood, and 2 water?
+
+### Human: 2 food 2 water and 1 firewood will be good
+
+### Assistant: I could agree to you taking 2 food, 2 water, and 0 firewood
+
+### Human: Submit-Deal

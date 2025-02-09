@@ -1,0 +1,23 @@
+### Assistant: Hello there!
+
+### Human: Hello!
+
+### Assistant: I'm looking forward to the camping trip, but need to sure up some of the remaining supplies. Hopefully we can divide them up fairly!
+
+### Human: I'm sure we can make a deal. I know I need firewood and food, water is less of a priority. 
+
+### Assistant: Ah firewood and water and bigger priorities for me (firewood especially), but food is not a concern for me
+
+### Human: Firewood is especially a priority for me. I'd be willing to sacrifice some water in exchange for more firewood packages. 
+
+### Assistant: Ideally, I'd like to get my hands on as much firewood as possible. My son has a blood disease which makes it difficult for him to stay warm at night ☹️
+
+### Human: I would as well. I'm camping in an area with no brush/trees, I need to make sure I have enough to stay alive during the night. If you bring less firewood do you think you could find some where you're camping?
+
+### Assistant: I doubt it. We're camping primarily in a tundra with little burnable vegetation. Perhaps we can come to an agreement were you receive more supplies in total, and I take a little more firewood?
+
+### Human: I would be up for that as long as I can get at least get 1 firewood package. My next priority would be food, would you be willing to give me all the packages of food and I'll give you the water?
+
+### Assistant: I think that sounds very fair. I'll take 2 firewood (thank you!), and you take 1 firewood. You take all 3 food and I'll take all 3 water.
+
+### Human: Whoops, I didn't realize. I'd still like to have 1 water just in case, and because you'll have more of the firewood which was both of our priority. Do you think that would still be fair?

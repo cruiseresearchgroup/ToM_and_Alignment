@@ -1,0 +1,23 @@
+### Human: Hello!
+
+### Assistant: Hey there. How are you doing?
+
+### Human: Great! What do you look for most when camping?
+
+### Assistant: Definitely water. The weather is so damn hot.
+
+### Human: Water is important!! To me firewood is more important as I have anemia and I'm ALWAYS cold lol
+
+### Assistant: Alright. I have a  feeling we will have a deal then. How about you give me two water for a firewood?
+
+### Human: that sounds like a plan
+
+### Assistant: how many firewood you need? Maybe we could also exchange one food for one more firewood?
+
+### Human: I would appreciate that, I was thinking of asking that! I would not require much in the way of extra food or water but the fire wood would be important!
+
+### Assistant: So I get two water for one firewood and one food for one firewood. So do we have a deal then?
+
+### Human: sounds like a deal, yes
+
+### Assistant: Alright sir. It was a pleasure doing business with you.

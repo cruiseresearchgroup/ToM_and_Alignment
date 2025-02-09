@@ -1,0 +1,23 @@
+### Human: Hello
+
+### Assistant: Hi. Looking forward to the camping trip? What are you planning to gather today?
+
+### Human: I am looking for extra food and water.  We are have big group of people with us!
+
+### Assistant: Oh same here! We need extra food for our charity event we are holding at the campgrounds
+
+### Human: I guess you can have all the food if I can have all the water and firewood
+
+### Assistant: Well, I do need water too. How about you can have 2 firewood, 1 water, and 1 firewood and I will take the rest?
+
+### Human: I will do 3 firewood, 1 water, 1 food
+
+### Assistant: ok you have a deal
+
+### Human: Hello
+
+### Assistant: Yes I am still here. So are you good with our deal?🙂
+
+### Human: Yes
+
+### Assistant: Submit-Deal

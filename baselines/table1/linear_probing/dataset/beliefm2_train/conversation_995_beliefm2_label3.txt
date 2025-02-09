@@ -1,0 +1,23 @@
+### Assistant: I would like all the firewood and two packages of water. You can have the rest.🙂
+
+### Human: I want all of the water, two firewood, and one food.
+
+### Assistant: Why do you need all the water and little food?
+
+### Human: I need to stay hydrated because the weather is hot. I am trying to lose weight so I do not need much food.
+
+### Assistant: 😮I see. I have a medical condition that causes my veins to close if I get too cold. I need more firewood to make sure I don't freeze at night.
+
+### Human: Would two of the firewood be enough?
+
+### Assistant: Maybe... I could perhaps do with 2 firewood. But, I would like at least one packet of water.
+
+### Human: I would be OK with two packages of water.
+
+### Assistant: Good. 2 packages of wood for me. 1 for you. 2 packages of water for you, and one for me. How should we divide the food?
+
+### Human: I will take 2 packages of food and 1 for you.
+
+### Assistant: 😮I thought you didn't need so much food, because of your diet....
+
+### Human: You are right. I will take 1 package of food.

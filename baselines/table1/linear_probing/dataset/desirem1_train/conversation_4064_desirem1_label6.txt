@@ -1,0 +1,23 @@
+### Assistant: Hello! I would like to offer you 1 additional food package, 1 additional water package, and 2 firewood packages. Please let me know if this is a reasonable deal for your needs as well. 🙂🙂
+
+### Human: Hi!🙂 That does nor work for me. I'd like to take all packages of water and food. You can have the firewood. :) 
+
+### Assistant: I can't accept that deal unfortunately. Our campsite requires substantial hiking with a lot of elevation gain. I will need the extra food and water to sustain the hiking. How about I take 2 food packages, 1 water package, and 1 firewood package. The rest can go to you. 🙂
+
+### Human: Sorry☹️ I feel too thirsty and hungry. I need water and food. How about I take 3 water packages, 2 food packages and 1 firewood package. You can have the rest. 
+
+### Assistant: I just don't think that would be enough for me. ☹️ Surely we can come to a fair agreement that benefits us both. 
+
+### Human: How about you take 1 package of food and all packages of firewood?
+
+### Assistant: Why don't you tell me which of the 3 categories is most important to you? Maybe that will help us come to an agreement. 🙂
+
+### Human: Water and food are most important to me. Can you please allow me to take all Packages of water, 2 packages of food and 1 package of firewood. 
+
+### Assistant: I could allow you to take 2 packages or water, 1 package of food, and 1 package of firewood. 
+
+### Human: How about you take all 3 packages of firewood and 1 package of food?
+
+### Assistant: That just doesn't seem fair. ☹️ If we don't come to an agreement soon I will have to walk away and then we both lose out. How about I get 2 packages of food, 1 package of water and 1 package of firewood? You get 1 package of food, 2 packages of water, and 2 packages of firewood. We will each get half of the items most important to us and you will get extra firewood. Seems pretty fair to me.
+
+### Human: Sorry, How about I take 3 packages of water. 1 package of food and 1 package of firewood.

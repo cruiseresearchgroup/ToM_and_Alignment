@@ -1,0 +1,27 @@
+### Human: Hello, how are you? 🙂
+
+### Assistant: I'm good, how are you doing today?
+
+### Human: I'm doing great!  I'm on the first camping trip with my five children.
+
+### Assistant: Wow, that's amazing. My parents took me camping when I was young. Now we going hiking every other weekend. What do you plan on doing?
+
+### Human: That sounds like so much fun!  I hope we get to hike some.  I have my four month old baby with us which is exciting.  I'm worried I didn't bring enough water for his bottles, though.
+
+### Assistant: That sucks, you need to be hydrated. What supplies do you require? My family loves to grill, so we do require food.
+
+### Human: Grilling is so much fun!  We left our grill at home so we can't really do that.  I will trade you some food for some water if you would like?
+
+### Assistant: sure that sounds fair
+
+### Human: Ok, do you have any interest in any fire wood?
+
+### Assistant: I do need firewood, we cook over open flames. 😮How you get 2 water, 1 food and 1 firewood?
+
+### Human: How about if I give you 3 food for 3 waters, and then we split the firewood?
+
+### Assistant: I do require at least one water, hiking is very physical demanding. Also there are 3 firewoods?
+
+### Human: yes there are 3 firewoods.  Okay I understand about the water.  then how about 2 foods for 2 waters, and we somehow divide the three firewoods? 🙂
+
+### Assistant: Could I possibly get 2 firewoods? Assuming Water is your high value item?

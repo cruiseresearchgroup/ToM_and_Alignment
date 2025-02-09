@@ -1,0 +1,31 @@
+### Assistant: Hi, how is your trip going? hopefully better than mine
+
+### Human: My trip is going pretty so so too  im sorry to hear that about yours!! sounds like we both are gonna need some extra stuff? I was wondering if we could start with the water? any chance i could have it all and you can have all of something else? thoughts? im open to discussion
+
+### Assistant: I am actually very much in need of water. I fell while I was hiking during this trip. I have a really bad wound I need to clean on my leg. 
+
+### Human: yikes that stinks. i got some extra people with me and we dont hve enough either. could i take 2 since we will be drinking it and maybe you can have 1 to get that wound cleaned up
+
+### Assistant: There is a lot of blood on my wound and if I don't get it cleaned I am afraid I would have to have it amputated. It's likely I'll be stationary a long time. Maybe I can give you 2 water in exchange for 2 foods since I'll be stuck up here for a long time? 
+
+### Human: oh no!!!!! sounds like you shouldnt be camping at all. thats insane that happened. youre definitely in my thoughts. uhm i guess i have no choice since your situation is dire. so to be clear youre saying i can have two water and you can have two wood? if so thats ok with me
+
+### Assistant: I would give you 2 water in exchange for 2 of your food supplies
+
+### Human: im sorry i mistyped. okay yes thats a deal. so last we have to talk about the wood. what do you think
+
+### Assistant: Oh yes, sorry I am so caught up with my wound I completely forgot about that. I can spare 1 firewood so you would get 2, do you think you could spare another water in exchange for the wood?
+
+### Human: i cant unfortunately i really need the two water im sorry. 
+
+### Assistant: Submit-Deal
+
+### Human: Reject-Deal
+
+### Human: im so sorrry unfortunately i am in dire need of two wood we are in a very cold climate
+
+### Assistant: how about i get 1 water, 2 food, and 2 firewood since I'll be here so long? because of my leg i likely won't be able to leave anytime soon
+
+### Human: Submit-Deal
+
+### Assistant: Reject-Deal

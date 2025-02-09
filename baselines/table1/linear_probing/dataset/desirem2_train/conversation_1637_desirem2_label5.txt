@@ -1,0 +1,23 @@
+### Human: I can trade 2 packages of food, 1 package of water, and 1 package of firewood.  How does that sound to you?
+
+### Assistant: I sleep kind of cold at night so I'd really like to get as much of the firewood as possible.  Staying warm is a high priority for me.
+
+### Human: Would you be able to trade a bit more water for more firewood?
+
+### Assistant: I could give you the water if I could get the firewood.  I drank a lot of water before I came here so I think what we get as basics would be fine.  I also don't mind just washing up from a river.
+
+### Human: That will work well for me I do a lot of hiking and I build up a large thirst.  I don't get terribly cold at night and I can find other resources to build a fire.
+
+### Assistant: Sounds great.  So we're discussing you getting three bottles of water, 1 food?
+
+### Human: I prefer two bottles of water and 2 for food.
+
+### Assistant: I think that sounds agreeable to me. 🙂
+
+### Human: Ok and you can have two of my firewood. I can get an insulated sleeping bag and I'll be sleeping in a decent tent.
+
+### Assistant: I'd really prefer to get all the firewood if possible.
+
+### Human: I think we have a deal 2 firewoods for you and 2 foods and 2 waters for me.  Is that a deal?
+
+### Assistant: I was hoping for 3 firewood for me, 3 water for you, and I'll take 2 food.

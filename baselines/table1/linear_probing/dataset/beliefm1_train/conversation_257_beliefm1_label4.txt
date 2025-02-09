@@ -1,0 +1,23 @@
+### Human: Hello. I want to know if we could trade some things. I really need it for my family!🙂
+
+### Assistant: I also am open for trading. I really need water for my trip. What do you need the most?
+
+### Human: I really need water too🙂. How about I give an extra food pack for the water.
+
+### Assistant: I don't really need food that much, I am already stocked up on it ☹️. How much do you need firewood? I can give you some of my food for it. 🙂
+
+### Human:  I really need the extra water for my kid. I have four kids and they really get thirsty🙂. I can give you a bundle of firewood for the water.
+
+### Assistant: How about this: If I give you 2 waters you give me the 3 packs of firewood. The location is really cold and I think I can make 1 pack of water work with my family. 🙂
+
+### Human: I would need at least 1 firewood. I cant let my kids freeze. I am totally open to giving you 2 firewood bundles though🙂
+
+### Assistant: I can give you the two waters for 2 firewoods and 3 food packs. Would that work for your family?
+
+### Human: What would we eat?😮 I will take the deal minus 1 pack of food. How about that? So we can both enjoy our trip🙂
+
+### Assistant: That sounds good 🙂. So I give you 2 waters and you give me the 2 firewoods and  2 food packs? Good for both families 🙂
+
+### Human: Submit-Deal
+
+### Assistant: Reject-Deal

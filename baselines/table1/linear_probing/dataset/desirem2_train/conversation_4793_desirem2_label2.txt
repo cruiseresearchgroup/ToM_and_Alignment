@@ -1,0 +1,23 @@
+### Human: Hi - I'm so excited for our camping trip.  I'm most excited about getting to eat food that I normally don't when I am home.
+
+### Assistant: Hello! camper, how are you? I need us to make a deal where we all benefit.
+
+### Human: I agree - I really love food.  If I don't get it, I get hangry 🙂.  If you're ok with me getting all the food, I think I can make it with just one firewood and one water.
+
+### Assistant: What do you think if in the camp we get together and hold a meeting between your family and mine. We can have a small party so that we get to know each other better.
+
+### Human: That sounds like an excellent idea.  I love meeting and getting to know others.
+
+### Assistant: My main objective for the camp is also food, since I have a large family and the amount of food they give in the camp is very small for my whole family.
+
+### Human: I can do without one of the food, so maybe I can get 2 food, 2 firewood, and 1 water?
+
+### Assistant: I do not like the deal very much, but for that we must talk and decide as adults a good deal for both of us. What we want is to enjoy in the camp.
+
+### Human: Agreed - I enjoy camping.  A big part of that for me is that I get to eat food.  If I don't eat, I don't enjoy it so camping is basically a buffet for me.  I am pretty dead set on having at least two packages of food.  I can negotiate the water and firewood.
+
+### Assistant: How many members are there in your family group? To make a proposal taking into account the food you need according to your family group.
+
+### Human: I have me, my wife, and my four kids.  They are all teenagers.  You know how they go through food 🙂.
+
+### Assistant: Before making a deal I like to talk to people, to get to know them better. And if we are going to make a proposal for a party between the two families in the camp, it is in our best interest to know each other better.

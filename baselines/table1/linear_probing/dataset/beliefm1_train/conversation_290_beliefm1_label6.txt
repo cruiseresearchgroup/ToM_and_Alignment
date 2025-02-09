@@ -1,0 +1,23 @@
+### Assistant: Hi there. Have you ever been camping?
+
+### Human: I have, i love camping! How about you?
+
+### Assistant: I have not, but I don't really have an interest for it, either.
+
+### Human: Thats a shame, i am sure you would like it if you give it a try, especially if you build a large fire 🙂
+
+### Assistant: I was going to say, the fire would be probably one of the few things I would be interested in! I love being warm.
+
+### Human: Well you can take all the firewood if it will help, would it be ok if i get all the food in return?
+
+### Assistant: That works for me. How would you like to divide the water?
+
+### Human: I am ok with you taking two waters since you are new to camping, does that seem fair to you?
+
+### Assistant: Yes, that seems fair to me.
+
+### Human: So you get 3 firewoods and two waters and i get 3 foods and one water, deal?
+
+### Assistant: we have a deal! great speaking with you today 🙂
+
+### Human: Submit-Deal

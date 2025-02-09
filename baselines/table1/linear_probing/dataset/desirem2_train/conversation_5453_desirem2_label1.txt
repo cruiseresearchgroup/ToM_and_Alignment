@@ -1,0 +1,23 @@
+### Assistant: Hi, how's it going?
+
+### Human: Hello, it's going well. Let's discuss how to split up the items, shall we?
+
+### Assistant: Sure, sounds good. What items are most important for you?
+
+### Human: I was hoping to get a fair amount of the firewood and the food, what about you?
+
+### Assistant: That sounds fine to me. I would like to get as much water and firewood as you think is fair.
+
+### Human: Okay, maybe I could get two firewood and you could get one? I was hoping to make a campfire with them. 🙂
+
+### Assistant: If you want two firewood then I would like to request 3 water and 2 food then. This is my kid's first camping trip and they are looking foward to making s'mores and it's going to be tough with only 1 firewood.
+
+### Human: I don't mind giving you all 3 waters, but would it be possible for me to get 2 food? I was planning on hiking and I need the extra fuel for my body. ☹️
+
+### Assistant: My kids are going to be disappointed, especially since we won't have that much firewood. You sure you can't spare 2 food?
+
+### Human: Oh gosh, I don't want your little ones to go hungry. I guess it's only fair that you get 2 food.
+
+### Assistant: hey that's great, I really appreciate it. I'll send over a proposal.
+
+### Human: Submit-Deal

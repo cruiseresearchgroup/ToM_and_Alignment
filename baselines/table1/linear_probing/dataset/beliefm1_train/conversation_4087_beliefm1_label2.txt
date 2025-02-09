@@ -1,0 +1,23 @@
+### Assistant: Hello!
+
+### Human: Hi there!
+
+### Assistant: Our camping trip is coming up. I could like to get two packages of food and 1 of firewood and 1 of water.
+
+### Human: I think that is fair. Do you have a preference between firewood and water?
+
+### Assistant: I prefer the firewood. I always get cold very easily and then I can't sleep. If that happens, my trip will be ruined☹️
+
+### Human: I understand and can imagine what you are feeling. I am usually thirsty when I go on camping trips and am worried of hydration.
+
+### Assistant: I totally understand that. How do you feel about the food packages?
+
+### Human: I think water and food are important to me. I am warmblooded and don't need much to stay warm.
+
+### Assistant: So what do you think is a fair deal?
+
+### Human: What do you think about me getting 3 water, 1 food, and 0 firewood? Does that work for you?
+
+### Assistant: yes that works!
+
+### Human: Ok deal! To clarify, you would get 0 water, 2 food, and 3 firewood. Is that correct?

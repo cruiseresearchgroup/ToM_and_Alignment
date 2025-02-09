@@ -1,0 +1,23 @@
+### Human: Hello there, I'm in a lot of need for some firewood! I'd not be against taking most of it if that's alright?
+
+### Assistant: Hi, I need the all food package. I will frequently feel hungry
+
+### Human: I can give you two of the packages if you're willing to give me all 3 of the firewood. I left mine out in the rain a couple of nights ago so its all ruined.
+
+### Assistant: If I will give 2 firewood for you and I will take all the food package with 2 water.
+
+### Human: I need all 3 firewood! But I'm willing to discuss food with you. I have a lot of that.
+
+### Assistant: Wow. Thank you. Ok. Then I will give you all 3 firewood, however I need all food package with water.
+
+### Human: How about I get 3 firewood, and you get 2 food AND water? We both win with that, I think.
+
+### Assistant: So now you need 3 firewood with 1 food. Am I correct?🙂
+
+### Human: Yes, that sounds fair to me. Although I would be willing to take a water if you're offering it, I am not quite as lucky with water. ☹️
+
+### Assistant: How It will be. you already told that, you have lot of food with you. So can you please think how it will be. you can take all 3 firewood with 1 water and I will take all 3 foods packages and 2 water.
+
+### Human: That sounds fair. I will accept that, all I really need is the firewood anyways! Thank you so much.
+
+### Assistant: Submit-Deal

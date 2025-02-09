@@ -1,0 +1,23 @@
+### Assistant: Dear friend. I am going camping and am in need of provisions. I am weary, but we must come to an agreement. I am requesting 3 food, 2 water, and 2 firewood. I know this is a big request, but the need is great. Would you be so kind as to accept this request?
+
+### Human: Hi, I'm afraid I am also in dire need of them as well. I am open to negotiating, but will need a much fairer split than 3, 2, 2. I propose 2 food for myself, 3 firewood, and 1 water
+
+### Assistant: You say fair, but that strikes me as a rather uneven split. What is your #1 need?
+
+### Human: I need Food the most, and you?
+
+### Assistant: I too need food most. If you have 2 food, that would leave me with only one of my most needed resource. I could possibly make this work, but then I would need 3 water and 2 firewood. 
+
+### Human: I think the fairest would be a 5/4 split as there are 9 resources. Why don't you take 2 food and 2 water. I will take 1 food, 3 firewood, and 1 water? 
+
+### Assistant: Yes, agree to the first point. What is your second most needed resource?
+
+### Human: Firewood. I assume yours is water. Thus if you get 2 of each of your top 2, I'll need 1 and 3, with the tie break being 1 remaining of least desireable to make it fair
+
+### Assistant: I think we can make that work. If you agree, let's submit the deal. I need to go to the doctor soon to get a boil lanced.
+
+### Human: OK, sounds good. Feel free to submit it
+
+### Assistant: Submit-Deal
+
+### Human: Reject-Deal

@@ -1,0 +1,27 @@
+### Human: Hello, how are you? 🙂, we are excited to go camping for 2 weeks. I was wondering, if its okay with you, if I can get all 3 waters? what are your thoughts? we have a large group, lots of kids, need the extra water for cooking, putting out camp fire, and keeping all of us warm at night. 
+
+### Assistant: Hi, I am great 🙂 How are you? I would be happy for you to have two waters if I can have one. I would also like to have three things of food. I love cooking outside, so I would love to make large delicious meals for my group to enjoy
+
+### Human: That sounds amazing and delicious! maybe we can compromise? Maybe, I can get all 3 waters and you can have all 3 Foods? what do you think? 
+
+### Assistant:  I would agree to that if I can also have two things of firewood. I am going to need a lot of wood, so I can cook the meals I am making 🙂
+
+### Human: I completely understand, thank you for compromising with water and food. Wished we had 4 firewoods to divide and share it equaly, may I ask how long will you be camping for? Im afraid I need 2 firewoods as well, maybe we can see who has the greater need? 
+
+### Assistant: I am going to be camping for a couple of weeks, so I will need quite a bit. I also realized some additional water would be good, because I have some meals that need me to boil water. Maybe you can have 2 firewood in exchange for me having one of your waters? Then you would still have plenty of water, but also plenty of firewood 🙂
+
+### Human: So sorry, I just realized you did not agree to the 3 waters in exchange of 3 foods. if you want a water, i will also will need one food. just to make things more fair on my end. If not i am looking at 2 waters, 0 foods, and 1 firewood. But i am willing to compromise for 3 waters, 1 firewood, and 0 foods. and you'll get 3 foods, 2 firewoods, and 0 waters, what do you think?
+
+### Assistant:  I appreciate your willingness to discuss this, so we both get a fair deal. I would really like if I get 3 food, 1 water, and 1 firewood. Then you would get 2 water and 2 firewood. You said that you really need water and food, so I think that would work best for both of us to get what we need most. What do you think? 🙂
+
+### Human: Np, problem, water is high in demand on my end with the amount of kiddos I am taking. Water is my main concern, will you be okay with 3 Foods, 2 Firewoods and no water?
+
+### Assistant: I would really like 3 food, 1 water, and 1 firewood if possible. Would you agree to that instead?
+
+### Human: If you were me would you be happy with 0 Foods, 2 waters, and 2 Firewoods? when water is your priority? maybe we can make it even, your highest priority is Food and mine is water? you can have all firewood? I will be shorten out on everything except the water and youll get 3 foods and 3 firewoods, while i only get 3 waters?
+
+### Assistant: Ok, I will agree to me getting 3 food and 3 firewood. Thank you for discussing this with me! 🙂
+
+### Human: yay! submitting deal!
+
+### Assistant: Submit-Deal

@@ -1,0 +1,23 @@
+### Assistant: Hello
+
+### Human: Hello to you as well...how are you?
+
+### Assistant: I am good, and you?
+
+### Human: I'm fine as well, just gearing up for our trip. It's been a while and I'm looking forward to it.
+
+### Assistant: Yes it will be a nice getaway.
+
+### Human: Are you planing on bringing anyone? 
+
+### Assistant: I will be bringing my family and the dog.  How about you?
+
+### Human: It'll be about the same, but my oldest boy is bringing some friends as well. Kind of hard to tell him no since they've been stuck in the house for so long. It'll be a full house (or tent I guess). :D
+
+### Assistant: Hopefully it will be a fun trip.  I am looking for firewood.  What are you hoping to bring?
+
+### Human: For the whole crew, I'm thinking I'll need some as well in addition to some other stuff like water and food. 
+
+### Assistant: Submit-Deal
+
+### Human: Reject-Deal

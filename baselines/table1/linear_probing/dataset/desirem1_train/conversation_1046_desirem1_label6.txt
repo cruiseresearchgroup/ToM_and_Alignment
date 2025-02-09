@@ -1,0 +1,23 @@
+### Human: Hi! Are you excited to go camping?
+
+### Assistant: absolutely! the kids are absolutely looking forward to it. It's their first time
+
+### Human: Yeah! we are going hiking after we unpack. We need a lot of water...
+
+### Assistant: So do we. My kids are on meds so they need a lot of water and food
+
+### Human: Which one do you prefer most?
+
+### Assistant: They sort of need more water for their meds
+
+### Human: I'm sorry to hear that! But can you spare 1 for me since you probably don't need all the water.
+
+### Assistant: Sure that sounds fair. Thank you. Besides water what do you need for your trip?
+
+### Human: great. Then can you give 2 food instead? We eat a lot and need more to go through the night...
+
+### Assistant: Ok I understand. Since you're willing to give me 2 water I can give you 2 food. Would it be ok then if I ask for 2 firewood? The kids were talking about making s-mores
+
+### Human: I can give you one firewood. I need more to boil the water from the river since you will get more water. How about that?
+
+### Assistant: Submit-Deal

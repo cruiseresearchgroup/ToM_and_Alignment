@@ -1,0 +1,23 @@
+### Human: 🙂 Hi how are you.
+
+### Assistant: pretty good! Any chance you can spare some food? mine got wet when some of my water leaked out
+
+### Human: Sure but I'm still pretty hungry myself, too. I can spare two food items for you. Did your water spill, too?
+
+### Assistant: yeah. I lost about 2 bottles worth.Any way you can do 2 food and 2 water and i can give you 3 of my firewood
+
+### Human: That wasn't really my preferences but it sounds like you really need it 🙂
+
+### Assistant: what do you need the absolute most? ideally would like us to both help eachother
+
+### Human: We both have the same preferences. I didn't have a disaster though lol
+
+### Assistant: lol, I appreciate it 🙂. So 2 food and 2 water for me and 3 food for you?
+
+### Human: Yeah let me try the deal. We can work with that.
+
+### Assistant: sounds great and thanks again
+
+### Human: Can you input the deal? 😮 I don't know what I'm doing.
+
+### Assistant: Submit-Deal

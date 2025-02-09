@@ -1,0 +1,31 @@
+### Human: Hello how are you?
+
+### Assistant: Hey there fellow camper! I am great! How are you?
+
+### Human: I'm doing well and very excited about my camping trip.
+
+### Assistant: Me as well. What item is your greatest priority for your trip?
+
+### Human: Firewood and my second priority is water.  I'm open to negotiating though.
+
+### Assistant: Glad to hear because I really need firewood and food. What do you propose?
+
+### Human: I can give you 3 packages of food but I really need the additional firewood.
+
+### Assistant: I like that. How about 3 water for you and 1 firewood?
+
+### Human: I can give 3 packages of food and 1 water.  
+
+### Assistant: So 1 firewood, 0 food and 3 water for you?
+
+### Human: No 3 packages of firewood, 1 package of water, and I can give you 3 packages of food.  I need the Firewood the most.
+
+### Assistant: Tell me why you need so much firewood?
+
+### Human: I have other people coming with me and we don't have insulated sleeping bags.  The temperature also drops drastically at night.
+
+### Assistant: Well i need at least 1 firewood so we have to make that work
+
+### Human: How about this I get 2 packages of firewood and 2 packages of water.  You can have all my packages of food. This will be a hunting camp trip for me.
+
+### Assistant: Submit-Deal

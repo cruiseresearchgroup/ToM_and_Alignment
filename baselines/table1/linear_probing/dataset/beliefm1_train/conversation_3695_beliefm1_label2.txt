@@ -1,0 +1,27 @@
+### Human: Hello!
+
+### Assistant: Hello! Yay, we get to camp!
+
+### Human: Heck yes! I am excited. How about you?
+
+### Assistant: I can't wait 🙂 Let's talk about these supplies. I've got hungry mouths to feed, Can I take the food and you can have half the firewood and all the water?
+
+### Human: Hmm, I need food too. I am willing to split. I will give you 2 food since you claimed it first. Can I have 2 waters then?
+
+### Assistant: That's fair, but I have wiggle room on the water, how about I take two food, two firewood and you take 3 water, 1 food, 1 firewood?
+
+### Human: Is there anyway you will go with that I get two firewood? I need food the most but since you get most of that can I get most of the firewood? So 1 food, 2 firewood, and 2 water for me?
+
+### Assistant: You drive a hard bargain. I could really use that firewood. It's going to get cold tonight and these sleeping bags are not worth the price I paid ;)
+
+### Human: Haha, I know but I am in the same situation! ☹️ and since I am getting less food I feel like it is fair I get on more firewood since I truly need that 🙂
+
+### Assistant: Some extra water for coffee might keep us warm, would you consider taking 1 food, 2 wood, 1 water?
+
+### Human: Sure I can do that 🙂
+
+### Assistant: I think we have a deal!!
+
+### Human: Awesome! Enjoy your trip! And stay warm ;)
+
+### Assistant: Submit-Deal

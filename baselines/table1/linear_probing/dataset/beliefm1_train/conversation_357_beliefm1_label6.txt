@@ -1,0 +1,23 @@
+### Human: Hello! i wanted to see if you can spare some water, most of mine leaked out!
+
+### Assistant: Hi!  I can spare 1 package of water...it's hotter out than I thought, so I need more than anticipated.
+
+### Human: do you have anything you are low on and maybe we can work something out? I really need 2 and would be willing to offer something else
+
+### Assistant: I'm running low on food, and could use any extra that you are willing to spare 🙂
+
+### Human: if you can give me 2 water i can offer you 3 food
+
+### Assistant: Great!  How about firewood?
+
+### Human: i may be able to spare 1 fire wood if you only take 2 food instead of 3
+
+### Assistant: Since it's so hot out, I don't need as much firewood.  Food is the bigger priority.
+
+### Human: okay . So you can trade 2 waters for 3 of my food?
+
+### Assistant: So you would be getting 2 waters, 0 food, and 3 firewood?
+
+### Human: i would receive 2 water and you would receive 3 food
+
+### Assistant: Submit-Deal

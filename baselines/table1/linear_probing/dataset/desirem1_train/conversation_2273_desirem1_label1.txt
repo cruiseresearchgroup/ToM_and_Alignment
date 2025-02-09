@@ -1,0 +1,23 @@
+### Assistant: Hi. Is this your first time camping here?
+
+### Human: Hello, yes this is my first time camping here. How about you?
+
+### Assistant: No I've been here before, did you bring everything you need?
+
+### Human: Thats really great! Not everyone. I am going to need some items. How about you?
+
+### Assistant: We have enough to get by but could always us extra
+
+### Human: I get that. What are you most interested in?
+
+### Assistant: Lots of hungry people, we could always use more food🙂
+
+### Human: I hear you on that. I need food as well, but firewood is my first priority.
+
+### Assistant: We have extra firewood, it's no fun carrying it around, I'll gladly trade you firewood for food
+
+### Human: That would be awesome! How about I get 3 firewoods and you get 2 food?
+
+### Assistant: I think 3 and 3 is fair, but if that does not work for you how does 3 firewoods for 2 foods and 2 waters
+
+### Human: 3 and three works for me! And then we gotta decide on the water

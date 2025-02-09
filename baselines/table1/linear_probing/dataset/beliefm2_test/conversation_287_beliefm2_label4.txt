@@ -1,0 +1,23 @@
+### Human: Hello, how are you?
+
+### Assistant: I am great, thank you for asking, how about you?
+
+### Human: Good, getting ready to spend a few days camping.
+
+### Assistant: Me too, do you have any priority items that you really need?
+
+### Human: I'm worried I did not bring enough water and there are no lakes or rivers around my site.
+
+### Assistant: I know what you mean, water is really important for me aswell. How about firewood or food?
+
+### Human: It's warm and I have packaged food so firewood is not a priority at all. I wouldn't mind some extra food.
+
+### Assistant: so how about you get 3 foods and i get 3 firewood? That way we can get those off the table?
+
+### Human: I mean I really would like to get a lot of water and I am willing to give up all the wood.
+
+### Assistant: ok how about you get two waters and all the food, i get one water and all the firewood? That way you get one more item.
+
+### Human: Yeah that works well for me.I drink a lot and its summertime LOL.
+
+### Assistant: Submit-Deal

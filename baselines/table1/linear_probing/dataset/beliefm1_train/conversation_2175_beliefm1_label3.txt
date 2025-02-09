@@ -1,0 +1,35 @@
+### Human: Hello how are you today? 🙂 Do you have any initial ideas on how to split everything? 
+
+### Assistant: I was thinking maybe I could have a majority of the fire food and you can have a majority of the water and food. 
+
+### Human: What exactly do you mean by majority? As in everything ?
+
+### Assistant: I was more thinking 2 Firewood for me , 1 food and 1 water? The rest would be yours.
+
+### Human: That is a promising bargain but I want at least 2 firewood, it makes for a fun time for my group.
+
+### Assistant: Interesting , because my group feels the same way though. How does your group feel about water though?
+
+### Human: Water is not that important for us but the firewood is a deal breaker for us ☹️
+
+### Assistant: I see.... Well we really would like the firewood too though. Could you reconsider it makes a big difference for us.
+
+### Human: Sorry I will only consider a deal if I can get at least two fire wood.
+
+### Assistant: Well if that is the case then I want 1 Firewood 3 waters and 2 Food then. 
+
+### Human: That is kind of excessive though.... 6 - 3 of an item share? 
+
+### Assistant: Well you wanted the firewood so take it or leave it.
+
+### Human: Can we do 5 - 4? and 2 fire wood , 1 food and 1 water for me?
+
+### Assistant: No😡
+
+### Human: Please its really unfair... The items are still in your favor. My family really needs the firewood and some additional water and food would make our day so much better. You are still coming out on top with excess supplies.
+
+### Assistant: I guess, I can do that deal...
+
+### Human: Thank you so much! 🙂
+
+### Assistant: Submit-Deal

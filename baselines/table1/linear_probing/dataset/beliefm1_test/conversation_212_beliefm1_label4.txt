@@ -1,0 +1,23 @@
+### Human: Hi! Hope you are having a good time camping.
+
+### Assistant: Yes we are! How is your' day going? You enjoying yourself?
+
+### Human: Yes, absolutely. It is always fun camping with the kids. 
+
+### Assistant: Totally. So what I need most urgently is water. Our water purifier stopped working unfortunately ☹️.
+
+### Human: Oh am sorry about that but unfortunately the kids spilled some of our supply and we do need some water to survive our trip it seems ☹️ 
+
+### Assistant: Okay. How about I take 2 water and you take 1?
+
+### Human: Well, let me think it over. Meanwhile, how are you doing on firewood and food?
+
+### Assistant: Food I am good on, but firewood has been rough as the axe our cabin provided broke. Thankfully no one was hurt though!
+
+### Human: Oh am glad everyone is okay. we had to extend our trip and since the weather has suddenly changed, we will need some firewood too. So let me know what you think
+
+### Assistant: How about this. I take 2 water, you take 2 firewood and 2 of the food? That should be enough for us I think
+
+### Human: Yeah but that would not work for us. We do need the water and firewood too. 
+
+### Assistant: What do you suggest?

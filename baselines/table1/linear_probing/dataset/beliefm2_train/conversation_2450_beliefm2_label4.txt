@@ -1,0 +1,31 @@
+### Assistant: 🙂
+
+### Human: Hey, what are you looking for for the trip?
+
+### Assistant: i need waterm firewood and food
+
+### Human: Likewise, but I want to be fair.
+
+### Assistant: what do you need most of
+
+### Human: I need food the most, how bout you?
+
+### Assistant: i need the water
+
+### Human: oh ok, so firewood is low on the list!
+
+### Assistant: correct 
+
+### Human: How about I get the 3 food, you get the 3 water, and you get 1 firewood and I get 2 of them? 
+
+### Assistant: how about i get one food and you get 2 waters and then you can get 2 firewoods
+
+### Human: That sounds fair to me.
+
+### Assistant: i mean you get 2 foods, 1 water and 2 firewood
+
+### Human: That's also fine with me. I'm flexable and want it to be cool
+
+### Assistant: sounds good ill go ahead ahd submit the deal?
+
+### Human: Sure 🙂

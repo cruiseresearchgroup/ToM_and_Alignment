@@ -1,0 +1,23 @@
+### Assistant: Hello! I'm Adam. How are you today
+
+### Human: Hello, I"m Josia, day was good.
+
+### Assistant: Good! So I primarily need food, as our freezer stopped working so most of our food went bad. What do you need?
+
+### Human: I had too some kind of problems, I need food and water and firewood.
+
+### Assistant: Yes I also need firewood...How about I take 2 of the food and 2 of the firewood, and you take all the water?
+
+### Human: Sounds good, ok I take the water  but I need some food and firewood.
+
+### Assistant: Yes you can have 1 of the food and 1 of the firewood, and I'll take 2?
+
+### Human: Ok thank you very much then what we need.
+
+### Assistant: Okay so we agree, you'll take 1 of the food and 1 of the firewood, and all 3 of the water?
+
+### Human: Okay I agree and took that's all.
+
+### Assistant: okay thank you!
+
+### Human: Submit-Deal

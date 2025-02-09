@@ -1,0 +1,23 @@
+### Human: hello
+
+### Assistant: Hey there. How are you?
+
+### Human: not soo good, i am hungry
+
+### Assistant: Uh oh. What are you preferences on supplies?
+
+### Human: food, then water, then firewood, and yours?
+
+### Assistant: water, food then firewood. It's really hot so I need to make sure we are hydrated. We forgot a bag of supplies that had mostly food so we really could use food. It's hot so firewood isn't necessary. If anything we can get it from around or on a hike.
+
+### Human: of course, we should help one another, we will figure something out i'm sure
+
+### Assistant: Yes, I think we can. I'm thinking 3 water, 2 food and 1 firewood for myself? How does that sound to you?
+
+### Human: i can't agree to that, the best i can do is 2water 1 food and 2 firewood for you, i have to have supplies too
+
+### Assistant: Could I trade one firewood for another food?
+
+### Human: no, food is the top priority for me
+
+### Assistant: Submit-Deal

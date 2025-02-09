@@ -1,0 +1,23 @@
+### Assistant: Hey! How goes your outside adventure 🙂?
+
+### Human: Hi, Well I'm getting ready for every stage. How many days do you plan to camp?
+
+### Assistant: Just an extended weekend, but hope to get in some trail running and could use a little more water and maybe food.
+
+### Human: I see, the water makes sense especially since it is essential for long trips. I guess you won't need much firewood
+
+### Assistant: Maybe 1 as it is chilly at night up in the backwoods. I see there are three, would you like 2 of them?
+
+### Human: It sounds balanced, since I plan to spend only 2 days camping since I want a relaxing weekend.
+
+### Assistant: Planning on doing any fishing, or taking in a hike? If you want we could maybe explore one of the trails before I take in a run.
+
+### Human: sounds good for another trip! Let's do this, I will give you all the water since I don't really need much planning to be near a river, but I do need food to avoid looking in the forest. I keep 3 food and 2 firewoods. you keep the rest, what do you think?
+
+### Assistant: 🙂 Sounds pretty good. I know some people can be tough negotiators, but time too is valuable. So perhaps soon we could arrange for 2 woods and 3 foods to you, 1 wood and 3 waters for me? Once we are done lets check out the trails!🙂
+
+### Human: Sounds great to me, so let's do it that way. With pleasure like this I also get a little more experience in the wild
+
+### Assistant: Submit-Deal
+
+### Human: Reject-Deal

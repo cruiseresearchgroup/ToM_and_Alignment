@@ -1,0 +1,23 @@
+### Human: Hi
+
+### Assistant: Yo, how goes it
+
+### Human: Hi how are you
+
+### Assistant: Good, I'm hoping to get Some food and Water
+
+### Human: Thats great
+
+### Assistant: Do you have a preference for what you need?
+
+### Human: I have about 3 packages for food 2 for water and 1 for firewood
+
+### Assistant: Well if you want all the food, then I should take 3 water and 2 firewood
+
+### Human: actually lets make it so that you have food too 
+
+### Assistant: Im confused. So what do you want then?
+
+### Human: I'll take 2 food two water and 2 firewood
+
+### Assistant: Submit-Deal

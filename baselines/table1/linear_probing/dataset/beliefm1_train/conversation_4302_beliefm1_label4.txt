@@ -1,0 +1,23 @@
+### Assistant: What would you like to have?
+
+### Human: Hi there!  You see, I need firewood because I have poor circulation and the doctor says I am at high risk for frostbite.  It needs to be really warm or else I might lose my limbs
+
+### Assistant: I understand. However, I need at least 1 extra firewood because I have a very flimsy tent which isn't warm. I'm also pregnant
+
+### Human: Okay, I can give you 1 firewood.  I also need water because I have high blood pressure and if I don't drink enough fluids I am at high risk for having a stroke
+
+### Assistant: okay, however I need a lot of extra water because I have a medical condition that causes me to dehydrate easily
+
+### Human: I guess we both are sick people stuck on this camping trip, eh? 🙂
+
+### Assistant: I'm happy to be on the trip. I think with some of these extra things it will be easier. Do you need any extra food?
+
+### Human: I could use 2 food, it would go a long way in feeding the children in my group.  would you go with 2 wood for me, 1 water for me, and 2 food for me?
+
+### Assistant: No. If you need 2 wood and 2 food than I think I will need all the water. 
+
+### Human: how about 2 wood, 1 water, 1 food for me
+
+### Assistant: hmm. Yknow what, now that I think about it.. I don't need so much extra food. It would be a burden. Fine, you can have 2 wood, 2 food, and 1 water
+
+### Human: Submit-Deal

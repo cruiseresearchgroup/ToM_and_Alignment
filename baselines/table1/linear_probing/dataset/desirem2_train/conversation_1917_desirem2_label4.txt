@@ -1,0 +1,23 @@
+### Human: I would like to give you more food and firewood so that I can have more of the water. I am someone who gets very thirsty very quickly. I'm also a bit bigger than a lot of people and I sweat more as a result. 🙂
+
+### Assistant: that is unfortunate, its quite hot here especially during the day, so I need all the water I can get
+
+### Human: I understand that and sympathize. It's very humid and hot here as well. Does it get cold at night there? If so, the firewood would be very beneficial to you. 
+
+### Assistant: its very cold at night, I can have all the wood and give you the food
+
+### Human: I would be okay with giving you two firewood but I need at least a little firewood for cooking and boiling water. 
+
+### Assistant: I will take two wood, and two water, how is that?
+
+### Human: No, I'm not interested in that because I really need the water. The food I'm okay with parting with more than the water. 
+
+### Assistant: I really need the water too.  its also my most valued item
+
+### Human: It's mine as well. Since you need more firewood than I do I would be willing to give you two firewood, one water and two food.
+
+### Assistant: in that case I can take three wood and one water to be fair
+
+### Human: I think if you're getting two firewood and two food that you are still making out better on this deal even if you only get one water.
+
+### Assistant: I have given up two of my most valuable items, you should be willing to sacrifice a little too, so its either I get three wood or two waters, and two foods

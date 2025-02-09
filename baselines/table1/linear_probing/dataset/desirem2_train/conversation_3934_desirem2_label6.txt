@@ -1,0 +1,23 @@
+### Human: Hello
+
+### Assistant: Hello, how are you today?
+
+### Human: I am doing great, how about you?
+
+### Assistant: I'm doing well! 
+
+### Human: I am in desperate need of food and water for camping because I have a large group of people with me
+
+### Assistant: I too am in need of water because the place I'm going doesn't have access to any.
+
+### Human: I guess I will have to cancel my trip and are regulations then
+
+### Assistant: I would be happy to trade my food for your firewood though. We can start from there.
+
+### Human: I don't need extra firewood at all because I have a lot of blankets
+
+### Assistant: It is good to be prepared.
+
+### Human: You can have all the firewood if I can have all the food
+
+### Assistant: I can do that.

@@ -1,0 +1,23 @@
+### Assistant: Hi, I'm hoping we can come to a nice deal. 🙂 I'm most interested in firewood, because it always helps to have extra if your fire goes out.
+
+### Human: That makes sense. I'm also interested in firewood, but have a great need for water due to the current weather. 
+
+### Assistant: That makes sense. How about we start out with I get 3 firewood, and you get 3 waters?
+
+### Human: Great idea, that works for me. 🙂
+
+### Assistant: Okay, let's do that, and then split the food. Since there are only 3, do you want to flip a coin to see who gets 2 of those?
+
+### Human: That sounds fair, how much food do you feel you need? 
+
+### Assistant: I would prefer 2 because it's really easy to underestimate how much I could need.
+
+### Human: That's fine, I'll take 1. I think I have enough with what was originally given. 
+
+### Assistant: Sounds good! So I get 3 firewood, 2 food, 0 water; you get 0 firewood, 1 food, 3 water?
+
+### Human: That's sounds right. Thanks 🙂
+
+### Assistant: Cool, I
+
+### Human: Submit-Deal

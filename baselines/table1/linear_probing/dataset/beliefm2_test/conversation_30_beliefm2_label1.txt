@@ -1,0 +1,23 @@
+### Human: Hello! I believe that we can help each other here.
+
+### Assistant: hi how are you, what help you need?
+
+### Human: Lets strike balance like 1/2 2/1 3/0
+
+### Assistant: sorry i'm not understand can you explain please?
+
+### Human: I take 1 firewood, 2 water and 3 food.
+
+### Assistant: no i need 2 pack of firewood, and 1 pack of food and 1 pack of water 
+
+### Human: That is quite unfair. You will have 0 water
+
+### Assistant: please at least give one pack of water?
+
+### Human: Alright, 0 food then? This is because only the firewood is significant for outside weather.
+
+### Assistant: ok what you want now explain
+
+### Human: You can take 2 firewood and 1 water.
+
+### Assistant: okk thank you

@@ -1,0 +1,23 @@
+### Assistant: Hi friend. 🙂 I'm going camping in the woods near my grandparents cabin. I'm inviting some friends along for a little bit of fun too because they have a guest house and a great field for tents. Would you like to come too? 
+
+### Human: Oh that sounds awesome. I am actually going camping with my grandparents and my children. So I would love to have 2 firewoods for them. They get cold easily so I would like a little extra to make sure they can stay warm throughout the evening. 🙂
+
+### Assistant: Yes, I would love to give you two firewoods! 🙂 My grandparents might check in on us, they like camping. But my grandpa has rheumatic problems so he needs lots of water. Could we take all three?
+
+### Human: Thank you for the two firewoods. I totally understand that. Since we do have young children I want to make sure they stay hydrated so I would be willing to give you two if I can just have on extra for them.
+
+### Assistant: OK. Your children must be hungry, could we give them two food while we keep one?
+
+### Human: That would be wonderful. Okay so I'll take two Firewoods, two food, and one water. Does that work?
+
+### Assistant: Almost. I actually had a disagreement with one of my friends just now because he is a bigger guy, haha! 🙂 Could we keep one of those foods for him? I'll give you another firewood for it.
+
+### Human: Haha that's understandable. Well I definitely understand. Yes I would be willing give you two food if I can have three firewood. 
+
+### Assistant: Awesome! This is an amazing deal, thank you friend.
+
+### Human: Yes it is. I have really enjoyed discussing with you, and hope you have a great trip. 
+
+### Assistant: Submit-Deal
+
+### Human: Reject-Deal

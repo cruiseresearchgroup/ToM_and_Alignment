@@ -1,0 +1,55 @@
+### Assistant: hi friend i am seethal , nice to meet you friend
+
+### Human: Very nice to meet you. I hope this message finds you well 🙂
+
+### Assistant: ys friend , how are you, how is the day ☹️
+
+### Human: My day is going ok so far. Busy packing for me big camping trip. How about you?
+
+### Assistant: nice, bro me also busy with packing, wish u most enjoyable trip bro
+
+### Human: Thank you. You as well. Do you have enough of everything you need for your trip?
+
+### Assistant: no bro, lets talk about the deal, bro dont end the negotiation it will lost both of us 
+
+### Human: I understand. So what do you need the most? I really, really need firewood. I'm already almost out, and it's supposed to get very cold ☹️
+
+### Assistant: bro my first priority also firewood, what is ur second priority bro, me too need firewood 
+
+### Human: My second priority is water.
+
+### Assistant: then how can we fix the deal bro me too need firewood 😮
+
+### Human: How about I'll take 2 firewoods, but give you 2 waters?
+
+### Assistant: bropls give me 2 firewood u can take 2 water bro, i need fire wood more bro
+
+### Human: I can't. I've got to have firewood. How about if you give me the 2 firewoods, I will only take 1 of everything else?
+
+### Assistant: bro if you take 2 fire wood then  i need 1 firewood 3 water 2 food bro, then only it will balanced
+
+### Human: That would leave me with no water? That doesn't seem very balanced. 
+
+### Assistant: bro firewood is first priority mean you got firewood more then it is more benificial to you 😡
+
+### Human: Yea, but that's why I only want 1 of everything else. That leaves you 2 of everything except the firewood. That sounds pretty fair to me.
+
+### Assistant: if you need all, then make firewood 1 to you then it will balance, if u take one water from me its not equalize,
+
+### Human: You would be getting 5 items, and I'm only getting 4. That's pretty balanced. 
+
+### Assistant: then can we go for wiseversa? i will take 2 firewood, 1 water, 1 food is it ok? then will get 6 items 
+
+### Human: I'll do the vise-versa. 
+
+### Assistant: then tell me you deal vise wersa means? send me your deal
+
+### Human: You get 2 firewood, I get 1. I get 2 waters, and 2 foods, and you get 1 of each?
+
+### Assistant: k bro we can fix the deal 2 firewood, i water , 1 food
+
+### Human: Submit-Deal
+
+### Assistant: Reject-Deal
+
+### Assistant: Submit-Deal

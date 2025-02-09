@@ -1,0 +1,35 @@
+### Assistant: I can trade 2 packages of food, 1 package of water, and 1 package of firewood.  How does that sound to you?
+
+### Human: I sleep kind of cold at night so I'd really like to get as much of the firewood as possible.  Staying warm is a high priority for me.
+
+### Assistant: Would you be able to trade a bit more water for more firewood?
+
+### Human: I could give you the water if I could get the firewood.  I drank a lot of water before I came here so I think what we get as basics would be fine.  I also don't mind just washing up from a river.
+
+### Assistant: That will work well for me I do a lot of hiking and I build up a large thirst.  I don't get terribly cold at night and I can find other resources to build a fire.
+
+### Human: Sounds great.  So we're discussing you getting three bottles of water, 1 food?
+
+### Assistant: I prefer two bottles of water and 2 for food.
+
+### Human: I think that sounds agreeable to me. 🙂
+
+### Assistant: Ok and you can have two of my firewood. I can get an insulated sleeping bag and I'll be sleeping in a decent tent.
+
+### Human: I'd really prefer to get all the firewood if possible.
+
+### Assistant: I think we have a deal 2 firewoods for you and 2 foods and 2 waters for me.  Is that a deal?
+
+### Human: I was hoping for 3 firewood for me, 3 water for you, and I'll take 2 food.
+
+### Assistant: I would need at least one firewood in case the temps drop.  You'd still be getting the majority of my firewood.  I can have 1 food, 2 waters, and 2 firewoods.
+
+### Human: Not sure I can make that work.  I'd be willing to take 3 firewood and 1 food if that makes things easier for you, leaving you with 3 water, 2 food.
+
+### Assistant: I think you would need water more than food just in case you can't drink the water.  My final offer to you is 2 firewoods and I would have one remaining.
+
+### Human: So you want me to get just 2 firewood and 1 food?
+
+### Assistant: No you would have 2 firewoods, 1 water, and one food.  I would have 2 foods, 2 waters, and 1 firewood.  Or I can just have one of each.
+
+### Human: You can have two water, 1 food, 1 firewood if you must do it that way.

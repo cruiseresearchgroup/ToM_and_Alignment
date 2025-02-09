@@ -1,0 +1,31 @@
+### Human: i really need to keep my energy up, so having a lot of food is important to me.
+
+### Assistant: I understand, is there anything else you need?
+
+### Human: I'd like some firewood, too, and maybe a little water.
+
+### Assistant: I guess we are in the same boat.
+
+### Human: which items do you need?
+
+### Assistant: Food is most important, I have to cook for the group
+
+### Human: What if I give you one of the food and two of the water, and also a firewood?
+
+### Assistant: That's not bad
+
+### Human: That way we all get some of everything. 
+
+### Assistant: Well yes but if i am cooking the firewood is more important than the water
+
+### Human: What if you take one food, two firewood, and one water?
+
+### Assistant: I guess the food is really important to you?  How about you give me all the firewood and you keep the water
+
+### Human: Yes, the food is really important. But I can't cook it without any firewood. So I need at least 1 firewood.
+
+### Assistant: Alright then give me one additional water and i can make pancakes
+
+### Human: What if you take 1 food, 1 firewood, and 2 water?
+
+### Assistant: Submit-Deal

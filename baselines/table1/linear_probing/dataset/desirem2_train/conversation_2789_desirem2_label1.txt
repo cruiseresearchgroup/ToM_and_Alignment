@@ -1,0 +1,23 @@
+### Human: Hello, how are you today?
+
+### Assistant: I am good. How are you?
+
+### Human: Doing good! Kinda slow today
+
+### Assistant: I just started. Looking forward to your trip? I really need lots of water. I hope you will take that into consideration. 
+
+### Human: Yup I have water but need firewood to keep warm. My trip is going to be cold.
+
+### Assistant: You can have all the firewood you need! I need a bit of extra food too. Would you consider 3 water, 2 food, and 0 wood for me?
+
+### Human: Yeah I can do that!
+
+### Assistant: sounds awesome! Thank you so much!
+
+### Human: What about 0 firewood, 3 water and 1 food?
+
+### Assistant: Oh I thought you agreed with 3 water, 2 food and 0 water for me ☹️
+
+### Human: Yeah that can work! Was trying to bargin 🙂
+
+### Assistant: Submit-Deal

@@ -1,0 +1,23 @@
+### Assistant: Hi! Hope you are having fun camping.
+
+### Human: Yes, I do enjoy camping, especially if I have plenty of water.
+
+### Assistant: Did you forget to carry water? Or did you bring too much?
+
+### Human: I tend to get dehydrated very easily, so I need at least two of the additional packages of water.
+
+### Assistant: I see. It so happens that the food we carried was accidentally left in the car and the food items have gone bad. If we can keep the food, you can have 2 waters.
+
+### Human: I would like to do quite a bit of hiking.  I would like 2 water, 2 food, and 0 firewood.
+
+### Assistant: well, that will not work for us. We have kids and we do really need the food. I hope you understand. We can try and make it with 1 water but we would need the food ☹️
+
+### Human: it looks like we have a problem.  2 water, and 1 food only gives me 3 items.  I really don't need any extra firewood.☹️
+
+### Assistant: Well, you can still have a firewood. We can take 2 food, 1 water and 1-2 firewood. You can keep 2 waters, 1 food, and 1-2 firewoods. 
+
+### Human: I guess that I can change my plans somewhat, and spend more time around the fire.  Maybe I can roast some marshmallows.  I could take 2 water, 1 food, and 2 firewood.
+
+### Assistant: Hmmm. We may be able to make that work 
+
+### Human: Submit-Deal

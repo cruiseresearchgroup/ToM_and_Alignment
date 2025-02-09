@@ -1,0 +1,55 @@
+### Human: hi how are you! i heard you are going camping this weekend like me!
+
+### Assistant: Hai friend, i am went a trip and i need some help form you. can you help me?
+
+### Human: sure, lets negotiate! i am bringing my children and was wondering if i could have all of the food to make sure i can feed them enough
+
+### Assistant: I have a kids and old age sicked peoples so i need some extra package  for the trip.
+
+### Human: oh i understand that!maybe we can come to an agreement. how much food do you need
+
+### Assistant: i need 3 pack of food and 2 pack of fire wood and 2 pack of water.
+
+### Human: i am sorry but that does not leave me enough ☹️
+
+### Assistant: i am in some trouble friend so i need it please help me. old age peoples are take medicine so they need water and we go some snow fall place so we need fire wood and i have a kids so i need food
+
+### Human: i understand that but i have all these extra kids so maybe we can come to a conclusion. can i have two food 3 wood and 2 water?
+
+### Assistant: its not enough to me friend please consider my situation. i need the package with i told quantities. 
+
+### Human: Submit-Deal
+
+### Assistant: Reject-Deal
+
+### Assistant: its not good friend. i need 3 food and 2 fire wood and 2 water
+
+### Human: i will walk away if you do not accept my deal, then we leave with ZERO 😡
+
+### Assistant: hey its not good. we must talk about the deal. okay i want 2 food 2 fire wood and 1 water its okay???
+
+### Human: Submit-Deal
+
+### Assistant: Reject-Deal
+
+### Assistant: wait wait first we talk about it then process the deal man. i some what down the deal but you don't down. talk to me
+
+### Human: i understand but we have to get to a deal and i am growing impatient
+
+### Assistant: okay. i want 2 food 1 firewood and 1 water this deal okay for you?
+
+### Human: Submit-Deal
+
+### Assistant: Reject-Deal
+
+### Assistant: in the beginning i ask you 3 food 2 firewood and 2 water but now i just need 2 food 1 fire wood and 1 water. why you don't accept the deal. 
+
+### Human: Submit-Deal
+
+### Assistant: Reject-Deal
+
+### Assistant: with out water what we do?? i have sicked peoples. please act like human. accept my deal please.
+
+### Human: Submit-Deal
+
+### Assistant: Reject-Deal

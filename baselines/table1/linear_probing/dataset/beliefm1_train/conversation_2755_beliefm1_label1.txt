@@ -1,0 +1,35 @@
+### Human: Hello I am a diabetic so I was wondering if I could get the majority of the food?
+
+### Assistant: I understand your need. How about i get all the firewood and 1 package of food and 1 package of water as i am stuck in a dense part of the forest without the ability to hunt.
+
+### Human: That is an aggressive offer. Why do you need firewood and water if you can't hunt? Wouldn't you need food?
+
+### Assistant: The area i am in is damp and i do not have the ability to start a fire and stay warm. 
+
+### Human: If you get all the firewood I must get all the food then. 
+
+### Assistant: If i agree to that then i want 2 packages of water as well. 
+
+### Human: No I want the two packages. 
+
+### Assistant: I am sorry but i have to have water if you have all the food.
+
+### Human: Guess we're not making a deal
+
+### Assistant: That's too bad
+
+### Human: Submit-Deal
+
+### Assistant: Reject-Deal
+
+### Assistant: Please recall i am in the damp area of the forest and need to have firrewood to start a fire and survive. The min i need is 2 packages of water. Please help me
+
+### Human: I don't care. 
+
+### Assistant: I am disabled and trying to find water in the forest will be very difficult. 
+
+### Human: Right....... I'm diabetic I need all the resources. 
+
+### Assistant: I understand and i am giving you all the food, but i do need at least 2 packages of water.
+
+### Human: Submit-Deal

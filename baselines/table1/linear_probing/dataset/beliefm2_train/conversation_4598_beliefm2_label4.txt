@@ -1,0 +1,27 @@
+### Human: Howdy, how you doing today?
+
+### Assistant: I'm doing great! How are you?
+
+### Human: I'm doing super. Thanks for asking!
+
+### Assistant: I'm really excited for this camping trip!! 🙂
+
+### Human: same. I love to fish and be outdoors!
+
+### Assistant: Me too! I'm a little worried about my water situation, though. I'm newly pregnant, so a lot of foods are making me nauseous. I need to make sure that I have enough water to compensate.
+
+### Human: Well, congrats! Going camping when pregnant seems crazy to me, but to each there own
+
+### Assistant: I want to make sure to have a lot of fun before I get so big and miserable. Would it be okay with you for me to have all of the water?
+
+### Human: Well, what do I get in return. I need water too ☹️
+
+### Assistant: What do you want the most?
+
+### Human: I need water the most, but since you're pregnant and need it... I'm willing to let you have it all if I get 3 and 3 of food and firewood
+
+### Assistant: I can give you all of the food, but I would like one firewood, please. 🙂
+
+### Human: ok, that's fine
+
+### Assistant: Submit-Deal

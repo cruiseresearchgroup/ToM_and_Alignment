@@ -1,0 +1,23 @@
+### Human: hello friend i will like to sugest if i can have 2 packages of food and 1 firewood,you can have i food 2 firewood and 3 water,let me know what you think?
+
+### Assistant: I don't think that's going to work for me, but I'm sure we can come up with an agreement.
+
+### Human: okay friend you can have 3 firewood and 3 water is that good enough?
+
+### Assistant: I am going to need some food of course. 
+
+### Human: yes ofcourse i agree with you.my dear friend will you have 1 food 3 firewood and 3 water
+
+### Assistant: I would prefer 2 food and less firewood. There is tons of firewood where I am but there is no lake so I can't fish. No berries around here either. It's pretty scarce
+
+### Human: okay is 2 food 1 firewood okay for you while i get 1 food 2 firewood and 3 water
+
+### Assistant: I'm going to need some water as well. How about 2 food, 2 water and 0 firewood for me?
+
+### Human: okay i agreee with you so u can have 2 food 2 water while i get 1 food 1water and 3 firewood.is that a final decision?
+
+### Assistant: That seems fair to me. This was a very nice negotiation, thank you 🙂
+
+### Human: okay i am so glad we were able to have a good negotiation.let me input it.
+
+### Assistant: Submit-Deal

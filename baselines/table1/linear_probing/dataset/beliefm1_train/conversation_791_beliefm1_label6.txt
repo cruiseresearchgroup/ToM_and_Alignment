@@ -1,0 +1,23 @@
+### Human: Hi there! I figured it might be best to start off with asking which packages you wanted extra of?
+
+### Assistant: I need three packages of water and three food.  I am going to a dry, hot location.  We will be hiking a lot. 
+
+### Human: Ah, I see! You definitely will need extra water then 🙂 I also was hoping to get extra packages of food as well.
+
+### Assistant: Are there any sources of food for you there where you are staying?  We are out in the wilderness and there are no convenience stores for 50 plus miles. Plus we will be on the trail a lot. Very primitive camping.
+
+### Human: I see, I think we're definitely in similar situations. I won't have much access to food either, and we have a lot of people going camping with us, so we wanted to make sure we prepared so everyone gets a fair share of food.
+
+### Assistant: 😮 Okay.  Well, I can see we have a dilemma.  Since the temperatures will be warm, I wasn't planning on doing too many fires, but how about this?  I can take the three waters, you take 2 of the extra food, and I'll take 2 firewood?
+
+### Human: You can definitely have the three waters! 🙂 As for the firewood, I did plan on having a fire for a majority of the night, so I'd definitely like extra wood! I was actually going to ask if you would be willing to give me the 3 packages of firewood?
+
+### Assistant: Well, if I leave you 2 of the packages of food, then I  need more firewood to trade for food, or, to cook fish that I catch.  Which do you need more, the wood or the food?
+
+### Human: For sure, I completely understand. I definitely would need the food more than the water!
+
+### Assistant: Okay, thanks for the water.  I can give you all of the wood. It would really help me to take two food packages.🙂🙂
+
+### Human: I misspoke in my last message, as I meant I would need the food more than the wood. But I'd be willing to give you the 3 water and 2 food! I'll take the 3 wood and 1 food?
+
+### Assistant: Okay, sounds like a deal . . . are you ready to submit?

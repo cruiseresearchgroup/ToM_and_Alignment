@@ -1,0 +1,23 @@
+### Human: Hi How are you?
+
+### Assistant: Im great, how are you?
+
+### Human: I am doing well. I got your information through a collegue of mine at work. I am going camping with my family. Perhaps you may help me with some camping supplies.
+
+### Assistant: What a coincidence!  I am going camping with my family this weekend as well.  Maybe we could do some trading of supplies.  What is it that you are most in need of?
+
+### Human: That's good to hear. This pandemic has my children craving for the outdoors and so am I.  🙂 I am particular interested in getting extra cases of water. what about you? what's your highest priority?
+
+### Assistant: Same here 🙂  Getting outdoors and enjoying the open air for a bit will do everyone some good.  We are in need of firewood because we intend to do a lot of cooking out there.  We are doing okay with water so Id be willing to give you 2 cases of water to our 1 if that sounds good.  Id love to get 2 blocks of firewood
+
+### Human: Let me check with my wife. She is pregnant and water is one of the things she drinks a lot; even though, she is only four months pregnant. But she lost her job due to the pandemic. She is a school teacher. . 
+
+### Assistant: Oh, what a time to be teaching right?  Congratulations on the upcoming baby 🙂 Feels like just yesterday my 2 year old and 3 year old were born.  They are hungry little fellas!  Id be willing to give you 3 cases of water if you could spare 3 blocks of firewood.  If you could spare 2 cases of food too my family would be thrilled
+
+### Human: We checked and my wife and I agree on exchanging with you the first deal; the 2 cases of water for the 2 cases of firewood.  Let me check how we are doing with our food supply. I am glad to hear that  you have young children too, so you know the struggle.
+
+### Assistant: Absolutely!  They are what makes life worth living but definitely require hard work :)  Thats terrific and id even be willing to give you 3 cases of water to help sell your wife on those 2 cases of food :)  Need to stay hydrated out there! 
+
+### Human: Alright, we checked our food supply. Sounds like you can get the 2 cases of food. 🙂 I am glad you are willing to gives us the extra water case. Let's do this!!! I am excited. 
+
+### Assistant: Submit-Deal

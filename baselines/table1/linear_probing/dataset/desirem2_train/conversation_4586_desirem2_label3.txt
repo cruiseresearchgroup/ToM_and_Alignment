@@ -1,0 +1,47 @@
+### Human: Hi:  I  have invited friends from a nearby campsite for dinner and i heard it is going to be really cold tonight. I would prefer to have some extra fire wood for sure. lly cold tonight.
+
+### Assistant: Hi I am also going camping. Unfortunately I need as much firewood and water as possible too. I need to be able to cook our food and stay warm all night 
+
+### Human: Can I ask how many people are camping with you? Are you planning on hiking the mountain?
+
+### Assistant: Oh yes, I have my whole family coming. I'm really excited because we don't see each other often. My aunts, uncles, cousins. Some of us will hike while others stay back. Maybe we can come to an agreement? Will you also be hiking?
+
+### Human: Yes hiking for sure.  If I take 2 firewoods and give you 2 waters and 1 food, would that be acceptable?
+
+### Assistant: I think that could work 
+
+### Human: Thank you.  Have a great time and stay safe. It's going to be a blast for sure. 
+
+### Assistant: Camping is always such a fun time. Maybe we will run into each other 
+
+### Human: Yes, that would be fun.  I heard it is going to be unseasonably cold at night, so stay warm.  You'll have lots of family member to huddle together in a tent 
+
+### Assistant: sounds great
+
+### Human: Submit-Deal
+
+### Assistant: Reject-Deal
+
+### Assistant: Submit-Deal
+
+### Human: Reject-Deal
+
+### Human: Hi;  I thought I was getting 2 firewoods, 2 waters and one food. Is that what we agreed upon?
+
+### Assistant: You said you would give me 2 waters and 1 food for your 2 firewoods 
+
+### Human: Yes, does that work for you.  I could give you 1 water and 2 foods as I really need the water for my hike.  I tend to overheat easily. 
+
+### Assistant: You are flipping it around. I can't give you 2 water and 2 firewood as that wouldn't really be fair 
+
+### Human: Okay, how about if I give you 3 foods and you give me the 2 firewoods and 2 waters?
+
+### Assistant: Submit-Deal
+
+### Human: Reject-Deal
+
+### Human: THanks, but I really need the water. I thought you would enjoy the food with so  many guests in your campsite. Is that a possibility?
+
+### Assistant: I don't need 3 foods and we already agreed on 2 firewood, 1 water and 2 food. If that is not possible, I wonder if we can not make a deal 
+
+### Human: Okay.  I will agree as the firewood is very important to me. The food will also come in handy on my long hike up the mountain.  Stay safe and have fun.

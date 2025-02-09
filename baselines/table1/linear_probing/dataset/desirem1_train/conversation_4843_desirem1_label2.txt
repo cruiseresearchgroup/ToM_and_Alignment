@@ -1,0 +1,23 @@
+### Human: Hi! How about I receive 3 food, 2 firewood, and 1 water?
+
+### Assistant: I can't do that. It would leave me with no food at all. How about I take 2 food, and 1 firewood, and 1 water?
+
+### Human: I really need more food than 1. I am worried about running out. I could take 2 food, and give you 1 food, 2 firewood, and 2 water.
+
+### Assistant: That is a very generous offer, which I very much appreciate. But I am also worried that I could run out. What if I take 2 foods, give you 2 firewoods, and 1 water?  
+
+### Human: Would you be willing to give me 1 food, 2 firewood, and 2 water?
+
+### Assistant: I could make that work 🙂 I'm sorry if I came off mean, I'm just trying to make sure I'll be ok. I don't camp often, so I'm not sure how to prepare.
+
+### Human: I understand. What are you using the extra food for?
+
+### Assistant: I brought some pre-packed snacks, and a few sandwiches. I'm hoping there are no hungry animals around. What about you?
+
+### Human: I was hoping to get some extra food for some picky eaters, but if they are hungry they will eat!
+
+### Assistant: Oh no! I know how picky eaters can be. I'm sorry to hear that. So are you thinking I'll give you the one food, and 2 firewoods, and 2 waters? Will that work for you?
+
+### Human: Yes, that works.
+
+### Assistant: Deal!

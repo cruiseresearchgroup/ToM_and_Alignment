@@ -1,0 +1,23 @@
+### Human: Good evening, how are you doing today?
+
+### Assistant: Welcome to the camping trip Dude!
+
+### Human: Welcome! I'm really concerned about our water supply, we are desperately low. We don't have much food, a few protein bars. how are things looking your way?
+
+### Assistant: I haven't got too the site yet but I am almost there.  I can't wait to finally relax!  I have been going nonstop for days.  Good idea to check supplies!
+
+### Human: We're nearly there and just realized that we must have missed picking up some of our stuff before leaving.
+
+### Assistant: Were we supposed to bring things?  Oh, no!  I'm gonna die...
+
+### Human: Of course, it's always wise to bring things. We absolutely need water and some food. Water is critical though.
+
+### Assistant: You got that right!  I just came from a three-day rugby tournament and I am totally dehydrated.  I hope they have enough at the site.  I also get the chills bigtime when I am dehydrated. That's how I know I am very dehydrated...
+
+### Human: I'm good to give up firewood for more water and food.
+
+### Assistant: Thanks!  You can have all the extra food. My pockets are jammed full of munchies.  But water is something it seems we both really need.
+
+### Human: I'll do 2 water and 0 firewood, 3 food.
+
+### Assistant: Hey, good news!  My site is next to a vending machine.  Mostly Ding Dongs and Ho Hos, but there is a bottle of water in there.  I can go with your recommendations.  I'll take three firewood, 1 water, and no food.  But I may be by your site later to borrow toilet paper. OK?

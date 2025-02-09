@@ -1,0 +1,23 @@
+### Assistant: Hi there.. we're looking forward to this camping trip.. hope you are, too!  Is there anything in particular you guys need / want out of the extra stockpile we've got?
+
+### Human: Hello! Which item do you need the most?
+
+### Assistant: Well we actually really NEED all three items.. but I know you might, too - so I want to make a deal that's fair for you.. is there anything in particular your family needs for the trip?
+
+### Human: Well, there has to be an item that you need the most. If you tell me what you need the most, we can try to make a deal around it.
+
+### Assistant: Oh I see, its going to be THAT kind of negotiation 🙂  Let's just look at it this way.. I'm with a couple other Floridians so we're not really too worried about firewood as we prefer it cooler, anyway.. and we know the lake is nearby that's stocked with trout for eating if necessary (and of course some fresh water's there, too) - so.. I can tell you that I could go totally without Firewood if I needed to.. I'd rather not, but I could.
+
+### Human: Do you prefer food or water more?
+
+### Assistant: Since the lake is nearby enough, I think we'd be more interested in ensuring there's enough food for my people, I think 🙂
+
+### Human: Hmm. I really need food too. I don't care much for water either. How about I take all 3 firewood, 2 food, and 1 water?
+
+### Assistant: Yeah, that's not going to work for me.. I can give you two food if you really need it, but in exchange I'm going to need two of the water and all the firewood.  
+
+### Human: I will just take 3 firewood, 1 food, and 1 water. That work for you?
+
+### Assistant: Tell you what.. now that I think about it.. you seem like you really need the firewood.. no problem.  I want you to have all 3 of them.. and you can have 1 water and 1 food, too.. does that work for you?  That would just leave me 2 food, 2 water, and no firewood.
+
+### Human: Submit-Deal

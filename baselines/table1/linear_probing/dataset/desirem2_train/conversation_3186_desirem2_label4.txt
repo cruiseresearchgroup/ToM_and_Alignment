@@ -1,0 +1,31 @@
+### Assistant: Hello 🙂
+
+### Human: Hello to you!
+
+### Assistant: Food is the most important item for me because the food I brought has spoiled! Which item do you need the most?
+
+### Human: I need water above all else.
+
+### Assistant: Oh, that works for me. I don't need much extra water. 🙂
+
+### Human: Exccellent.
+
+### Assistant: So I take all 3 packages of food and you take all 3 packages of water?
+
+### Human: How about I take 2 packs of water, you take 1 pack. I take 1 pack of food and you take 2 packs of food
+
+### Assistant: Well, I would rather not. I might starve if I don't have all 3 packages of food ☹️
+
+### Human: how much firewood do you need
+
+### Assistant: I would like 2
+
+### Human: I will  be happy to let you have 3 packs of food , but I need 2 packs of firewood
+
+### Assistant: I am also letting you have all 3 packs of water. I think we need to consider how to split the firewood in a fair manner.
+
+### Human: What do you think is  a fair deal with the firewood
+
+### Assistant: The person who needs it the most should get 2. I think I need it more because I didn't bring a warm sleeping bag.
+
+### Human: I have a very warm sleeping bag. and I have other firestarting materilas with me. I will agree to you getting 2 firewoods, 3 foods, and 0 water

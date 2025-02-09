@@ -1,0 +1,35 @@
+### Assistant: Hi! Thank you so much for chatting with me. How long have you been camping?
+
+### Human: hello, i been camping for a while now. what do you think its important to you
+
+### Assistant: I just love the opportunity to get away. Something about food cooked over the open fire makes me happy. So food I think is most important to me. What's most importnat to you?
+
+### Human: i think food is important to me also. 
+
+### Assistant: Is it more importnat than having firewood?
+
+### Human: i belive so whats your second important maybe we can compromise
+
+### Assistant: Water is second most important
+
+### Human: oh man so is mine ahaha 
+
+### Assistant: What if...I gave you all the water and 2 firewood, in exchange for all the food and 1 firewood. 
+
+### Human: are you sure you want to do that?
+
+### Assistant: Do you have a counter offer? Or do those terms work for you?
+
+### Human: you sure you dont want one water?
+
+### Assistant: Yes, I'd love to have a water. 
+
+### Human: you can get one water so ill get 2 water, 2 food and 1 firewood
+
+### Assistant: Whoa, in my original offer, I was getting 3 food. 
+
+### Human: ha sorry. i didnt read it right. then can i have one food? if not ill take all water
+
+### Assistant: You can have 1 food. 
+
+### Human: okay so ill get 2 waters, 1 food and 1 firewood

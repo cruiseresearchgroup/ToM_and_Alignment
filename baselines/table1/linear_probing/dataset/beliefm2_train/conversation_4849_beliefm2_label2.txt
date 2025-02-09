@@ -1,0 +1,23 @@
+### Assistant: Hello! How are you today?
+
+### Human: Good how are you
+
+### Assistant: I am doing quite good. I enjoy camping. I however did not bring enough food.
+
+### Human: Ok I'm sure we can work it out because I know I need extra water and firewood. Do you have any ideas on how to divvy up the extra supplies?
+
+### Assistant: I would need some firewood as well, as I need it to cook the food. I was thinking maybe you can have all the water and I have all the food.
+
+### Human: All the food is too much, I would need at least one package of the food for my group. I was thinking you could have 2 of the food packages and I have 1, then I get all the water and the majority of the firewood. That leaves you with 2 of the high priority food packages and a package of firewood to cook the food.
+
+### Assistant: That seems quite unfair. I really would like my camping trip to be enjoyable.
+
+### Human: I understand. What part of the deal is unfair to you? You get the majority of the highest priority item (food) and I get the majority of the lower priority items (water and firewood).
+
+### Assistant: I will have my two packages of food and only one package of firewood. I do not think I can make one package of firewood last for both of my food. 
+
+### Human: So is your counter that you get 2 packages of food, 0 of water, and 2 of firewood?
+
+### Assistant: Yes, I would be happy with two food and two firewood. That would leave you with one food and one firewood as well as all of the water.
+
+### Human: Ok that sounds fair I agree to that 🙂

@@ -1,0 +1,27 @@
+### Human: Hi - I'm so excited for our camping trip.  I'm most excited about getting to eat food that I normally don't when I am home
+
+### Assistant: Ooh what kind of food?! Like MRE? I'm going to need lots of water because I'm going to the High Desert.
+
+### Human: Hello! camper, how are you? I need us to make a deal where we all benefit.
+
+### Assistant: Yes, I expect that! You need food most and I need water, so let's propose an exact trade? 3 for 3?
+
+### Human: My main objective for the camp is food and firewood, since I have a large family and the amount of food they give in the camp is very small for all my family and my wife and I have to cook with firewood in the camp.
+
+### Assistant: I understand completely. I would like to have all three water, and I'm only traveling with just me, so how about 1 firewood? The rest for you.
+
+### Human: No me gusta mucho el trato, pero para eso debemos hablar y decidir como adultos un buen trato para los dos. Lo que queremos es disfrutar en el campamento.
+
+### Assistant: I do not understand spanish. Please speak to me in English.
+
+### Human: Sorry I'm practicing my Spanish for the camp. I do not like the deal very much, but for that we must talk and decide as adults a good deal for both of us. What we want is to enjoy in the camp.
+
+### Assistant: By giving you all three food and 2 of the three firewood, you're definitely getting much more than I am.
+
+### Human: I can give you all the food you need (3), if you give me all the firewood I need (3) and we agree on the amount of water.
+
+### Assistant: Submit-Deal
+
+### Human: Reject-Deal
+
+### Human: I can give him all the water he needs (3), and I keep all the firewood I need (3) and we just need to agree on the food.

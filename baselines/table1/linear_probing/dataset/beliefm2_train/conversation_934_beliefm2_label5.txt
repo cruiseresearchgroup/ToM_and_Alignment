@@ -1,0 +1,23 @@
+### Human: How are you doing? Which items are you most interested in?
+
+### Assistant: I am most interested in the food packages
+
+### Human: Ok what if i were to give you all of the food? And you give me the water and 2 of the firewood?
+
+### Assistant: I am hoping to have 2 of the waters as I have diabetes and need the extra water for hydration frequently.  How about 3 foods 2 water for me and 3 firewood and 1 water pouch for you?
+
+### Human: While I sympathize with your dilemma and definitely want you to have the water that you need, it would be unfair for you to get the 3 foods and 2 waters because those are the most precious resources. I’m pretty active myself and could use the extra food and water. I could do 2 foods for me 1 water and 2 firewood. Which would leave you 1 food 2 water and 1 firewood.
+
+### Assistant: Well, with you being active you need the water as well.  You originally offered 3 foods.  I will take the 3 foods.  You will need the extra hydration with your active style.  You should take the 2 water and firewood.
+
+### Human: Very true. I’m glad to see that we can compromise. However my original offer was for 3 foods for you and 3 waters for me. So how about 2 foods for you 1 water and 1 firewood. And I’ll take 1 food 2 water and 2 firewood. That should meet both of our needs 🙂
+
+### Assistant: I will pack my water purification set.  I will happily take the 3 foods and how about 2 firewoods?  ;)
+
+### Human: Make it 3 foods and 1 firewood and you have a deal !
+
+### Assistant: You are killing me here.  I wish we could divide 1 item.  I will accept your offer.
+
+### Human: I agree wish we could split things up. Sending deal now
+
+### Assistant: Submit-Deal

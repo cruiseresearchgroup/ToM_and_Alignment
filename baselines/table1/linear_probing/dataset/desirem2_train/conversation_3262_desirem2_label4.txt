@@ -1,0 +1,23 @@
+### Assistant: Hi id like to have extra water for my faily while camping, what is your priority item
+
+### Human: Also water.  My nephew is with me and he drinks a lot.  How are you on food?
+
+### Assistant: food would be great after water, firewood is not a concern for me
+
+### Human: Ok I plan to catch my own food so I am pretty good there.  How much water do you need?
+
+### Assistant: how would you feel about me getting 2 water, 1 wood, 1 food
+
+### Human: Water really is my priority.  If I only got 1 water would it be possible for me to get all the food?
+
+### Assistant: how does me getting 2 water, 0 food, 2 wood work
+
+### Human: Would you be agreeable to me taking 1 water, 3 firewood and 2 food?
+
+### Assistant: thats probably a bit much, youd get 6 items vs my 3. If you would like 2 water - i would do 1 water, 2 food, 2 firewood
+
+### Human: Could you do me taking 2 water, 2 firewood and 0 food?
+
+### Assistant: sure go ahead and enter that deal, good work
+
+### Human: Submit-Deal

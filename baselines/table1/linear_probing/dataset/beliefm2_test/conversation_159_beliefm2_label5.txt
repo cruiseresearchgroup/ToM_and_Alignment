@@ -1,0 +1,23 @@
+### Human: Hello
+
+### Assistant: Hi, how are you doing?
+
+### Human: I'm doing well, thank you. I need you to make an important deal with me 🙂
+
+### Assistant: That's great, and I'm happy to do that. I'm really wanting some extra food for this trip, because I'm a pretty big guy and I get intense snack cravings
+
+### Human: Oh no, that will not do at all. ☹️ We need all the food we could get, as two of our other camping members are type 2 diabetic and they may die! Could you give us food instead? We need it more than you!
+
+### Assistant: I would prefer to have at least one food, and I would be okay giving up two if you can give up water. Would that work? 🙂
+
+### Human: Yes, that will be OK. 🙂 
+
+### Assistant: Awesome. I would like 2 of the firewood if that's cool. My group wants to tell ghost stories at night around a campfire. 🙂
+
+### Human: I don't think that's possible, as our group is going to have a massive bonfire party! 🙂 Would your group like to join us? Simply merge all of your resources with ours and we will have a blast! We also have some hot girls coming over to camp on the beach with us.
+
+### Assistant: We don't really care about the hot girls, and we're looking to have a private outing. How about if you take 2 food and 2 firewood, and I take i food, 3 water. and 1 firewood?
+
+### Human: That's acceptable.
+
+### Assistant: That works for me too. 🙂

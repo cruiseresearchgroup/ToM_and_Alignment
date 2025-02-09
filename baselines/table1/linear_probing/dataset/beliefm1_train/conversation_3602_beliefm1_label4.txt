@@ -1,0 +1,23 @@
+### Assistant: Hi, I will need alot of water as I need it to stay alive.
+
+### Human: I agree, with camping i feel there are many uncertainties. Finding clean water would be too difficult, best to take as much water as possible. 
+
+### Assistant: I will also need some Firewood too to start a fire
+
+### Human: I feel for firewood we dont need as much, as we are going to be camping, with that means, in my opinion, with branches and brush available, maybe we can take 2 fire woods, what do you think?
+
+### Assistant: Since I got some food already, can I get 3 water, 2 firewood and 0 food then?
+
+### Human: can we do at least one food? if thats okay with you? I would like to have extra food in case something happens, i will be able to have the extra supplies. 
+
+### Assistant: ok, so list out the amount you need
+
+### Human: water 3, firewood 2, and food 1, do you agree?
+
+### Assistant: so you need 3 water, 2 firewood and 1 food?
+
+### Human: Yes, I need 3 waters and 2 firewood and 1 food. I really believe the extra supplies will bring comfort in case something were to happen. what are your thoughts?
+
+### Assistant: sorry, but I need alot of water too, you cannot get all 3
+
+### Human: would you compromise with 2 waters, 2 firewood, and 0 food?

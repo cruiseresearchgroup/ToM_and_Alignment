@@ -1,0 +1,23 @@
+### Assistant: Hi.. hello, I need 3  pckage of firewoods wil this okay for you?
+
+### Human: Sure, i am not very attached to receiving much firewood, However, i am in need of water, and would like 3 of that if possible. I would also like 2 foods, as i need to feed my child who is coming along with me
+
+### Assistant: Thanks for your understanding. I understand your children situation. Even, I'm also a married person and I have children. I need 1 pack of water at lesat for my children. can you share with me?. 
+
+### Human: In that case, i would need one firewood as well.
+
+### Assistant: Okay. I'll share with you 1 pack of firewood. may i know how many members in your family?
+
+### Human: I will be going with 
+
+### Assistant: My family has 2 children and one old person . Can you help me with 2 pack of food?
+
+### Human: I am sorry, but i would like to keep the food, i will be with my partner, child, and special needs sibling. 
+
+### Assistant: Okay..fine. I'll manage by 1 pack of food. you take 2 pack of food.🙂
+
+### Human: thats great. thank you so much for understanding. so i will be getting, 2 waters, 1 firewood, and 2 food? are you ok with that?
+
+### Assistant: okay.. Nice to talk with you.
+
+### Human: Submit-Deal

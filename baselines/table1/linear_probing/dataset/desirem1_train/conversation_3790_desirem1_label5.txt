@@ -1,0 +1,27 @@
+### Assistant: :) Hi there, would you like to negotiate on the camping supplies with me?  If we negotiate, we both have a good chance of getting more of the supplies we need!🙂🙂
+
+### Human: Ya I'd love to! What I really need is food and water because I have ten kids! 
+
+### Assistant: Oh wow, that's alot!  I was needing food and water because I'm a large guy and currently dehydrated already.  My doctor says I need at 3000 calories a day just to maintain my weight and desperately need the water to overcome the dehydration.  What do you propose?
+
+### Human: Wow that's a lot! Do you need food or water more?
+
+### Assistant: Well, since I'm dehydrated, I'd say the water.  Sounds like you need the food more for all those kids.  How about you get 2 food, 1 water and 1 firewood.  I'm camping in Alaska and it's really cold so could use the firewood.  That way, you get 2 food for your kids.  
+
+### Human: Can I get 3 food and you get three water and one firewood?
+
+### Assistant: Well, I think I really need at least 1 food or else I'll starve!
+
+### Human: But Water is your most essential item! If not that how about two food one water and two firewood for me?
+
+### Assistant: But you need the food for all those kids and I need the water for my condition and the wood because it's so cold.  How about 3 food for you and 1 wood and I'll take the 3 water and 2 wood?
+
+### Human: Sure
+
+### Assistant: Ok, great!  Let's do it!
+
+### Human: Submit-Deal
+
+### Assistant: Reject-Deal
+
+### Assistant: Submit-Deal

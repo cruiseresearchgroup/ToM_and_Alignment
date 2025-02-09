@@ -1,0 +1,23 @@
+### Assistant: Hi! Are you excited to go on this trip!
+
+### Human: Hi! I am, but I really need firewood for my health. I get really cold and can slip into hypothermia. Would you mind if I took 2?
+
+### Assistant: You can have 2 firewoods if I can have 2 of the food packages. I am a vegan so it is hard to find options in the woods!
+
+### Human: That is fine with me because I am on a diet, so it works out. I also have a baby who needs formula and I need water to make her bottles
+
+### Assistant: okay how many waters do you need?
+
+### Human: was hoping for 2... what do you think?
+
+### Assistant: okay that works for me!
+
+### Human: Ok then have we agreed that I get 2 firewood, 1 food and 2 waters? You would get 1 firewood, 2 food and 1 water?
+
+### Assistant: is there any way i can get another food? i can give you the other water if need be
+
+### Human: Sure that is fine
+
+### Assistant: okay so we agree i get 3 foods and 1 firewood and you get 2 firewood and 3 waters?
+
+### Human: Submit-Deal

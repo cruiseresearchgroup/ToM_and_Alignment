@@ -1,0 +1,23 @@
+### Assistant: I need the firewood and the food, you can have all the water.
+
+### Human: no i need firewood to always keep myself warm.
+
+### Assistant: So do I, I have health issues.  I can give you one firewood, if I get all the food. 
+
+### Human: why can't i get 2 firewoods?.......i'm an ulcer patient i need more than enough food to keep fit'
+
+### Assistant: It will be a strain, but I can give you 2 firewood if I get all the food and two water.
+
+### Human: No that food is very much important to me......i'll get 2 food,2 firewood and 1 water
+
+### Assistant: With little firewood, I need the food since I can't cook fish.  How about you get 2 firewood, one food, and 1 water?
+
+### Human: how about i get 2food because it is very important to my health
+
+### Assistant: Okay, how about you get 2 firewood, 2 food, and I get 1 firewood and 1 food and all the water?
+
+### Human: ☹️ no i also need water,i get dehydrated easily
+
+### Assistant: So do I, especially since I'm doing a lot of hiking.
+
+### Human: Submit-Deal

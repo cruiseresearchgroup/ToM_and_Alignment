@@ -1,0 +1,23 @@
+### Human: I'd like to have 2 extra packages of water and firewood.
+
+### Assistant: I see. And I would like 2 extra packages of Food and 2 packages of  Water as well.
+
+### Human: I have a great risk of dehydration.  I really need those 2 extra packages of water. You can have all the extra food.
+
+### Assistant: Why do you have a risk of dehyrdation? Because I believe all people do but I do understand some people are at a greater risk then others. Tell me why you are at risk?
+
+### Human: I have a medical condition that requires medication, and this medication requires me to drink an extra amount of water or else I will dehydrate. 
+
+### Assistant: That is a problem. Does the medication require the use of fire or firewood as well?
+
+### Human: No, of course not. You can have the extra of those if you'd like. It is really the water that is the most important to me. 
+
+### Assistant: Hmmm... I don't really need the firewood,just the food which you are offering and the water. 
+
+### Human: Okay, can I have the 2 waters and 2 firewood then? I will give you all of the food, and 1 of the water. Do you need any firewood at all?
+
+### Assistant: Since carrying the extra would could make your dehydration worse, I'll take any firewood you don't want. But I'll give you the 2 waters and firewood then for the 3 food and 1 firewood. Deal?
+
+### Human: Yes,thank you for agreeing to the water. I'll give you all the food (3) and 1 firewood and 1 water 
+
+### Assistant: I couldn't live well with myself if I would let you die. You can have the two waters and 2 firewoods. Please be careful with your meds.

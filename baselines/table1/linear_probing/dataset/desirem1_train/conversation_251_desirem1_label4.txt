@@ -1,0 +1,23 @@
+### Human: Hello, I think I have a deal to split up the supplies, if I take 3 of the water and 2 of the firewood, would you accept all of the food and the rest of the firewood?
+
+### Assistant: Hi there! 🙂 That actually sounds like a pretty great deal.
+
+### Human: Okay sure! I am mostly interested in the water, I had to give some of my water away earlier to a family that needed some, and now i'm afraid of running out! 😮 Is there any item that you prefer?
+
+### Assistant: Food is my main priority. I am set on water, so I don't mind if you take all three. One firewood would be okay, but if I could take two, it would be ideal.
+
+### Human: Okay, I think we have that part settled. I can take all the water and you can take the food. We just need to figure out how to split the wood! My family didn't bring as much as we thought we needed from home, so a couple more would be useful for us.
+
+### Assistant: I am in the same boat. I don't have as much as I need to stay as long as I had planned. 
+
+### Human: Why do you need more food anyway? Did something happen?
+
+### Assistant: I shared some food with some folks I met on the trail. I thought I had enough to last, but I'm getting low. I haven't hiked this much in a while and I am hungrier than I though I'd be! I'm afraid of running too low since I am camping on my own. You said you are camping with your family? 
+
+### Human: Yeah, we lost some of our food because I think some animals got into it. I guess we didn't store it right, too easy for them to get into it. But we brought a lot, so I think we are good on food.
+
+### Assistant: Well it works out that you are good on food and I am good on water! We just need to figure out the firewood.
+
+### Human: Yeah, we thought we might be able to collect firewood out here so we didn't bring as much. But park rangers told us that we're not supposed to do that ☹️
+
+### Assistant: Submit-Deal

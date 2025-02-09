@@ -1,0 +1,23 @@
+### Assistant: I will need 2 firewood, 2 water and 1 food
+
+### Human: How about you take all the firewood because I have the skills necessary to chop down more. I also will need three packages of food because I will be climbing a very tall mountain.
+
+### Assistant: well i do need alot of firewood since i need it to start a fire
+
+### Human: Okay, so you can take all the firewood and I take all the food. I will also need at least two waters because I had a limited supply at home.🙂
+
+### Assistant: no, i will need 2 water because i need to drink it and there not much water around me
+
+### Human: Please work with me. I will need plenty water to make it to the top of the mountain.
+
+### Assistant: i am already giving you all 3 food which i also need to eat
+
+### Human: Would you be willing to trade a piece of firewood for an extra water bottle? That will save me some time from chopping down extra wood.
+
+### Assistant: no, best i can offer is i get 3 firewood, 2 water and 1 food
+
+### Human: No thanks.☹️
+
+### Assistant: ok, last deal, i get 3 firewood, 1 water and 1 food
+
+### Human: That sound fair to me since I will need plenty food and water for my climb.

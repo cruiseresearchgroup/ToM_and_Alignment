@@ -1,0 +1,23 @@
+### Human: Hi:  Really looking forward to my camping trip to the lake this weekend.  How about you?
+
+### Assistant: Yes! I can't wait to get out of town. I'm mostly packed. You?
+
+### Human: Yes, I am.  Just a few last minute errands and we will be ready to go.  Who is joining you on your trip or are you going solo?
+
+### Assistant: Well, it was going to be a solo trip, but at the last minute my friend asked if he could join. I want to say yes but I don't think I have enough food for another person. When we split up supplies, how about I take all of the food and half the firewood, and you take the water and the rest of the firewood?
+
+### Human: How about I take 3 firewoods and 2 waters and you can have all the food? 
+
+### Assistant: Hm, that doesn't work for me. I get really cold, so I'm looking forward to building a big fire. How about I take all the food, 1 firewood, and 1 water, and you take 2 firewoods and 2 waters?
+
+### Human: I agree a fire at night is really nice. I think this deal is pretty good. I think we have food covered as my sons went to the store today and picked up all of their favorite snacks.  Not sure it's all going to fit in my car. LOL
+
+### Assistant: Nice! I'll tell my friend he can join - he'll be so excited 🙂
+
+### Human: I think it is always a good idea to go with someone else not only for companionship but also for safety.  Are  you planning on hiking? I heard it is beautiful this time of year. 
+
+### Assistant: That's a good point about safety. Yes, I'm going to do some day hikes. How about you and your boys?
+
+### Human: Yes hiking and some fishing too. 
+
+### Assistant: That sounds great! I'm going to enter the deal we discussed.

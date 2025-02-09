@@ -1,0 +1,23 @@
+### Assistant: i had basic packages but, i need some additional packages
+
+### Human: i would most like to have extra food for my trip, i can get wood from the forest
+
+### Assistant: i also want some fire wood
+
+### Human: how would you like 3 firewood an 1 food and 1 water
+
+### Assistant: sorry i need most is food for my trip.so, i like to have 3 food,1 water and 1 wood.
+
+### Human: i need some food as well - would you go for 2 food 1 water, 2 wood
+
+### Assistant: ok. but i am always tired at my trip so i need some water also can you give 2 food 2 water and 1 fire wood..
+
+### Human: food and water are my top priorities ill need 2 of one of them at least
+
+### Assistant: i feel thirsty at my trip heavily.
+
+### Human: would you do 2 food 2 water 0 wood
+
+### Assistant: ok. that's a good deal.i agree.
+
+### Human: Submit-Deal

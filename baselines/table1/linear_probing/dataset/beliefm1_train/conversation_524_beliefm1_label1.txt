@@ -1,0 +1,23 @@
+### Human: Hello
+
+### Assistant: Hello! I am going on an expedition and am in need of provisions. The risk is much, the need is great, but the rewards are even greater! I am asking that you might allow me to have 3 firewood, 2 food, and 2 water.
+
+### Human: Why do you need so much firewood?🙂
+
+### Assistant: My camping expedition is in the far reaches of the north, away from civilization. I've already lost three fingers to frostbite, and I can ill afford to lose another. In short, I need the firewood - for fire. And warmth.
+
+### Human: Sorry to hear about your problems. Are you going to Canada this time?
+
+### Assistant: Farther. I'm going so far north that we'll be passing over the north pole and keep going into Siberia.
+
+### Human: That sound cool, I mean cold. 🙂
+
+### Assistant: It will be. And I'm grateful that you recognize the need! Will you do me a solid by permitting me to have these provisions?
+
+### Human: I can give you 3 firewood, but only 1 food and no water.
+
+### Assistant: Good gravy! I will need to cancel the expedition if that's all you have to spare. Can you surely do no better?
+
+### Human: I do like to have lots of water because I get thirsty on some of my longer hikes. How about I give you 3 firewood, 1 food and 1 water?
+
+### Assistant: I see. I can get by without the water, but I need more food. With 2 food, I will probably need to eat my dog, but I will survive. Will you give me 3 firewood, 2 food, and no water?

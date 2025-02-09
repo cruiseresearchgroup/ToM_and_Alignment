@@ -1,0 +1,23 @@
+### Assistant: Hello how are you?
+
+### Human: I'm doing great, how about yourself?
+
+### Assistant: Doing good. What resources do you need?
+
+### Human: I'm in need of firewood. It's a family tradition to tell stories around the campfire, so I want to be sure we're well stocked for the weekend.
+
+### Assistant: That sounds like a very cool tradition. Would you be good with two firewood and 1 each of water and food?
+
+### Human: That sounds reasonable, but I'm hoping I'd be able to get 2 food instead of 1. I've got two young kids who eat A LOT, so I want to make sure they're well fed and in good moods 🙂
+
+### Assistant: I'm a bodybuilder so that extra food is kinda essential sorry. 
+
+### Human: I totally understand. If that's the case, though, I think I'll need 3 firewood to ensure I can keep them occupied with stories when they get hungry.
+
+### Assistant: You can have three firewood if I get three water and two food. I'm giving you the top item so i think I should get some concessions. 
+
+### Human: I appreciate that. However, I will need at least 1 water. You're already getting the majority of the food, and you're welcome to the majority of the water as well. I do need to keep the kids hydrated though 🙂
+
+### Assistant: Submit-Deal
+
+### Human: Reject-Deal

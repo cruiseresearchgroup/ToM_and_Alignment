@@ -1,0 +1,23 @@
+### Assistant: Hi, I think I have enough firewood already so I am willing to give you all of the firewood if you give me more of the food or water.
+
+### Human: I also think I have enough firewood. I would trade you two fire wood for 1 water
+
+### Assistant: That sounds fair.  If I do that, then would you be willing to let me have 2 packages of food? 
+
+### Human: I will give two packages of food  i nstead of 1 water .
+
+### Assistant: So how does this sound....I get 2 packages of food, 1 package of water, and 1 package of firewood?  I have five children with me on this trip so I am the most concerned about nobody getting too hungry!  🙂
+
+### Human: No. You give me 3 packages of firewood.and I give you  2 packages of food and 1 water.
+
+### Assistant: I think that would work.  Do you really think you need all three packages of firewood though?  If you said you already had enough firewood then why take all three? ☹️
+
+### Human: Yes i think it's fair. I need food and water yet I am parting with 2 packages of food and 1 water. Just trying to be fair and help you our since you have extra people with you. You can find firewood in the wild if need be.
+
+### Assistant: That is true, I appreciate the tip.  Hopefully it will be dry enough to use in the fire.  
+
+### Human: Is it final then?
+
+### Assistant: Yes that sounds good to me!  Enjoy your camping trip.  🙂
+
+### Human: Submit-Deal

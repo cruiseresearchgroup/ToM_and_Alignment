@@ -1,0 +1,23 @@
+### Assistant: Hello, I would like to have 3 packages of firewood.
+
+### Human: I would be willing to give you 2 packages of firewood, if you give me three packages of food and two packages of water
+
+### Assistant: I can give you three packages of food, however I would want three packages of firewood and 2 packages of water
+
+### Human: How about I give you three packages of firewood and one package of water instead
+
+### Assistant: What would you need two packages of water for?
+
+### Human: I am on medication that tends to make me very thirsty and extra water would help
+
+### Assistant: That seems important for camping, I can take that into consideration
+
+### Human: why would you need two packages of water?
+
+### Assistant: I would need two packages of water because I am going on an extended camping trip, and the extra water would help keep me hydrated for the entirety of the trip
+
+### Human: It looks like we both have valid reasons for wanting the extra water 🙂. But we need to come to an agreement. How about I give you the two packets of water in exchange for one packet of firewood?
+
+### Assistant: How about you give me 3 packets of firewood, and one packet of water as I think you deserve to have the extra water!
+
+### Human: and I still get three packages of food?

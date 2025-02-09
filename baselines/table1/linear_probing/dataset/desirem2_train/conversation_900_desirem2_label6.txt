@@ -1,0 +1,23 @@
+### Assistant: Hi how are you doing today?
+
+### Human: I'm doing well. I'm very excited about our camping trip!
+
+### Assistant: I am too! I have a rather large family and we are looking forward to getting out for some time away!
+
+### Human: How nice. I am bringing my daughter and her girl scout troop. I am the co leader.
+
+### Assistant: Oh that
+
+### Human: We will need some extra water for all the girls on the hike.
+
+### Assistant: Sorry, I sent my last message inadvertently. I meant to say that that sounds great! Yes, I can understand the need for extra water for the hike. With the size of my family, I could use a bit of extra food for our trip.
+
+### Human: We can get by with less food since the girls will be looking to forage in the forest to get a badge.
+
+### Assistant: That's awesome! Since we have the basics, would you be willing to swap 3 packages of food for 3 packages of water?
+
+### Human: We will need two food so we can fill their bellies, but I will be glad to offer you all the firewood since I can use my axe and get wood for us.
+
+### Assistant: Absolutely understand. How does this deal sound: you will get 2 food, I will get 1. You will get 3 water, I will get 0. You will get 0 firewood, I will get 3.
+
+### Human: That is a very fair deal. I am glad we could work this out.

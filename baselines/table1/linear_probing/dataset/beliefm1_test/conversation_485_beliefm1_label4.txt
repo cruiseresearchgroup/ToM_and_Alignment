@@ -1,0 +1,27 @@
+### Human: hello
+
+### Assistant: Hi
+
+### Human: ready for the camping trip?
+
+### Assistant: Yes, I am excited 🙂
+
+### Human: i am too, it is going to be really nice
+
+### Assistant: Sure is. 
+
+### Human: though i do think i am going to need some more firewood, you think you can help me with that?
+
+### Assistant: I can give you firewood in exchange for a bulk of the water since I am trying to go on a water fast diet.
+
+### Human: ya it can be very cold at night and the extra firewood can help with that. i do have some extra water for you
+
+### Assistant: Great. That is a fair compromise. How much did you have in mind to exchange? 
+
+### Human: 3 for 3?
+
+### Assistant: Sounds good. So I give you 3 firewood and you give me 3 water?
+
+### Human: correct
+
+### Assistant: I can work with that. Now how would we divide the food? 😮

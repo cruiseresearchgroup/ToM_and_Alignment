@@ -1,0 +1,27 @@
+### Assistant: Hello!  It will be so nice to go camping and spend some time in nature during this stressful time.
+
+### Human: Yes it is. The scenery is beautiful and it is taking my mind off things. So glad to be here. 
+
+### Assistant: I am working hard around the camp and getting hungry!
+
+### Human: You came here to work? I’ve been taking it easy. 
+
+### Assistant: LOL, I mean setting up the tent and clearing the area for a campfire. I'll take a break now.
+
+### Human: Sounds good.  I suggest you make a fire and relax. 
+
+### Assistant: Just need a little more wood.  Then it will be great to cook my dinner on.
+
+### Human: I got some spare wood. I’m a little short on food though. I didn’t pack enough. 
+
+### Assistant: Great, we can split the food, how are you on water?
+
+### Human: That would be great. I need to have frequent small meals throughout the day so the extra food would help. I have plenty of water. 
+
+### Assistant: alright, so I'll keep the water, and firewood, and give you 2 extra food.  Does that sound like a good deal?
+
+### Human: I actually need one firewood and one food package. I can give you one water. 
+
+### Assistant: That sounds great.  Thank you
+
+### Human: Submit-Deal

@@ -1,0 +1,31 @@
+### Human: Hi I need 2 packages of  food and water and 1 of wood
+
+### Assistant: Hey, I could really use the extra water package, is there a specific reason you need extra food and water?
+
+### Human: I have kids with me that's the reason I need extra water and its summer
+
+### Assistant: I can give you all three waters if I can have 2 foods & all 3 firewood.
+
+### Human: It will be really hard to survive if I give you all 3 waters since all the packages are essential. 🙂
+
+### Assistant: Do you have another deal you'd be willing to make?
+
+### Human: It would be really hard for me  . please consider my deal 
+
+### Assistant: Would you take 2 waters, 1 food and 2 firewood?
+
+### Human: My preference is 2 waters, 2 food and 1 fire wood
+
+### Assistant: I'm sorry but I just won't be able to do that. 
+
+### Human: as you know it won't be beneficial if we break the deal
+
+### Assistant: I understand, as well as you do I'm sure.
+
+### Human: I will take  2 food 1 water and 2 firewood
+
+### Assistant: Sounds great. I'm glad we come to a deal.
+
+### Human: Great🙂
+
+### Assistant: Submit-Deal

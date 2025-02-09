@@ -1,0 +1,27 @@
+### Human: hi
+
+### Assistant: Hello there, How are you? 🙂
+
+### Human: I'm good thanks
+
+### Assistant: Good to hear, Well i might as well say it now. I have a medical conditon leading me to need a lot of water to stay hydrated. I would ask for all of the water
+
+### Human: I also need a high amount of water, I can offer you some firewood in exchange
+
+### Assistant: I can give you one of the extra waters
+
+### Human: what about firewood
+
+### Assistant: Well you can have 2 firewood if i can have 2 food
+
+### Human: I am good with that
+
+### Assistant: So to recap i get 2 water 1 firewood 2 food
+
+### Human: yes that is correct
+
+### Assistant: great
+
+### Human: you an enter it in the bos
+
+### Assistant: Submit-Deal

@@ -1,0 +1,23 @@
+### Assistant: Hello! how are you doing today
+
+### Human: Hello! I am well. How are you?
+
+### Assistant: Excellent! thank you for asking
+
+### Human: I am in extra need of food and water. You see, I have a baby and a toddler who eats often! Would you be willing to lend me 3 foods and 2 waters?
+
+### Assistant: I see your need for plenty of water and food, but that's just too much to ask. I am making a huge bonfire with my friends, so I do need the firewood. How about 3 firewood and 2 water
+
+### Human: I could use some firewood as well. How about 2 firewood for you, 1 food and 1 water?
+
+### Assistant: how about 3 firewood and 1 food for me
+
+### Human: i'm good with that. I really need water to make my baby's bottle. Can I have two waters?
+
+### Assistant: You can have all the water and 2 food. that's my offer
+
+### Human: that works well with me, thanks!
+
+### Assistant: Ok deal
+
+### Human: Submit-Deal

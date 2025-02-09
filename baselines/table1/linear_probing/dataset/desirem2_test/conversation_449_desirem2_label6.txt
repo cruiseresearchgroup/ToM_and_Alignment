@@ -1,0 +1,23 @@
+### Human: How are you today? Did you have any preferences on the supplies we will be trading?
+
+### Assistant: I am good. How about yourself? I think I would like some firewood to start off with. We like to have bigger fires. What about you?
+
+### Human: I am good as well. That is good to hear that you like to have bigger fires as we do not care much for that. We would much rather have some extra water.
+
+### Assistant: Water is a little important to us too though , if possible maybe we can split that or maybe we can get some more food in replacement.
+
+### Human: That may be possible.... 🙂 What did you have in mind for the food replacement? 
+
+### Assistant: You can have all the water if we can have all the food?
+
+### Human: I dont think I am okay with that ☹️. Food is essential to our groups morale when camping. We would like 1 additional food preferably.
+
+### Assistant: Well you guys did say you did not care much about large fires. What if you gave all the firewood in replace for the water and you can still keep 1 food?
+
+### Human: So I would get 3 water and 1 food and youd get 3 firewood and 2 food?
+
+### Assistant: Yea that seems like an alright trade to me 🙂
+
+### Human: Hmm... alright then 🙂.
+
+### Assistant: Submit-Deal

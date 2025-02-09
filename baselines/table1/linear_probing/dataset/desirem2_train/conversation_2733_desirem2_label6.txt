@@ -1,0 +1,23 @@
+### Human: Hi there. How are you enjoying the camp site?
+
+### Assistant: hey, we are dong great, we just ran out of water
+
+### Human: Wow. Already? You must be working up a sweat. 
+
+### Assistant: It was pretty hot during the day. can I have the water, please🙂
+
+### Human: I need to make sure I will have enough supplies for the rest of my trip. Not sure if I will have enough food. 
+
+### Assistant: I will let you have the food if you give me the water. we have enough food.
+
+### Human: Interesting. How about two foods and one firewood? I will definitely be needing these supplies. 
+
+### Assistant: so I get  3 water, 1 wood and one food?
+
+### Human: Yep. I think that will cover you and will be more than enough for me. 
+
+### Assistant: I think it sounds fair. we have a deal
+
+### Human: How does that sound buddy?
+
+### Assistant: Submit-Deal

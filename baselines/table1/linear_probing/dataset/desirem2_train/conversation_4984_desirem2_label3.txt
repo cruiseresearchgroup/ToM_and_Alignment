@@ -1,0 +1,23 @@
+### Assistant: Hello!
+
+### Human: Hello
+
+### Assistant: On my upcoming trip, I would like some extra food and water for my family.
+
+### Human: Ok. I would like to have some extra firewood.
+
+### Assistant: Do you have a preference between food and water?
+
+### Human: I would like water more than food. 
+
+### Assistant: How many wood do you think you need?
+
+### Human: I would like 2 of the firewood. What do you think? 
+
+### Assistant: I don't need wood as I am usually warm so I think we can work out a deal. I like to have more water and I usually get thirsty.
+
+### Human: That sounds good to me. 🙂 I think we can make a good deal.
+
+### Assistant: I can give you 3 wood packages if I can get 3 water and 2 food. So you will receive 3 wood and 1 food. What do you think?
+
+### Human: I would like 2 wood, 1 water and 1 food. You would get 1 wood, 2 water and 2 food.

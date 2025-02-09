@@ -1,0 +1,23 @@
+### Human: How are you enjoying the camping trip so far?
+
+### Assistant: Hi. It’s great, but very cold here. How about you? 
+
+### Human: Yes the cold is hard to adjust to I can't seem to shake the chill.
+
+### Assistant: I could really use some extra firewood!
+
+### Human: So could I. How about we split the firewood?
+
+### Assistant: How about I take 2 firewood but you can have 2 waters? Water is pretty important and I have a little extra.
+
+### Human: That sounds fair.
+
+### Assistant: How are you on food? 
+
+### Human: I need extra food. I have recently  been ill and my doctor has prescribed extra calories so I can regain my strength.
+
+### Assistant: I’m sorry to hear that! If there are 3 packages of food please take 2 of them. I could stand to eat less!
+
+### Human: Thank you. That deal is perfect!🙂
+
+### Assistant: Sounds good to me. Let me see how to execute this trade!

@@ -1,0 +1,23 @@
+### Human: hi how are things on your end?
+
+### Assistant: Going well just getting ready to go camping! How are you?🙂
+
+### Human: same here getting ready too, I though am in need for extra firewood and food, hoping for 3 firewood and 2 food packages and one water
+
+### Assistant: I'm in need of those too. What would you use the extra firewood for?
+
+### Human: where I am going it rained so no luck to find wood for fire up there and it is supposed to be colder then expected.
+
+### Assistant: Oh yeah, I understand that. However, I am also in need of extra firewood and would need it for cooking purposes. How about I take 2 firewood, 1 food, and 1 water? 
+
+### Human: thats a bit rough i offer 1 firewood 1 food and 2 water for you then we both have something.
+
+### Assistant: I think we're getting closer to an agreement🙂 How about 1 firewood, 2 food, and one water?
+
+### Human: ok i got one more offer 1 firewood 1 food and 3 waters for you you got to be thirsty on your trip
+
+### Assistant: I'll accept that🙂
+
+### Human: great good deal🙂
+
+### Assistant: Thank you!🙂

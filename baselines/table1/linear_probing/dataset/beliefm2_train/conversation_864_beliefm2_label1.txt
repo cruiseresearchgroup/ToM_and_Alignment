@@ -1,0 +1,23 @@
+### Human: Hi As a starting point I just put in an initial proposal
+
+### Assistant: I'm unable to see your proposal. I'm hoping to get at least 2 additional packages of firewood. I forgot my sleeping bag and blankets, so extra firewood would help me stay warm at night. 
+
+### Human: I was hoping for two packages of firewood as well...I would need it to heat the food and water
+
+### Assistant: I would be willing to give you the 2 packages of firewood if I'm able to take all of the food and one water. My dog is coming on the camping trip and I'm worried with all the extra activity he won't have enough food and water packed for the weekend. 
+
+### Human: I would need one food and one water in addition to the firewood. Alternatively, you can have 2 firewoods if I could have 2 foods and 2 waters
+
+### Assistant: I would feel better about our trip if I was able to have 2 firewood 1 food and 2 waters. Is that something you would be interested in doing? I think I can make do on the food, but extra water for my pup would be ideal. 
+
+### Human: So if you have the extra firewood you can boil water at the campsite for your dog. I am a dog lover as well and want to be sure they are taken care of. I propose we set up a ratio of 2to 1 for firewood and water (if you get two firewood you get one water and vice versa) that seems they only way for us both to have something that we can work with
+
+### Assistant: I appreciate that you're a fellow dog lover. I hadn't thought about boiling water. A 2:1 ratio seems fair to me. 
+
+### Human: How about if the person who get the two firewood (which seems to be the most desirable entity) only gets 1 food and the person who gets the lesser valued water gets the extra food. That seems fair to me
+
+### Assistant: I can agree with that. The firewood is my biggest concern because I forgot the blankets! As long as I'm warm, I should be able to make do on 1 food and 1 water. 
+
+### Human: okay so I propose you get two firewood, one water and one food. I get one firewood, two food and two water. Do you agree?
+
+### Assistant: Yes, I agree. I'll submit the deal now.

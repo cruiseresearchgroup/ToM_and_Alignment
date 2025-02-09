@@ -1,0 +1,31 @@
+### Human: Hi!  I want some additional packages of firewood, water, and food
+
+### Assistant: Are you bringing guest?
+
+### Human: I am a campaign partner
+
+### Assistant: Oh. What does that mean?
+
+### Human: No I am the only person who come with you
+
+### Assistant: Oh.  Well, which items exactly do you want?
+
+### Human: I want 3 packages of firewood, 2 packages of water, and a package of food
+
+### Assistant: Not happening
+
+### Human: If you do not come with a deal I would walk away
+
+### Assistant: Bye then
+
+### Human: Your decision could not use both of us
+
+### Assistant: I will give you 3 firewoods and I will take 3 water and 3 food.
+
+### Human: This is not work for me at least give me one more water package
+
+### Assistant: Nope, take it or leave it.
+
+### Human: That's okay thank for your deal
+
+### Assistant: Okay then deal!🙂

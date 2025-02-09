@@ -1,0 +1,35 @@
+### Assistant: Hi! Ready for camping?! 🙂🙂🙂
+
+### Human: Hello. Of course I am ready. I've been excited for months now.
+
+### Assistant: Me too! I know how you feel! What are you bringing?
+
+### Human: I'm bringing water, firewood, and food. How about you?
+
+### Assistant: Yes, me also. I need some things more than others, and I need to do some trading. 🙂
+
+### Human: I need water and firewood mostly. What do you need?
+
+### Assistant: Firewood for sure! I don't need water really. I sterilize well and stream water.
+
+### Human: Are you willing to make a trade with me?
+
+### Assistant: Yes, please. Would you like to have all of my water? 🙂
+
+### Human: Yes. I will give you 1 food package for it.
+
+### Assistant: How about your firewood? Do you need all of it?
+
+### Human: I need firewood. I will give you 1 firewood, and 1 food package for your water packages. How does that sound?
+
+### Assistant: I really need more than 1 firewood. I go through it really quickly, especially with sanitizing my water.
+
+### Human: I need firewood to keep me warm at night and to cook my food.
+
+### Assistant: Okay, so if you need more than 1 firewood, I'll take 2 food, and 2 water?
+
+### Human: I thought you didn't need water? I give you 1 food, 1 firewood for your 3 water packages. How does that sound?
+
+### Assistant: I just want to make sure the trade is fair. There are 3 of each, so how about this.. for you 1 firewood, 1 food, 3 water and for me 2 firewood, 2 food, 0 water.
+
+### Human: Submit-Deal

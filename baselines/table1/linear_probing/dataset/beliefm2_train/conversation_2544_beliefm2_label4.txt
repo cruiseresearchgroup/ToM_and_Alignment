@@ -1,0 +1,23 @@
+### Assistant: Hello. I'm going to do a lot of hiking on my camping trip and need as much water as possible. I'm also planning a bonfire with fellow campers in the area, so I'd like as much firewood as possible. How about I keep the water and firewood and you keep the food?
+
+### Human: That doesn't work for me. I will also need extra water because I drink a lot. How about we start by saying you get the firewood, and I'll take the food?
+
+### Assistant: OK, but how do we split up the water? Because it sounds like we both need some. What if you take all the food and I take all the firewood and then I get two waters and you get one extra?
+
+### Human: I would prefer to have 2 waters since I agreed to give you all the firewood.
+
+### Assistant: But I agreed to give you all the food. Now that you want two waters, I think I should have some food because I left a bag of my food at home. You get two waters and I get one of the food. Then you get the majority of both the water and food.
+
+### Human: So I get 2 waters/2 food/0 firewood, and you get 1 water/1 food/3 firewood? I think that works for me.
+
+### Assistant: Yes, that's the plan. By the way, what do you need all that food for? You didn't say. I'm just curious.
+
+### Human: I'm a bigger guy (6'3") so I eat a lot, especially after activities like hiking and kayaking. Same reason I want water really.
+
+### Assistant: OK, that makes sense. I don't eat as much as you do, so it's only fair that you get most of the food. So I hope this deal will be fair for both of us and you'll walk away happy.
+
+### Human: Yep, I'm happy, hope you are too! 🙂 I think we can enter the deal now.
+
+### Assistant: Yes, I am. I'm entering the deal now.
+
+### Human: Submit-Deal

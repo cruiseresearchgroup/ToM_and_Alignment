@@ -1,0 +1,23 @@
+### Human: Hi, I need lots of firewood and food - is water important to you?
+
+### Assistant: Hey, how are you?  Food is important to me, but so is water.
+
+### Human: I'm good.  Hope all is well and safe with you as well.  Yes, firewood is important to me because I need it to cook the fish and meat that we brought on the trip.
+
+### Assistant: I understand, that makes sense! I can let you have more, or most firewood.  I need some amount of both food and water though.  We don’t have enough of either.  ☹️
+
+### Human: Sounds good.  I can let you have more of or the most water.
+
+### Assistant: That seems like a good deal.  I can probably get by with just 1 food if i can have 3 water.
+
+### Human: Sure.  Would I be able to have 3 firewoods?
+
+### Assistant: Could i have 1 firewood so we can be warm at night?
+
+### Human: Sure.  That works.  So I get 2 firewoods, 2 foods, 1 water?
+
+### Assistant: Hmmm, i thought i got 1 food, 1 wood and 3 water 😮
+
+### Human: Oh ok.  That works too
+
+### Assistant: Great, i’ll propose it

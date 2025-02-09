@@ -1,0 +1,23 @@
+### Human: Hello! how are you doing?
+
+### Assistant: Hello, I would like to keep the 3 extra packages of firewood an 2 extra packages of water.  You can have all 3 packages of water and 1 package of food.
+
+### Human: That's just too big of an ask. How about I get 3 firewood and 1 water and you can have the rest
+
+### Assistant: I really need the extra firewood.  I hiked 5 miles o this camping spot and I need the extra firewood to stay warm and to keep the wild animals away at night.
+
+### Human: I really need some of the firewood too. I am expecting a big group of people to attend, and I can really use it. it gets really cold at night where we camp. What do you suggest is a more fair deal to the both of us?
+
+### Assistant: I will give you one extra package of firewood. You can have all 3 packages of food 1 package of water for your group of friends. Does that sound good?🙂
+
+### Human: I appreciate the offer but if you're getting more of the firewood, I need some of the water too. How about you get 2 firewood and 2 food and I keep the rest.
+
+### Assistant: Ok, but I need at least 1 package of water. So, I can give you 2 packages of water along with the 1 package of firewood and the 3 packages of food. Do we have a deal?🙂
+
+### Human: So i get 1 firewood, 2 water and 3 food?
+
+### Assistant: Yes, do we have a deal?
+
+### Human: Yeah, we have a deal. Thank you 
+
+### Assistant: Submit-Deal

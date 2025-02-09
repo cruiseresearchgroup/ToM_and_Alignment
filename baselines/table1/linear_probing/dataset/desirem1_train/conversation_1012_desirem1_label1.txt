@@ -1,0 +1,43 @@
+### Assistant: hai friend, me and my team going to trip on some snow fall place i want some help from you
+
+### Human: Yeah sure. I do my level best .
+
+### Assistant: okay friend. In my team old age sicked peoples and kids are there so i need some extra package.
+
+### Human: Okay friend. Which item do you need the most?
+
+### Assistant: I need 3 pack of fire wood and 2 pack of food and 2 pack of water
+
+### Human: But If I will give you these items I don't get enough package friend.
+
+### Assistant: i understand friend, we going to a snow fall place so we need fire wood and sicked and kids are in my team so i need food and water
+
+### Human: Okay I will give you 2 firewood 2 food and 1 water.
+
+### Assistant: food and water is ok, but i must need 3 pack of fire wood friend
+
+### Human: okay I will give you 3 firewood 1 food and 1 water because I too have family,there two old people and 1 child.
+
+### Assistant: understand my situation friend i need the food and water for old age sicked people and my kids, 1 pack of food and water not enough 
+
+### Human: Submit-Deal
+
+### Assistant: Reject-Deal
+
+### Assistant: wait friend please understand my situation i need food and water 2. 
+
+### Human: okay I accept the deal
+
+### Assistant: Are you sure friend. ?
+
+### Human: yeah sure friend I understand your situation🙂
+
+### Assistant: wow. thank you so much friend. so kind of you Thanks for the help. 
+
+### Human: Submit-Deal
+
+### Assistant: Reject-Deal
+
+### Assistant: sorry friend wrongly press the reject button. Have a nice day friend.
+
+### Human: Submit-Deal

@@ -1,0 +1,31 @@
+### Assistant: Hi My friend! Are you excited to go camping?
+
+### Human: Hello friend! I'm suuper excited 🙂
+
+### Assistant: Me too🙂. What do you think of the items? which one do you prefer the most?
+
+### Human: well I honestly prefer Firewood and food, what about you?
+
+### Assistant: I would love to get more water. I don't really care about food since I am still full. I ate too much at home. 
+
+### Human: hahaha that is fine... so what do you think about you gettin 3 packages of water and I get the firewood and food?
+
+### Assistant: Is water your least prefer item?
+
+### Human: Yes it is and since is your most prefer item I think we both win.. do you agree?
+
+### Assistant: Which one is your highest priority? Firewood or food?
+
+### Human: Honestly Firewood, i really need more of this.
+
+### Assistant: Well I need some firewood but since we are buddies, I will give you all if you give me my water. But at least we should divide the food, right?
+
+### Human: I think that is fair.. do you need 1 package of food?
+
+### Assistant: Ok. That is good for me. I think I can catch some fish in the river. 
+
+### Human: excellent, do we have a deal?
+
+### Assistant: it is a deal, my friend.
+
+### Human: Submit-Deal

@@ -1,0 +1,23 @@
+### Human: Hi! How are you doing today?
+
+### Assistant: Good ! How are you?
+
+### Human: I'm doing well! Just getting the last things in order for our weekend camping trip. 
+
+### Assistant: How excited are you?
+
+### Human: I'm so excited! And we got an extra blessing this week. We had 2 foster kids placed with us so they will be joining us for the trip! They have never been camping before, so I am super pumped for them! 🙂
+
+### Assistant: Aww thats exciting! im bring my 5 month old for his first time so im excited about that!
+
+### Human: Aww how fun! Love that! Since I have a few extra kiddos joining us, I am way short on food! I could really use 3 extra food packages!
+
+### Assistant: I can give you the 3 food if i can get 3 water and 2 firewood!
+
+### Human: Thank you so much!! As much as that would help, It would also be super helpful if I could even get 1 water. I can get by with 2 firewood. 
+
+### Assistant: i really need the water for my babies formula!
+
+### Human: Okay, I understand that! I want to make sure your baby has everything they need! So I can handle 3 food and a firewood
+
+### Assistant: Submit-Deal

@@ -1,0 +1,23 @@
+### Human: hi, what are your preferences?
+
+### Assistant: Hi I prefer as much water as I can, some food, but I don't need any more firewood. What are your preferences?
+
+### Human: I need as much food as possible. I could use a little water but I don't need any firewood either
+
+### Assistant: I can give you 2 units of water if I can get 2 units of food?
+
+### Human: I think that's fair
+
+### Assistant: I am sorry about that. Reverse that. Can I get 2 units of water and give you 2 units of food?
+
+### Human: Oh yes, I misread that as well. 2 food for me, 2 water for you
+
+### Assistant: How do you want to split the firewood?
+
+### Human: Can I take 2 of the 3? I need it a little, though not a lot. You mentioned not needing any. 
+
+### Assistant: Could you tell me more about why you need 2 of the 3? I am open to giving you them, but I am not sure yet.
+
+### Human: I think I'll need a little since I have a big group joining me. I'd like to be extra prepared.
+
+### Assistant: I can give you 2. I don't have a huge group with me so I feel that is fair.

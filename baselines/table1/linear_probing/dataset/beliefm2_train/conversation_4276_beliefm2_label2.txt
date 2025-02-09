@@ -1,0 +1,23 @@
+### Assistant: Hello
+
+### Human: Hello! How are you doing today?
+
+### Assistant: I am doing great
+
+### Human: Great! For our camping trip, I would love to take all the water and firewood. You can have all the food. 
+
+### Assistant: I really need the firewood,  It gets very very cold at night where I go camping.
+
+### Human: I really needed firewood also.  I have brought my whole family camping which includes my 2 and 3 year old.  They really need to stay warm
+
+### Assistant: I am just going to walk away,  I can't have my family freeze
+
+### Human: I do not want my family to freeze either but walking away doesn't benefit either of us. How about I take the water and 2 firewoods, you have the rest
+
+### Assistant: No deal, I need at least 2 firewood
+
+### Human: Ok, I can agree to 2 firewood but I will have to take all the food and water to compensate
+
+### Assistant: I am walking away, completely unfair
+
+### Human: You haven't offered anything and walking away means you get nothing so that doesn't seem like an option

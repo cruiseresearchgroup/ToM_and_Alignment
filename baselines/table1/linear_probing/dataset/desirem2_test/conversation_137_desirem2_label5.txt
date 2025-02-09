@@ -1,0 +1,23 @@
+### Human: Hi there. It is nice to meet you. Are you going camping this weekend?
+
+### Assistant: Yes. And you?
+
+### Human: Yes, me too. Shall we figure out what we need for our trip?
+
+### Assistant: Yes. I plan to hike while I am camping. Do you have specific plans?
+
+### Human: Yes, we plan to do a lot of sitting around. We are going to need a lot of food for our trip cause we have a lot of heavy people.
+
+### Assistant: I like snacks too lol! I want to be sure I have a lot of water for my hike. I would like all three waters if you want all three food.
+
+### Human: OK. That will work.
+
+### Assistant: Great! I think one extra firewood is good for me so you can have 2 of those and we will be set. Have fun!
+
+### Human: Ok that will work for me too. You are very kind. 
+
+### Assistant: You as well. If I bump into you and your friends I'll say hello 🙂
+
+### Human: Ok sounds good. Let me set the deal for us. Have a good trip. 
+
+### Assistant: Submit-Deal

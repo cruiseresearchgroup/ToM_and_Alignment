@@ -1,0 +1,23 @@
+### Assistant: Hello, It's nice to meet you.
+
+### Human: Hi there, it is nice to meet you too. 
+
+### Assistant: I am worried I'm going to be cold at night, I'd like more firewood if possible.
+
+### Human: I can understand that, but I would also like to have more firewood because I am anemic. I get cold very, very easily, even in the daytime. ☹️
+
+### Assistant: What about food? I don't need a lot since I ate alot yesterday.
+
+### Human: How would you feel about me taking 3 firewood and 2 water and you taking 1 water and 3 food?
+
+### Assistant: I don't need that much food though. I'm more worried about having water since there's no streams around.
+
+### Human: Okay, that is a good point. How about I take 3 firewood, 1 water, 1 food, and you take 2 water and 2 food?
+
+### Assistant: I think I'll need at least 1 firewood. How about I get 1 firewood 2 water and 1 food? Leaving you 2 firewood 1 water and 2 food.
+
+### Human: I like the sound of that. We will both get at least one of everything this way.
+
+### Assistant: Yep! sounds great! We of each get something of everything.
+
+### Human: Submit-Deal

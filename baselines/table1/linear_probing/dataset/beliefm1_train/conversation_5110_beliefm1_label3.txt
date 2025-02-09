@@ -1,0 +1,23 @@
+### Assistant: Hello, how are you?
+
+### Human: Hello! I'm doing well, hope you are too 🙂 
+
+### Assistant: I am!  So are you going camping as well?
+
+### Human: Yes! I've been looking forward to this trip for a while and I'm so excited
+
+### Assistant: Yeah me too, so apparently there are some extra supplies up for grabs we need to divvy up between us.  Do you have any thoughts on how we should do that?
+
+### Human: I was thinking we can say which ones we want more? Or depending on where we are camping and our camping abilities, we might need some materials more over others
+
+### Assistant: That sounds good to me!  I heard where we are going it is going to be really cold the next couple of nights so we definitely need extra firewood.  We also have a pretty big group so extra food and water would come in handy too.  So how about I take 2 of the extra firewood, 1 extra water and 2 extra food?
+
+### Human: Oh we have a substantial group as well, one of which is newly pregnant. Since we could find firewood ourselves, how about you take 2 firewood, 1 water, 1 food? 
+
+### Assistant: We could really use that extra water and food, maybe you would be interested a little bit more firewood?  How about I take 1 firewood, 2 water, and 2 food?  I've got a big group of guys to feed.
+
+### Human: I completely understand 🙂 However, my group won't really need the firewood much. We'd need the food more since we have some kids with us and the fathers are like lumberjacks haha. 2 firewood, 1 water, 1 food would work best
+
+### Assistant: I suppose that seems pretty fair to me.  You have a deal!
+
+### Human: Submit-Deal

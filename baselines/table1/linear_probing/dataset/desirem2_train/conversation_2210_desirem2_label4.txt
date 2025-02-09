@@ -1,0 +1,23 @@
+### Assistant: Hi there. I'm excited to go camping.
+
+### Human: Yes, Me too... Any plan for your side of camp?
+
+### Assistant: Yes we have a big group coming with us. I know they'll be really hungry and thirsty
+
+### Human: How many times have you gone camping?
+
+### Assistant: A few, how about you? What are your plans?
+
+### Human: Depending on how long you're planning on camping,  you may not need to leave the campground. However, if you're planning a week-long vacation, you are most likley going to venture out. What does your family enjoy most? Look for a location that will meet those needs.
+
+### Assistant: We'll set down at one spot but go hiking a lot. I think we'll need some more extra food and water to make that happen. Would you be willing to give me 3 food and 2 water? You can have the other water and all of the firewood. 
+
+### Human: Sorry dude, I have minimum 1 food package. Because, food is most important one of the human body.
+
+### Assistant: OK, so how about I'll do 2 Food, 2 water and You can do 1 food, 1 water, and 3 firewood
+
+### Human: If you don't mind i'll do 2 food, 2 water and 1 firewood. Because, I have poly urea problem so water is must be need for me.
+
+### Assistant: Sorry I really need more food than that. I'll do 2 food, 1 water, and 2 firewood if water is important for you.
+
+### Human: I don't need of firewood otherwise we came for final decision. I need 1 food and 3 water a

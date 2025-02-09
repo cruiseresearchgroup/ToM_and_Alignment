@@ -1,0 +1,23 @@
+### Assistant: Hello, how are you today?
+
+### Human: Good!  How are you?  Ready to go camping?
+
+### Assistant: I'm doing well. I can't wait to go camping
+
+### Human: I am usually not much of a camper!  I will start with an offer if that is ok with you.
+
+### Assistant: sure
+
+### Human: I suggest I take 2 water, 2 food and 1 firewood.
+
+### Assistant: can't do that, I would need 2 water, 2 food don't need firewood.
+
+### Human: No one wants firewood!  Guess no s’mores!
+
+### Assistant: It's bad for the environment
+
+### Human: How about I take 1 water, 2 food and 3 firewood
+
+### Assistant: I'm good with that
+
+### Human: Submit-Deal

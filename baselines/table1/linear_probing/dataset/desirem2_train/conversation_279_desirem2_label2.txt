@@ -1,0 +1,27 @@
+### Human: Hello, hope you are doing well 🙂 I would like to take 3 packages of food, 2 packages of firewood, and 2 packages of water.
+
+### Assistant: No thank you i have a medical condition and a large family, i will take 3 packages of water 2 and 2 firewood
+
+### Human: I am sorry to hear about your medical condition ☹️ I could give you the waters but I have a young kid and just recently went through a divorce. This is our bonding time and she really wants to make s'mores. I need extra firewood and food to be able to do that.
+
+### Assistant: You only have one kid i have 6 i can spare all the firewood and 1 food🙂
+
+### Human: That is fair! Would it be possible for you to spare one water as well just in case of emergency we don't die due to lack of water? 
+
+### Assistant: You wont believe me. You already have the basics! just be safe!🙂 If i dont get a certain amount of water into my system each day i can die on a normal day
+
+### Human: I can concede to that. Would you like to finalize the deal where we stand then? I feel we have come to pretty fair negotiations for both of us! 🙂
+
+### Assistant: Yes i agree, We may need to talk a bit more
+
+### Human: I agree too. So the final agreement so we are clear in communication is you get all the water, I get all the firewood and we split the food 2/1 for me?
+
+### Assistant: No 2 food me 1 you😮
+
+### Human: To my understanding, in your original offer you stated you wanted 2 food and then offered to give me a food that would equal 2 for me and 1 for you. I will be willing to concede on this if you give me one water and I will give you one firewood. 
+
+### Assistant: Submit-Deal
+
+### Human: Reject-Deal
+
+### Human: Submit-Deal

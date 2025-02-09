@@ -1,0 +1,27 @@
+### Human: Will you give me 2 packages of food and i give you 1 package of water?
+
+### Assistant: Hello! I can give you 2 packages of food of you give me 3 packages of water
+
+### Human: Let me give you 2 packages of water for 3 packages of food.
+
+### Assistant: well, food is more valuable for me. what is your preference?
+
+### Human: Looks like we both have a high value for food. I will give you 3 packages of water and you give me 3 packages of food.
+
+### Assistant: What is your least preference?
+
+### Human: My least preference is water.
+
+### Assistant: I prefer water than firewood since we like cold and won't probably need it much
+
+### Human: Ok, let me then give you 2 packages of firewood and 2 packages of water and you give me 2 packages of food. What about that?
+
+### Assistant: So I get 1 food, 2 water and 2 firewood?
+
+### Human: What is your take?
+
+### Assistant: And you will get 2 food, 1 water and 1 firewood? I think it is a great deal since food is hard to find in the camp site. I don't think you want to go hunting🙂
+
+### Human: 🙂🙂 Sure, seems like we have a deal?
+
+### Assistant: sounds good, my friend

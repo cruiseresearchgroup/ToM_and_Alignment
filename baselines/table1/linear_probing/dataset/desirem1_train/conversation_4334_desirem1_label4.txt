@@ -1,0 +1,23 @@
+### Assistant: Hi there! So, we're going camping!
+
+### Human: At least we're going somewhere 🙂
+
+### Assistant: haha! yes!!! So, what are you interested in?!
+
+### Human: I definitely have enough food but forgot to bring any water. Water is most important for me. 
+
+### Assistant: Okay- that's good to know! Food is most important for me. I'm bringing a lot of my family, so the more food, the better
+
+### Human: Can I have all the water and you take all the food?
+
+### Assistant: I still would like some water to have. I actually have a baby so need the water  for bottles, too. I'm happy to share all the firewood?
+
+### Human: That sounds fair. Can I have 2 of the waters?
+
+### Assistant: I think that sounds fair. You can have all the firewood and two of the waters. And, I'll have all of the food and 1 of the water?
+
+### Human: That sounds perfect! Have a great trip!
+
+### Assistant: Thanks, you too! 🙂
+
+### Human: Submit-Deal

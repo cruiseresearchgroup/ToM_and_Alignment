@@ -1,0 +1,27 @@
+### Human: Hello, neighbor. I know we all have the basic package. However, I will have another 3 members stay with me tonight, I wondered if I could have 3 packages of water?
+
+### Assistant: hello, i will have 3 members also, what is your highest that you want. i was thinking about the food. 
+
+### Human: We do really need water the most.
+
+### Assistant: okay i wanted food, is it okay for you to get 2 waters, 1 food and 1 firewood?
+
+### Human: May I have 3 water and 2 firewood? You could have 3 food and 1 firewood.
+
+### Assistant: i need a water for my food i dont starve, and firewood to make my food. 
+
+### Human: How about you could have 1 water, 1 firewood, and 2 food and I will have 2 water, 2 firewood, and 1 food
+
+### Assistant: well i am giving you your most important thing.  i can get 2 food,  2 firewood, and 1 water
+
+### Human: I do need firewood to use for train some students here. Please let me have 2. Thanks a lot.
+
+### Assistant: how about i get 3 food, 1 firewood and 1 water?
+
+### Human: Could you please let kids have 1 food to share? 🙂
+
+### Assistant: so 2 food for me, 2 firewood and 1 water 
+
+### Human: You can have 2 food, 1 firewood and 1 water and my students and I will have 2 water, 2 firewood and 1 food to share.
+
+### Assistant: sure

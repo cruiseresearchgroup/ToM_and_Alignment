@@ -1,0 +1,23 @@
+### Human: Hello! how are you doing? are you excited to go camping
+
+### Assistant: Yep! Been closed up too long with this Covid-19 stuff.😡Wish it would like the Prez sez "go away"
+
+### Human: Yeah, it's very sad these days
+
+### Assistant: Then I got here and noticed I didn't pack my cooking sterno and critters go into some of my food☹️Kinda puts a damper on the trip.
+
+### Human: Oh, i see. How about you get 2 food 1 firewood and 1 water. I need the extra firewood to stay warm at night
+
+### Assistant: Yeah, that should work. I brought plenty of water and the critters left that alone. You planning to go out on the trails at all?
+
+### Human: I do have a little hike planned, so the water comes in handy. I am more excited to relax and fish
+
+### Assistant: Well I want to go run the trail, but like to check it out first. Perhaps we could walk one together. perhaps in a couple moments we could fix the supply situation .
+
+### Human: Yeah, that would be fun. 
+
+### Assistant: Well, why dont you propose how to divvy up the packages and we can get on with out camping?
+
+### Human: for me. 2 firewood, 1 food and 2 waters
+
+### Assistant: Submit-Deal

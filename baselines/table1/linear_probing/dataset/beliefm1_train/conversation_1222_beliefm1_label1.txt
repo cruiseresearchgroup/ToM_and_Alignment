@@ -1,0 +1,23 @@
+### Human: Hello, are there any of the three items that you want to be sure you have enough of? 🙂
+
+### Assistant: I want to be sure that I have enough firewood.  I want to relax, sit around the campfire, and roast hot dogs and marshmallows.  What about you?
+
+### Human: That sounds great! I like all three items, but I definitely want to make sure I have enough water, especially to drink and stay hydrated and full of as much energy as possible. I require a lot of liquid as a 6-foot-4, 260-pound guy!
+
+### Assistant: I don't think the weather is going to be that hot, and I don't plan on doing any hiking.  So, I should need much extra water.
+
+### Human: Cool! I think I've got a pretty good proposal for you for our supplies. Is it okay with you if I send a possible deal we might be able to make for what we have available for our trip? 🙂
+
+### Assistant: Go ahead🙂
+
+### Human: I would like to do some hiking before getting back to the campfire. I especially like hiking when the weather is cooler. It works up my appetite for those hot dogs and marshmallows, which are one of the best parts of camping for sure! 🙂
+
+### Assistant: How about I take 3 firewood, 2 food, and 0 water?
+
+### Human: I like that deal, but I feel like you might need at least one water? ☹️ What if instead you take 3 firewood, 2 food and 1 water? And I could take 0 firewood, 1 food and 2 water? I'm okay with fewer items. I don't need much to get by, but I sure need 2 of the 3 waters.
+
+### Assistant: Are you sure that you want to give me that much? 😮  If you're sure, that would work for me.
+
+### Human: I don't mind at all. 🙂 Haha. I would take more food, because I love to eat, but I have a stomach that can't take too much when I'm outdoors and camping. Lighter is the way to go. And I don't mind at all giving you the firewood. 🙂
+
+### Assistant: Submit-Deal

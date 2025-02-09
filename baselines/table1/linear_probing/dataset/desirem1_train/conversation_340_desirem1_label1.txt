@@ -1,0 +1,27 @@
+### Assistant: Hello! I am looking forward to the camping trip but I could really use extra food and water.  How about I take the food and water and you can have the extra firewood?
+
+### Human: I'd love to take the extra firewood, but i'd like some of the food or water as well.
+
+### Assistant: Ok, maybe we can compromise.  If you are willing to share the firewood, we could share some of the food and water.  Which do you think you will need the most of?
+
+### Human: I would need the most wood. and then food. what are your most important needs?
+
+### Assistant: I could definitely use the extra food because I am very active and will burn calories pretty quickly on this trip.  I also would like extra water. 
+
+### Human: Which is more important to you - the food or water?
+
+### Assistant: Food is the most important to me.
+
+### Human: Ok. And between the water and firewood, which is most important?
+
+### Assistant: Water is more important to me than firewood 🙂 I would love a little extra firewood for s'mores, but I need the water more.  Do you need extra water?
+
+### Human: What if I take all of the firewood, give you all the water, and i take two food?
+
+### Assistant: Food is my highest priority, so what if I take 2 food, 2 water, and you can have the rest?
+
+### Human: That sounds good. We can go with that!
+
+### Assistant: Ok, great!
+
+### Human: Submit-Deal

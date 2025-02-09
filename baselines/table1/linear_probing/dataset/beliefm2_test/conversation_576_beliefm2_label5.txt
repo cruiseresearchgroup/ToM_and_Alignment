@@ -1,0 +1,27 @@
+### Human: Hello there.
+
+### Assistant: hiii
+
+### Human: So in order to fully enjoy my on this trip while surviving, I will require mass quantities of food.
+
+### Assistant: k i need food as first priority
+
+### Human: Unacceptable
+
+### Assistant: why
+
+### Human: I require the majority of food as I have explained.
+
+### Assistant: what is priority pls tell me
+
+### Human: As I have explained now twice, it is obviously food.
+
+### Assistant: k, then 2 is for u 1 for me but i need remaining two as per my priority
+
+### Human: What does that mean?
+
+### Assistant: means water and firewood  i need majority then only it will balence
+
+### Human: Submit-Deal
+
+### Assistant: Reject-Deal

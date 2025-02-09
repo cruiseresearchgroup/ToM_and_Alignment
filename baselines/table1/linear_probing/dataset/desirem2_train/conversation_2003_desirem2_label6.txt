@@ -1,0 +1,23 @@
+### Human: Hello!
+
+### Assistant: Good afternoon, I'm assuming it's afternoon where you are?
+
+### Human: Yes it is!
+
+### Assistant: Excellent, so are you all prepped to go camping?
+
+### Human: Yes, I've been packing all day. I'm just waiting to add the extra supplies I need from our negotiation.
+
+### Assistant: Same here, it's going to be extremely hot where I am so we have a need to have extra water.  Anything in particular you have a high need for?
+
+### Human: Water as well. I'm camping in the desert and there's no water source nearby. Do you have priority for any other items?
+
+### Assistant: Food would be next up on my list, my kids are growing like weeds and always snacking.  What about you?
+
+### Human: Food as well, haha. There's little wildlife around and I want to make sure I have some prepared. I'd be willing to give up more of my food packages for you and your kids, if I could have more of the water...?
+
+### Assistant: So it seems as though we're in the same boat.  I'm somewhat tired of packing and have to get back to work so I'd be agreeable to something like that, or close to an even split.  Did you have anything specific in mind?
+
+### Human: Hm, since you're giving up your high priority item for me you could have more overall. So I'm thinking 2 water for me, 1 food, and 1 firewood. And 1 water for you, 2 food, and 2 firewood. Thoughts on that? 
+
+### Assistant: That sounds completely reasonable to me.  I want to ensure we both have a great camping trip.

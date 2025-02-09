@@ -1,0 +1,27 @@
+### Human: Hello, how are you today? your ready to try to talk this out
+
+### Assistant: Hey, I'm doing good, thank you 🙂 Yes, 
+
+### Human: What are you in need of more?
+
+### Assistant: Water, as that's something I need/use a lot and want to store it in case of Emergency.
+
+### Human: I can do that, how much water do you think you need?
+
+### Assistant: 2 packages
+
+### Human: Two packages of water for 2 firewood?
+
+### Assistant: Yes, I'm fine with that. What is your requirement on food?
+
+### Human: I can do just one, because I can always find more food, fishing or in the wild
+
+### Assistant: That's a good idea. Though it was my second priority thinking I can manage with water, I'll do with the remaining.
+
+### Human: Are we all done with out trade? your sure about everything? your fine with food,water, wood
+
+### Assistant: Yes, Water and Food -2, Firewood -1
+
+### Human: Thank you... it was good doing business  with you
+
+### Assistant: Submit-Deal

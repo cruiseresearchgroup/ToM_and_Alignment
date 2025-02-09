@@ -1,0 +1,23 @@
+### Human: I need the additional food and water for the camping as I would find it useful during the camping activities. 
+
+### Assistant: Hey there.  Well I would really love the extra food as I don't think I brought enough from home.  
+
+### Human: I will offer you 2 extra package of water alongside the firewood in order to allow me take 2 extra package of food 
+
+### Assistant: So I would get 2 water, 1 food, and 3 firewood?
+
+### Human: Nope. That won't be beneficial to both of us. You will get 1 food, 2 water and 1 firewood. Remember how important water is to our brain. 
+
+### Assistant: Ok well I really could use extra firewood too - I have no idea how to start fires well and am afraid of the dark.  If you need more food, would you be willing to take all 3 if I can have 2 firewood?
+
+### Human: Sure. It would be a nice deal
+
+### Assistant: Ok, so the final deal I have is 2 water, 2 firewood for me and 3 food, 1 water, 1 firewood for you.  I am good with this if you are.
+
+### Human: Yeah. I'm would be nice. You get 2 firewood and 2 water while I get the rest. 🙂
+
+### Assistant: Ok deal! Thanks so much! 🙂
+
+### Human: Thanks a lot. Deal. 
+
+### Assistant: Submit-Deal

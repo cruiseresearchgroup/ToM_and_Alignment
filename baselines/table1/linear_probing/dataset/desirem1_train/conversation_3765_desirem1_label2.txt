@@ -1,0 +1,23 @@
+### Human: How many of each extra package are you thinking you need?
+
+### Assistant: I would prefer to take all of the firewood, split the food, and you could have all of the water.  What do you need the most?
+
+### Human: Splitting the food is what I was thinking as well, but I'd also like to split the firewood. We can split the water or I'm fine taking all of that.
+
+### Assistant: I would be willing to take 2 firewood, 3 food, and 1 water if that would work for you.  
+
+### Human: Hmm I think I should take 2 food, 1 firewood, and 3 water. What do you think?
+
+### Assistant: Is your first priority the water?  I'm definitely willing to split up by what is most important to us both.
+
+### Human: Food is actually my first priority but since it seems to be first priority for us both I thought we could split that. Water doesn't seem to be a priority for you so thought I could take that
+
+### Assistant: My first priority is actually firewood.  Food is my second.  🙂
+
+### Human: Okay so would 2 firewood for you and 1 for me work, and 2 food for me and 1 for you?
+
+### Assistant: I can definitely agree to that.  What was your second preference?  Water was my third.
+
+### Human: firewood is my second preference and water is my third
+
+### Assistant: Well, water doesn't benefit either of us much, so you can have two. So you will take 2 food, 1 firewood and 2 water?

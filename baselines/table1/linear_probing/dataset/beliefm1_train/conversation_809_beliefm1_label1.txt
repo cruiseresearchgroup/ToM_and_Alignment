@@ -1,0 +1,23 @@
+### Human: I'm excited about this camping trip. I love to stay up all night look up at the sky and watching the fire burn.
+
+### Assistant: HELLO
+
+### Human: Hello. Are you excited about this camping trip?🙂
+
+### Assistant: yes, really excited to go trip
+
+### Human: What is your favorite part about camping?
+
+### Assistant: camp fire
+
+### Human: I love camp fires as well. I love sitting around the fire telling ghost stories.🙂
+
+### Assistant: yeah it is very interesting to hear about ghost stories
+
+### Human: So if its alright with you can I have 2 firewood, 1 water, and 2 food. That would give you 1 firewood, 2 water, and 1 food.
+
+### Assistant: i don't have any backup for firewood and food. can you give one more firewood and food?
+
+### Human: I can give you 1 more food, which will give you 2 food, 2 water, and 1 firewood. But i really do love staying up all night and watching the campfire so i could really use the 2 firewood.
+
+### Assistant: oka fine

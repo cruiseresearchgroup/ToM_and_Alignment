@@ -1,0 +1,31 @@
+### Assistant: Hello, I need supplies for the trip!🙂
+
+### Human: Yep, me too🙂
+
+### Assistant: I need 3 water, 2 firewood, and one food. It would be good if I got that!  🙂🙂🙂☹️☹️
+
+### Human: Oh, that's not possible.  Sorry☹️
+
+### Assistant: Sry for the extra emoticons, laptop's glitching apparently. Well, what can you give me or we come to a deal on? 🙂
+
+### Human: Well, let me think on that.  Why do you need so much water for a starter?
+
+### Assistant: I get dehydrated easily. I need to water so that doesn't happen. 🙂
+
+### Human: Hmm.  And why do you need so much food?
+
+### Assistant: I need an extra supply of food, as I exercise a lot! 🙂
+
+### Human: Hmmm.  And the firewood?
+
+### Assistant: I get cold easily. I need the firewood to get warm. I might catch a cold.🙂
+
+### Human: I think water should be your priority.  You have food and firewood also in your basics.  I will let you have the 3 water but I will need the 3 Firewood and the 3 Food.  I have a medical condition.
+
+### Assistant: Okay that works well. I accept! 🙂
+
+### Human: Good.  It's a deal.
+
+### Assistant: It was good working with you! 🙂
+
+### Human: Submit-Deal

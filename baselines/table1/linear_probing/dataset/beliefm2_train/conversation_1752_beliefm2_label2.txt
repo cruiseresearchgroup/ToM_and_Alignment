@@ -1,0 +1,23 @@
+### Assistant: Hello.
+
+### Human: Hello there, fellow camper!  🙂
+
+### Assistant: I would like 3 packages of food, 2 packages of firewood, and 1 package of water.
+
+### Human: That's not going to work for me at all, I would like 3 packages of water, 2 packages of food, and 1 package of firewood
+
+### Assistant: That would leave me with no water. I would like 1 package of water, 2 packages of food, and 2 packages of firewood.
+
+### Human: You'll have some water, this is for extra.  Would you take 2 packages of food and 3 packages of firewood in exchange for me getting 3 packages of water and 1 package of food?
+
+### Assistant: Yes, I would.
+
+### Human: And you can use your extra firewood to purify any water you find as well while you're already enjoying the fire.
+
+### Assistant: That's true.  Thanks for the suggestion🙂
+
+### Human: I'm going to be lazy and enjoy the cool night, personally.  I do love this time of year for camping.  The nights are cool but not cold.
+
+### Assistant: Yes, but I tend to get cold easily.
+
+### Human: Submit-Deal

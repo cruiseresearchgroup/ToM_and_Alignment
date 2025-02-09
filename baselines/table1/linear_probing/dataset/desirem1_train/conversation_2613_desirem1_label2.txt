@@ -1,0 +1,23 @@
+### Assistant: Hello! Are you excited for your camping trip coming up?
+
+### Human: I am super excited!! its going to be awesome 🙂 i see we have some packages we can split. the first thing i notice is there is food available! i was wondering if i could take all 3 ? 
+
+### Assistant: How about you can have all the food if I can have all the water?
+
+### Human: Is there any way i could have all the food and just 1 water at least? I bought my friends dog last minute and completely forgot to pack her some water? what do you think? im open to discuss? But YES all 3 food is great for me
+
+### Assistant: If you're going to do that, then I need 2 water and all three firewood. I feel like I'm really getting the stick of the deal otherwise.
+
+### Human: oh i understand why you would feel that way. is there a reason why you would like all 3 water?
+
+### Assistant: I'm going camping in an exceptionally hot part of California (daytime temperatures are like 100F+) and I'm opting to not take too much food for that reason. The nights get rather cold, so I need some firewood, but I can deal with cold nights more than thirsty days!
+
+### Human: WOW your brave for camping in that heat. im in upstate new york for camping so maybe i can find a stream for pup to drink from. im okay with giving you all the food and ill have all the water. what are we thinking for firewood?
+
+### Assistant: One or two is fine with me. Since you're in NY will there be natural wood/trees for you use potentially? There won't be too many where I'm at.
+
+### Human: there are some woods but i broke my leg last week and im taking my kids and i dont trust them to gather wood alone. so is it possible for me to have 2?
+
+### Assistant: Yes! Let's do it. I think that's a fair trade. I'm just going with myself, so 3 water for me, 1 firewood for me, the rest to you is fine.
+
+### Human: okay so we have a deal? i get all food you get all water. i get 2 wood you get 1? NICE thanks so much and i hope you have a fun trip!! stay hydrated

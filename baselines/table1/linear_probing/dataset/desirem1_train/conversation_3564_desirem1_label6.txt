@@ -1,0 +1,27 @@
+### Human: Hello there, How would you feel about trading supplies in this manner. 2 Water for me and 2 food , while you get 1 Food , 1 Water , and 3 Firewood?☹️
+
+### Assistant: While that does sound like an okay deal I would much rather want more water. It is essential to satisfy thirst.
+
+### Human: What if I give you an extra food?😮
+
+### Assistant: Sorry I would really like more then 1 water 😡
+
+### Human: Well I would really like 2 waters. Is there anything else you had in mind?
+
+### Assistant: I get 3 waters and you can have everything else.🙂
+
+### Human: I am going to have to refuse that. I would want at least 1 water. ☹️
+
+### Assistant: What about 2 waters for me and 1 food and you can have everything else?🙂
+
+### Human: That sounds promising but if possible I would like two waters.
+
+### Assistant: Forget it then , dont take that deal then. 😡
+
+### Human: Water is extremely important for me as it makes the whole day better in general.☹️
+
+### Assistant: As it is for me. I am not budging. Take it or leave it.
+
+### Human: Ok fine... So 1 Water for me 2 food and 3 wood?
+
+### Assistant: No , I take my word back now , 1 Water 2 Food and 2 wood now. 😡

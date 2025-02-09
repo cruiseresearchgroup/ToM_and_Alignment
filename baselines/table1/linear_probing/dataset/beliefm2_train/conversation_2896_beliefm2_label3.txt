@@ -1,0 +1,23 @@
+### Assistant: Hello, how are you? Looking forward to camping?
+
+### Human: Oh yeah, that's for sure. What camping item do you prioritize?
+
+### Assistant: I'm going to need some extra wood because I'm somewhat injured and can't really gather more.
+
+### Human: Oh, I see. Well, I personally need lots of water to stay hydrated since I drank a lot already.
+
+### Assistant: Yes, that's important. I don't need much.
+
+### Human: The thing I need less, but still sort of want some of, is food.
+
+### Assistant: I'm like that as well, a small appetite.
+
+### Human: I need firewood the least of all though, because I have a lot of coats for warmth.
+
+### Assistant: Are you bringing several coats while camping?
+
+### Human: Yeah, I might even have too many.I still need water the most,so I'm thinking I should take the water and you should take the firewood.
+
+### Assistant: I can deal with that. I'd rather a little thirst than being cold.
+
+### Human: Okay, So I'll take all three water, you'll take all three firewood package and I'll take one food package and you get two. What do you think? 🙂

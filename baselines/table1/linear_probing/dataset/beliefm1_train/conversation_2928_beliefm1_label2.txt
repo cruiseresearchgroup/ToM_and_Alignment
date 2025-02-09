@@ -1,0 +1,23 @@
+### Human: Hello, how is your camping trip going?
+
+### Assistant: It is going well! How is yours?
+
+### Human: It's going great. My family and I are planning a hike later on today.
+
+### Assistant: I also have my family with me on this trip. How many people do you have with you? 
+
+### Human: My husband and I and our three kids. My oldest daughter is also pregnant.
+
+### Assistant: You have quite the crew! I have 3 children with me. What is your top item needed?
+
+### Human: We really need water.
+
+### Assistant: Ok great, we have plenty of water and there is a lake nearby. You can have all 3 water. I would like to get 2 food packages. 
+
+### Human: Okay. I can agree to that if I can get 2 firewood.
+
+### Assistant: We are not in a very wooded area, I am not sure 1 firewood would be enough. 
+
+### Human: I can let you have 2 firewood.
+
+### Assistant: Submit-Deal

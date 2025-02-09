@@ -1,0 +1,23 @@
+### Assistant: Hello
+
+### Human: hii
+
+### Assistant: Im running low on food☹️ are you willing to provide 1 food and i can offer you 1 water 
+
+### Human: i can do that, can i have three water then
+
+### Assistant: How about I give you 2 waters and you give me an additional firewood
+
+### Human: you can have all the firewood if you offer me 3 water
+
+### Assistant: hmm okay I can work with that so I'll give you 3 waters and I get 3 Firewood
+
+### Human: sounds good!
+
+### Assistant: so we can keep the food then
+
+### Human: we should split the food i guess
+
+### Assistant: hmm  how would we split it you get 1 and I get 1, how does that sound
+
+### Human: that is good!

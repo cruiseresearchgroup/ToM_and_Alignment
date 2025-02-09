@@ -1,0 +1,23 @@
+### Human: hello
+
+### Assistant: Hi how are you?
+
+### Human: Am fine and you?
+
+### Assistant: I am doing great, thank you for asking. I'm looking forward to working with you to find a deal that really works for both of us
+
+### Human: Wow that is the best have hard so far thanks.
+
+### Assistant: You're welcome. Could you tell me what is most important to you right now?
+
+### Human: i need 3 food 2 firewood and i can spare all water and a firewood
+
+### Assistant: okay I also need food. So let's wait to talk about that later. I will be happy to give you 2 firewood for your water
+
+### Human: okay give me 3 food 2 firewood and the rest is all yours
+
+### Assistant: we agree on exchanging the firewood for the water. I am also interested in the food though. Is there something we could work out that will allow me to have at least one food?
+
+### Human: okay waht about 2 foods 3 firewoods?
+
+### Assistant: okay so you receive 2 foods, 3 fire. I receive 3 water and 1 food?

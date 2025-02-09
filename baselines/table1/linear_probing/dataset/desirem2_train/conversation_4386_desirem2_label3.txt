@@ -1,0 +1,31 @@
+### Human: Can you help out? I can easily dehydrated can you give all the water packages to me?
+
+### Assistant: I can spare a little as I am currently taking medication that requires me to drink a lot. I can give you 2 bottles of water if you can give me 3 firewood
+
+### Human: I can't give you all the 3 firewood. We can share them. I can give you 1 firewood? Because I am too scared about dark. ☹️
+
+### Assistant: I could give you 1 water for 1 firewood, most of my firewood got wet so is almost useless . Would you perhaps except some food for another unit of firewood?
+
+### Human: Oh. Let do some deal. If you give me all water bottles I will give you 2 firewood. Can you accept this
+
+### Assistant: i could give you 2 water bottles and 3 food if you can do 3 firewood
+
+### Human: OK. Are you need Extra food packages?
+
+### Assistant: no, I am okay with food which is why I offered them all to you since all my firewood is ruined. I figured if i gave you 2 water and 3 food you might be able to spare the 3 firewood
+
+### Human: No I cant give you all the firewood. I will take atleast one firewood. Also can I have all three water bottles. 
+
+### Assistant: the absolute most water I can spare is 2 and , my firewood is pretty much useless. I can give you 2 water and 1 food for 2 of your firewood that is my final offer
+
+### Human: Ok. I will have 2 water, 2 firewood and 1 food. Am I correct?
+
+### Assistant: no, I can give you 2 water and one food if you give me 2 firewood
+
+### Human: Ok. Can you give atleast two foods for me😮☹️
+
+### Assistant: okay. so 2 water and 2 food for you and you will give me 2 firewood
+
+### Human: Ok I agree
+
+### Assistant: Submit-Deal

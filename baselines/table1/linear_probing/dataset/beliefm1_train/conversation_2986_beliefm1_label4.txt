@@ -1,0 +1,23 @@
+### Assistant: hello
+
+### Human: Hi there!
+
+### Assistant: im really looking to get some more packages of water for my trip. I'm not sure if there will be enough water sources around me.
+
+### Human: I am also in need of water. It is so very hot! I'm not sure I can spare any. How many people are you camping with?
+
+### Assistant: it will be just me and one other person, we don't need much, but i do want to make sure he is taken care of since he has asthma.
+
+### Human: Understood. What about food? Do you feel like you are set in that area?
+
+### Assistant: i have some food and i think it should last , but one can never bee to careful.
+
+### Human: How about I get 2 waters, 1 firewood, and 2 food?
+
+### Assistant: i can spare some food but I am really low on water. how about you take 2 food 2 firewood and 1 water and i take 2 water one food and 1 firewood?
+
+### Human: Hmmm, not sure about the water. It's scorching hot. If we do any hiking we are really going to need it.
+
+### Assistant: i agree its really hot as well where we are going , and we are passing through a steep incline and i don't want my friend to die of asthma along the way 
+
+### Human: Submit-Deal

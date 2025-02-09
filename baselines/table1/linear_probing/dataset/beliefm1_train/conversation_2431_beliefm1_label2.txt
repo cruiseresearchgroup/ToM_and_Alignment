@@ -1,0 +1,23 @@
+### Human: hello?
+
+### Assistant: Hi! How are you today
+
+### Human: i'm pretty good, how are you?
+
+### Assistant: Great!  I was wondering if you would mind sharing your top preferences on our three items?  What do you feel is your highest priority supply?
+
+### Human: I suppose my highest priority is water, what do you think about maybe trying to split these up in an even way as possible?
+
+### Assistant: Sounds great to me.  Excited for this camping trip.  My highest priority right now is food; I am bringing along a huge family and need to feed all of them, and they'll get super hungry without more packets!
+
+### Human: Ok that sounds good. So, I suppose that we can agree that we'll both receive at least 1 of each of the three different items.
+
+### Assistant: Sure.  how about I could get 2 food packages since that is my highest priority, and you could get 2 water packages?
+
+### Human: That sounds reasonable to me.
+
+### Assistant: Awesome.  And actually I would either be willing to have 1 water package and 2 firewood packages.  Would that be okay by you?
+
+### Human: In that scenario, you'd be getting 1 extra item than me, but I'm not too worried about it because I'm sure if I needed to get extra firewood, I could find some in the wilderness.
+
+### Assistant: Submit-Deal

@@ -1,0 +1,27 @@
+### Assistant: Hello I hope we can negotiate so that we are both satisfied. Do you think it's OK?🙂
+
+### Human: Yes that would be great 🙂🙂
+
+### Assistant: Ok, what item do you need the most and which item do you need the least? That information would help me think of an offer that suits both of us.🙂
+
+### Human: I need   food and water the most . There are 3 of us.🙂
+
+### Assistant: Your most needed item is water or food?
+
+### Human: Most needed is both food and water. I guess food is my highest priority .🙂
+
+### Assistant: Ok perfect, the item I need the most is water because I need to hydrate.  What do you think if I give you 2 food and I keep 2 of water. 
+
+### Human: Ii understand , the problem  is ctheere is 3 of us. What if  we have 2 food and 2 water and you have 2 firewood ?🙂
+
+### Assistant: The object I need the most is WATER, so I cannot give you 2, I am giving you 2 FOOD since it is what you most need. Remember that we must both be satisfied for this to work🙂
+
+### Human: (sorry for the misspellings on above post, my keyboard does that) Ok since that  is your highest priority , I have 2 food 1 water and 2 firewood ? Is that agreeable ?🙂
+
+### Assistant: What do you think about this offer, I will give you 2 of FOOD since it is what you need the most, 1 of WATER since it is what I need and 2 of WOOD, I will have less wood but we will both be satisfied.
+
+### Human: Yes very agreeable ! Thank you .🙂
+
+### Assistant: Ok! Thanks.🙂
+
+### Human: Submit-Deal

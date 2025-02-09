@@ -1,0 +1,27 @@
+### Human: hello there my fellow camping friend
+
+### Assistant: Hi! I'm most interested in acquiring firewood, since I don't want my fire to burn out on the trip. What are you looking for?
+
+### Human: I am also looking for firewood. Since I was a child i have always enjoyed camp fires. They mean a lot to me
+
+### Assistant: Okay so we can think about splitting the firewood. 🙂 I'm also interested in water because I plan to do a lot of activities like hiking and kayaking, so it will be helpful for me to be able to hydrate more.
+
+### Human: That is okay. What about i get 2 packages of firewood and then you get 2 packages of water. Is that okay with you?
+
+### Assistant: Since I'm most interested in firewood, I would want 3 waters if you're going to get more firewood.
+
+### Human: Nice. That's okay with me. You get 3 waters and a I get 3 firewood
+
+### Assistant: I was actually saying you get 2 firewood and I get 3 waters. Then you could have 2 food and I get 1 food.
+
+### Human: That's seems fair to me since we all need food to eat
+
+### Assistant: Okay, I'm glad we were able to work something out!
+
+### Human: Am also glad.You are more interested in water. Do you drink a lot of water frequently?
+
+### Assistant: Yes, I drink a lot of water because I'm a big and active guy. You can go ahead and submit the deal now if you want.
+
+### Human: Okay. It was nice sharing with you
+
+### Assistant: Submit-Deal

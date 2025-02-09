@@ -1,0 +1,23 @@
+### Assistant: Hi! How are you doing today?
+
+### Human: Good!  How are you? 
+
+### Assistant: I'm good. We are negotiating today on water, firewood and food. Is that your understanding?
+
+### Human: That is.  I need the water because I have a heart condition that requires me to stay as hydrated as possible
+
+### Assistant: I also need the water to stay hydrated. So, it appears we both will need water. How many waters do you think you will need?
+
+### Human: I need at least 2 to stay on my feet, otherwise my condition could manifest 
+
+### Assistant: I would be willing to give two waters. However, I may need concessions in other areas. What is your second highest priority?
+
+### Human: I also need firewood due to my poor circulation.  I am on a strict diet though so I do not need any additional food
+
+### Assistant: Okay, I also need firewood due to my health. The nights are very cold, and I don't want to get sick. Since I conceded two waters,  I would be willing to give you one firewood and keep two firewood for myself.
+
+### Human: what about the food?
+
+### Assistant: I am really flexible on the food. So, I would be happy to give you whatever amount of food you need.
+
+### Human: Submit-Deal

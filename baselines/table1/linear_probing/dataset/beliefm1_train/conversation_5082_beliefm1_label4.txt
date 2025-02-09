@@ -1,0 +1,23 @@
+### Human: Hi there, and sincerely wish you can exchange some needed items with me.
+
+### Assistant: Hello! I'm heading out on a camping trip myself, and also need some provisions. I will be enjoying the fresh air in a cold climate away from any bodies of water. Also, I will be working with a refugee camp while I'm there, providing solace and counsel to poor souls in need. So you see how critical it is that my trip is successful. I believe we can work out a deal though. I recommend that I have 3 water, 2 firewood and 2 food.
+
+### Human: From my side, our family of 7 are out on a first time adventure and just discovered unfortunately we were inadequately prepared. Thus, all items are quite needed especially the food and water as we have exhausted all the initial basics.
+
+### Assistant: I see, but can you reschedule your camping trip for later? I have great needs for the water. You recall I will be camping away from all large bodies of water and will need to pack it all in. I might be able to negotiate on the food.
+
+### Human: Unfortunately it is impossible as we are already on site compared to you about to head out. 
+
+### Assistant: I see. You are a victim of poor planning. Whereas the refugees I attend to are the victims of greed, malice and human suffering. What are you proposing?
+
+### Human: How about I take 2 packs of water, 2 packs of food and 1 firewood
+
+### Assistant: Impossible. I will need to cancel the trip altogether.
+
+### Human: How about I take 2 packs of water while retain your initial request for food and firewood?
+
+### Assistant: I cannot allow any water. As I mentioned we will be camping away from all bodies of water and cannot negotiate on that item. I need 3 water, or else I will need to cancel the trip. We might be able to negotiate on the food though.
+
+### Human: I need to have at least a pack of water. How about 1 water, 3 firewood and 1 food?
+
+### Assistant: Okay. I fear some of us may die of thirst, but I will give you 1 water. I can't agree to those terms though. I can give you 1 water 1 firewood and 2 food. That is my final offer though.

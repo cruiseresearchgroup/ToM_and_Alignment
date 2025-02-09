@@ -1,0 +1,23 @@
+### Assistant: Hey
+
+### Human: Hi
+
+### Assistant: Offer, 3 water, 2 food, 1 firewood
+
+### Human: I would like more food.
+
+### Assistant: Okay it could be 3 water, 1 food, 2 firewood
+
+### Human: I willing to give 2 water 3 firewood for 3 food.
+
+### Assistant: Okay it could be 3 water, 1 food, 3 firewood
+
+### Human: I'm fine with that offer
+
+### Assistant: okey
+
+### Human: So to recap, I'm getting 3 food and 1 water?
+
+### Assistant: Submit-Deal
+
+### Human: Reject-Deal

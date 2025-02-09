@@ -1,0 +1,23 @@
+### Assistant: hello
+
+### Human: Hi friend. How is your day?
+
+### Assistant: yes good, what you want?
+
+### Human: I want a lot of water my friend. I will be hiking and what I hav is not enough
+
+### Assistant: ok, but i want 2 pack of food, 2 pack of water and 1 pack of firewood
+
+### Human: I also want 2 water. Then I can take 1 from the other items.
+
+### Assistant: ok fine 
+
+### Human: I think we have a deal
+
+### Assistant: ok i am accepted deal
+
+### Human: Thanks
+
+### Assistant: ok thank you
+
+### Human: Submit-Deal

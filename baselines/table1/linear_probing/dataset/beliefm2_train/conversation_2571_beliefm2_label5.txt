@@ -1,0 +1,27 @@
+### Human: Hello! I'm so excited for this camping trip. What do you still need as your supplies?
+
+### Assistant: I think food, water, and firewood are all going to be fairly important.
+
+### Human: I agree. I have diabetes, so water and food are super important to me. My diabetes makes me super thirsty and I have to make sure I keep my blood sugar under control with certain foods ☹️
+
+### Assistant: I can definitely relate to that, I have family members with type 2 so I know how bad that can get
+
+### Human: Yes definitely! It is a pain for sure, but I love camping so I still want to go! I just have to make sure I have all the supplies I need. 
+
+### Assistant: I can do without extra water as long as I have food and firewood to purify water I find.  It might be better for you to have a reliable supply though.
+
+### Human: That totally makes sense! I actually am good on firewood thankfully, I got some from a person selling it from their yard a little bit ago.
+
+### Assistant: I would have been able to bring more with me by getting some from my parents, but my father decided he wanted to get rid of what he had left and so has been enjoying his fire pit a lot lately.
+
+### Human: Oh I have always wanted a firepit! I totally understand. If you'd like you can have all 3 of the firewood supply stash to get you started.
+
+### Assistant: And I think it's entirely reasonable for you to have all 3 of the water as dehydration can be very bad very quickly, especially with diabetes.
+
+### Human: That sounds like a fair deal. Food wise, how would you like to split that up?
+
+### Assistant: Since I'll be foraging for water and spending more energy on that, how about I take 2 food and you get 1.  Bearing in mind that you're getting all of the stable water supply.
+
+### Human: I can agree on that!
+
+### Assistant: You're a very agreeable person, I think we actually made a good deal.

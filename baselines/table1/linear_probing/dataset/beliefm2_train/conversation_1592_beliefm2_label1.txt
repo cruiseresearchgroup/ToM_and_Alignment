@@ -1,0 +1,27 @@
+### Assistant: Hi
+
+### Human: Hi! 🙂
+
+### Assistant: So what are you thinking about how we should split this? i really want firewood, as i am anemic and have a hard time in the cold weather during the nights here
+
+### Human: Well, I need to keep some firewood for myself too, since it'd be cold outside. But I'm willing to trade more of it for food, since I'm iron-defcient and have family to feed!🙂
+
+### Assistant: fair enough, how do you want to split the water
+
+### Human: I'm willing to trade off water if you need more of it! I'm really looking for food and firewood, but I'll take food over wood.
+
+### Assistant: sounds good, how about i take 2 firewood, and 2 waters, and one food
+
+### Human: Hmm if I give you two firewood, how much food will I get back? I'm only willing to do two for two.
+
+### Assistant: i would be willing to give you two foods
+
+### Human: okay two firewood, two food sounds good. Can I get one firewood back for two waters? I'll give you the one food for free
+
+### Assistant: sure that works
+
+### Human: Okay, so I give you technically one firewood, two waters, and a food, right?
+
+### Assistant: Hold on, i thought the two waters was in addition to my one i asked for previously. So i would take 1 firewood, 1 food, and 3 waters. 
+
+### Human: >-< okay I just got confused. 1 firewood, 1 food, and 3 waters makes sense now that I reread it.

@@ -1,0 +1,23 @@
+### Human: Hi, I would like to get firewood because I would like to sit by the campfire in the evening.
+
+### Assistant: Hi there. I was really hoping to have the firewood because I am afraid my children would be cold.
+
+### Human: Ok, so we have 3 packages, what about if you get 2 and I get 1?
+
+### Assistant: Thank you, 2 packages of firewood would work.
+
+### Human: So could I get 2 food, if you get 1 food?
+
+### Assistant: How many persons are you feeding? I am feeding 2 adults and 2 children.
+
+### Human: 2 adults and 3 children, so if I get 2 food and 1 water, you could get 1 food and 2 water? 
+
+### Assistant: I believe we can work with 1 food and 2 waters.🙂
+
+### Human: So 1 package of firewood, 2 food and 1 water for me and 2 packages of  firewood, 1 food and 2 waters for you? Sound good? 
+
+### Assistant: Yes I get 2 packages of firewood, 1 food and 2 waters. Sounds like a good deal.🙂
+
+### Human: So we have a deal🙂 Thanks!
+
+### Assistant: Submit-Deal

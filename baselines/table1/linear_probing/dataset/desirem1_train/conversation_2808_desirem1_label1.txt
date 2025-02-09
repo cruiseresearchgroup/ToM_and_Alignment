@@ -1,0 +1,23 @@
+### Human: Hello how are you today? I would like 3 firewood because I will be camping in subzero temperatures. My friends will not have the food needed so I would ask for 1 extra food and give you 2. I am easily dehydrated so 1 extra water would help.
+
+### Assistant: Hello, I can give you two firewood because I need one to keep my family warm while camping. I can offer you two waters so that you are better hydrated and one food as well. 
+
+### Human: I would prefer 3 firewood. You can have 3 food and 1 water.
+
+### Assistant: I'm afraid that I cannot give all 3 firewood and would need at least one of them. I will offer one more water or food in addition. 
+
+### Human: I understand that you need 1 firewood. What was that for?
+
+### Assistant: I will need one firewood to keep my family warm while camping. 
+
+### Human: OH yes now I remember that. 🙂
+
+### Assistant: And I understand the subzero temps will be hard to weather, which is why I would like to offer you two firewood. 
+
+### Human: I will accept the offer of 2 firewood, 1 food, and 2 water. 🙂 
+
+### Assistant: Okay, that is a deal. 
+
+### Human: Thank you.
+
+### Assistant: Submit-Deal

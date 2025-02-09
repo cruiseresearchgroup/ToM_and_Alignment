@@ -1,0 +1,23 @@
+### Human: Hi, how are you today?
+
+### Assistant: Good! How are you?
+
+### Human: I'm great! excited about camping :D
+
+### Assistant: I am too! Sadly I am not good at packing so im lacking some stuff
+
+### Human: Oh, what did you need the most? I personally don't like hunting or fishing, so I need food the most.
+
+### Assistant: Oh, haha. I m diabetic so I also need food the most, but if you are willing you can have most of the other stuff to trade off
+
+### Human: Alright, I'm willing to work with you. I don't want you going into shock and dying when camping. That'd be awful!
+
+### Assistant: Yea, I had that happened once. It was not fun. What else do you need so I can get a general idea of what you want
+
+### Human: I don't need firewood at all. I can find that anywhere. The water is my mid point. Go ahead and make an offer tho.
+
+### Assistant: Oh okay, how about this. ill get 2 foods and 3 firewood and none of the water. sounds good? 
+
+### Human: Okay, that sounds fine to me!
+
+### Assistant: Submit-Deal

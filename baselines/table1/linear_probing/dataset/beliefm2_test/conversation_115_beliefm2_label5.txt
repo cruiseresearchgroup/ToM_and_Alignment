@@ -1,0 +1,23 @@
+### Human: Hi  I have an extra guest that will be camping with me and was wondering if you had an extra food package that you could spare?
+
+### Assistant: I don't have much food, but you can take one package and I can take two? 
+
+### Human: thanks  that would be great!  I also need an extra package of firewood, I will probably need it cooking.  Do you have a spare package of it as well?
+
+### Assistant: I don't need much firework, so you could have two packages. Could I take all of the water so I can wash my clothes? 
+
+### Human: Sure, I can wash whatever that needs to be washed out in the lake or river.  🙂
+
+### Assistant: Alright, can you repeat the deal with me so we can make sure we are on the same page? 
+
+### Human: ok, I am getting 1 food package, two packages of firewood, and all of the water.  Is this correct?  
+
+### Assistant: I thought I was taking 2 food packages, 3 waters and 1 firewood package. 
+
+### Human: Right, I typed in what that I was getting  lol  
+
+### Assistant: Okay, this seems like a deal. 🙂
+
+### Human: Yes, it does.  Thanks and have a great afternoon!
+
+### Assistant: Submit-Deal

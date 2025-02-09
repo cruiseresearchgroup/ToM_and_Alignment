@@ -1,0 +1,23 @@
+### Human: Hello, how are you today?
+
+### Assistant: Hi buddy. 🙂
+
+### Human: How are you doing? Are you looking forward to going camping?
+
+### Assistant: Yes. You?
+
+### Human: Certainly, it will be good to get out of New York. How are you for supplies?
+
+### Assistant: Oh I see. I need more.🙂
+
+### Human: What do you need more of? We have food, water, and firewood.
+
+### Assistant: I usually wear extra layers with it goes below 50 degree. Since I hate the cold, more firewood I guess. 😮
+
+### Human: No problem - our team only asks for what it needs, so you are welcome to all the firewood.
+
+### Assistant: What are you looking for? 
+
+### Human: We need a little food and water 🙂
+
+### Assistant: Submit-Deal

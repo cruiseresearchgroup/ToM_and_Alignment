@@ -1,0 +1,23 @@
+### Assistant: I have little babies with me. I need a lot of water. Can you give me all the 3 water?
+
+### Human: No. That will not be possible because i will need a lot of it too.
+
+### Assistant: I can then give up 1 water and you take 2 of any of the remaining that you will choose.
+
+### Human: If you give me one water then i will take all the food and 2 firewood.
+
+### Assistant: That I will need to walk away friend
+
+### Human: Why walk away when we can agree? You need to consider me too.
+
+### Assistant: You are taking almost everything. I can offer you 1 water, 2 food and 1 firewood. It is fair.
+
+### Human: It's not fair. That means you take most of almost everything. Can i take 3 food, 1 water and 1 firewood?
+
+### Assistant: I also need food please
+
+### Human: Okay then. What if i give you 1 food and you give me another water? I have a condition that requires a lot of water.
+
+### Assistant: With water, I can not do with less than 2 water. then i can give you 2 food and 2 firewood. Is that not fair enough?
+
+### Human: I think that will be better. Though water is my top priority.

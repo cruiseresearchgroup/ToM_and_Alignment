@@ -1,0 +1,23 @@
+### Human: Hello, how are you? Getting ready for the big trip?🙂
+
+### Assistant: Hello, I am good and what about you? and your arangements for the trip
+
+### Human: I'm good thanks. Yup, just getting ready. I was thinking since I have a larger group of people, additional food would be great. We also love campfires so extra firewood would also let us have more fun!
+
+### Assistant:  I too have a diabetic problem so can you offer me some additional food and for that I'll offer you some firewoods
+
+### Human: Ok, I could take all the firewood and you could have all the food if you want. We could split the water.
+
+### Assistant: yes sure I am happy with this deal 
+
+### Human: Ok, it will likely be hot where i'm going, would you mind if I had two waters?
+
+### Assistant: no I don't have any issues in that
+
+### Human: Ok, so i'll take the firewood, you get all the food. I'll get two waters and you get the other one, sound good?
+
+### Assistant: yes,it's sound good and then let we can have a great trip
+
+### Human: great, sounds like we will, thanks!
+
+### Assistant: thank you

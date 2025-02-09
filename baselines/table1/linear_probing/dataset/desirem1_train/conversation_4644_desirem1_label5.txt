@@ -1,0 +1,23 @@
+### Human: Hi. I am fostering some children and need all the food I can get
+
+### Assistant: You can have the food if I can have the firewood
+
+### Human: ok that sounds good. 
+
+### Assistant: I also need at least 2 water,  it gets to 110 degrees fahrenheit 
+
+### Human: I also need 2 waters, as my children are parched and our water supply has been contaminated
+
+### Assistant: If you only have children, I think you can make it off the basic water supplies
+
+### Human: but the water is contaminated. They will get sick if they drink it!!!☹️☹️☹️
+
+### Assistant: Just boil the water that will get rid of the contamination
+
+### Human: would you drink water contaminated with sewage? 😡
+
+### Assistant: I am just going to walk away then
+
+### Human: Submit-Deal
+
+### Assistant: Reject-Deal

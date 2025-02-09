@@ -1,0 +1,23 @@
+### Human: Hi, how are you doing today?
+
+### Assistant: I am fine. Thank you. How are you?
+
+### Human: I'm doing well. I am going camping this weekend and just making a list of extra supplies that i need to bring
+
+### Assistant: Wonderful! I am going camping this weekend too. This time Zen, Ken and Ben, my little kids, will join me.
+
+### Human: Oh, that sounds like fun. I am going with some friends. What supplies do you plan on bringing?
+
+### Assistant: We do need water the most and some food would be nice. We would use some firewood but it is not our priority. 
+
+### Human: Oh, I would like to bring extra water too. Where I am going camping there isn't much fresh water around.
+
+### Assistant: what is your least priority?
+
+### Human: I don't need much firewood
+
+### Assistant: Do you think we could have 2 of water, 2 of food and you can have 1 water, 1 food and 3 firewood?
+
+### Human: Sure, that sounds fair.
+
+### Assistant: Submit-Deal

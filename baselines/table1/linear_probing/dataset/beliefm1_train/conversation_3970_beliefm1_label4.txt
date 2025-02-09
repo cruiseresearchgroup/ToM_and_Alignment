@@ -1,0 +1,31 @@
+### Human: Hello I would like at least 2 of the waters because I will be camping in a very hot area and be doing some hiking. 2 foods because I have a couple friends that can not afford their own. Also 1 firewood so that I can cook the food.
+
+### Assistant: I think we can come to an agreement on the food and firewood, however I would like 2 waters for the same reason.
+
+### Human: I will give you 2 waters If I can have 3 firewood.
+
+### Assistant: I'll only give you 3 firewood if I get 3 waters and 1 food.
+
+### Human: well I surely do need some water more than I need 3 firewood.
+
+### Assistant: Keep in mind, this for extra supplies.  We get a basic set by default.  How about I take 2 waters, 1 firewood, and 1 food.  That gives you 1 water, 2 firewood, and 2 food.
+
+### Human: I do know it is for extra supplies. Another reason I am asking for the 3 firewood is there will not be extra wood to cut around my campsite. 
+
+### Assistant: What do you feel is your highest priority item here?  I consider water to be most important to me.
+
+### Human: Water is by far for me. Considering the 100 degree weather and hiking I will be doing.
+
+### Assistant: In that case, I'll give you 2 waters but then I want 2 firewood and 2 food.
+
+### Human: How about I have 2 water, 1 food, and 2 firewood.
+
+### Assistant: No, I've already given you the better deal.  Take 2 water, 1 food, and 1 firewood or I will walk away.
+
+### Human: I believe the deal I just gave you is more fair for both of us. Also walking away is not a good idea.
+
+### Assistant: If we assign a point value of 3, 2, and 1.  You are getting 6, 2, and 1 (9 points).  I am getting 3, 4, and 2 (9 points).  My deal is a fair deal.  Your deal leaves me with 7 points.  So I say again, You can have 2 water, 1 food, and 1 firewood.  That is equal point value.
+
+### Human: alright I accept.
+
+### Assistant: Submit-Deal

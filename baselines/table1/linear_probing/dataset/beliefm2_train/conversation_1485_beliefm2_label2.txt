@@ -1,0 +1,23 @@
+### Assistant: Hi, have you camped here before🙂
+
+### Human: No I have not, but I go camping frequently.
+
+### Assistant: It's a great camp ground, did you bring every thing you need??
+
+### Human: I have the basic supplies needed, but there are definitely some things I could use more of.
+
+### Assistant: We are in the same boat. We have lots of water but sure could use some more food
+
+### Human: Yes, I definitely need some more food since I have several small children to feed.
+
+### Assistant: This is going to be tough if we both need food. I can trade you water for anything you don't need
+
+### Human: I need the firewood the most, it is supposed to be very cold and I don't want the little ones to get frostbite or anything.
+
+### Assistant: I can give you 3 firewoods for 3 foods
+
+### Human: I can only spare 2 food. Is that okay?
+
+### Assistant: I can do 3 firewoods for 3 foods and i'll even be nice and give you 2 waters and i'll only take 1
+
+### Human: Ok thank you very much!🙂

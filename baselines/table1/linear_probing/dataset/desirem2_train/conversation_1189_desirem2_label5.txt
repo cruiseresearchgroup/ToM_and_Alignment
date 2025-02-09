@@ -1,0 +1,23 @@
+### Assistant: Hello, what about I get 2 packages of food, 2 of water, and you can have the rest and all the firewood.
+
+### Human: Hi, I don't need extra firewood.  I'll only use it to cook, due to the weather being cooperative and pleasant.🙂🙂🙂🙂🙂🙂
+
+### Assistant: What do you need? 😮
+
+### Human: Since I have a child with me, I'd more food and water.  If it's okay with you, would you take 2 firewood, 1 pack of water and food?  I hate to be so needy, but I have another mouth to feed. I hope you understand.
+
+### Assistant: I understand, but I also have a few extra mouths to feed. ☹️ What if I took 2 food packs, 1 water, and 2 firewood?
+
+### Human: Oh wow, really. 😮We agree on you taking 2 firewoods and 1 water, but I'm still trying to decide on how to do the food.  Now that I know we're in the same boat. We're camping for two nights and could definitely use 2 packages of food.🙂
+
+### Assistant: We are planning a 3 day weekend of fishing, I'm not sure if we will be able to catch enough to supplement. Maybe if we took 3 firewood, 2 water, and 1 food so we would spend less time looking for firewood and making the water potable.
+
+### Human: I'd take that deal, but it leaves with no firewood.  We definitely would need at least one would get us through out two planned nights.  I'll see if I can ask someone else.  You go ahead and take the 3 firewoods and we can setlle on you getting the 1 food package and water that we previously agreed on.  How does that sound?
+
+### Assistant: I could take 1 food, 2 water, and 2 firewood, in that case. 🙂
+
+### Human: Sounds great! We have a deal.🙂Thank you and enoy your trip.
+
+### Assistant: You too, have fun
+
+### Human: Submit-Deal

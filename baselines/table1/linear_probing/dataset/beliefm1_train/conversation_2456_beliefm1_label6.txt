@@ -1,0 +1,23 @@
+### Human: Hello there?
+
+### Assistant: Hi! How are you?
+
+### Human: I am fine. How is your camping trip going?
+
+### Assistant: I'm just finishing the final details of packing. I'm a little concerned I don't have enough of a few things. It is supposed to be over 100 degrees where we are going, and I don't think I have enough water. I'm concerned my kids are going to get dehydrated. I really could use 3 extra packages. 
+
+### Human: That will not be possible i am afraid. I need at least 2 packages of water too. I have some tabs that i have to take with water regularly.
+
+### Assistant: I don't think I will be able to give you 2 waters. I'm desperate. I need at least 2. I would give you 1 if I could get 3 packages of food. I would give you all the firewood. 
+
+### Human: If i give you 3 packages of food then i will take 3 packages of firewood.
+
+### Assistant: So I get 2 waters and 3 foods. and you get the rest?
+
+### Human: I could use one food too. How am i going to survive without eating anything?
+
+### Assistant: Okay So I get 2 waters and 2 foods and you get the rest?
+
+### Human: Don't you think it is a fair deal?
+
+### Assistant: I can deal with that

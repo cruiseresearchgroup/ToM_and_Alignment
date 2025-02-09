@@ -1,0 +1,31 @@
+### Assistant: Hi, how are you?
+
+### Human: Great, how are you?
+
+### Assistant: Pretty good, planning my camping trip, checking on supplies.
+
+### Human: Here too, looks like the weather has changed for us. We won't have enough water to last as we forgot it. Food, we have some snacks, but not enough to get by for our trip. I'm not overly concerned about firewood since it's so hot. But I'm really concerned about water.
+
+### Assistant: Yeah, I'm going to the desert so I'm hoping to have enough water. I'm good on food and I hunt for a lot of it anyways.
+
+### Human: I've never been a good hunter. I wish I had those abilities.
+
+### Assistant: I would part with all the food if I could get all the firewood.
+
+### Human: That seems fair. How about water. How would that be split? I'm very concerned.
+
+### Assistant: Me too. There is little natural sources where I'm going. 
+
+### Human: I'm not familiar with my surroundings. None of us going have ever been to this spot.
+
+### Assistant: I mean I would give two waters if I could get one more food. So 2 water for you and 2 food.
+
+### Human: Submit-Deal
+
+### Assistant: Reject-Deal
+
+### Assistant: I'd like to keep all the firewood if I'm giving the majority of the water.
+
+### Human: Ok, that seems fair.
+
+### Assistant: Submit-Deal

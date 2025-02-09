@@ -1,0 +1,23 @@
+### Human: Hi there!  I would like to have 3 waters but will give you 3 wood.  we can split the food?
+
+### Assistant: hello, I will give you three water if you give me three food and two woods
+
+### Human: i will give you three food, but i need 2 wood because i have poor circulation and will need to keep warm
+
+### Assistant: but you had offered to give me three on your first offer, wood is my mostv aluable because I have asthma 
+
+### Human: ok then, you can have 3 wood and i will have 2 food and 3 water
+
+### Assistant: what I need is three food and two wood
+
+### Human: i am offering 3 wood and 2 food.  you said wood is your most important item
+
+### Assistant: I said is very valuable, food is my most important 
+
+### Human: ok then i can be flexible.  i will offer you 3 food and 1 wood, i will take 3 water and 2 wood
+
+### Assistant: i need more wood, three food and two wood is my deal
+
+### Human: Submit-Deal
+
+### Assistant: Reject-Deal

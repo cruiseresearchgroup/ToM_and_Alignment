@@ -1,0 +1,23 @@
+### Human: Hi, I think I should take two firewood, one food, and one water. 
+
+### Assistant: Hi, I hope we can work together to find an offer that benefits both of us. Do you agree?🙂
+
+### Human: I agree!
+
+### Assistant: Ok, could you tell me which item is the most valuable to you?
+
+### Human: The firewood is most valuable to me because I get very cold at nighttime. Which is most valuable to you?
+
+### Assistant: My most valuable item is Firewood too since my knee is injured and I won't be able to pick it up at camp. And the least valuable?
+
+### Human: Water is least valuable to be because I can find my own water while camping. How about you?
+
+### Assistant: My least valuable item is food because I'm thin🙂
+
+### Human: Ok, I will need at least 1 firewood
+
+### Assistant: What do you think of this offer: I give you 2 firewood and 1 food and what is left for me.
+
+### Human: I would need 1 water just in case I can't find any drinking water
+
+### Assistant: Remember that we already have the basic supplements for the camp, these are only extra items. And you have 2 of the most valuable, water is nothing for you.

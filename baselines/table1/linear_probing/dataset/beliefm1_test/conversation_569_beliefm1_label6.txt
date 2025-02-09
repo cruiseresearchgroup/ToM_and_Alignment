@@ -1,0 +1,23 @@
+### Assistant: Hello I would like to have two bottles of water and in trade will take 1 food and firewood for a higher amount of water.
+
+### Human: Hello. I would consider giving you 2 waters for 3 firewood and 2 food. I have a large family so the additional firewood will help with warmth and cooking food. 🙂
+
+### Assistant: That sounds like you could  really use the extra warmth for your family
+
+### Human: Yes it is very much needed. My family doesn't have a lot of extra bedding so having the warmth of a fire will help make sure we don't get cold at night 🙂
+
+### Assistant: Okay I am willing to take your offer as I think you need the firewood more than me and I could use the extra water for hygiene related issues.
+
+### Human: Thank you! I am grateful! 
+
+### Assistant: You are very welcome!
+
+### Human: I'm looking forward to this camping trip now knowing that we will have enough firewood to last🙂
+
+### Assistant: Me too. Now that I have everything I really wanted it will be a blast. Have fun maybe I'll see you out there.
+
+### Human: Thank you! You too! Stay safe🙂
+
+### Assistant: Submit-Deal
+
+### Human: Reject-Deal

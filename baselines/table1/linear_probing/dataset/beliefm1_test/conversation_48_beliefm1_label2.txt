@@ -1,0 +1,23 @@
+### Assistant: Hello, I'm in need of some extra food for my trip.  I just checked and some of my food is past the expiration date.
+
+### Human: Hi friend! How are you. Food is a non negotiable for me. We currently don't have enough for our trip.
+
+### Assistant: Everything is negotiable 🙂 but if you absolutely can't budge on the food then I will need some extra firewood and water to make up for it.
+
+### Human: We cannot budge at all on food. But are more then happy to give up all the extra fire wood for all the food. 
+
+### Assistant: Could you trade one food item for either one firewood or water?
+
+### Human: How about this- You will get 1 food, 1 water and 3 Firewood. I will get 2 Food and 2 Water with 0 Firewood. 
+
+### Assistant: Hmm, I think I would prefer your original offer instead.  You can have all the food if I can have all the rest.
+
+### Human: Hmmm i don't beleive i ever offered you everything for all the food. I will need at least one water. lets not be selfish.
+
+### Assistant: Oh you are right sorry, I was mistaken.  Okay then, how about I get 1 food, 2 waters, and 3 firewood.  You can have 2 food and 1 water?
+
+### Human: Well that would give you 6 rations and me 3. Again that is not very fair. If you want 1 food and all the fire wood that i need at least 2 waters. so again, 1 food, 1 water 3 wood for you
+
+### Assistant: Okay, you have a deal. 🙂
+
+### Human: Submit-Deal

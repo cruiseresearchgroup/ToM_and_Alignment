@@ -1,0 +1,27 @@
+### Assistant: Hi! I look forward to making a trade with you that's good for us both.
+
+### Human: Me too, hopefully we can get together on a deal.
+
+### Assistant: I'm hoping so too. What's most valuable to you?
+
+### Human: Water, what about you? 
+
+### Assistant: Food, but I definitely do need some water, too. Can you live with taking 2 waters?
+
+### Human: Yes, can you live with two foods? 
+
+### Assistant: I can. How about firewood? I would like 2 if possible.
+
+### Human: Well there are only 3.
+
+### Assistant: Of course. Since you're getting more water, I was hoping to get 2 firewood, and you could have the remaining 1. Would that work for you?
+
+### Human: Water was my high priority and food was your's, so I think we already split the difference there. 
+
+### Assistant: Okay, so how do you propose splitting the firewood?
+
+### Human: Can we split a bundle, in the real world that would be cool.  
+
+### Assistant: I wish we could. I would be down for that. 🙂 That seems the most fair to me. How about you enter the trade deal on your end?
+
+### Human: Deal.

@@ -1,0 +1,27 @@
+### Human: Hello.  I hope you are well.  I would like to have all of the water, 2 of the firewood and 1 of the food.  
+
+### Assistant: Hello.  I'm actually not doing too well.  There have been a few problems and I will need some of the extra packages.  I'll need two of the waters, 2 of the firewood and 2 of the food.
+
+### Human: I'm sorry to hear that you are not doing well.  I've also have some issues.  On the way up to the camp site, all of my clean water spilled in the car.  I was really hoping to be able to get all of the available water.  Why aren't you well?  I hope it's not serious.  ☹️
+
+### Assistant: Oh, that's terrible.  I'm sorry that happened.  I need the water for my child.  They seem dehydrated and disoriented.  My husband has also caught a cold and has been having chills.  I thought the extra firewood would help him feel better.
+
+### Human: Oh my gosh.  You are not having an easy trip.  If your children are dehydrated and disoriented, perhaps you should get them to emergency care immediately.  I would like to provide you will all of the water in the meantime, but that would leave me with none at all.  I wouldn't have your husband out of the tent with chills.  Perhaps you should keep him bundled in your cabin.  I forgot my portable propane grill - so I would need some firewood.  How about I take 2 waters, 1 firewood and all of the food?
+
+### Assistant: Oh dear, you spilled your water and forgot your grill?  You mentioned that you had a car.  Perhaps you could take a quick drive to grab some extra water.  For now, I definitely agree that you need 1 extra water and 1 firewood.  I will need 2 of the extra food portions though.  How does that sound? 
+
+### Human: Wish it was an easy car ride.  We're miles and miles from a store and it's getting dark.  I don't do well driving in the dark.  I think we might be getting close to agreement.  As I understand it:  you would get 1 water, 2 firewood and 2 food portions?  Is that correct?
+
+### Assistant: Actually, I suggested that you would get 1 water, 1 firewood and 1 food portion.  I can compromise with you though.  I would like 2 water portions, 1 firewood and 1 food.
+
+### Human: Since I arrived with no water at all, I would definitely need at least 2 waters.  I'm afraid I don't have a lot of "wiggle room" with that.  I'm open for the other supplies.  Ideally, I would like to have 2 waters, 1 firewood and 1 food portion.
+
+### Assistant: If that's the case, I would like 1 water, 3 firewood and 3 food portions.
+
+### Human: Would you be open to me having 2 waters, and 1 food portion?  While trying to get together some wood to start a fire, I came across a stray pup.  He seems very friendly - so I'm thinking he must have gotten separated from his family.  He's very hungry though - an extra food portion would be a great help.
+
+### Assistant: Deal
+
+### Human: Wonderful!  I'll submit our deal now.  It was nice working with you.  All the best to you and your family - take care of them!  😮
+
+### Assistant: Submit-Deal

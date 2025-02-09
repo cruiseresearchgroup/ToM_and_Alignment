@@ -1,0 +1,23 @@
+### Assistant: Hello friend.. 🙂
+
+### Human: Hello, going camping?🙂
+
+### Assistant: Yes. Can you help me to give some extra fodd?
+
+### Human: I am willing to give you the good, though it would help us--we have a large group.  I really would like to take the water.  We are camping out in a primitive campsite with no running water.
+
+### Assistant: Ya sure. 
+
+### Human: Sorry for the type--I meant 'food' not 'good'.🙂
+
+### Assistant: Yes i can understand.
+
+### Human: We will be in an area where there is not much firewood to collect. You have to bring it in.  We hope to cook with it and keep warm in the evenings.  I am hoping to take at least 2 firewood packages.
+
+### Assistant: I will give you water. Firewood also need for me because of my health condition i want some warm.
+
+### Human: Will one extra firewood be enough to keep you warm?
+
+### Assistant: Submit-Deal
+
+### Human: Reject-Deal

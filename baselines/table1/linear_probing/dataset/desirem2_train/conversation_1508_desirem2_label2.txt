@@ -1,0 +1,23 @@
+### Assistant: Hi, how are you doing today? 🙂
+
+### Human: Hi, i am well thank you. What of you..?
+
+### Assistant: I'm doing well too
+
+### Human: Good to know. Would kindly wish to request to have additional items for the camping
+
+### Assistant: Not a problem. I can be fair. What are your preferences?
+
+### Human: Additional food, firewood and water each by two
+
+### Assistant: I was thinking we can make it a bit more equal and fair. Since I have three young children who have a condition where they get cold easily, I would like more firewood. How about 3 firewood packages for me and 1 food package. You can have 2 food packages and 3 water packages. How does that sound? 🙂
+
+### Human: Since you have small children that seems fair. i am open to your suggestion
+
+### Assistant: Okay that sounds great, thank you so much for understanding. Do we both agree on 3 firewood and 1 food package for me, and 2 food and 3 water packages for you?
+
+### Human: Yes we have a deal
+
+### Assistant: Great! I will submit the deal right now. Thank you! 🙂
+
+### Human: Submit-Deal

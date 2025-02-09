@@ -1,0 +1,23 @@
+### Human: Hello!
+
+### Assistant: Hey! Are you going camping anytime soon?
+
+### Human: Yes, I plan to go within the next few weeks.
+
+### Assistant: So am I.  I know a guy that has some supplies we may need.  He has 3 bundles of firewood, 3 packs of water, and 3 boxes of food.  How do you think we should split them up?
+
+### Human: Well, I have my basic supplies, but would like some firewood to cook some food and make some s'mores. 🙂 I also just discovered a new hiking trial nearby my campsite, so I would like some more water. Food is my lowest priority, but it is always good to have a few more snacks.
+
+### Assistant: We are camping by a creek, so we have plenty of water.  Our plan is to have a big banquet on the last day, we we will need a bit of firewood and a lot of food.
+
+### Human: Okay. I think you need the food the most, then.
+
+### Assistant: Yes, and you'll probably need more water for those long hikes.
+
+### Human: Definitely, I tend to drink a lot of water.
+
+### Assistant: Now for the firewood.  I think I would need two bundles.  We are planning a big cookout, and will need to sanitize our water from the creek.  I think 2 bundles for me, and one for you would be acceptable.
+
+### Human: I think that is good on the firewood.
+
+### Assistant: Submit-Deal

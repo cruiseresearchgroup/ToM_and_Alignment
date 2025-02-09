@@ -1,0 +1,23 @@
+### Assistant: Hello. Due to my medical needs, I need high amounts of food, water, and firewood. I need all the water and I am offering you one each of firewood and food.
+
+### Human: I need more food due to an extra person coming along with me, is there any way I can get 2 in exchange for 1. You can have 2 water
+
+### Assistant: I am willing to give you two food, but I still need all the extra water. 
+
+### Human: ok you can have all the water. Can I also have all of the firewood? I tend to get anxious and worry about emergencies a lot. 
+
+### Assistant: I don't think I can give up all the firewood. What kind of emergencies would be helped with more wood?
+
+### Human: I could get stranded out there for longer than I intended. While that may not happen, my severe anxiety would be at ease knowing I will be ok, if it does happen. 
+
+### Assistant: So what is your total offer right now?
+
+### Human: I am offering all of the water, but wanting all of the firewood in exchange. 
+
+### Assistant: And how much food would you keep/allow me to have?
+
+### Human: you can have 1 package of food. I am not greedy, but an extra person will be with me, and I want to make sure we will both have sufficient food. 
+
+### Assistant: I think we have a deal! 🙂
+
+### Human: Awesome! Have a great camping trip

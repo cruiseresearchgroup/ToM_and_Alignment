@@ -1,0 +1,23 @@
+### Assistant: Hi there - how are you today?
+
+### Human: I'm doing well.  How are you today?
+
+### Assistant: Pretty good. Just hanging out with our group. Looking forward to this upcoming camping trip. It's a college reunion weekend. 
+
+### Human: Oh.  That sounds fun.  I'm getting ready to go camping with my family next weekend as well.  It will be the first time that my kids have gone camping with me.
+
+### Assistant: Aw that will be a great time then 🙂 How old are your kids? 
+
+### Human: My kids are 14 and 12.  So they're fairly independent - but I also know that they want to do a lot of cooking during our camping trip.  Thus, I think that I'm going to need more firewood as I expect that we'll be having a lot of fires while we're out.  How about you?  What are you planning to do on your camping trip?
+
+### Assistant: Good ages. They should be able to help out. We're planning to do a big bonfire, maybe some smores, and hopefully find a lake. We're looking for extra firewood and water for the bonfire and to keep hydrated
+
+### Human: That sounds like a blast.   I would like to propose that you take 2 waters and 1 firewood and I'll take 2 firewoods and 1 water for our respective trips.  Does that work for you?
+
+### Assistant: Yes, we are all looking forward to it. Thanks for being amenable and trying to make this work. That might be okay, but could we take take the 3 packages of food? Since we won't be doing as big of a bonfire, I am sure we'll hike more or swim and need the extra energy
+
+### Human: I was hoping to take at least some of the food with me.  As you know, those teenagers seem to hungry ALL the time.  It's like feeding fuel into a bottomless pit.  So I'm definitely going to need some of the food for my trip as well.
+
+### Assistant: Hm okay. Would 1 packet of food be sufficient? I know they are growing but my friends are ex football players and can eat 3x the normal person
+
+### Human: Those ex-football players can eat way more than the average person.  I would be OK with that deal.  I will get 2 firewood, 1 water and 1 food.  You'll get 1 firewood, 2 water and 2 food.  I'll go ahead and submit this deal for you to agree to.  Thanks for negotiating and have a great camping trip!

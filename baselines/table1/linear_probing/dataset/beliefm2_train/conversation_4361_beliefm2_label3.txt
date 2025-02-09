@@ -1,0 +1,23 @@
+### Assistant: I would like to ask for 2 additional packages of firewood and 1 package water to compensate for the additional cooking I will be doing for invited guests. 
+
+### Human: I  need 3 additional packages of water .it is needed to boost my energy level
+
+### Assistant: I understand, how about I receive one package of water to alleviate thirst and help with cooking and you receive 2 packages of water to boost your energy level?
+
+### Human: Ok fine🙂
+
+### Assistant: Thank you. Would you support my two additional packages of firewood to help with cooking to feed my unexpected guests?
+
+### Human: ok i will
+
+### Assistant: What are your thoughts on the packages of food? I brought excess food, but would like 1 additional package in reserve in case more guests show up. 
+
+### Human: no,i need food for my safety purpose
+
+### Assistant: I understand. Would you be willing to trade one package of food for one of my packages of firewood?
+
+### Human: ok ,that will be a good idea
+
+### Assistant: Deal
+
+### Human: Deal

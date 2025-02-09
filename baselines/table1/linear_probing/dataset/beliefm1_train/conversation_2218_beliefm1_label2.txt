@@ -1,0 +1,27 @@
+### Assistant: hello
+
+### Human: hello
+
+### Assistant: what is your priority?
+
+### Human: I would like to get extras of everything to be honest. I have always felt you cannot be too prepared. 
+
+### Assistant: Thats true! I would really like to get 3 food packages since i am going on a very long hike
+
+### Human: I would be okay with you getting 2 and me getting one package for food. 
+
+### Assistant: ok, sounds good🙂
+
+### Human: I would like to get 3 firewood packs. My left shoulder isn't the best, so chopping up falled branches would be difficult for me.
+
+### Assistant: I really need the firewood too. I was hoping for 3 packs too. The Weather is supposed to be bad, really cold.
+
+### Human: Well there is only three packs total and we can't both get three. how about I get 2 and you get one? You can always bring an exra blanket. That would be much better for cold than a fire. I ened the fire to keep the anumas and bugs away
+
+### Assistant: If i agree to that, then can i have 3 packs of water?
+
+### Human: You would be getting all the water then. you are already getting two food. how about i get one water, one food and two wood. you get 1 wood two food and two water
+
+### Assistant: well, i think that would be fair🙂
+
+### Human: okay so its a deal

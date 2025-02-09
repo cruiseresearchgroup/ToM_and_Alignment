@@ -1,0 +1,23 @@
+### Human: Hi there! I sure am getting excited for camping! How about you?
+
+### Assistant: Hey! I am so excited about camping. Been really boring the last few months
+
+### Human: No kidding! Corona is making me crave the outdoors! I can't wait to eat smore's while camping! I was hoping you might let me have all of the food and firewood?
+
+### Assistant: I'd like for you to have some, but that's just too big of an ask
+
+### Human: I understand. Can I have two of the food and two of the firewood?
+
+### Assistant: I actually need to have some of the firewood. It gets really cold at night where we camp. How about 2 firewood 0 water and 2 food
+
+### Human: I will gladly accept 2 firewood and 2 food! Or is that what you are asking for from me?
+
+### Assistant: Yes, you get 2 firewood and 2 food
+
+### Human: That would be great! Thanks! So what are you most excited about on your trip?
+
+### Assistant: Fishing, it's been a long while
+
+### Human: That sounds great! Have fun! Nice meeting you! 🙂
+
+### Assistant: Submit-Deal

@@ -1,0 +1,23 @@
+### Human: Hi, how are you, ready for the big camping trip?
+
+### Assistant: Yes I am. I'm actually already at the camp and came across some homeless people who could really use all the food they can get.
+
+### Human: Wow, ok. I'd can give you some food, I'd like to have a little extra food and water as we have a larger group going. 
+
+### Assistant: I see. Which is more important to you, food or water?
+
+### Human: If I had my choice, I'd say I'd rather have more food.
+
+### Assistant: Interesting. Looks like we are in the same situation! 😮
+
+### Human: I'd be willing to give you extra food if I could then get extra water and firewood. How about you Get 2 food, 1 water and 1 firewood?
+
+### Assistant: That sounds almost fair. But I could possibly use 1 more firewood. What do you think?🙂🙂
+
+### Human: Idk, you're already getting the extra food which would be important to me. I think my offer is very fair for both of us.
+
+### Assistant: I'm not sure either. Well them, how about we switch and you can have 2 food, 1 water, and 1 firewood and I will take the rest. The homeless could use water almost as much as food
+
+### Human: sure, i can agree to that
+
+### Assistant: Submit-Deal

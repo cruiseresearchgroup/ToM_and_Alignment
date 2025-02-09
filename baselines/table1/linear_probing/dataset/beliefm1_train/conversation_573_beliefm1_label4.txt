@@ -1,0 +1,23 @@
+### Human: Hi, I would love to get your preference? 
+
+### Assistant: hello, i am going to a camping trip soon and could use more water and possibly firewood as well
+
+### Human: I would also love to have some extra water. How many firewood would you like? 
+
+### Assistant: i need the water so i'll be keeping that, but i will trade you 3 food for 3 firewood. it can get pretty cold at night.
+
+### Human: I cannot agree to that because i also need water. I am willing to sacrifice my need for food and give to 2 food and i water, and keep 2 water and only 1 food. You can also keep 2 firewood. 
+
+### Assistant: i get pretty thirsty a lot otherwise my mouth gets very dry. if i don't get the water i'll just walk away from the deal
+
+### Human: If you walk away it is bad for both of us. Therefore, we should come to a agreement for the benefit of both of us. 
+
+### Assistant: that is how important water is to me, take or leave
+
+### Human: I must must have at least 1 water, 3 food and 2 firewood. 
+
+### Assistant: i'll counter that with 1 water 3 food 0 wood or 0 water 3 food 1 wood. if not i am walking away.
+
+### Human: I will need some firewood to boil water so i don't sick when i drink water. Therefore, i would need 1 firewood at least. I will take 1 water, 3 food, and 1 firewood. My last offer.
+
+### Assistant: alright deal

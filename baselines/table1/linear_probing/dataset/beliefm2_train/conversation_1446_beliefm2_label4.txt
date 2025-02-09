@@ -1,0 +1,35 @@
+### Assistant: Hello, how are you doing today?
+
+### Human: Very good. How about you?
+
+### Assistant: I'm doing well. I'm looking forward to going on my camping trip but will need some additional items to make sure the trip is safe, healthy, and enjoyable. 
+
+### Human: Same here. 
+
+### Assistant: I have diabetes, so it is very important to me that I get extra packages of water and food. When I'm at home, I always need to pack extra drinks and snacks for myself in case I go into shock and need to take medication. The trip could be very dangerous for me if I don't have access to these additional supplies. 
+
+### Human: Actually mine own purposeful need is firewood and water. Being on a first time adventure, I lack these items as I was inadequately prepared.
+
+### Assistant: Okay, so firewood and water are your two most pressing needs?
+
+### Human: Yes.
+
+### Assistant: Okay. I'm willing to give in on the firewood, but I really can't give in on the water or the food. As a diabetic I have to put my health first. 
+
+### Human: I can give out the food in exchange for the firewood
+
+### Assistant: Okay. I need all of the water, if you're getting the firewood. 
+
+### Human: I can't give out all the water. I need to be hydrated as well. 
+
+### Assistant: You already have all the basics, though, so you won't lack sufficient water to be hydrated. I have a serious medical condition that requires that I have access to additional water. 
+
+### Human: The maximum bundle I can give is all packages of food + 1 package of water
+
+### Assistant: Sorry, that won't work for me. I've already said that I have a medical condition that requires additional water. You do not need that much water just to be hydrated -- you already have basic water. I can give you all of the firewood, but I need all of the water. 
+
+### Human: In that case I exchange all the water only for all your firewood
+
+### Assistant: I can give you all the firewood - but as a diabetic, I still need at least one extra package of food for my blood sugar levels. So, as my final offer I can give you all of the firewood, and two extra packages of food. Do you agree to these terms?
+
+### Human: No, I give out only one extra package of food

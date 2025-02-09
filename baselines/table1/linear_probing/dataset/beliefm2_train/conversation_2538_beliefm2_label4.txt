@@ -1,0 +1,23 @@
+### Human: How about I take all the water and firewood, you can have all the food.
+
+### Assistant: I need water and firewood. I don't need as much food. I need water for my dog and firewood for warmth since I am camping during the winter
+
+### Human: I need water because I'm going hiking, and the water from streams isn't safe to drink.
+
+### Assistant: I can give you 2 units of water, but I need at least 1. 
+
+### Human: I also need firewood, I have some health issues.  I need the wood to keep warm at night, and for cooking fish.
+
+### Assistant: I can give you 2 units of firewood, but I need at least 1 as well. 
+
+### Human: How much food do you need?
+
+### Assistant: If you give me 1 unit each of water and firewood, I'll give you 2 units of food for helping me out
+
+### Human: I may need two food, I don't know how much fish I can catch.
+
+### Assistant: I can give you 2 of everything, but I want and need at least one of everything so my dog and I can be ok during the winter trip
+
+### Human: I think we may have a deal!
+
+### Assistant: Submit-Deal

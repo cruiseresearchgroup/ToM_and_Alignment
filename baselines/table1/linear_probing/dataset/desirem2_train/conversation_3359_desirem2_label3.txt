@@ -1,0 +1,23 @@
+### Human: I am willing to take 1 food for 2 waters in return. I also find 2 firewoods acceptable. 
+
+### Assistant: Unfortunately, I really need the water to take my medication. I would give 3 food in return for 3 water and 1 firewood.
+
+### Human: I do not want to get dehydrated, so I want at least 1 water.  I can take 3 food and give you 3 firewood
+
+### Assistant: That works for me
+
+### Human: Perfect, let me know if you want to make changes to the deal
+
+### Assistant: Could I have one food so I do not starve
+
+### Human: Yes in exchange for 1 firewood for myself so that I can either use it for warmth or make a hunting tool.
+
+### Assistant: I think I would rather have the firewood than the food though
+
+### Human: Your, getting 2 firewood, 2 waters, and 1 food
+
+### Assistant: I would rather have the previous deal with 3 firewood, 2 water, 0 food for me
+
+### Human: That works for me. You can use the wood to capture animals, so you wont starve.
+
+### Assistant: Great idea. I love capturing animals and eating them

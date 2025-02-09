@@ -1,0 +1,23 @@
+### Human: What are your preferences for additional supplies?
+
+### Assistant: I could use water the most, you?
+
+### Human: I need more food.
+
+### Assistant: Sure, I can make that work, how are you doing in regards to firewood?
+
+### Human: I need some firewood too.
+
+### Assistant: Ah, then we are both in the same boat in regards to that.
+
+### Human: We can split firewood. But I need most food because I have diabetics, I need sufficient food supply to stay healthy.
+
+### Assistant: Sure, I'm willing to let you have all the food, if you let me have all the water.
+
+### Human: Sounds good. I'll take 3 packages of food, and you can have all 3 packages of water.
+
+### Assistant: Sure, and as for the wood, since there is only three I figure we should do a 2-1 split, although if you don't mind I'd prefer the 2- heard the camp area I'm headed to got cleared of most of its dead wood so there won't be much to find for a fire.
+
+### Human: I'm wondering if I can get 2 packages of firewood. The local weather forecast says there's a 50% chance of rain, I'd need as much wood as possible to stay dry if it does rain.
+
+### Assistant: Submit-Deal

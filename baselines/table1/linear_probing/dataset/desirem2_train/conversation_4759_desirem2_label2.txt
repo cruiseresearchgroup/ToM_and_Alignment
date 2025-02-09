@@ -1,0 +1,27 @@
+### Assistant: I can't wait to get out of house this weekend.
+
+### Human: I know the feeling will you be traveling alone? 
+
+### Assistant: Yes, this time it will just be me.
+
+### Human: I am hiking with my kids/
+
+### Assistant: Sounds good, I'll be taking some long hikes myself. 
+
+### Human: Yes we will be out there three days. Going the easy trail with kids that is why I would like to make sure I have enough food.
+
+### Assistant: Long hikes make my hungry too. I like to have extra firewood to cook with.
+
+### Human: How is your water supply?
+
+### Assistant: I am pretty good with my water supply. 
+
+### Human: I am also. We are taking the longer trail but we do have the river.
+
+### Assistant: I can give you 2 food, 1 firewood, and 1 water.🙂
+
+### Human: I really need the extra food for the kids, I could go 3 Food 1 firewood and And one water. 🙂
+
+### Assistant: How about 3 food and one water. But no firewood.
+
+### Human: 3  food 2 waters would be a little more fair.

@@ -1,0 +1,23 @@
+### Assistant: Hi! How is it going?
+
+### Human: It's going well. How are you? I'm most hoping to come out of this with food because I'm a big, athletic guy and I get pretty hungry.
+
+### Assistant: I'm fine, thanks. I understand what you're saying, I'm a big guy too and also want to do a lot of hiking, so I might need extra food as well.
+
+### Human: We can probably split the food. What else are you looking for?
+
+### Assistant: Well, if I want to hike I might need more water. What's your take on extra water?
+
+### Human: I don't really get the thirsty so I don't need much water. I do need firewood though because I'm worried about my fire dying.
+
+### Assistant: Oh, I think we're reaching middle ground here. I really think I have enough firewood, you can have it all if you need it. 🙂
+
+### Human: Okay great! So how about you get all the water, I get all the firewood, and we split the food?
+
+### Assistant: Yeah, I agree. One thing, how do we split the food?
+
+### Human: How about I get 2 and you get 1?
+
+### Assistant: I agree but, in that case, can I take 1 of the firewood packages? It'd be 2 food packages and 2 firewood packages for you.
+
+### Human: Sure, that sounds good to me!

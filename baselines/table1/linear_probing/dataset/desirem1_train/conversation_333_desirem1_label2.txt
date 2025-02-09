@@ -1,0 +1,23 @@
+### Human: Hello. 
+
+### Assistant: Hi! How are you doing today?
+
+### Human: I'm fine. And yourself?
+
+### Assistant: Pretty good. I'm really excited about going camping though!
+
+### Human: Me too. I haven't been camping for several years. 
+
+### Assistant: What type of place are you thinking of going camping to? Like what is the climate/area? More desert or forest, etc?
+
+### Human: Forest, for sure. Deserts have scorpions and tarantulas and I'm scared of those.
+
+### Assistant: Amen! Me too! 🙂 I too was thinking of going to the forest. Is your forest going to be wet or pretty dry?
+
+### Human: It'll be pretty dry. I don't want to catch a cold. 
+
+### Assistant: I wanted to a rainforest near where I live. I love listening to the rain. Did you think that you were going to need all of the firewood since you can get dry wood from the trees?
+
+### Human: So, lets negotiate for the supplies.  
+
+### Assistant: Submit-Deal

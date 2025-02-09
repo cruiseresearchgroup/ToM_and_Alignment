@@ -1,0 +1,27 @@
+### Assistant: Hello there.
+
+### Human: Hi there 🙂
+
+### Assistant: How goes it?
+
+### Human: Everything is pretty great with me. And you?
+
+### Assistant: I'm doing pretty well, but found out that some of the food I had packed for my camping trip was expired, so I'm wondering if perhaps we can make a deal?
+
+### Human: Oh no ☹️. What type of deal would you like to make?
+
+### Assistant: Well I was wondering if you might be in the market for water?
+
+### Human: I seem to have quite a bit of water, but I am in need of some firewood. Would you be willing to trade for that?
+
+### Assistant: I have some spare firewood sure, I'm a little more hesitant to part with it but I can make it work!
+
+### Human: That's great. What did you have in mind?
+
+### Assistant: If you're willing to give me 3 food, I figure I can give you 3 firewood and 1 water
+
+### Human: It seems I misunderstood your problem. I thought you were getting rid of food. I don't have much food to spare, but I'd be willing to give you one package for 2 firewood and 1 water
+
+### Assistant: Ah, well, if that's case and we're both short on food, I suppose I can let you have the 2 food then, although would it be possible to let me have the 2 of each of the other items then?
+
+### Human: That sounds resonable to me

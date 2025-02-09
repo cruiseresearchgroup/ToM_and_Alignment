@@ -1,0 +1,23 @@
+### Human: hi how are you! i heard you are going camping this weekend like me!
+
+### Assistant: Hai friend, i am went a trip and i need some help form you. can you help me?
+
+### Human: sure, lets negotiate! i am bringing my children and was wondering if i could have all of the food to make sure i can feed them enough
+
+### Assistant: I have a kids and old age sicked peoples so i need some extra package  for the trip.
+
+### Human: oh i understand that!maybe we can come to an agreement. how much food do you need
+
+### Assistant: i need 3 pack of food and 2 pack of fire wood and 2 pack of water.
+
+### Human: i am sorry but that does not leave me enough ☹️
+
+### Assistant: i am in some trouble friend so i need it please help me. old age peoples are take medicine so they need water and we go some snow fall place so we need fire wood and i have a kids so i need food
+
+### Human: i understand that but i have all these extra kids so maybe we can come to a conclusion. can i have two food 3 wood and 2 water?
+
+### Assistant: its not enough to me friend please consider my situation. i need the package with i told quantities. 
+
+### Human: Submit-Deal
+
+### Assistant: Reject-Deal

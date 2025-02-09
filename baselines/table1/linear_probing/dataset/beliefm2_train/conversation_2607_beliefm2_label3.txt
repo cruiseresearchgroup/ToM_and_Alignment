@@ -1,0 +1,23 @@
+### Assistant: Hello, i am excited to go on this camping trip. Is it okay if i take all the firewood, 2 water and 1 food?
+
+### Human: Hello, actually I need some firewood too. Maybe I could have one of the firewood?
+
+### Assistant: Hmm, that sounds reasonable, but I really need the firewood because i have a  fear of the dark.
+
+### Human: I did not bring enough but one more firewood should do. How about I take one firewood, one food, and two water?
+
+### Assistant: Hmm, okay then. I really need water too, i have a high metabolism so i need to dink lots to stay hydrated. What if I took two firewood, two water and two food?
+
+### Human: How about you take two firewood and all the water and I will take 1 firewood and all the food?
+
+### Assistant: That's an interesting deal. Is the food what you need most?
+
+### Human: I actually need the firewood the most but can make do with one. I have some but am a little short.
+
+### Assistant: Okay, then i think the deal you mentioned earlier is a good one for us both. Are you still ok with taking 1 firewood and the 3 food, and me everything else?
+
+### Human: Sure, that sounds good!
+
+### Assistant: Okay! it's a deal then!
+
+### Human: Submit-Deal

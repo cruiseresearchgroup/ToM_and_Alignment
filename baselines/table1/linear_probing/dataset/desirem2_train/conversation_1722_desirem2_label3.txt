@@ -1,0 +1,23 @@
+### Assistant: Hello my friend how are you, I would ike to dea with you a package of water
+
+### Human: Okay, I can spare some water. Can you spare some firewood?
+
+### Assistant: Well I have 3 package of water and 2 of firewood
+
+### Human: Can you give me 2 of your firewood for one bottle of water and one package of food?
+
+### Assistant: Okay sound good, lets do this deal
+
+### Human: That's great, I would greatly appreciate the firewood. I have hypothermia sitting in.
+
+### Assistant: Okay I understand, I like to be cold I don't need firewood right know I prefer food and in this case some water
+
+### Human: On top of that, I do need some water for medications. But, I have plenty of food.
+
+### Assistant: I need food but not much because I alone with my wife, just need a little, I have more firewood and I need to exchange that
+
+### Human: Great, I would appreciate the firewood in exchange for food. You are kind.
+
+### Assistant: Submit-Deal
+
+### Human: Reject-Deal

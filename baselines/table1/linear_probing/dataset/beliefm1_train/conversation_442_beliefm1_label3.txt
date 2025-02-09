@@ -1,0 +1,23 @@
+### Human: Hello 🙂 For my trip, we will need 3 firewood to burn a large bonfire. Would you like to give us all your supplies and join our party?
+
+### Assistant: As long as I would be able to join your party, that sounds like a great deal. We can all be warm.
+
+### Human: Yes! 🙂 You are welcome here. All of your friends are also welcome here. 🙂 We will all be warm together.
+
+### Assistant: You can have all three wood.
+
+### Human: Thank you. We may also have all three food the merrier?
+
+### Assistant: I don't think that is fair. I will take two of the food, and we can always share or trade later. 
+
+### Human: I am somewhat bewildered by your sudden move. 😮 Aren't you joining our party?
+
+### Assistant: Yes, but I would like to keep some of the food on my person in case something happens.
+
+### Human: I hope there's some way that you and I could see eye to eye without conflict. Would you like to bring someone arbitrary to quartermaster our food?
+
+### Assistant: if you have three wood already, i need some of the extra supplies.
+
+### Human: Would you like to hold all three water, while I hold all 3 firewood and an arbitrary cook in our party holds 3 food?? 
+
+### Assistant: I can agree to that deal

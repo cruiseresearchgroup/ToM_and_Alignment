@@ -1,0 +1,23 @@
+### Assistant: Hi, I would like 3 of the firewood and 2 waters and 2 food if that works for you
+
+### Human: No, am sorry. Unfortunately, that doesn't work for us. We used up most of our water for the food items without realizing it and now we are almost out of water. 
+
+### Assistant: Wow sorry to hear that I can do 3 waters which should help you out and I'll take the 3 firewood and 2 food
+
+### Human: Thats kind of you. We can really use the water. Having said that we may need some firewood also as some of the firewood got wet and is unusable. We do not mind if you take 2 firewoods. We can take 1 firewood and 1 food.
+
+### Assistant: Sorry I need the firewood to boil the river water so I can boil it to get the germs out so I have something to drink
+
+### Human: I understand but we have kids with us and it has gotten particularly cold today. We can take 1 firewood and you can take 2. You can also take all the food if that helps. Am sure you understand how it can get with kids ☹️
+
+### Assistant: I have  dogs with me so I need to make sure they have fresh water I can do 2 firewood that way you can also boil water and 3 food
+
+### Human: Okay. So we can take 3 waters and 1 firewood. You can take 2 firewoods and 3 food. Does that work?
+
+### Assistant: That sounds like a deal that will work put for everyone Thanks
+
+### Human: sure. that would work for us too. Thanks for understanding
+
+### Assistant: I was suppose to type will work out for everyone LOL
+
+### Human: Submit-Deal

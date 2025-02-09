@@ -1,0 +1,23 @@
+### Human: Hi, What do you thing about a deal with me?
+
+### Assistant: Well, I could really use some extra food, so maybe we can make a deal for some?
+
+### Human: I will share 1 food with you. Because my child and wife very hungry past two days. So I feed them.
+
+### Assistant: Oh my, Do you and your family have enough water for the next few days?
+
+### Human: I want 1 package of water for my family. I will share 2 packages of water with you.
+
+### Assistant: I really don't need that much water, that's why I thinking that maybe you and your family could use it instead.
+
+### Human: That's okay. What about the firewood?
+
+### Assistant: I have some firewood to spare but I think I need to keep at least 1 package.
+
+### Human: Okay I will give you 1 package of firewood.
+
+### Assistant: Since I am traveling alone, I think it's for the best that you get two packages of water, food and firewood.
+
+### Human: Okay, I agree the deal. What about you?
+
+### Assistant: That sounds good to me.

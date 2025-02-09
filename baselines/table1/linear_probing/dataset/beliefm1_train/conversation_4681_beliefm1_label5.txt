@@ -1,0 +1,23 @@
+### Assistant: Hello 🙂 Hope you have a good amount of supplies for your trip!
+
+### Human: Not really! I will need you to give me 3 food, 2 water and 2 firewood.
+
+### Assistant: Yea, that's not going to work for me. That would leave me with NO food, and only 1 water, and 1 firewood. Would you take that deal, if I offered it back to you?
+
+### Human: Ok what will work for you?
+
+### Assistant: I really need at least some of everything. What do you need the most?
+
+### Human: I think we are now talking. I need food the most and water as the second priority.
+
+### Assistant: Ok. I really need the food the most. 
+
+### Human: Now, let me have 2 food and 2 water and i will give you 3 firewood. What about that?
+
+### Assistant: I'm not really worried about the firewood ☹️ What about I take 2 foods, and you can have the 2 waters? 
+
+### Human: And 3 firewood then, that will be fine with me.
+
+### Assistant: Give me 1 firewood, and we'll have a deal? 
+
+### Human: Ok, for you. We have a deal.

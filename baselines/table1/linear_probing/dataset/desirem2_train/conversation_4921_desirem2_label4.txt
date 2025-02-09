@@ -1,0 +1,23 @@
+### Human: Hello, how are you?
+
+### Assistant: I am good how are you doing today?
+
+### Human: Well thanks, do you have a priority of the three items to share?
+
+### Assistant: Yes I do and it reminds me of when I went winter camping. Have you ever camped during the winter?
+
+### Human: No i haven't, usually only in the warmer weather due to my age and limitations. What does it remind you of?
+
+### Assistant: Well I went camping in the winter before and we needed to bring lots of firewood to keep warm. Also water was near by but needed to be boiled.
+
+### Human: I understand. Firewood would be crucial with the cold and the need to boil water to drink. How about you take 2 of the 3 firewood supplies then
+
+### Assistant: That sounds good, would you want 2 of the food and waters then?
+
+### Human: I need more of the water as i battle kidney issues, are you good with only 1 of the food, do you hunt?
+
+### Assistant: I have done some fishing in the past that is fun. Ice fishing is interesting. I can give you all the waters.
+
+### Human: That would be very kind and generous, so you take 2 firewood, 1 food and how about 1 water just to be fair, deal?
+
+### Assistant: Submit-Deal

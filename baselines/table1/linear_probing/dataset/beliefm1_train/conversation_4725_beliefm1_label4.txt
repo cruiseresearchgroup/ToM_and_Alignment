@@ -1,0 +1,23 @@
+### Human: I am thinking I will want food most
+
+### Assistant: Great! Food is not my priority but water and food is.
+
+### Human: awesome, you can have 3 water and i'll take 3 food?
+
+### Assistant: 🙂 I am fine with it. How about the firewood?
+
+### Human: i'll take 2, you can have 1? 
+
+### Assistant: Firewood is my second priority. Can I have 2 of firewood?
+
+### Human: okay🙂 is it cold so you want firewood?
+
+### Assistant: Yes, I get cold easy. Thanks a lot!
+
+### Human: sure, i have a lot of people coming thats why i need food
+
+### Assistant: No problems with that. I am glad we could make a deal. To summarize, you will have 3 of food and 1 of firewood while I will have 3 of water and 2 of Firewood.
+
+### Human: yes🙂
+
+### Assistant: Submit-Deal

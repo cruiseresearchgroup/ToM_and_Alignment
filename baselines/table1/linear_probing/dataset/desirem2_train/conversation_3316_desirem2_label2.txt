@@ -1,0 +1,35 @@
+### Human: hello! 
+
+### Assistant: Hi! I am excited to go camping. How are you?
+
+### Human: I'm good! Me too, I'm doing a lot of climbing and hiking too so that should be fun.
+
+### Assistant: Yes 🙂 Since you are doing hiking, I bet you could use a lot of water...
+
+### Human: Actually, I'm staying near a lake so water isn't too high of a priority for me. Food's the main one
+
+### Assistant: Me too. I did not get a chance to grab lunch so I am pretty hungry now. And I eat a lot...
+
+### Human: Ugh, I wish I could give you some food but I didn't pack as much as I need so I'm a little worried about this hiking trip
+
+### Assistant: I can do without water but I really need to eat. How about firewood?
+
+### Human: I only really need one bundle of firewood, you can take the rest.
+
+### Assistant: But I still need some food... I don't want to starve all through the night...
+
+### Human: I can give you one bunch of food, I can't go any higher than that though.
+
+### Assistant: Ok, you get 2 food and 1 firewood. I can get the rest
+
+### Human: yes, you can get 2 water too
+
+### Assistant: I should get 3 water . It might help when I am hungry
+
+### Human: I can do that if I keep all 3 food.
+
+### Assistant: well, food is more valuable, my friend. You got to give in a little bit here.
+
+### Human: ok so I keep 2 food 1 water
+
+### Assistant: ok. Got it. I think we got a deal

@@ -1,0 +1,23 @@
+### Assistant: Hi! I am good at gathering/ catching food, so if i get the firewood, it will help me to cook what I catch
+
+### Human: I see.  I in particular require lots of water for subsistence.
+
+### Assistant: hm. well, I also want some water to cook with. food i don't really need.
+
+### Human: I want a rolls royce.  That doesn't mean I should get a Rolls Royce and a BMW.
+
+### Assistant: haha, that's true. but still, I'm wondering, if i give you all the food and two waters, would you let me have one water?
+
+### Human: That seems like a decent starting point, I would be willing to share one water because I am not a monster. 🙂
+
+### Assistant: Ah! thank you, yes! 🙂 out of curiousity is the food of any value to you?
+
+### Human: A little bit, but I would be willing to give you all the firewood, I can keep warm enough.
+
+### Assistant: Ok, perfect! so it sounds like we have a deal, huh?
+
+### Human: So you get 1 water, 0 food and 3 firewood?
+
+### Assistant: Yes! thats it!🙂 Sounds good to me.
+
+### Human: Submit-Deal

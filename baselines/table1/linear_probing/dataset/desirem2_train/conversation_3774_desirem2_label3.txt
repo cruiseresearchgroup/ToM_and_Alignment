@@ -1,0 +1,31 @@
+### Assistant: Hi, how are you, getting excited for the big trip?
+
+### Human: I am very excited and just about ready to go on the big trip.
+
+### Assistant: Very nice, I would definitely like to have a bigger, longer campfire, helps with food and fun. Would you mind if I took extra firewood? I could do without any extra food.
+
+### Human: I was looking for extra firewood as well as I have brought along 2 more people than normally planned.  So I will be cooking more at mealtime and for a longer duration.  I will not need as much water.  Could I interest you in extra water?
+
+### Assistant: Hmm, extra water would be good too, would still need some firewood though. I could get by with 1 firewood if I could use 3 extra water, how does that sound?
+
+### Human: The firewood deals sounds good if I am able to get 2 packages.  However not sure if I can pass on all the extra waters.
+
+### Assistant: Ok, so how about I get 1 firewood, 2 waters and 2 food. You would get 2 firewood, 1 food and 1 water.
+
+### Human: The problem is with the extra people I brought I'm going to have to figure out a good deal with the food as well.  I'm thinking me 3 firewood, 0 water, and 2 food.  Leaves you with 0 firewood, 3 waters and 1 food
+
+### Assistant: Sorry, I'd rather have more water than food. I have people I need to think about too. I think the best I can do was my previous offer.
+
+### Human: OK so let's settle each item.  Can we say we agree on I get 2 firewood and you get 1?
+
+### Assistant: yes, thats fine. Please remember though that my top preference was to have as much firewood as possible and you are getting more now.
+
+### Human: You also said you could get by with 1 firewood if you could get 3 waters.  Does that sound good on those two items?
+
+### Assistant: sure, with that, i would be good with only getting 1 extra food, you could have the other 2.
+
+### Human: Are you sure?  That's seems pretty generous of you!
+
+### Assistant: Well, that would be 1 firewood, 3 waters and 1 food for me. I'll gladly take 2 food if you don't need it, but I'm fine with 1.
+
+### Human: Anyway you would be willing to give up 1 of the waters?

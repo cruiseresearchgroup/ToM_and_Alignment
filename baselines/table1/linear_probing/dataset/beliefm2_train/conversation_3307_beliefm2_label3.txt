@@ -1,0 +1,23 @@
+### Assistant: hello, hope you are well. more than anything i need extra firewood as looks like going to be extra cold on my camping trip. what are you needing the most?
+
+### Human: I am also going to need firewood the most. I would be willing to give extra food for it.
+
+### Assistant: i bought a lot of extra food. but what about if you get 2 firewood and then 1 water and food. and i get 1 firewood and 2 water and 2 food?
+
+### Human: That's not bad, but I would rather have 2 firewood, 2 water and 1 food.
+
+### Assistant: i hear ya but water is my 2nd biggest need after firewood as will be doing a lot of hiking so can't really get by with just 1 of my top 2 needs in firewood and water. only way could do that is if received all the food.
+
+### Human: I think that may be an acceptable deal but I would need to eat something so I don't know if I would be able to give all of the food to you. I still think 1 firewood and 1 water and two food is a good deal for you. I need the extra water to take my medicines with in the morning.
+
+### Assistant: i think whoever gets 2 firewood should only get 1 water as that only seems fair. would you take only 1 firewood and 1 water if those your top 2 needs?
+
+### Human: I may be able to give you all three of the food if you let me have 2 firewood and 2 water, other than that I may have to end this negotiation.
+
+### Assistant: good grief. i need food the least. how bout you get 2 firewood, 1 water, and 2 food. so you get more of your top need and 5 items overall. i will take 1 firewood, 2 water, and 1 food. 1 get 4 items and 2 of my 2nd most need? way more than fair to you. sound good?
+
+### Human: Do you wonder what my top needs are at all? Apparently not. I guess this negotiation is going nowhere.
+
+### Assistant: you told me this after i asked....I am also going to need firewood the most. I would be willing to give extra food for it.
+
+### Human: I would be willing to get 2 firewood and 1 water an 1 food so you are happy and end up with the most things. As long as I get the firewood. I guess I will have to go without my medicine.

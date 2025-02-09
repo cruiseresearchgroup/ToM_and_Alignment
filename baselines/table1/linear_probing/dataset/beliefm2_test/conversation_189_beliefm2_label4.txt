@@ -1,0 +1,23 @@
+### Assistant: Hello! What camping supplies are you looking for the most?
+
+### Human: Hello! I would like more packages of food the most. What are you looking for?
+
+### Assistant: I would need water the most as I forgot to bring enough. I can give you all my food for all of you water, if you'd like?
+
+### Human: That would be amazing! So I could take all 3 packages of the food and you could have all 3 packages of the water. Now, we just need to split the firewood. Could I take 2 of the firewood leaving you with 1? I think I would need more for cooking the food. 
+
+### Assistant: Awesome! That does sound like a deal. I wish we had more firewood to split because I am afraid it might get cold.
+
+### Human: I know, it makes it a little hard to split the supplies with only 3 of everything. I would definitely share more if there were more supplies!
+
+### Assistant: I agree. I am feeling generous and I did buy a new axe for this camping trip. So, I could stick to the prior agreement and just work a little harder to find some dry trees to chop.
+
+### Human: I appreciate your generosity 🙂 I think that bringing your axe would be a great idea! Also be sure to pack warm clothes and extra blankets! I'm sure we will both be fine
+
+### Assistant: You are welcome! 🙂 I am happy that we reached an agreement! Did you happen to see any dry looking trees on along your way?
+
+### Human: I am also happy we reached an agreement so easily! You are a great partner for compromising! Honestly, I am not sure how to tell if the trees look dry but I would definitely help you go look for some. I will submit our original deal so we can get on with camping🙂🙂
+
+### Assistant: Thank you! Stay safe out there! If you need anything else, let me know.
+
+### Human: You as well! Have fun!

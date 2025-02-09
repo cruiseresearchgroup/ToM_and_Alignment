@@ -1,0 +1,23 @@
+### Human: hi! I am going on a camping trip where i plan to do a ton of hiking 
+
+### Assistant: Really? I am literally doing the same thing...😮
+
+### Human: thats awesome! it is the perfect time of year to do it 🙂
+
+### Assistant: Yes, It is what I look forward to the most on my camping trips, that and smores-
+
+### Human: OOH love smores! For my trip i am going to need some extra supplies. How about i take all of the water and 1 firewood and you can have the rest 
+
+### Assistant: That is not going to work for me, I need to have water to stay hydrated- I could maybe give up 1 water.
+
+### Human: How about i take 2 waters 1 firewood and 1 food that still leaves you with some water and a lot of firewood and food
+
+### Assistant: Naah, that wont work for me, I was hoping to get some water from you, and firewood also- 
+
+### Human: OK i can take 1 water 2 firewood and 2 food that leaves most of the water for you 
+
+### Assistant: I need at least 2 firewood for myself, 2 water, and maybe 2 food- thats what I need- there's gotta be some flex here-
+
+### Human: i am sorry that leaves me with almost nothing 
+
+### Assistant: I can give you 1 water, 1 firewood, and 3 food- how does that sound?

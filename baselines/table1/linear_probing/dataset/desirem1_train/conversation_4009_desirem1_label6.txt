@@ -1,0 +1,23 @@
+### Human: Hello Friend. I feel so excited about this camping trip. I've waiting for a long time to make this trip come true. How do you feel about it
+
+### Assistant: Hello! I'm also very excited! Let's make sure each of us has enough supplies to make it a good trip.
+
+### Human: Yeah. Sute
+
+### Assistant: I would love to have as much water as possible. I get dehydrated very easily.
+
+### Human: My kids will be hiking so I will need them to have enough water for the trip so they won't get thirsty. 
+
+### Assistant: How about firewood? Do you plan on having many fires?
+
+### Human: I really dont need the firewood. You can have all of them. As long as I have enough water and food to survive the camping trip
+
+### Assistant: What if I take all the firewood and one water, you take 2 waters and all the food?
+
+### Human: It would be nice. I get 2 water and 3 food. You get the 3 firewood and 1 food. 
+
+### Assistant: Yes, that sounds like a plan!
+
+### Human: Yeah. A great one. Let's make a deal then
+
+### Assistant: Submit-Deal

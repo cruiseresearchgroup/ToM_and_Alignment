@@ -1,0 +1,23 @@
+### Human: Hello there, how are you doing today?
+
+### Assistant: Doing well how are you?
+
+### Human: Great thank you. I am looking for primarily some firewood and food for my camping trip soon. 
+
+### Assistant: I'm going camping too and also need food and wood, mostly food though
+
+### Human: Okay I understand that! Is there a particular reason that you do not need much water?
+
+### Assistant: I figure I could always get some at the stream 🙂
+
+### Human: Yes, I agree, but are you aware of the water quality at your campsite? 
+
+### Assistant: Not completely aware but I do have a filter that I brought from home. What are your needs?
+
+### Human: Ok me too! I am concerned the most with firewood as it is the basis for my camping activities: campfire, story telling, and producing heat. 
+
+### Assistant: OK so how about you take 2 firewoods and 1 food
+
+### Human: That works for me. May I have two waters since I have more of a need of water
+
+### Assistant: That works for me since I have the filter!

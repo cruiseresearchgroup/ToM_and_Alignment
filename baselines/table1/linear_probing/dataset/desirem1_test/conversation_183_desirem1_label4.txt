@@ -1,0 +1,23 @@
+### Assistant: Hello!
+
+### Human: Hello, how are you doing today?
+
+### Assistant: i am doing great! how about you?
+
+### Human: I'm doing pretty well, just preparing for this camping trip.
+
+### Assistant: ME as well! we are a group of big eaters, and are looking to take lots of food.
+
+### Human: That is fair as there is no showers or sinks at my campsite so I am looking to take water :) 
+
+### Assistant: We will likely also need to take water too. Need to be able to wash up.
+
+### Human: That is fair, I also will need a good bit of firewood to keep warm as the campsite is in a colder area.
+
+### Assistant: We dont care much for campfires. Leaves your cloths smelling for days!
+
+### Human: Alright so I think we can make a fair deal here where we both will be happy 🙂
+
+### Assistant: Submit-Deal
+
+### Human: Reject-Deal

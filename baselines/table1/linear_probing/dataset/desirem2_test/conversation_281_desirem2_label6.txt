@@ -1,0 +1,27 @@
+### Assistant: Hello?
+
+### Human: Howdy
+
+### Assistant: Hi friend
+
+### Human: Let's get to it, I could really use additional water for this camping trip. My wife is pregnant and has to drink a lot of water to stay healthy. Would you do a 2/1 split?
+
+### Assistant: I'm not sure if I could do that. I also need water because I get dehydrated easily. Maybe if I can get 3 food then I'll give you 2 water?
+
+### Human: I can do 2 water, 1 food, 1 firewood for me and 1 water, 2 food, and 2 firewood for you. You make out with one additional piece of equipment.  
+
+### Assistant: Thank you for trying to be fair but I need an extra food, I need to maintain my blood sugar so I don't pass out while hiking ☹️
+
+### Human: I can't do zero food so looks like we are at a standstill.
+
+### Assistant: Ok you said your wife is pregnant so it sounds like she shouldn't be exercising heavily. I'm sure if she isn't exerting herself hard she will do well with less water. Could you give me one extra water and I'll give you 2 food?
+
+### Human: To recap we are at 1 water, 2 food for me and 2 water 1 food for you?
+
+### Assistant: Yes that is correct , if that is fine with you then we can talk about the firewood.🙂
+
+### Human: well since you are getting 2 water I think I should get 2 firewood
+
+### Assistant: Ok I don't need too much firewood so that will be fine
+
+### Human: Perfect, 1 water, 2 food 2 wood for me, 2 water, 1 food, 1 wood for you.

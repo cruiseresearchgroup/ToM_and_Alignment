@@ -1,0 +1,23 @@
+### Human: Hey, how you are today?
+
+### Assistant: Doing good. How are you today?
+
+### Human: I'm good as well, trying to plan my camping trip for the weekend. Do you enjoy camping?
+
+### Assistant: I do but it's hotter than I expected. Probably gonna drink a lot of water.
+
+### Human: It pretty cool where I live so I don't need many water. But I do need a lot of food and firewood. Have a huge family and we do a lot of grilling. 
+
+### Assistant: I would give you all the wood if I could have all of the water.
+
+### Human: I do need more food than firewood, If I could get 3 food and 2 firewood. You can get 3 water and 1 firewood.
+
+### Assistant: I do need some food. I would like to get at least 1 food. You can still get 3 firewood.
+
+### Human: I could use water as well, so I could get 1 water, 2 food and 2 firewood
+
+### Assistant: I am good at making fire and have a starter so I can give up all the wood.
+
+### Human: I still need 1 water, don't have a water purify kit. ☹️
+
+### Assistant: Submit-Deal

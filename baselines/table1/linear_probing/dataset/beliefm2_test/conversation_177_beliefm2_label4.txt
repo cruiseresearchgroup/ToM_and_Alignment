@@ -1,0 +1,23 @@
+### Human: Hi, I'm thinking that I'd like all the water and the firewood.  I'd feel pretty secure if I had those supplies.
+
+### Assistant: Hello I would also like all of the water and the firewood. Water is important to me because I need it to live and I will also need firewood to stay warm on the trip.
+
+### Human: I get dehydated really quickly and then I'm just totally useless.  ☹️  How important is the extra food to you?
+
+### Assistant: Food is not as important to me as water and firewood. 
+
+### Human: Okay, well that's the same for me.  😮  I feel like firewood can be used to secure potable water, and also helps with food, so it's extremely valuable.  What do you think about me getting two water, one firewood, and all of the food?
+
+### Assistant: I would like 2 water, 2 firewoods, and 1 food if possible. If I have firewood I wouldn't need as much food. 
+
+### Human: I don't think that distribution makes any sense.   We're both looking for water and then firewood.  In that scenario, it only makes sense that whoever gets more water than the other gets more of the other two.  What do you think of that?  You take 2 waters, but then I get 2 firewood and 2 food, the least desirable thing.
+
+### Assistant: That sounds good to me. Want to go with that? 
+
+### Human: Yes, I think that's fair.  Just to confirm (since I had a typo previously), you'd get 2 water, 1 firewood, and 1 food.  I'd get the balance, obviously.
+
+### Assistant: Yes, that is correct. I'll submit the deal now since I think we've reached 10 messages. 
+
+### Human: Sounds good.  Go ahead and submit the deal and I'll agree to it. 🙂
+
+### Assistant: Submit-Deal

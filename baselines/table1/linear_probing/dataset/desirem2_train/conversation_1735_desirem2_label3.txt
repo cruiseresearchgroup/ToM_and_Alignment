@@ -1,0 +1,23 @@
+### Human: Hello, I would like to get some firewood for my camping, some extra water because I only consume water as my drink, and I have some extra people to feed so I would like some extra food.
+
+### Assistant: Hello🙂 Firewood is all yours because I can obtain more throughout the campsite if need be. I would need extra water because I also only consume water. I would also need food for myself, because I do not need to feed extra people. I will be riding this one out by myself🙂
+
+### Human: Great! I will take the firewood for sure.
+
+### Assistant: Would you agree to me getting 2 Water/ 2 Food/ 0 Firewood and you would get 1 Water/ 1 Food/ 3 Firewood?
+
+### Human: I think that would work for me. I do really need the firewood since I seem to always be cold. :) I am okay with the other proposal as to the food. I am not sure about the water yet just because I don't know if I would need more than you are offering🙂
+
+### Assistant: Well thanks for your consideration, that seemed to work out. 🙂  I would still need some water for my dog who always goes camping with me. He helps me out with hunting and finding my way around when hiking and he will also be my only company. I would hate to have to leave him behind due to lack of water or food. How can we resolve this??
+
+### Human: Yeah, dogs are great companions and I know how much they want to be with their people and obviously, you would want them to be around. I guess you would need the water more than I would at this time since your dog would be coming along with you.
+
+### Assistant: Wow Thank You so much for your consideration and for being so understanding. I really appreciate that. So are we agreeing to the original offer shown above? YOU: 3 Firewood/ 1 Food/ 1 Water and ME: 0 Firewood/ 2 Food/ 2 Water?
+
+### Human: Yes, that does work for me. I will be willing to accept the 3 Firewood, 1 Water, and 1 Food. You will get the 0 Firewood, 2 Water, and 2 Food. Plus, I would like to meet your lovely dog 🙂🙂
+
+### Assistant: Well that is just great!🙂 I am so happy that we were able to work this out. And yes my lovely dog Rex is always willing to make new friends like you! It has been great to be able to chat and work this out with you, we will look forward to seeing you at camp🙂
+
+### Human: Awesome! Looking forward to seeing both of you there! You can both join me at my campfire under the stars. I will make sure to bring some dog treats for Rex as well! 🙂
+
+### Assistant: Submit-Deal

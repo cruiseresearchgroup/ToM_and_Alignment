@@ -1,0 +1,23 @@
+### Assistant: Hello, can we make a deal?
+
+### Human: Of course! Are you going camping too?
+
+### Assistant: Yes.  I have 2 children so I was thinking that I will need extra water. 🙂
+
+### Human: I too need extra water, but I'm willing to negotiate on the other things if you are! 🙂
+
+### Assistant: If I take 2 waters, will you accept 2 firewood?
+
+### Human: You take 2 waters, I'll take 2 firewood and 2 food?
+
+### Assistant: What about you take 1 water and the firewood.  I take 2 waters and all the food
+
+### Human: That leaves me with very little. Can I have 1 water, 2 firewood, and 2 food?
+
+### Assistant: you would get 1 water and all 3 firewood.  I would get 2 water and all 3 food.  You have one less than me but the food is worth less
+
+### Human: I will make it work. Let's make a deal!
+
+### Assistant: Perfect. 🙂
+
+### Human: Submit-Deal

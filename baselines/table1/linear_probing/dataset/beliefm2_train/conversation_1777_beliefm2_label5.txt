@@ -1,0 +1,27 @@
+### Human: I really need to be able to build a fire every night and I don't have enough firewood. I forgot to bring a blanket and a sweatshirt, and the nights are supposed to cool down a lot. 
+
+### Assistant: Hello! I have no issue with you taking a lot of the firewood - I likely wouldn't be outside much at night anyway. 
+
+### Human: 🙂 Cool thank you! What can I help you with? 
+
+### Assistant: I feel like I'd need the food the most. I plan on being very active throughout the trip, and if I'm not able to eat well, this wouldn't be possible.
+
+### Human: Okay. I can definitely spare you some of the food! Do you need any water?
+
+### Assistant: Yeah, water is important too... but I think it's a little less important than food for me. 
+
+### Human: Same with me. We can split the water. 
+
+### Assistant: I like that! If you took all the firewood, could I have two of the waters?
+
+### Human: Sure. That's ok with me. 
+
+### Assistant: Thanks for being reasonable. These are important decisions.
+
+### Human: 🙂
+
+### Assistant: So if I take two food, two water and no firewood, is that alright with you? 
+
+### Human: yes. it's a deal. 
+
+### Assistant: Submit-Deal

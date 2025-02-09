@@ -1,0 +1,27 @@
+### Human: Hi! I like to hike so I really need more water. Could I take 2 packages of water and 1 of food and 2 of firewood?
+
+### Assistant: I am ok with the water, i just would like one water and one food, but i would appreciate two firewoods, i get cold at night  
+
+### Human: We both sound pretty reasonable! So you think you need 2 firewood?
+
+### Assistant: yes please,  i  dont require much food or water 🙂
+
+### Human: 🙂  You're being very accommodating! So right now I have 2 food, 2 water and 1 firewood. And you have 1 food, 1 water and 2 firewood, right?
+
+### Assistant: that sounds good to me, if you want to give me another food i would take it but ok if not 
+
+### Human: I wish we could split packages in two!  How about if I give you another food and I keep two firewood?
+
+### Assistant: that is ok, the original you stated will work, 2 food, 2 water and 1 firewood for you, and 2 firewood, 1 food and 1 water for me , i need to lose weight anyways 
+
+### Human: Well now that you mention it, I could lose a few pounds 😮
+
+### Assistant: haha but you enjoy hiking, i do not. 
+
+### Human: That's true! Okay, 2 let's go with 2 food, 2 water and 1 firewood for me and you can have 1 food, 1 water and 2 firewood. And since we are camping near each other, if you need anything, just ask! 🙂
+
+### Assistant: perfect 
+
+### Human: Do we both submit the deal?  It was nice working with you!
+
+### Assistant: you too!

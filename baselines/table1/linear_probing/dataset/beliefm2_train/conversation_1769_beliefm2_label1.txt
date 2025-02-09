@@ -1,0 +1,23 @@
+### Human: I'm really excited to go hiking and camping soon!
+
+### Assistant: Me too! We really rushed to get here, it was quite a drive.
+
+### Human: Glad you got there safe. We to hike some miles before we get up the mountain where we're camping
+
+### Assistant: I'm a little concerned I'm unprepared, the weather is supposed to turn off cold and I only brought the summer sleeping bags.
+
+### Human: I'm worried too. We are going up a mountain so we're going to be really cold and thirsty!
+
+### Assistant: I think you might need some extra water for hot cocoa. What would you say to you taking all the water, I'll take the firewood and 2 food?
+
+### Human: I'll need a little firewood to warm up that water for hot cocoa. Would you agree to 1 Firewood, 3 water, and 1 food for me and 2 Firewood, 2 Food for you? I need firewood the most but this seems like a good compromise
+
+### Assistant: Hmm. With the cold weather coming, firewood is pretty important to me. On the other hand, cocoa could warm me up too. Would you take 1 Firewood, 2 water and 1 food?
+
+### Human: I'll take 1 Firewood, 2 water, and 2 food. Firewood and Water are most important to me so I'll need to make it fair
+
+### Assistant: I did miss lunch on the way up so am pretty hungry. I'd prefer to give you 1 firewood, 2 water and 1 food. 
+
+### Human: that's not really even for me. I ask that you give 1 firewood, 2 water, and 2 food
+
+### Assistant: 🙂 There is no way to get totally even here, but I'm sure you could help a woman out.

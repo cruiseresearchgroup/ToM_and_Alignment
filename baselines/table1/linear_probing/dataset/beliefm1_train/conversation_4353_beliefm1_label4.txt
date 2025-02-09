@@ -1,0 +1,47 @@
+### Human: hello
+
+### Assistant: Greetings
+
+### Human: enjoying the trip?
+
+### Assistant: I plan to, sure.  That will depends on the agreement we reach here.
+
+### Human: Yeah sure. Hope you have all the supplies you need.
+
+### Assistant: You too, what would your trip successful?
+
+### Human: We're planning on going on hiking tomorrow morning so maybe we'll need some more water..could you please help me withh that?
+
+### Assistant: I require immense amounts of water to survive.  I am afraid that is prerequisite if are to make any progress.
+
+### Human: I have some extra firewood if you want. 🙂
+
+### Assistant: Firewood to me is hit or miss, I would be willing to give up food however. 🙂
+
+### Human: sure that would work too !
+
+### Assistant: Alright then, I propose this.
+
+### Human: What do you want in return?
+
+### Assistant: Submit-Deal
+
+### Human: Reject-Deal
+
+### Human: I am already running low on water :D
+
+### Assistant: Submit-Deal
+
+### Human: Reject-Deal
+
+### Human: how about we equally divide everything
+
+### Assistant: It is quite frankly impossible to equally divide 9 items.
+
+### Human: you can keep some extra firewood
+
+### Assistant: Apparently you are stuck on water, I require mass quantities of water.  Anything less than 2 is unacceptable to me.
+
+### Human: yeah same here friend ☹️
+
+### Assistant: So here is my final proposal, this is the best deal I will offer.

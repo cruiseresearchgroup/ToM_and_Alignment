@@ -1,0 +1,23 @@
+### Human: hi, how are you? my main need is water. how bout you?
+
+### Assistant: Hey hi, nice getting to interact with you. I'm doing good, thank you. Wish it's the same with you. I get dehydrated quickly and need additional packages of water.
+
+### Human: we both have the same high value priority. what is number 2 for you? thanks
+
+### Assistant: 🙂 Food
+
+### Human: me 2 lol, what if you got 2 of the water and me 1 but then i could do 2 of the food and firewood and things would kind of even out with that arrangement.
+
+### Assistant: Yes, that would be fair. How much of Firewood would you need?
+
+### Human: 2 firewood and 2 food and 1 water.
+
+### Assistant: I get it as you need more firewood for the additional package of food.
+
+### Human: exactly, and forgot some of my extra wood at the house again.
+
+### Assistant: Have a nice camping trip 🙂
+
+### Human: you as well
+
+### Assistant: Submit-Deal

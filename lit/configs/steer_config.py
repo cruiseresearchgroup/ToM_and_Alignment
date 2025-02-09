@@ -27,7 +27,7 @@ class PeftConfig:
 @dataclass
 class steer_config:
     decoder_model_name: str = ""
-    target_model_name: str = "meta-llama/Llama-3.2-3B-Instruct"
+    target_model_name: str = "meta-llama/Meta-Llama-3-8B-Instruct"
     control: str = ""
     dataset: str = ""
     peft_config: PeftConfig = field(default_factory=PeftConfig)
@@ -54,8 +54,8 @@ class steer_config:
     eval_prompts: str = ""
     save_model: bool = False
     # Added this part for modifying the ToM component
-    steer_component: str = "Intention"
-    steer_label: str = "Show-Empathy"
+    steer_component: str = "Desire"
+    steer_label: str = "Firewood"
 
     def __post_init__(self):
         mlp_modules = ["gate_proj", "up_proj", "down_proj", "lm_head"]

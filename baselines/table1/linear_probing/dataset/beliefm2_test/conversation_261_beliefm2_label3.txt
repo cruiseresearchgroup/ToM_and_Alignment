@@ -1,0 +1,23 @@
+### Human: Hello my friend! Are you ready for camping?
+
+### Assistant: I sure am! How about you?! 🙂🙂
+
+### Human: Yes. I love camping! But I am so hungry now. I did not get a chance to eat before coming here. I might need all extra food. 
+
+### Assistant: I would really like to help you with that. I brought too many packages, and to be honest I like foraging for my food anyway, so I do need firewood.
+
+### Human: God to hear that! I don't really need firewood. I love cold. I can give you all if you give me the food.
+
+### Assistant: Yes I can absolutely give you all 3 of my packages of food for all 3 of your firewood! 🙂 That would make my day.
+
+### Human: That was easy. How about the water? I really hate drinking from the river..
+
+### Assistant: I will let you have 2 if you want, I just need 1 for boiling.
+
+### Human: Oh thank you! Yeah.. we're going hiking after this so we probably need some water. 
+
+### Assistant: Yes, I love hiking. I'm just more of a Gatorade drinker. 🙂 I will be fine with 1 package of water.
+
+### Human: That's great! so I will get 3 food and 2 water. you will get 3 firewood and  water.
+
+### Assistant: Submit-Deal

@@ -1,0 +1,23 @@
+### Assistant: Hello! 🙂 Let's work together on a deal for these packages, shall we? What are you most interested in?
+
+### Human: Hey! I'd like some more firewood to keep my doggo warm. What do you need?
+
+### Assistant: I need firewood as well. We have a large group consisting of mostly senior citizens, including my grandma, so we'd like the firewood to keep everyone warm.
+
+### Human: I see. 😮 What are you least interested in?
+
+### Assistant: We can make do without extra water. Can we trade two waters for an extra firewood package and an extra food package?
+
+### Human: We could do without the water as well. I'm willing to trade you 3 firewood for 3 food and 2 waters
+
+### Assistant: We need some firewood too, though! ☹️ Let's try to make a deal that benefits us both! 🙂 Could I have 1 firewood, 3 food, and 3 waters?
+
+### Human: I meant I would give you my firewood, what would you trade in return?
+
+### Assistant: Oh sorry for the confusion. 😮 In that case, thank you for the generosity! 🙂 How about if I have 3 firewood, 1 food, and 1 water?
+
+### Human: I can do that for 3 food and 3 water?
+
+### Assistant: I think we're close. Let's shake hands on this: 3 firewood, 1 food for me, and then 2 food and 3 water for you. I'll make sure your food packages have extra doggy treats! 🙂 Is that a deal?
+
+### Human: Submit-Deal

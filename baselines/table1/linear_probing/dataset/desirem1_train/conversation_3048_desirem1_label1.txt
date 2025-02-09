@@ -1,0 +1,31 @@
+### Human: hi there!  i'm mostly interested in wood
+
+### Assistant: hi! am with my family on the camping trip and giving all my wood wont be a good thing to do though am low on water 
+
+### Human: what if you take 1 wood and i take 1 water? and then we split the food?
+
+### Assistant: no!!....lets make it this way, how about i take 2 water and i give you 1 firewood and 1 food
+
+### Human: that's really not fair!  you would end up with 2 water, 2 wood and 2 food!!  i will need 2 wood, 1 water and 2 food. 
+
+### Assistant: how about we balance things up
+
+### Human: yes, that's what i'm hoping for as well.  your first offer was very unfair
+
+### Assistant: am sorry, how about you get 1 food  and i get 1 water
+
+### Human: yes, in addition to 2 wood
+
+### Assistant: no!!
+
+### Human: i will take 2 wood, 1 food and 1 water.  you get 1 wood, 2 food and 2 water.  how is that unfair to you?
+
+### Assistant: am high on food, how about we renegotiate, you will get 1 wood 1 food 1 water and i also get the same  
+
+### Human: we need to divide 3 of each
+
+### Assistant: okay, you get 2 food, 1 wood, 1 water, i get 1 food, 1 water  
+
+### Human: ok great
+
+### Assistant: Submit-Deal

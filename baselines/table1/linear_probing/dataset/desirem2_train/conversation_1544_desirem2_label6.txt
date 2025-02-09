@@ -1,0 +1,23 @@
+### Assistant: Hello, I am so excited to get away from home and into the great outdoors for a few days!
+
+### Human: Me too! I've been cooped up for too long.
+
+### Assistant: Will be nice to set up a site and roast marshmallows over the camp fire.
+
+### Human: That'll be fun, I just want to relax in the heat.
+
+### Assistant: I'm planning to swim in a nearby lake to cool off, then maybe do some fishing and cook the up what we catch on the campfire.
+
+### Human: I'm looking forward to grilling up some burgers and hot dogs.
+
+### Assistant: Nice, so we will both be pretty hungry, we should split the extra food they are giving us.
+
+### Human: OK, you can get 2 packages and I'll get 1?
+
+### Assistant: Sounds great to me.  I'll need some extra firewood for all the campfire activities, so I'd like all of the wood.  You can have the water to keep hydrated.
+
+### Human: Sounds good to me.
+
+### Assistant: Excellent!  Thanks for your negotiation, and enjoy your trip : )
+
+### Human: You too.

@@ -1,0 +1,27 @@
+### Assistant: What is your highest priority item?
+
+### Human: I need firewood the most. 
+
+### Assistant: I also need firewood.
+
+### Human: Ok. What do you need the least of?
+
+### Assistant: I need the least of food.   
+
+### Human: Ok, I understand. If you got to choose, how much of everything would you want, and what would you give me?
+
+### Assistant: I will give you 3 food for 3 firewood. 
+
+### Human: I need some firewood ☹️
+
+### Assistant: How about 3 food for 2 firewood?
+
+### Human: Ok. Can I have all 3 water?
+
+### Assistant: 3 water for what?  
+
+### Human: How do you want to divide the water? Do you need any, or can I have all 3?
+
+### Assistant: What will you give me for 3 water?
+
+### Human: I'm already giving you most of the firewood, which we both need, but you said you wanted it the most.

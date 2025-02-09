@@ -1,0 +1,23 @@
+### Human: hello
+
+### Assistant: Hi
+
+### Human: Are you really exciting about camping trip?
+
+### Assistant: yes i am really happy about that camping trip? you also
+
+### Human: yeah. i really worry about my firewood. because i don'y have any back up for firewood. will you please provide all firewood to me
+
+### Assistant: Why not i can give the some firewood as you want? When you want you can take with me
+
+### Human: okay fine. i need 3 pack of firewood, 2 pack of water and 1 pack of food. What about you?
+
+### Assistant: Oooh, I have only 2 pack water and 1 pack food also! But you can take fire wood it is no problem to me 
+
+### Human: okay fine
+
+### Assistant: Anything else are you happy with this moment?
+
+### Human: thank you for your time with me
+
+### Assistant: Thank you

@@ -1,0 +1,23 @@
+### Assistant: Hey! Nice getting to interact with you and let's have a nice and enjoyable camping trip!
+
+### Human: Hi nice to meet you. We should have an enjoyable camping trip.
+
+### Assistant: I would need additional packages of water as I get dehydrated quickly. Let me know your requirements.
+
+### Human: I need additional Firewood because I am so cold at night. I also get dehydrated and get leg cramps in the middle of the night if I don't drink enough water.
+
+### Assistant: Ok, get it as you are need of additional firewood, we can possibly have a fair deal of water and firewood then, 2-1 of former and 1-2 of latter.
+
+### Human: Are you saying I could get 2 additional firewood and 1 additional water?
+
+### Assistant: Yes
+
+### Human: What about the food? How should we share it? Can I have 2 and you have 1?
+
+### Assistant: hmm, that needs a bit of thought
+
+### Human: I have my grandkids with and they are always hungry.
+
+### Assistant: I have to give in for that, you can have 2 of it.
+
+### Human: Submit-Deal

@@ -1,0 +1,27 @@
+### Assistant: Hi! I am looking forward to making a deal with you today.
+
+### Human: Hello, that sounds good. How are you today?
+
+### Assistant: I am doing okay but am in need of some supplies. What about you?
+
+### Human: Same here. My kids are really looking forward to this. What is most important to you?
+
+### Assistant: Firewood! I need it to cook my food and also to stay warm. What about you?
+
+### Human: That is the same for me as well. My kids were really looking forward to making s'mores and telling stories by the campfire. That's all they've been talking about
+
+### Assistant: Awesome, I'd be happy to negotiate that. What is your second most needed item?
+
+### Human: I'll need water. My kids take medications and need to stay hydrated.
+
+### Assistant: Absolutely. My second most needed item is food so that works out well.
+
+### Human: Well I am happy to give you all my food in exchange for all your water.
+
+### Assistant: We can do that! How do you want to split up the firewood?
+
+### Human: It's an odd number so someone has to get 2. But in order to make it fair if one of us takes two then the other should get one of the lower priority items. What do you think?
+
+### Assistant: That sounds fair to me! I am good either way.
+
+### Human: That's very nice of you. If it is ok with you them I'll take two firewood and 2 water and you can have the rest.

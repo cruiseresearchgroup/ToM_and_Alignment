@@ -1,0 +1,23 @@
+### Assistant: Hello! Nice to meet you.🙂
+
+### Human: Likewise, how are you today?🙂
+
+### Assistant: I'm doing fine, could be worse, You?
+
+### Human: Same, just getting ready for my families camping trip. Ready to make memories in the desert. Do you have any preferences for the items?
+
+### Assistant: That's nice, I am camping with the wife. Well I am camping near a stream so I don't need much water.
+
+### Human: That works for us, we will need a ton of water being in the desert and having a family of 5. We will not need much firewood if you want that you can have it.
+
+### Assistant: I need more food than anything, but probably some firewood too as I'll need to cook it.
+
+### Human: How about I take 3 water, 1 food and 1 firewood? How does that sound?
+
+### Assistant: How about you take 3 water and I take 3 food and  we negotiate more on the firewood?
+
+### Human: Sure. I only need one firewood. Does that work?
+
+### Assistant: Sure, that sounds good.
+
+### Human: Please submit the deal.🙂

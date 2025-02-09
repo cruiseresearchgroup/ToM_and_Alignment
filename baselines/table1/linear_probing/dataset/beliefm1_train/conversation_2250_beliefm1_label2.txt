@@ -1,0 +1,23 @@
+### Assistant: hello.nice to meet you
+
+### Human: Thank you hope you're doing well.
+
+### Assistant: Not really until i get some packages
+
+### Human: I can trade you 2 packages of Firewood for more food.
+
+### Assistant: Ah no.Without food man is nothing
+
+### Human: We can negotiate there can be balance.
+
+### Assistant: Yeah that the best thing to do 
+
+### Human: I can give 1 package of food, water, and firewood.
+
+### Assistant: How about i give you two packages of firewood and water and you give me two of foods.Good deal?
+
+### Human: I can give you 1 package of food and 2 packages of firewood.
+
+### Assistant: ok deal?
+
+### Human: Ok that's fine just want to agree it's 1 package of food, 2 packages of firewood, and 2 water.

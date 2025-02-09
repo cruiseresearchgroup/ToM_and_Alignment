@@ -1,0 +1,23 @@
+### Human: Hello
+
+### Assistant: Hi there!
+
+### Human: Im really low in food, is it ok if I get 3 Food, 1 water & 1 firewood? What do you think?
+
+### Assistant: With the cool weather in degrees lower than expected, my family of 7 are consuming firewood faster than expected. Thus, I would like all the firewood in exchange for the food
+
+### Human: Oh ok, that will be great. How about the water? Is 2 for me and 1 for you ok?
+
+### Assistant: How about 2 for me 🙂
+
+### Human: I have 3 kids with me who are always thirsty but we can negotiate for it
+
+### Assistant: Ok. Thats fine
+
+### Human: Oh great 🙂
+
+### Assistant: There is really not much option of evenness since its an odd number package.
+
+### Human: I agree with you, thank you for understanding. But I think we had a great deal. Have a wonderful to you and your family. 🙂
+
+### Assistant: Submit-Deal

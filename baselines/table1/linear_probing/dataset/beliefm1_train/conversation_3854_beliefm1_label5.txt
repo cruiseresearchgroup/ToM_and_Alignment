@@ -1,0 +1,23 @@
+### Assistant: Hi! It's nice to meet you.
+
+### Human: Hello! Nice to meet you to! What are you thinking about the camping trip coming up?
+
+### Assistant: I'm excited 🙂 And I see we have some items that we need to split up.
+
+### Human: What do you need the most for your trip?
+
+### Assistant: Food and water would be ideal. I tend to go through food quickly and I need to stay hydrated. What about you?
+
+### Human: Food is my number one priority. I'm not certain if I will be able to hunt where I'm going and/or I also don't know about the natural food available (berries, mushrooms, etc). Water would be a close second for me too.
+
+### Assistant: I would be willing to give you more food if you give me more overall. Something like you get 2 food, 1 firewood and 1 water and I get 1 food, 2 water, and 2 firewood.
+
+### Human: Could I do all three food in exchange for all water to you and 1 firewood to me, 2 to you?
+
+### Assistant: If you want all three food I would need everything else back. Food is my highest value item and I'm giving up a lot to give it to you.
+
+### Human: How about this: 2 food to me, 2 firewood to me, 1 water to me. Rest to you?
+
+### Assistant: I can't do that. That is giving you more food and more overall.
+
+### Human: Submit-Deal

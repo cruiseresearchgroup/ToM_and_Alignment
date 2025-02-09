@@ -1,0 +1,23 @@
+### Human: Hi, How are you?
+
+### Assistant: Good how are things?
+
+### Human: yeah. going good.
+
+### Assistant: good to hear
+
+### Human: How about the deal? 
+
+### Assistant: Sure. My kids are really looking forward to this camping trip but one has special needs and he has to have a specific diet. I am fairly flexible on the water and firewood but food is a must have for me.
+
+### Human: Okay. then I'll choose 2 food, 2 firewood and 1 water
+
+### Assistant: You want two food or you're allowing me to have 2 food?
+
+### Human: I want 2 food
+
+### Assistant: My kids need the food. If you allow me to have two food I'll give you all the firewood
+
+### Human: okay then I'll choose 1 food 3 firewood, and 2 water
+
+### Assistant: It's a bit skewed towards you with all those items isn't it? If you want two waters then I'll need 3 food and one water. You can have all 3 firewood

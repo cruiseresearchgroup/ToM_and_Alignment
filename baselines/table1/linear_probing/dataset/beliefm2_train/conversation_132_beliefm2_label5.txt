@@ -1,0 +1,23 @@
+### Human: Hello
+
+### Assistant: HI how are you today?
+
+### Human: Good. I am diabetic so would like to take 3 of the food
+
+### Assistant: I would do that but our meat spoiled because the ice box was not properly closed. How about you get 2 of the meat, and I get 3 of the water?
+
+### Human: ok I will just be able to get by with 2 of the food, I can give you all 3 of the water if I can take 2 of the wood. I have panic attacks in the dark.
+
+### Assistant: Okay that works for me as well.
+
+### Human: awesome any chance I could persuade you to substitute your 1 food item for an additional fire wood 🙂
+
+### Assistant: No I cannot do that unfortunately. We brought just enough food for our weekend trip, and I cannot lose any or we will run out before our camping trip is over.
+
+### Human: OK, just thought I'd ask, so are we settled on you getting 1 Food, 1 firewood and 3 waters?
+
+### Assistant: Yes that sounds like it will work for me.
+
+### Human: Great. Have a good day
+
+### Assistant: Submit-Deal

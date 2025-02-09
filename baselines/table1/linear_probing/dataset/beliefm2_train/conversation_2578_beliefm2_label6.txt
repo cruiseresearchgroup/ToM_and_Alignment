@@ -1,0 +1,27 @@
+### Assistant: Hey neighbor. I bet you're looking forward to your camping trip, as am I! Looks like we should divide up the remaining supplies between us. What's most important to you?
+
+### Human: Yeah! I am ok with that, we can divide the remaining supplies between us.
+
+### Assistant: Well let's start with food first. Food's pretty important to me, since I'll be camping in a remote area without much access to food.😮 How would you feel about letting me have all 3 of those?
+
+### Human: Food is very important for me too, for me to survive over there I would need food too. I would give you half of it.
+
+### Assistant: Hmm food seems important to both of us. How do you feel about firewood and water?
+
+### Human: There is a saying that water does not have enemy. I would need water for domestic use and I would need firewood in other to keep myself warm and as a source of energy in the night.
+
+### Assistant: Ah then it sounds like we want all of the same things then, but we must sacrifice something for the good of everyone. What is more of a priority for you, firewood or food?
+
+### Human: Both are very important to me, but I would likely go for food, food is more important
+
+### Assistant: Understood completely. I'm interested in food more than firewood as well. How would you feel if I took 2 Food, 1 Firewood, and all 3 Waters?🙂
+
+### Human: The food you took is much, please take 1 food, 2 firewood and 2 water
+
+### Assistant: I think food is the tricky one here. How about this: you take ALL the firewood, and I'll take all the water. Would you be willing to let me have 2 food then?
+
+### Human: Take 1 food, you take all the firewood and 1 water. Let's do it like that
+
+### Assistant: That's a non-starter unfortunately. ☹️I'd be willing to let you have 2 food if you give me 1 firewood. You get 2 food and 2 firewood, and I get what's left.
+
+### Human: I think I am ok with the 2 food and the 1 firewood. You can get what is left. Thank you

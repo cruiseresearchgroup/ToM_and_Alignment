@@ -1,0 +1,23 @@
+### Assistant: I would like to offer you all of the water and one additional package of food.  I will take the firewood and 2 pckages of food.
+
+### Human: Hello. Thank you for your offer, however that will not be a good deal for me or you as water is important to have on a camping trip. Have you been camping before?
+
+### Assistant: Yes.  If rain is in the forcast, I can collect rainwater.  What is your counter offer?
+
+### Human: I understand, but if it does not rain you will have to think about that. I offer that I can take 2 firewood, 2 food, and 1 water. Therfore, you can have 1 firewood, 1 food, and 2 water. 🙂
+
+### Assistant: That's kind of you, but I have small children and need to make sure they stay warm at night.  How about you take 2 water, 2 food, and 1 firewood?  I will take 2 firewood, 1 water and 1 food.
+
+### Human: In the case, wouldn't it be better if you take more food and water, since children can get more hungry and they tend to go to bed earlier, so you wont need as much firewood. What is your priority for the trip of items to have? I generally like to stay away very late in the evening to watch the stars, which is why I am leaning more towards more firewood than water. 
+
+### Assistant: That's interesting.  Looking at the stars is very entertaining.  However, children can get hypothermia rather quickly.  Also fire keeps predators away.  Therefore, I would prefer more firewood in order to keep my children warm and safe.  
+
+### Human: I can understand that, but that is why its important to bring more blankets to protect them. In that case, what if I take 1 firewood, 3 food and 2 waters and then you can have 2 firewood and 1 water since firewood seems to be that much more important for you. 
+
+### Assistant: Sadly, blankets don't protect against most predators.   I am again offering you 2 water, 2 food, and 1 firewood.
+
+### Human: It seems that we both prefer to have firewood the most, so I think if that is the case and you take more firewood, then I think that I should have more of something else as I've stated above. Dont you agree?
+
+### Assistant: Yes, I do agree.  There are 9 items available; I am offering you 5 and I get 4.  
+
+### Human: That is fine by me.

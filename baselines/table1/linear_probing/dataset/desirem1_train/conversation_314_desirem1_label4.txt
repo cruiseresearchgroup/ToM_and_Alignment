@@ -1,0 +1,23 @@
+### Assistant: Hello. I am so looking forward to this camp out with my son. What bring you out to the camp?🙂
+
+### Human: I love the outdoors, and I am excited to spend time with everyone from camp. It's been since last year when I saw everyone!
+
+### Assistant: That's awesome! I really love being out here with my son. Do you think you could spare some Food and Firewood? I have plenty of water if you need some.
+
+### Human: I am actually planning to make a big dinner for the whole camp tonight. I will feed everyone if you can let me have the water and firewood. You can take the food to eat before dinner.
+
+### Assistant: O cool🙂. I can give you all the water and we can split the fire wood. I need a least one firewood to make a fire for my son
+
+### Human: I can give you one firewood if you can spare one food for me to eat while I am cooking.🙂
+
+### Assistant: Ok if I can keep one water as well 🙂
+
+### Human: I may not be able to go without the water. I am making a large pot of soup with homemade bread.
+
+### Assistant: 😮 This is not looking good. I think we are close but I really need that one water for my son.
+
+### Human: If I can give you one of the waters, will you make a deal with me?
+
+### Assistant: Submit-Deal
+
+### Human: Reject-Deal

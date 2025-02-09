@@ -1,0 +1,23 @@
+### Human: hi there, i'm hoping we can come to an agreement on these extra items 🙂
+
+### Assistant: Hello, I would really like more food for my trip. If I can have all the food, and firewood, you can have all the water
+
+### Human: Oh, that won't really work for me.  I was hoping to get extra food and water for this trip since I need water to take medication and would love the food to plan a special meal.  I'd like say, 2 food, 3 water and 1 firewood
+
+### Assistant: I could give you 2 food, if I could have 3 firewood and 2 water
+
+### Human: Hmm, how about I take 2 food and 2 water and you can have all the firewood?
+
+### Assistant: This is fair, but I do not have any use for much firewood. I could give you 2 firewood, 2 water and 1 food
+
+### Human: Hmm ☹️.  How about 1 food, 3 water and 2 firewood?
+
+### Assistant: I could give you 3 firewood, 2 water, but that is the most I could do
+
+### Human: so 1 food, 2 water and 3 firewood?
+
+### Assistant: No food, just 2 water, 3 firewood
+
+### Human: 3 water, 3 firewood?
+
+### Assistant: I could do 3 water, 1 firewood, if you would like more water

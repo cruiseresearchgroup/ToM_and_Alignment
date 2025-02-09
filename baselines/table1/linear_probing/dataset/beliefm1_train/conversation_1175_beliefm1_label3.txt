@@ -1,0 +1,23 @@
+### Human: Hi! I am so excited about cmaping!
+
+### Assistant: Me too! What are you most excited about?
+
+### Human: Cooking over the fire. How about you? 
+
+### Assistant: I also like a fire, but maybe as a more social activity as well.
+
+### Human: I could see that. So you like to have fun with friends? 
+
+### Assistant: I do, and I think that the firewood would help me do that. But I can also see that you'd like to have some.
+
+### Human:  🙂 I was hoping for some extra food because I am horrible at cooking- worried I might burn some.
+
+### Assistant: Well, I'm a little less worried about the food myself - I think that there's going to be enough in the basic supplies.
+
+### Human: How do you feel about the water? I'm not to concerned about it.
+
+### Assistant: I'd like to have some to make sure that I can do washing without worrying about a drinking supply.
+
+### Human: I would be ok with one water, two food and two firewood.
+
+### Assistant: Could I trade a firewood for food - so you get three food & one firewood?

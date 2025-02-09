@@ -1,0 +1,27 @@
+### Human: Hi  - nice to meet you!  I hope we can work out a deal that is good for both of us.
+
+### Assistant: Hi, 🙂 It's nice to meet you as well: I also hope we can work something out: Food is my excess trip priority, What is yours?
+
+### Human: Mine is firewood with second being food.
+
+### Assistant: I'm definitely willing to give up some food for some firewood: That seems like a place where we can come to an arrangement: Would you like to make an opening offer? 
+
+### Human: Sure!  I figure I can go with little water as we can get it from the stream and boil it.  So for water I would be willing to give you 2 packages.  Would that be fair?
+
+### Assistant: so If I understand correctly, the Deal is I get 3 Food and 2 Water: While you get 3 Firewood and 1 Water?
+
+### Human: I was just negotiating the water for now.  I was trying to do one at a time.
+
+### Assistant: ah, I'm definitely ok with doing one at a time: A 2:1 split is definitely OK with me: The issue is, if we consider each individually, it might be harder to come to a deal, but I'm happy to do it your way.
+
+### Human: How about you take 1 firewood, I''l take 2 and with food, you can have 2 and I'll take one package.  I have two very hungry boys!
+
+### Assistant: Is there a reason you want the 2:1 split? Food my group's largest priority by a large margin (We eat a lot). It's worth a lot more to my group then the firewood would be.
+
+### Human: That's why I would like to give you 2 and I will take 1 food.  I have 8 and 10 year old boys.🙂
+
+### Assistant: I'm interested in hearing more about why you want a 2/1 split: Is the food worth more to you than the third firewood? If so, I'm happy to do that split, but I'd like 3 water in return.
+
+### Human: Okay, like I said I have two growing boys with a very healthy appetite.  They will make my life miserable if they don't have enough to eat.  I would be willing to give you the 3 water.
+
+### Assistant: ok, that sounds like a deal. 🙂

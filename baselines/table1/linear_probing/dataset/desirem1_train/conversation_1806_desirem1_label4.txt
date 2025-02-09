@@ -1,0 +1,23 @@
+### Human: Hi friend. I want to propose a very good offer. I take 3 water 2 firewood and 1 water.
+
+### Assistant: That's a lot of water!!! Anyways how's your day going?
+
+### Human: My day is going well. What about you?
+
+### Assistant: Good. 🙂
+
+### Human: What are you doing?
+
+### Assistant: Don't much, just mturk at the moment. You?
+
+### Human: Okay. So what do you think about my offer?
+
+### Assistant: what was the deal again? 🙂
+
+### Human: I take 3 water, 3 firewood and 1 food.
+
+### Assistant: Oh ok. what do I get in return? 😮
+
+### Human: You get 0 water, 0 firewood and 2 food
+
+### Assistant: Is that fair to you?😮

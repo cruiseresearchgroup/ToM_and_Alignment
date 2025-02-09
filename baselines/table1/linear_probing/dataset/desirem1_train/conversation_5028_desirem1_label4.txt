@@ -1,0 +1,23 @@
+### Assistant: Can I have all water and 2 packets of food and no firewood?
+
+### Human: I would like some water and firewood 
+
+### Assistant: I am really short of water for my friends in the camp and I would need all of them.
+
+### Human: I need water as well
+
+### Assistant: How about I give you 2 packets of food and 2 packets of firewood instead of water. I will have all water and 1 food and 1 firewood
+
+### Human: no i need water as well How about we split the water
+
+### Assistant: I need firewood too but I am ready to give you that. I must have all the water because we have more friends joining our camp and we would not have enough ☹️
+
+### Human: I need more water as well becuase I drink a lot of water and I need it to cook with as well. How about I give you 2 waters and you give me all of the firewood and we split the food
+
+### Assistant: No that is not reasonable at all. As I said even I need some firewood but I am giving you everything. How about I have 2 waters and 3 food and you take all firewood and 1 water
+
+### Human: no thats not fair at all. I need food as well. How about I give you 2 water and 2 food. You give me 3 firewoods and 1 food and 1 water. 
+
+### Assistant: How about I take 2 water, 2 food and 1 firewood. I give you 1 water, 1 food and 2 firewood? 🙂
+
+### Human: Submit-Deal

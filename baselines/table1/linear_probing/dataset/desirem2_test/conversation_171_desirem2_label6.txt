@@ -1,0 +1,23 @@
+### Human: Hello 🙂
+
+### Assistant: Hi!  I would love to have as much firewood as possible, since I'll be going camping with my children, who I don't want to get cold at night.
+
+### Human: I totally understand that🙂. I would prefer to have extra water because I will also be camping with my 3 young kids and would like to make sure that we have enough.
+
+### Assistant: How much water will you be packing with you?
+
+### Human: I would like to have 2 of the extra packages of water if at all possible🙂
+
+### Assistant: Sure! 🙂 How are you with food?
+
+### Human: How much extra fire wood would you like?
+
+### Assistant: If possible, I would be very appreciative to get all 3 🙂 If that doesn't work for you, I would also be happy with 2
+
+### Human: All was hoping for 2 of the food and 1 of the fire wood? Would that work for you?
+
+### Assistant: Great! So then you would be getting 1 firewood, 2 water, and 2 food, right?
+
+### Human: That would be perfect.🙂Would that work for you?
+
+### Assistant: That works! 🙂

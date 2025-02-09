@@ -1,0 +1,23 @@
+### Assistant: I was thinking that maybe i could get two waters and you get one. I need more water because i forgot some at home. what do you think?
+
+### Human: I can give you two waters if you give me 2 firewood. I don't have firewood to cook food.
+
+### Assistant: okay i can give you to firewood and i can take 1
+
+### Human: I think that'll be great. 
+
+### Assistant: okay so could get 2 food packages?
+
+### Human: I can give you all that if you give me more firewood?
+
+### Assistant: so if i give you 3 firewoods you will give me 3 food packages?
+
+### Human: Yea
+
+### Assistant: okay so that will be i get 0 firewood you 3, ME 3 food packages and you 0. Me 2 waters and you 1.Do we have a deal? 
+
+### Human: I like that deal. is that okay with you?
+
+### Assistant: yes it's a deal
+
+### Human: Submit-Deal

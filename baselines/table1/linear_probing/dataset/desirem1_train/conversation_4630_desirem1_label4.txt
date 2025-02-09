@@ -1,0 +1,51 @@
+### Assistant: Hi. I hope you are enjoying the camping trip.
+
+### Human: Hi 🙂 So far I am! What about you?
+
+### Assistant: I am doing great only that i need to add a few items.
+
+### Human: Same here! Which item(s) are most important to you?
+
+### Assistant: Food is the most important. I will not give it up for anything. What about you?
+
+### Human: I could use food, too. However, I'd consider giving up some food in exchange for other items. I could probably spread out my food ration if I got more of other items.
+
+### Assistant: Okay then . Let me present you my offer. I take 3 food, 2 firewood and 1 water.
+
+### Human: Wow, that's really not a good deal ☹️ If you get all the food then I would request 3 firewood and 3 water to even it out. Food is most important to both of us.
+
+### Assistant: I think it is a good deal. 
+
+### Human: It isn't. You're getting more items and all 3 of the highest value items. I would walk away rather than taking that deal.
+
+### Assistant: What do you propose? Walking away is not really a good thing. I believe we can agree.
+
+### Human: Submit-Deal
+
+### Assistant: Reject-Deal
+
+### Assistant: Submit-Deal
+
+### Human: Reject-Deal
+
+### Human: Submit-Deal
+
+### Assistant: Reject-Deal
+
+### Assistant: I really need the firewood. Please be kind to me.
+
+### Human: I need the firewood as well. You're getting more of our highest items, so I get more items overall. You get all 3 food, but I get 5 items and you get 4. It's the fairest deal. I am not going to be ripped off and will walk away if need be.
+
+### Assistant: You haven't changed your deal at all. Is that how we negotiate?
+
+### Human: I've offered you my fairest deal. I can make one change and that would be I get one food given to me and I'll give you one firewood. 
+
+### Assistant: Submit-Deal
+
+### Human: Reject-Deal
+
+### Human: Submit-Deal
+
+### Assistant: Reject-Deal
+
+### Assistant: Submit-Deal

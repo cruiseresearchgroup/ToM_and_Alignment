@@ -1,0 +1,23 @@
+### Human: hello
+
+### Assistant: Hi, how are you doing today? Are you ready for a camping trip?!
+
+### Human: Yeah, I'm good and ready to take a camping trip.
+
+### Assistant: Very good, so I'd like to propose a deal on splitting up the extra supplies. I'd really like to take the food items so I can invite a friend over and we'll have plenty. I'd like to take 3 food, 2 water, and 1 firewood.
+
+### Human: already you mentioned 3 firewood, 2 food and 0 water, If u agree for this deal?
+
+### Assistant: Are you proposing that you take 3 water, 1 food, and 0 firewood? What are you going to do with all that water? 🙂
+
+### Human: I have a poly-urea problem so i need 3 water package
+
+### Assistant: Fair enough. I'd really like to take at least one of the waters as I am deathly afraid of water-born disease and bacteria. If I can take 2 food, 1 water, and 2 firewood I think we can reach a deal and both be happy.
+
+### Human: yeah definitely i will accept your deal and also i need at least one firewood.
+
+### Assistant: It will you stay warm and heat up water in case you need it. I will submit the deal to you on my next turn. Nice meeting you. 
+
+### Human: Sorry, I need 1 firewood, 1 Food and  2 Water. If you agree for this deal...
+
+### Assistant: Submit-Deal

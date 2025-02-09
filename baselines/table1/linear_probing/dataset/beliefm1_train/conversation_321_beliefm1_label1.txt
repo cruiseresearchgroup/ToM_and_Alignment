@@ -1,0 +1,23 @@
+### Assistant: 🙂Hello, how are you?
+
+### Human: Hi!🙂 I'm ok, thank you. Hope you are well. 
+
+### Assistant: I am well,  getting ready for my trip but I need three extra firewood.  I can give you two waters and one more food for you to have.
+
+### Human: I am content to give you three firewood, but I will need more food. Do you prefer campfires?
+
+### Assistant: I need it in case I get cold because I just had the flu, also so I can see at night.  My night vision is not good.  Is there a reason you need more food?
+
+### Human: 😮 Oh, yes I can understand that. I have a medical condition that requires I maintain a stable blood sugar, so I would need the most food.
+
+### Assistant: I think I could give you an extra water but don't think I can part with the food.  
+
+### Human: I can offer three firewood if you are willing to offer three food. I am content with one water. 
+
+### Assistant: Ok, so will you agree to three food and one water?
+
+### Human: Yes, I can agree to that. You will take three firewood, two water, and no extra food.
+
+### Assistant: Ok, I will submit the deal.  Thank you🙂
+
+### Human: Submit-Deal

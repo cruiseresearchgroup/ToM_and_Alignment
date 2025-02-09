@@ -1,0 +1,23 @@
+### Human: Hello, I hope you are having a good day 🙂. I am in need of water for my camping trip, what item do you need the most? 
+
+### Assistant: Hi same here, hope your day was good. I'm really looking for firewood and food. Do you need food too?
+
+### Human: I need water and firewood. I have enough food with me to be ok. However, the reason I need water is that I have never been able to go anywhere without having a lot of water just in case I get stranded. What do you need the most for your camping trip?
+
+### Assistant: Ah good to know. I'm in need of firewood and food- I really need firewood because it gets cold at night on the trip and I'm afraid to go without. As far as food goes that's self explanatory- can't go hungry lol
+
+### Human: That makes sense 🙂 . I also need firewood because I need to be able to cook my food. How many nights will you be camping for? 
+
+### Assistant: Totally makes sense. My trip will be for 3 days so I'm looking to get 3 firewood packages and 2 foods. I can however part with the water. How long is your camping trip?
+
+### Human: My camping trip will also be for 3 days. I would be happy to get 3 water, and give you three food. However, I would like to get 2 firewood for my journey. I need to firewood so that I do not have to be in the dark. I am scared of the dark. 
+
+### Assistant: I wouldn't be able to go without at least 2 firewood. You see, the area where I'm camping gets close to freezing at night and I need enough to wood to keep me warm at night. Check you basic pack you may have a flashlight in there 🙂 If you give me at least 2 firewood I could give you 1 food as well.
+
+### Human: I have checked my basic pack and there are no flashlights 😮 . What if I were to get 3 water, 1 firewood and 2 food? That way at least I can eat if I get too scared. I have always been an emotional eater. That way you could get 2 sets of firewood and 1 package of food. 
+
+### Assistant: Oh no, I could've sworn it had one. That would work for me though that would be enough for me to sustain I'll submit the deal.
+
+### Human: Sounds great. I agree to the deal. 
+
+### Assistant: Submit-Deal

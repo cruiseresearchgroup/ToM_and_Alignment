@@ -1,0 +1,23 @@
+### Human: Hello there. I'd like to discuss making a deal.
+
+### Assistant: yes, what would you like?
+
+### Human: I was thinking I will take all the food and water. You can have the firewood. 
+
+### Assistant: that's not going to work for me. I need to keep at least 2 foods and 1 firewood but you can have all the water.
+
+### Human: Are you most interested in the food? 😮
+
+### Assistant: yeah I didn't pack enough for my trip, so I'm a little worried about my supplies.
+
+### Human: I see. I wouldn't want you to go hungry. ☹️
+
+### Assistant: thank you for that.
+
+### Human: I'm glad we seem to have come to an agreement. This camping trip is going to be fun!
+
+### Assistant: I'm so excited! So just to be clear: you get 1 food, 2 firewood, 3 water
+
+### Human: Yes that sounds good to me! Enjoy your trip. 🙂
+
+### Assistant: Submit-Deal

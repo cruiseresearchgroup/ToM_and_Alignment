@@ -1,0 +1,23 @@
+### Assistant: Hello. I hope you are doing well. Me and my young family, along with our grandparents are going on a camping trip. My father and husband are diabetic, so we would like to have all three food to make sure if their blood sugar gets low we can regulate it. 
+
+### Human: Hello, I hope you are doing well too
+
+### Assistant: I would like to have all of the three food for my diabetic family members, and two firewoods to keep my family warm during the cold evenings. 
+
+### Human: I understand you need all the food, but I would like to have all the firewood and water for my group of friends
+
+### Assistant: I totally understand that. So if you're willing to give me three food I would be willing to give you three firewood. 
+
+### Human: Yes you can have three food packages while I get 3 firewood packages
+
+### Assistant: Perfect 🙂 Now I would like two waters as we plan on hiking a lot and so I would like some extra for my family.
+
+### Human: Hmm my friends and I are also planning on hiking and kayaking and we want to make sure we have plenty of water. I think we need at minimum two packages
+
+### Assistant: Okay. Well I would be willing to just have one extra of water then in order to compromise, and in return would like to have one firewood if that would be okay.
+
+### Human: I would really like to keep three firewood packages. Is there any way I can get the 2 waters?
+
+### Assistant: Okay. Yes that will work then. I will take three food, and one water, and you can have two water and three firewood. 🙂
+
+### Human: Okay that works great. Thank you for the compromise

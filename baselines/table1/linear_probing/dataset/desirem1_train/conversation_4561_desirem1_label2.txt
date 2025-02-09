@@ -1,0 +1,23 @@
+### Assistant: Hello. I would like to take the following items. (2) Firewood, (2) Water, and Food (2)
+
+### Human: hello
+
+### Assistant: I have brought my sons and a few of their friends so my group is larger. Will this deal work for you?
+
+### Human: Hello, well what do you think its the most important for you? i would like to take the food as my important and i can get 2 of that. and then you can get your most important and you can get the 2 firewood
+
+### Assistant: Well, To be honest I plan to take the boys hiking. It's a long walk so we will need to stay hydrated. So water has to be (2) Firewood is definitely important to us, but I'm not sure we can get by on just (1) food
+
+### Human: then you can get 2 food, 1 water and 2 firewoods 
+
+### Assistant: After talking it over the boys I think with can go with 2 water 1 food and 2 firewood🙂
+
+### Human: sounds good want to submit?
+
+### Assistant: I want to make sure that we have everything we need. Are you sure that deal is okay for you and your camp?😮
+
+### Human: yes it is , sounds good
+
+### Assistant: Okie dokie🙂
+
+### Human: Submit-Deal

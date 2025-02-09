@@ -1,0 +1,31 @@
+### Assistant: Hello there.  Hope you are well today  🙂 
+
+### Human: I am doing OK, how are you?
+
+### Assistant: Not bad, not bad.  Certainly will be better if we can find a compromise that suits us both.  
+
+### Human: What are you looking for?
+
+### Assistant: Food is most important to me. I am considering doing some extra hiking if I have the energy, i.e. calories, available. 
+
+### Human: OK, I am really looking for firewood as it has been very cold out and I am hunting for some food also.
+
+### Assistant: Would you be okay if I took 2 out of the 3 packages of food?  We can give you more firewood to compensate. 
+
+### Human: How is your water situation? There is a lot of fresh water around so I can part with a lot of my supply.
+
+### Assistant: I'll be happy to take whatever you can spare, but it is not a priority of mine, given the local supply you mentioned.  
+
+### Human: How much firewood is available. I would prefer 3 packages if I am giving up 2 food packages.
+
+### Assistant: Could you possibly leave me with one package of firewood?  I might want to stay up late and sing songs around the fire.  
+
+### Human: I would give you all the water if I could have all firewood. I would keep 1 food and give you two.
+
+### Assistant: Alright, I think that sounds pretty fair.  All our needs would be met.  
+
+### Human: You can cut down some trees for your fire haha.
+
+### Assistant: Maybe I'll just bring a pair of night vision goggles.  🙂
+
+### Human: Submit-Deal

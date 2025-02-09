@@ -1,0 +1,23 @@
+### Human: Hi there! How are you?
+
+### Assistant: Hello good morning I'm well thank you.
+
+### Human: Let's talk about what we need. First, I don't eat meat, so I really feel like I'd need a little extra food, as I couldn't hunt or forage for food at all. I feel like I could survive without a ton of water, but would need water, as I hike a lot and cant trust any sources
+
+### Assistant: I've also planned my trip to include a lot of hiking and so I have a high priority for extra water, as like you've said you need to stay hydrated on your hike and you can't trust any source. How can we divide up the water as that seems to be the number one priority for us both.
+
+### Human: That works well, as long as I can have 2 food, I'll certainly give you 2 water, and I will have one water and you'll have one extra food
+
+### Assistant: I would be most happy to make a concession on the food for an extra ration of water. Are you going to require any firewood if you don't need any I think i'll take the 3 rations so I can have a nice bonfire.
+
+### Human: I do believe I would need at least one firewood, but am willing to give up 2, so you can have a nice big bonfire 🙂
+
+### Assistant: You have been most thoughtful during this negotiation I just want to say thank you for being so helpful.🙂
+
+### Human: absolutly! You as well. So just to confirm. Me 2 food 1 water, 1 firewood. You, 1 food, 2 water, and 2 firewood? Sound good?
+
+### Assistant: That looks like the correct arrangement, and again thank you and I wish you the best on your camping trip 
+
+### Human: sounds good! Looking forward to camping! maybe we'll run into each other on the trail! ;)
+
+### Assistant: Submit-Deal

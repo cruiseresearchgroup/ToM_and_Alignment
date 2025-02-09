@@ -1,0 +1,23 @@
+### Human: Hello. Are you ready to play let's make a deal? 
+
+### Assistant: Hello, yes I am.  What do you want?
+
+### Human: Firewood is my highest priority item. 
+
+### Assistant: That's cool, I won't need much.  Water is my main priority.
+
+### Human: Okay. What if I give you two packages of water? 
+
+### Assistant: I really need all three, since I do a lot of hiking.  I was thinking I get all the water, I'll give you 2 of the firewood and two of the food.
+
+### Human: I need water too. 
+
+### Assistant: Hmmm, okay.  How bout you get one water, two firewood, and one food?
+
+### Human: If we do that then you will get five packages of items, while I only have 4. That's not fair. How about I get 2 firewood, 1 water and 2 food. 
+
+### Assistant: That sounds fair to me.  Do we have a deal?
+
+### Human: Yes
+
+### Assistant: Submit-Deal

@@ -1,0 +1,23 @@
+### Human: Hi! I would love to have additional food to allow me sustinance and time to track down additional water near by. With out it I will not have the energy to find it.
+
+### Assistant: Hello! I know that food is a pretty high priority since we have a Type 2 diabetic in the party.  We are really close to Lake Gottalottawatta, are you not by a clean source of water?
+
+### Human: The water is not very clean. I would need to make a fire to boil the water first. We also have a five year old child who cannot fast for long periods.
+
+### Assistant: I would be more than happy for you to take all the additional water you wanted.  Not sure if you have been to that lake, but it gets very breezy and cold.  I am going to need a lot of firewood and food for this trip.
+
+### Human: I understand you need firewood, but I certainly cannot be without food. I would be willing to give up firewood in hopes I could collect some on the way to the creek - but cannot give up any food.
+
+### Assistant: How many people are in your party?
+
+### Human: We have nine people. How about yourself? Do you have any elderly people?
+
+### Assistant: We have eight including me, with my brother-in-law, being the diabetic. We are all in our 30s and 40s, but various degrees of health.
+
+### Human: I have been near the lake and know there is quite a bit of firewood and that its relatively heavy. We have many elderluy in our group that would only be able to carry the fire wood back if they first have enough food to be energized. Otherwise we will need to keep all our firewood and most of our food.
+
+### Assistant: Let me send you a deal that may be amicable for our parties.  I totally understand your predicament.  How about I take the firewood, you take the water, and get two food while I take 1?
+
+### Human: That sounds okay. I would agree to that.
+
+### Assistant: Submit-Deal

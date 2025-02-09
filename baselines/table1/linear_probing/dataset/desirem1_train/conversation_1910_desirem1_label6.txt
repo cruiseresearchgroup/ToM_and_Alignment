@@ -1,0 +1,35 @@
+### Human: hi how are you
+
+### Assistant: I am well, thank you.  Yourself?
+
+### Human: good here, I will need 3 water as I need it to survive
+
+### Assistant: I need water as well.  I require it for subsistence
+
+### Human: how many water you need?
+
+### Assistant: In a perfect world, all the water 🙂
+
+### Human: that won't be fair, how about I get 1 water, 3 food and 1 firewood, that way u get the most water
+
+### Assistant: Interesting.  If I decided to forgo water completely, would you accept giving me everything else?
+
+### Human: no, at the most i can do is i get 2 water, 2 food and 0 firewood or I get 1 water, 3 food and 1 firewood
+
+### Assistant: But you get everything you wanted. You said you needed 3 water, I offered it to you.
+
+### Human: but i can't give you 3 food and 3 firewood, thats 6 items vs the 3 water
+
+### Assistant: Sure you can.  If you really want water the most, why would you care about the rest as much?😮
+
+### Human: most does not mean i have to neglect the rest, anyways either a) I get 3 water, 2 food and 0 firewood or b) I get 1 water, 2 food and 2 firewood
+
+### Assistant: That is simply unacceptable.
+
+### Human: well how about i get 2 water, 2 food and 1 firewood
+
+### Assistant: Here is the offer.  For you: 3 water 0 food 1 firewood
+
+### Human: what about instead of firewood, I get 1 food, so it will be 3 water, 1 food and 0 firewood
+
+### Assistant: Ok so 3 water 0 firewood and 1 food, I can work with that

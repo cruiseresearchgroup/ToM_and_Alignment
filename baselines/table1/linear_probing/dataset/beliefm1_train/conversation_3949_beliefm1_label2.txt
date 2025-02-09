@@ -1,0 +1,23 @@
+### Assistant: hello, how are you doing
+
+### Human: I am well, how are you
+
+### Assistant: i am doing pretty great
+
+### Human: Great. I am going camping and would like to take some extra supplies. I would prefer to take three food, three firewood, and 2 waters if that is okay.
+
+### Assistant: well that is a nice offer but you should know that i can not release all that for you to take along 
+
+### Human: Why not?
+
+### Assistant: if i give you three food, three firewood and two water i will not be left with much to survive on when you are away
+
+### Human: You already have your basic supplies. These are just bonus supplies
+
+### Assistant: yes i know they are bonus supplies but they are something i need and i can not just give them out because they are bonus supplies
+
+### Human: You can survive without them. I will give you 1 of each
+
+### Assistant: Submit-Deal
+
+### Human: Reject-Deal

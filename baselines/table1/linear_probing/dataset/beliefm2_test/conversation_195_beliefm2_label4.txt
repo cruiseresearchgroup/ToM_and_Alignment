@@ -1,0 +1,23 @@
+### Assistant: Hello there! How are you?
+
+### Human: Hai friend I am fine what about you?me and my team going to trip on some snow fall place I want some help from you.
+
+### Assistant: Well, let's negogiate friend! What interests you the most?
+
+### Human: Okay. I need 3 package of fire woof and 2 pack of food and 2 pack of water.
+
+### Assistant: Hmm ☹️ That does not leave me with much
+
+### Human: In my team old age sicked peoples and kids are there so I need some extra.
+
+### Assistant: Is firewood something you want the most? 🙂
+
+### Human: Yes friend.Because we are going to a snow fall place so we need firewood the most.
+
+### Assistant: I don't need firewood that much, you can have all of that
+
+### Human: thank you friend🙂
+
+### Assistant: Submit-Deal
+
+### Human: Reject-Deal

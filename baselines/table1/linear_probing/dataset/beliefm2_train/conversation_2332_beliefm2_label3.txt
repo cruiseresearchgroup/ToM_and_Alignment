@@ -1,0 +1,23 @@
+### Assistant: Hi, I would like to get 3 firewood, 2 waters and 1 food pack.
+
+### Human: Hello, I am in need of more water than just one,could you possibly allow me to have two and the other items are fine
+
+### Assistant: I have a bunch of kids and need extra water. I can give you 2 food packs instead.
+
+### Human: Then i understand, i have kidney issues but i would rather go without then take away from a family
+
+### Assistant: If you need water for a medical issue the of course you can have two waters.
+
+### Human: You are being very kind then, im elderly so trying to make fresh water by boiling it from getting it from a river was concerning to me. How about you take all three of the food for your kiddo's
+
+### Assistant: That sounds fair. The kids can bathe in the stream. We are good with 2 food packs.
+
+### Human: Lol, wish i could. Then you take all 3 of the firewood, I'll take 2 of the Water and 1 of the food, sound good?
+
+### Assistant: Just to be clear, I get 3 firewoods, 1 water and 1 food. You get 0 firewood, 2 waters and 2 food packs?
+
+### Human: Everything sounds good except you and your family take 2 of the food, i need to lose weight anyway.
+
+### Assistant: Perfect! Thank you!
+
+### Human: We have a deal, enjoy the camping trip with the family, the best memories

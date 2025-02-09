@@ -1,0 +1,27 @@
+### Assistant: hello!  I would like to three of the food, two of the firewood, and one of the water.  you can have the rest.
+
+### Human: Hello How are you, Food is also of importance, I also need the max amount of food packages you are willing to part with, what are your thoughts?
+
+### Assistant: Food is my highest priority.  I really need three food.
+
+### Human: would you be okay with 2 waters, you can never be too safe with water, specially when camping. more is better. as for firewood would you be okay with 1
+
+### Assistant: i would like to have two firewood and one water
+
+### Human: Are there any categories you are willing to work with me and compromise? find middle ground where we are both being taken care of and not just you?
+
+### Assistant: ok i would take only one firewood and one water, but i still need three food
+
+### Human: Thank you so much, would you be okay with 2 Food? what do you think? finding middle ground?
+
+### Assistant: how about i get two food and two firewood and one water?
+
+### Human: Okay, I will get 2 foods, 2 waters, and 1 firewood? did I understand right?
+
+### Assistant: no you would get two water, one food, and one firewood
+
+### Human: Do you find that fair?
+
+### Assistant: that's what i need for my family's camping trip
+
+### Human: I agree with you, I am also in need, as my family has much as valued as yours. i am willing to compromise if you give me 3 waters for the 2 food packages you want? do we have a deal

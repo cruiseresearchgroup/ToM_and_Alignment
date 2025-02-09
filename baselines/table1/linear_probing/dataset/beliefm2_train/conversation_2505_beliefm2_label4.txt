@@ -1,0 +1,27 @@
+### Assistant: I'll give you three food for three water and three firewood. 
+
+### Human: I don't need any more food, my family has alot of food intolerances. But I am willing to trade 3 food for 3 firewood.
+
+### Assistant: ☹️ I mainly need water. I drink way more than most people. Any other suggestions?
+
+### Human: I hear you on that. I need alot of firewood 😮How about 3 waters for 3 firewood? I'm guessing neither of us need food 
+
+### Assistant: Yes, food is a low priority for me. How about I give you three firewood for three water and three food?
+
+### Human: That doesn't sound like a fair trade to me.
+
+### Assistant: Perhaps we can reach an agreement with further negotiating.
+
+### Human: I need some water for my dog, he's big and overheats easily. I'll trade you 2 waters and 2 food for 3 firewood 1 water
+
+### Assistant: I don't like the sound of that. Sorry. 
+
+### Human: ☹️ how could we make that better
+
+### Assistant: Submit-Deal
+
+### Human: Reject-Deal
+
+### Human: You're moving kinda shady and I really don't like that, I'm running out of time for this HIT anyway, my final offer is gonna be 3 firewood + 1 food for 3 waters
+
+### Assistant: Submit-Deal

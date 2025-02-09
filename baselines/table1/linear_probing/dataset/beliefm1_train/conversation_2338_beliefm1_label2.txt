@@ -1,0 +1,23 @@
+### Assistant: Hi!  Have you been camping long?
+
+### Human: This is actually my first time camping. Have you ever gone before?
+
+### Assistant: A few times.  I'd be willing to share my fire with you if you don't know how to light one of your own.
+
+### Human: I was hoping you would have extra firewood to spare with me. I could trade some for some water.
+
+### Assistant: Here's the problem.  I'll build and tend the fire but I'll need two packages to do that.  But I'll only need one water package.  
+
+### Human: I don't really need that much water either, but I need extra firewood because I'm anemic and alway feel cold. Do you have extra food I could trade as well?
+
+### Assistant: Oh, wow.  You're anemic.  I'm diabetic so I need to eat frequently so that I don't have a low blood sugar episode.  I can exchange give you one food package, two firewoods and one water.
+
+### Human: That sounds perfect 🙂 I'm also hoping to make some smores with the grandkids one night. I'm so excited.
+
+### Assistant: So I keep 2 food, 1 firewood and 2 waters. Is that right?
+
+### Human: Yes, that is correct. Thank you so much!
+
+### Assistant: Great!  Have fun with the grands!
+
+### Human: Submit-Deal

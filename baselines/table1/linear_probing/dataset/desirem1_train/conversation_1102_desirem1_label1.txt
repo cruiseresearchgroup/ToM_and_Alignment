@@ -1,0 +1,23 @@
+### Assistant: Hello, how are you doing?
+
+### Human: I’m doing fine. How about you?
+
+### Assistant: I'm doing well. I was hoping I could have the extra firewood because my group decided to camp for a few extra days and want to make sure we have enough
+
+### Human: How many of you are on the camping grounds?
+
+### Assistant: It's just my family. There are 6 of us total
+
+### Human: Wow. I’m alone here. I could use an extra food and water. 
+
+### Assistant: How many would you like? I just want to make sure we have enough good and water because there are so many of us
+
+### Human: I understand. I would like one food and one water. How much wood do you want for that?
+
+### Assistant: I think we could get by with two pieces of wood and I would be glad to give you the other one
+
+### Human: So you will give me one piece of each?
+
+### Assistant: Yes that sounds good with me if that is good with you
+
+### Human: So I’ll give you one wood and you give me one food and one water.

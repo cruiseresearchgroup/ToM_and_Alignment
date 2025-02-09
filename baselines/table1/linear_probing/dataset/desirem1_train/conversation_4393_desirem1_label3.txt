@@ -1,0 +1,27 @@
+### Assistant: hi there🙂
+
+### Human: Hello, I hope we can reach a good deal. I am in desperate need of firewoood and water
+
+### Assistant: I also need water.  You would not believe how much my family and I sweat!
+
+### Human: I understand. I am unfortunately sick and need the warmth of the fire and water to take my medication or I will die very soon
+
+### Assistant: You can have all of the firewood, we just need 1 water 
+
+### Human: That is fair. Could I also have 1 food so I do not starve
+
+### Assistant: what about your basic food rations?
+
+### Human: I am severely malnourished and could use just one more food please
+
+### Assistant: we got kids on this trip, they need food too.  also, your basic supplies should keep you fed well enough to not starve/be malnourished
+
+### Human: I have kids as well who need food. I am just asking for one more food
+
+### Assistant: we've given you all of the firewood, 2 of the waters
+
+### Human: If you could add just one food I think we have a deal
+
+### Assistant: you are going to have to toss something back our way, otherwise I will look weak to my family and they will not respect me
+
+### Human: Submit-Deal

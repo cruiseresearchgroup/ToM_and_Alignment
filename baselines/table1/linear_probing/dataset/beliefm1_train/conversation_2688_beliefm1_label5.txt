@@ -1,0 +1,23 @@
+### Human: hello
+
+### Assistant: hi
+
+### Human: In this extra package I need two food
+
+### Assistant: wow that is a much
+
+### Human: because of my big size I want two extra food package 
+
+### Assistant: i will give you that in exchange for 1 food and 3 water with 2 firewood
+
+### Human: please consider my request i'm big in size so please accept to give two pack of food and 2 water and 1 firewood
+
+### Assistant: cool
+
+### Human: do you accept my deal?
+
+### Assistant: u said i will have 2 food 2 firewood and 1 water?
+
+### Human: Submit-Deal
+
+### Assistant: Reject-Deal

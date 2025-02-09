@@ -1,0 +1,27 @@
+### Human: Hello
+
+### Assistant: hi
+
+### Human: what is your preference for a deal?
+
+### Assistant: I would like to get a higher number of food.  I can give you some wood or water in exchange
+
+### Human: If I let you win on food, I am gonna need to win on water and firewood
+
+### Assistant: I will give you 2 wood and 2 water for any food you can give
+
+### Human: Ok, but i really need some food aswell, I cant give it all
+
+### Assistant: that is why I said any food you can give, even it its just 1
+
+### Human: How about this. You get 2 food, 1 water and 1 firewood
+
+### Assistant: And what would you like in return
+
+### Human: 1 food, 2 water, and 2 firewood. I am not doing so well on water and in the event of an emergency, it's very important to me
+
+### Assistant: That is fine with me.  Is that the deal that you want?
+
+### Human: Yes, thats the deal I want
+
+### Assistant: OK, sounds good to me

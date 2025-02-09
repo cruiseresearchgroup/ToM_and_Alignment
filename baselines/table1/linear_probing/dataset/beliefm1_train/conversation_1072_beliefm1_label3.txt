@@ -1,0 +1,43 @@
+### Assistant: Hi there, I hope I would be able to leave with some needed items
+
+### Human: Likewise! What are you in need of
+
+### Assistant: The basics of man -  food and water
+
+### Human: Ah, okay, I could use some of that too! Which one do you need most?
+
+### Assistant: water. How about you?
+
+### Human: I could use water, too, but I'd be willing to give some up if you give me more items overall
+
+### Assistant: What is your priority item to get the division started?
+
+### Human: I would propose that I get 1 water, 1 food and 3 firewood and you would get 2 water and 2 food
+
+### Assistant: I don't mind the division but I would like a pack of firewood added because my family of 7 consume this item as well during the day & night
+
+### Human: you would have to give more items up to get firewood. if you get more water, which is our highest item, i need more of other items
+
+### Assistant: How about 1 water, 2 food and 2 firewood?
+
+### Human: I don't really need food, to be honest. Food is the least of my worries.
+
+### Assistant: how about 1 water, 1 firewood and 3 food ?
+
+### Human: For you?
+
+### Assistant: yes. I am yet to know your priority. Which I guess should be either water or firewood
+
+### Human: Submit-Deal
+
+### Assistant: Reject-Deal
+
+### Assistant: That deal is not favorable for me
+
+### Human: Feel free to counter, but I'm not loving anything that I've gotten so far.
+
+### Assistant: 1 firewood, 2 water, 1 food for me which should mean we each get 2 priority packs -
+
+### Human: Feel free to counter, but I haven't liked anything so far.
+
+### Assistant: what do you think?

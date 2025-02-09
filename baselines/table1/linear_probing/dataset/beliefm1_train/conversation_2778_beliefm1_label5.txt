@@ -1,0 +1,23 @@
+### Assistant: I would like to take at least two of the food items because I get sick easily and faint if I do not have enough food. You can have two of the waters but I would like one. 
+
+### Human: yes i could take two of the foods because i i leave some of mine. thank you
+
+### Assistant: how much firewood do you need and why?
+
+### Human: You can take two firewood an i can get one. I really don't need much. of that. are you okay with that?
+
+### Assistant: I am okay with that 🙂
+
+### Human: okay an for as the water two for me an 2 for you right? are you sure?
+
+### Assistant: Yes, as long as I can get two of the food. 
+
+### Human: yes i'm okay with you getting two food packages and me one. 
+
+### Assistant: Okay, repeat the full deal to me so I can make sure we are on the same page.
+
+### Human: okay so you get 2 food packages an i get 1. I get 2 waters and you get 1. Firewood you get 2 and i get 1. That correct right?
+
+### Assistant: Yes that is great with me 🙂
+
+### Human: so we have a deal?

@@ -1,0 +1,23 @@
+### Assistant: Hello there.  I am excited about this camping trip.  How about yourself? 
+
+### Human: Hey Friend. Yes! Me too. We are a group of Chefs, finally taking a weekend off!
+
+### Assistant: I find the woods to be exceedingly relaxing.  A good way to decompress, don't you agree? 
+
+### Human: I do agree, we try and get out there at least once a month during the warmer months. 
+
+### Assistant: What is your favorite part of the trip? I think mine is staying up late around a campfire, singing songs and telling stories. Gonna make sure to bring my guitar. 
+
+### Human: We love cooking on the open fire. Since we are all Chefs, its a great relaxing experience for us. 
+
+### Assistant: With that in mind, how would you like to divvy up these extra supplies? 
+
+### Human: We would love to have extra food, since we love to cook. that being said, we will need a  fair bit of firewood too, to keep the fire going strong. you?
+
+### Assistant: Firewood is very important to me.  Water is something I'll need too, since I sweat a lot. 
+
+### Human: Water we don't need much of. Just Food and Firewood
+
+### Assistant: Firewood is important to me too.  If I give you all of the extra food, can I have two pieces of firewood? 
+
+### Human: I would prefer to have 2 packages of wood. You can have all the water

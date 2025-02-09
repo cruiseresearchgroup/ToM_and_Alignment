@@ -1,0 +1,23 @@
+### Human: Hello there, I'm trying to get some more water. I take medication that makes me dehydrated. Is there something you mite be looking for in exchange?
+
+### Assistant: I'm sorry to hear about that -- I've been needing water because my child is with me and I can't let them get dehydrated since they're so young. Could we split the other items?
+
+### Human: We mite can do that. What do you need more of?
+
+### Assistant: do you want extra firewood if I take extra water?
+
+### Human: At the least, Do you think I could get a little extra food if I give you some extra water as well?
+
+### Assistant: yes, that would work for sure
+
+### Human: Thats Good, I'm a big guy and like to eat when I'm out and about. 
+
+### Assistant: what if we do 3 water for me, 3 food for you, and split the firewood?
+
+### Human: No, that won't work. I told you in the begining I needed some water because of the medication I'm on.
+
+### Assistant: that's right, how about i take 2 water, and you take 2 food?
+
+### Human: well I was going to let you have two being you have a kid to look out for. But i atleast need the one. So how about I get one water you get two. Then I get Two fire wood and two foods?
+
+### Assistant: Submit-Deal

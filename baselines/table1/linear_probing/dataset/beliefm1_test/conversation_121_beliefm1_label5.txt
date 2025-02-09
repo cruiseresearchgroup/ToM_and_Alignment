@@ -1,0 +1,23 @@
+### Human: Hi how are you hope all is well and are you getting ready for your trip?
+
+### Assistant: Yes same to you. I am very excited to be going on this trip cannot wait to start hiking. Do you have any plans for yours?
+
+### Human: Yes we (my boyfriend daughter and I) want to go to the mountain top its not going to be easy with this weather but we will make it how about YOu?
+
+### Assistant: We want to hike along the trails near the river! We will need lots of food to keep us going 
+
+### Human: I understand that atleast you are going to be close to water, that will be our most important thing since we will be thirsty and you know kids and trying to tell them to ration the water...LOL
+
+### Assistant: for sure thats not going to work to well 
+
+### Human: are you hiking alone?
+
+### Assistant: no i will have my husband and my dog with me
+
+### Human: oh nice well how about you give me 3 water and I give you 3 food and we figure out the wood make a suggestion
+
+### Assistant: ill take one you get twoa/
+
+### Human: that sounds perfect to me.
+
+### Assistant: Submit-Deal

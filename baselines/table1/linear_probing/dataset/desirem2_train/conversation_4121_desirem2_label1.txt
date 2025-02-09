@@ -1,0 +1,23 @@
+### Human: hi
+
+### Assistant: Hi , I was wondering about splitting the resources.
+
+### Human: good,I like to moment in the happy
+
+### Assistant: How about I get all the water and you take the firewood and we split the food?
+
+### Human: A good solution in the better thinking for the food and water to collect.
+
+### Assistant: what do you need most?
+
+### Human: water
+
+### Assistant: What else?
+
+### Human: food and firewood is very important.
+
+### Assistant: If you are wasting my time , we can just leave now. 
+
+### Human: Ok, I want fill conforming to the submit.
+
+### Assistant: Submit-Deal

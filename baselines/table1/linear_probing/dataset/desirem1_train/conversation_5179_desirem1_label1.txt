@@ -1,0 +1,27 @@
+### Human: Hello friend....
+
+### Assistant: hey there 🙂
+
+### Human: I am going to camping. I want some additional items.
+
+### Assistant: okay. I also want some items.  in particular, I need firewood because I have poor blood circulation and could get frostbite otherwise
+
+### Human: No friend. I also need the same. Because of my eye problem. I need some more firewood.
+
+### Assistant: that stinks ☹️  it sounds like we both have serious issues.  you can have 2 firewood if I can get 2 water
+
+### Human: I will give you some extra water package. But please give me the firewood.
+
+### Assistant: how much are we talkin' here?
+
+### Human: Can you help me to share your firewood?
+
+### Assistant: how about 1 wood, 2 water, 2 food for me?
+
+### Human: Submit-Deal
+
+### Assistant: Reject-Deal
+
+### Assistant: that's an unfair deal
+
+### Human: ok then you send me the deal

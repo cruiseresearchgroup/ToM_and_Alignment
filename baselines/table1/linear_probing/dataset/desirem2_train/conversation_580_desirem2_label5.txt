@@ -1,0 +1,27 @@
+### Human: Hello 🙂 What do you need most??
+
+### Assistant: I would say between firewood and food, eating and comfort is important to me
+
+### Human: I can understand that. I know I really need the food the most. I'm already worried I'm going to run out. I also have blood sugar problems, so I cannot run out ☹️
+
+### Assistant: Thats fine. If you want you can have 2 foods and I get 2 of the fire wood. Sounds fair?
+
+### Human: And I would take 3 water? 
+
+### Assistant: That would be a problem since I need the water too. I was hoping that since you got 2 foods ill get the 2 waters
+
+### Human: Ok, I totally get that. So give me your total breakdown. I get how much of what, and you get how much of what?
+
+### Assistant: So in total I would get 2 water, 2 fire wood, 1 food. 2 food 1 one of everything else 
+
+### Human: What if I take 1 more firewood, so I would have 2?
+
+### Assistant: I mean I would gladly trade a water and firewood for one of your extra food. 
+
+### Human: No, I really do need the food the most. Let's go back to your original deal? I'll take 2 foods, you get one. I'll take 1 water, 1 firewood, and you take the rest? Do I have that right?
+
+### Assistant: Yup
+
+### Human: Deal
+
+### Assistant: Submit-Deal

@@ -1,0 +1,23 @@
+### Assistant: Hi, I would like to have the water if you are ok with taking the firewood and food.
+
+### Human: I would also like water, but don't need as much food
+
+### Assistant: How about I take 2 water, 1 firewood, and 2 food?
+
+### Human: What about if I take 2 water, 1 firewood, and 0 food?
+
+### Assistant: Can I ask why you do not want food as much?
+
+### Human: I think i have quite some ways to forage in the forest if i need more food, but i'm worried that i won't have enough water to last the trip
+
+### Assistant: I understand. And why do you not need as much firewood?
+
+### Human: i'm pretty good at making fire, but could use a little extra. how about you?
+
+### Assistant: I'm not as good at making fire. I might need some extra.
+
+### Human: would it sound decent to go with the solution of 2 water for me, 2 firewood for you, and i'm fine if you want 3 food?
+
+### Assistant: I'm ok with that deal.
+
+### Human: Submit-Deal

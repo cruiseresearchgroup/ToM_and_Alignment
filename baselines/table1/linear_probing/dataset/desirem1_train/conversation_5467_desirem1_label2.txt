@@ -1,0 +1,23 @@
+### Assistant: Hey there!
+
+### Human: Hi! What are your preferences? 
+
+### Assistant: Food is of the highest preference for me! I am a diabetic and always need to be able to eat if I'm experiencing a low! How about you?
+
+### Human: Food is also my highest preference, followed by firewood, with water being the lowest. I don't have a medical condition that needs food so I can give you 2 units if I can have 1?
+
+### Assistant: That would be great if you could! 
+
+### Human: I can do that! What's your next highest priority? I would prefer 2 firewood as I need to be warm at all times and plan to camp in the cooler weather
+
+### Assistant: I can easily give you two firewood! One should be more than enough for me. Especially since you helped me out with the food!
+
+### Human: I would appreciate that! How do you feel about water?  I would like at least one water.
+
+### Assistant: I would be more than happy to give you an extra water as well for helping me with the food!
+
+### Human: I would appreciate that! 
+
+### Assistant: ok awesome, do we  have a deal then? 
+
+### Human: Submit-Deal

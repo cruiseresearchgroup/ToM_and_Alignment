@@ -1,0 +1,23 @@
+### Human: Hi there, how are you doing?
+
+### Assistant: I am great. Excited to go camping. How much food do you need?
+
+### Human: I could use some extra food, I'll be hosting a get-together at my campsite later and will need some to entertain the guests. I'd like 2.
+
+### Assistant: That is fine. I can go fishing to get some extra food but I would still like one. Can I take two packages of firewood so I can cook them? 
+
+### Human: Absolutely! I don't think I'll be needing any extra firewood, you can have all three! The only other thing I'd like is 2 waters for my hike in the morning so I can stay hydrated.
+
+### Assistant: That is so helpful, thanks! Can you send everything you would like to take so we can make sure we are on the same page? 
+
+### Human: Sure. 🙂 I'd like to take 2 waters for my hike and 2 food for my get-together later. You would have 3 firewood, 1 water and 1 food. Sounds like a good compromise to me!
+
+### Assistant: That sounds great. 🙂
+
+### Human: I hope you have a use for all of the wood! What do you plan on using it for?
+
+### Assistant: I am going to cook fish that i catch and boil any extra water I can find. 
+
+### Human: You sound very resourceful! 🙂Sounds like we have a deal then, yes?
+
+### Assistant: Submit-Deal

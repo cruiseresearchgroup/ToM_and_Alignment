@@ -1,0 +1,23 @@
+### Human: Hi. I'm so excited to go on this camping trip. I will be going with my kids. How about you 🙂
+
+### Assistant: Hello! I am excited to go on this camping trip too! My kids convinced me to let their friends come so we have an extra person. I am a push over. 🙂
+
+### Human: Lol. That's nice. My kids have been looking forward to hiking during the camping and I would love them to have the best of it. So I will be needing more water due to dehydrated
+
+### Assistant: I see. There are no fresh streams anywhere nearby to run through my filter either. I would like to have at least one extra water for my group. 
+
+### Human: That's not an issue. I can spare one extra water for your group. My kids will be glad they got 2 extra water for the trip. 
+
+### Assistant: Alrighty, sound good on the water front. I would like all the food since to feed my extra guest. I am not great at hunting.
+
+### Human: No problem about the food. My kids don't really eat much so I won't be needing any extra food. 
+
+### Assistant: Okay! :) How would you like to split up the firewood? 
+
+### Human: Since you will be taking all the food , it would be fair if I get all the firewood. Remember I have kids who get cold easily. This will ensure they keep warm and stay healthy during the camping. 
+
+### Assistant: I understand and I want you and your family to stay warm. I can give you two firewood as I would need at least one to cook the extra food. I can't just feed my kidsuncooked food.
+
+### Human: That's understandable then. You can have 1 extra firewood. I will be good with 2 firewood
+
+### Assistant: Submit-Deal

@@ -1,0 +1,23 @@
+### Human: Hi!  I am pregnant and eating more than my usual and want to secure enough food for camping.  I would like to take 3 foods and 2 waters to hydrate after eating; then you can take all of the firewood?
+
+### Assistant: Hi, I have a huge group coming that will also be very hungry hungry and thirsty. maybe we could split a little more evenly
+
+### Human: What would you propose?  Perhaps even a chance your group can bring some extra supplies too!
+
+### Assistant: Maybe you could have 2 food, 1 water, and 2 firewood
+
+### Human: I really want to secure I'm hydrating appropriately - I tell you, pregnancy swelling is the real deal!  How about I take 2 food and 2 water and 1 firewood?
+
+### Assistant: My group could get by although it would be tough since there's so many people, on 1 food, 1 water, and 3 firewood
+
+### Human: What do you think will be most important and essential to sustain your group?
+
+### Assistant: food and water
+
+### Human: Tough - those are what I find is most essential for my health right now too.  Do you have a stronger need for food or water for the group?  ☹️
+
+### Assistant: i'd like food more than water, though I'm willing to give you the majority of both. Just 1 food and 1 water for me if I have 3 firewood
+
+### Human: You know what, I would be okay with that.  Giving 1 food and 1 water along with all of the firewood.  I will then keep 2 food and 2 waters.  
+
+### Assistant: Submit-Deal

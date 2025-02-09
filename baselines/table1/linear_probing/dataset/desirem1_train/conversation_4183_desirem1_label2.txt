@@ -1,0 +1,55 @@
+### Human: hello, I need plenty of food, I have lots of friends we are camping together.
+
+### Assistant: bro i need aslo food, it is  my first priority
+
+### Human: what is is your second item in your priority list?
+
+### Assistant: firewood
+
+### Human: what/ we have same priority items, how do we split this to ensure equitably 
+
+### Assistant: 2 food , 1 firewood ,2 water for me is it ok?
+
+### Human: not fair at all☹️
+
+### Assistant: then what will do, 
+
+### Human: if you take two food, then I take all the wood and two two water and one food
+
+### Assistant: no then u have to give 3 food for me
+
+### Human: I can have two food then and one wood and you can have the rest of the items
+
+### Assistant: bro make it 3 food for me, u can take 3 fire wood  give me to water
+
+### Human: you are not being fair, bare in mind we have same priority, so if you take all the food you have to give me the wood and water, or you can take all the wood and water and give me the food
+
+### Assistant: you also not fare,you also not  ready to give a give offer, give me 3 food , remaining one firewood one water 3 1 1
+
+### Human: no, I think I will just walk away
+
+### Assistant: bro u also not offer a good deal
+
+### Human: one food, three wood.
+
+### Assistant: bro it is not a fair deal give me 2 food, one firewood 2 water
+
+### Human: if you think I am not being fair can I have what you are asking for?
+
+### Assistant: you told me i not fair that why i told you are not fare,3 food for me  will give 3 firewood for me, give 2 water for me, other we can end the deal and both we can forget the bonus
+
+### Human: ok
+
+### Assistant: then what will do ? if you ok for 3 food for me , 3 firefor you, 2 water for me , for this deal we can go forward?
+
+### Human: of course not. you just took all the priority items and you still want two water. I am going to make the last offer. you take two food and two water, I take one food, three wood and aone water. 
+
+### Assistant: bro  make food as 3 and send me offer on that box
+
+### Human: Submit-Deal
+
+### Assistant: Reject-Deal
+
+### Assistant: Submit-Deal
+
+### Human: Reject-Deal

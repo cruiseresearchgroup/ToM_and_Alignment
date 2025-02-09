@@ -1,0 +1,23 @@
+### Assistant: Hi, I hope you are doing great! I would like to take all the water packages, 2 firewood and a food package
+
+### Human: I am also looking for water so unfortunately i wouldn't be able to give you all three. Would you take 1 water, 1 food and 3 firewood?
+
+### Assistant: No I'm not okay with this, I need 3 water  2 firewood and 1 food, I sure need them during the camp, what about 0 water 1 firewood and 2 food?
+
+### Human: I really need water for my family so I can't give all three. I am offering you 5 items while you are offering 3 so I don't think that is a very good deal 
+
+### Assistant: Even I'm bring my family for the camp, so I need all three, you can take two food for your family and 1 firewood, i think you can accept this deal?
+
+### Human: I can not accept that deal. I will do 1 water, 1 food and all three firewood. I could also do 1 water 2 food and 1 firewood 
+
+### Assistant: Since you are coming down I would like to go with this deal hope you will be okay, 2 water ,1 food and 2 firewood for me and 1 water 2 food and 1 firewood
+
+### Human: sure that is fie
+
+### Assistant: Lastly can you give me three water ? 
+
+### Human: no
+
+### Assistant: you can still consider the water which is very necessary for me can you please? I would be so happy for that
+
+### Human: Submit-Deal

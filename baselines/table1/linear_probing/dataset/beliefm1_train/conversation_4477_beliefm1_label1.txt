@@ -1,0 +1,23 @@
+### Assistant: Hello
+
+### Human: hello, so what is your most important thing that you want? 
+
+### Assistant: my priority is firewood. What's yours?
+
+### Human: me and my gals thing that firewood is important also but we actually want water
+
+### Assistant: We can figure something out. Would you rather have 3 water and 0 firewood or 2 water and 1 firewood?
+
+### Human: can i have 2 foods too
+
+### Assistant: If I can have all the firewood...
+
+### Human: i am giving you one firewood
+
+### Assistant: That doesn't work for me. I propose you get 2 water and one firewood and 2 food.
+
+### Human: so you would get 2 firewood, 1 water and 1 food
+
+### Assistant: yes
+
+### Human: okay no problem

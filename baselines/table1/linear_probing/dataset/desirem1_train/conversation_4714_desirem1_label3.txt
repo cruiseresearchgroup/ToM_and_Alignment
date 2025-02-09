@@ -1,0 +1,27 @@
+### Human: Hello
+
+### Assistant: Hello,
+
+### Human: Is there anything you would be willing to part with?
+
+### Assistant: I'd be willing to part with 2 of the waters.  I don't think that it's going to be that hot, and I don't really like drinking water.
+
+### Human: Hmm. I would be willing to trade you two packages of food for one water and one firewood.
+
+### Assistant: Do you mean that I would get 2 firewood, 2 food, and 2 firewood??
+
+### Human: In exchange of two of my food packages for one of your waters and one of your foods, you would then have 5 foods, 2 waters, and 2 firewoods.
+
+### Assistant: That doesn't work.  There are only a total of 3 firewood, 3 food, and 3 water.  Can I have 2 food, 2 firewood, and 1 water?
+
+### Human: I suppose I misread the instructions, or they were not very clear, I had read them as we each had 3 packages each of the 3 items. 
+
+### Assistant: We each have basic camping supplies.  We need to split the additional 3 firewood, 3 food, and 3 water.  What supplies do you want the most?
+
+### Human: OK. I would much prefer the firewood.
+
+### Assistant: I also want firewood, but I'll give up some for additional food.  Can I have 1 firewood, 3 food, and 1 water?
+
+### Human: I'm good with that, I'd rather carry wood than food.
+
+### Assistant: Submit-Deal

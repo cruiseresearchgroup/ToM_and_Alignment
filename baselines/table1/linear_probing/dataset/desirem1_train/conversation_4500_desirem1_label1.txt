@@ -1,0 +1,23 @@
+### Human: Hello, I am very cold and need food and wood to remain warm. How about I get 3 firewood, 3 food and 1 water?
+
+### Assistant: That doesn't really work for me because then I would get only 2 waters and nothing else ☹️. What do you think is your highest priority?
+
+### Human: Wood is my highest priority. I need it to stay warm. I'm very cold-natured. What is your highest priority? 🙂
+
+### Assistant: Oh that's good. Wood is not my highest priority since I get hot easily lol. My highest priority is probably food because I have a very high metabolism and get very hungry
+
+### Human: I understand that. I also need food though, because I need the sustenance to help warm me up. So maybe 3 firewood 1 food and 2 waters for me?
+
+### Assistant: I still don't think that is too fair though, since you would be getting 6/9 of the extra items and I would only be getting 3... I'm not an avid camper so I need extra amenities to make sure I survive haha. I am flexible on the water though - maybe we can compromise there. I am fine with you having all of the wood. Maybe we could give you 3 firewood, 1 food, and 1 water?
+
+### Human: That sounds very fair to me. Thank you for being understanding. 🙂
+
+### Assistant: Definitely! I am glad we could come to an agreement. Do you like to camp a lot? Or hike?
+
+### Human: I love to camp! Especially when there is enough firewood! It is a great (and inexpensive) activity for me I get a lot of enjoyment out of. Hopefully you will become an avid camper after this trip!
+
+### Assistant: Haha maybe! I am afraid of some bugs though, especially ticks 😮
+
+### Human: Yes, you have to check EVERYWHERE for ticks! And since we've come to an agreement, I will submit our deal!
+
+### Assistant: Submit-Deal

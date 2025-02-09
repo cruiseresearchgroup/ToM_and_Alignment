@@ -1,0 +1,23 @@
+### Assistant: Hello. I would like 2 of the firewood bundles, 2 of the food and one of the water. You can have the rest. 
+
+### Human: Hello I need 2 fire wood and you can have 2 food and 2 water
+
+### Assistant: I can have the other firewood. It gets very cold at night, so I really need some extra firewood. 
+
+### Human: I can give you 3 firewood if you give me 3 food and 2 water
+
+### Assistant: I do need some extra food, as we will be hiking a lot. What about I get 3 firewood, you get 2 food and 3 water? 
+
+### Human: i cannot sorry
+
+### Assistant: Why not? 
+
+### Human: I need 3 food if i give 3 wood
+
+### Assistant: Like I said, I need some food or we will have a terrible trip. 
+
+### Human: ok i will give you 2 firewood for 2 food and 2 water 
+
+### Assistant: Just to be clear, your offer is I get 2 firewood and 1 food and 1 water and you get one firewood and 2 food and 2 water?
+
+### Human: yes
