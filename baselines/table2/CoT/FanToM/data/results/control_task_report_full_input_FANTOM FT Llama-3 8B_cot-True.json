@@ -1,0 +1,29 @@
+{
+    "model": "FANTOM FT Llama-3 8B",
+    "conversation_input_type": "full",
+    "accessible:set:ALL*": 7.1,
+    "accessible:set:ALL": 9.5,
+    "accessible:belief:multiple-choice": 44.3,
+    "accessible:belief:distance": 80.2,
+    "accessible:belief_true_word-f1": 52.2,
+    "accessible:answerability:set:ALL": 23.3,
+    "accessible:answerability:list": 39.5,
+    "accessible:answerability:binary-f1": 89.0,
+    "accessible:info_accessibility:set:ALL": 32.6,
+    "accessible:info_accessibility:list": 44.2,
+    "accessible:info_accessibility:binary-f1": 89.0,
+    "fact_word-f1": 56.3,
+    "accessible:tom:lists:wrong_reasons:freq": {
+        "excluded_aware_character": 26
+    },
+    "accessible:tom:binary:wrong_reasons:freq": {
+        "false_negative": 57
+    },
+    "accessible:first-order": 76.4,
+    "accessible:second-order": 83.2,
+    "accessible:second-order:accessible": 83.7,
+    "accessible:second-order:acyclic": 75.0,
+    "accessible:second-order:cyclic": 80.0,
+    "accessible:set:ALL_character": 51.2,
+    "accessible:set:character_answer_consistency": 86.3
+}

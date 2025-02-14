@@ -1,0 +1,30 @@
+{
+    "model": "gpt-4o-mini",
+    "conversation_input_type": "full",
+    "accessible:set:ALL*": 0.0,
+    "accessible:set:ALL": 0.0,
+    "accessible:belief:multiple-choice": 0.0,
+    "accessible:belief:distance": 95.8,
+    "accessible:belief_true_word-f1": 36.8,
+    "accessible:answerability:set:ALL": 30.2,
+    "accessible:answerability:list": 65.10000000000001,
+    "accessible:answerability:binary-f1": 81.0,
+    "accessible:info_accessibility:set:ALL": 69.8,
+    "accessible:info_accessibility:list": 83.7,
+    "accessible:info_accessibility:binary-f1": 96.5,
+    "fact_word-f1": 39.900000000000006,
+    "accessible:tom:lists:wrong_reasons:freq": {
+        "excluded_aware_character": 15
+    },
+    "accessible:tom:binary:wrong_reasons:freq": {
+        "false_negative": 54,
+        "irrelevant_response": 1
+    },
+    "accessible:first-order": 94.39999999999999,
+    "accessible:second-order": 96.8,
+    "accessible:second-order:accessible": 96.5,
+    "accessible:second-order:acyclic": 100.0,
+    "accessible:second-order:cyclic": 100.0,
+    "accessible:set:ALL_character": 24.8,
+    "accessible:set:character_answer_consistency": 63.0
+}
