@@ -1,6 +1,21 @@
 # Theory of Mind for Large Language Model Alignment
 
-This implementation is adopted from the [LatentQA](https://github.com/aypan17/latentqa/tree/main) repository, with modifications to investigate the presence and consistency of Theory of Mind (ToM) in Large Language Models (LLMs).
+Welcome to the official repository for our paper:  
+**"Beyond Words: Integrating Theory of Mind into Conversational Agents for Human-Like Belief, Desire, and Intention Alignment"**  
+Published in **Findings of ACL 2025**.
+
+## Abstract
+
+`Natural language interaction has long served as the primary medium through which humans exchange thoughts. A key enabler of this communication is the human capacity for Theory of Mind (ToM)—the ability to infer and align with the mental states of others. Research in linguistics and psychology has shown that speakers often reveal their desires, beliefs, and intentions through pragmatic aspects of language. Considering the advancements in natural language generation and perception that large language models (LLMs) have made in recent years, a critical question arises in relation to ToM: can LLM-powered agents develop similar abilities for inferring mental states during natural language communication? This study investigates the extent to which open-source LLaMA models can represent and retain ToM-related constructs, and whether these internal representations contribute to a coherent mental state modeling in a given conversation. Additionally, we explore the potential for manipulating ToM-related information to generate more aligned responses. Empirical evaluations of LLaMA-3 models (3B and 8B) demonstrate that ToM-informed alignment improves response quality, achieving win rates of 63% and 67%, respectively. These findings suggest that integrating ToM principles can enhance alignment in LLM-based conversational agents.`
+
+## About This Repository
+
+This repository contains the implementation that supports our paper on Finding of ACL 2025. It builds upon the foundation of the [LatentQA](https://github.com/aypan17/latentqa/tree/main) repository, incorporating key modifications designed to analyze and evaluate the presence and consistency of ToM representations in LLMs. Additionally, it utilizes these representations to guide the LLM.
+
+
+## Citation
+
+Coming soon upon release.
 
 ## Dataset Preparation
 
